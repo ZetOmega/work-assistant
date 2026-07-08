@@ -14,5 +14,5 @@ ERP (Chefsache mit Eric) · App smartvélo · neue Stelle ausgeschrieben · Werb
 30.06 „OBS weiter nerven + Odoo-Hotline anrufen“
 
 ## Offen / wartet auf
-Antwort auf ERP-Mail (29.06, OBS-Angebot) — Philipp hat 06.07 per Mail erinnert · Antwort bzgl. HIGH Business (To-Do 06.07) · Drucker-Go · Freigabe Werbemails + Zielfirmen · Überstunden-Gespräch
+Antwort auf ERP-Mail (29.06, OBS-Angebot) — Philipp hat 06.07 per Mail erinnert · Antwort bzgl. HIGH Business (To-Do 06.07) · Drucker-Go · Freigabe Werbemails + Zielfirmen
 Nächstes 1:1: Mo 13.07, 08:45
