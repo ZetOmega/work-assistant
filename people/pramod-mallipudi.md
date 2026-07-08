@@ -1,5 +1,5 @@
 # Pramod Mallipudi
 Rolle: (Rolle offen) · E-Mail: pramod@smart-velo.com · Status: aktiv
 
-## Notizen
-Bonamic-Vertrag sollte ~03.07 ausgelaufen sein → neuen über HIGH; prüfen, ob Nummer noch aktiv (Nummernverlust-Risiko!).
+## Aktuelle Themen
+**Seit ~07.07 ohne Netz**: Bonamic-Vertrag war gekündigt (ausgelaufen ~03.07), Umzug versäumt. Anna empfiehlt neuen Vertrag + neue Nummer über mobilezone → alte Nummer vmtl. verloren.

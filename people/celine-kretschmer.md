@@ -8,6 +8,7 @@ Orga-/HR-Drehscheibe: Onboarding, Feedbackgespräche (Personio), Team-Kommunikat
 o2-Rechnung/Kundenkennzahl raussuchen · Rufnummern-Thema von Anna weitergegeben
 
 ## Letzte Aktionen
+07.07 „WG: Issue with mobile service“ weitergeleitet („Da kommt der nächste…“) — weiterer Mobilfunk-Störfall im Team
 06.07 „Aufgabe von Anna“ (Deine Rufnummer) weitergeleitet
 29.06 Handywechsel → neuer eSIM-QR
 
