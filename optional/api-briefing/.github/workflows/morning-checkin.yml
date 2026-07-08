@@ -1,0 +1,38 @@
+# Morgen-Briefing: läuft werktags automatisch, kann auch manuell gestartet werden.
+# ACHTUNG Cron ist UTC: "30 5" = 07:30 deutscher Sommerzeit (CEST) / 06:30 Winterzeit (CET).
+# Im Winter auf "30 6" stellen, wenn es 07:30 bleiben soll.
+name: Morning Check-in
+
+on:
+  schedule:
+    - cron: "30 5 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  checkin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Run check-in + send briefing
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SMARTVELO_MCP_TOKEN: ${{ secrets.SMARTVELO_MCP_TOKEN }}
+        run: python scripts/morning_checkin.py
+
+      - name: Commit updated STATUS + journal
+        run: |
+          git config user.name "checkin-bot"
+          git config user.email "checkin-bot@smart-velo.com"
+          git add -A
+          git commit -m "checkin: $(date +%F)" || echo "nichts zu committen"
+          git push
