@@ -18,15 +18,21 @@ Optional lokal automatisieren (weiterhin Abo):
     30 7 * * 1-5  cd $HOME/repos/smartvelo-memory && claude -p "check-in" >> $HOME/checkin.log 2>&1
     # Vorher einmal manuell testen; Permission-Verhalten je Claude-Code-Version prüfen.
 
-## 3. Morgen-Briefing (Push in die Claude-App)
-Scheduled Task in der App anlegen (werktags ~07:30), beide Connectoren aktivieren,
-Prompt aus docs/scheduled-task-prompt.md einfügen. Fertig.
+## 3. Morgen-Briefing — verworfen (Stand 09.07.2026)
+Kein Auto-Task mehr. Grund: die Art Check-in, die gebraucht wird (Repo-Kontext aus
+people/topics mit Live-Kalender/Mail/Todos/Teams verbinden, Todos mit Begründung
+schließen vorschlagen), braucht gleichzeitig Repo-Schreibzugriff UND den interaktiven
+MCP-Login — das gibt es nur in einer Claude-Code-Session, die man selbst öffnet.
+Automatisierte Trigger/Scheduled Tasks haben entweder kein Repo (App-Task) oder keinen
+MCP-Zugriff (Cron/Routine, da Microsoft 365 interaktiv-authentifiziert ist — siehe
+docs/scheduled-task-prompt.md für die Details der beiden gescheiterten Versuche).
+→ Check-in läuft ausschließlich manuell: Claude Code öffnen, "check-in" tippen.
 
 ## 4. Arbeitsteilung
-- Scheduled Task  = tägliches Briefing (Push, nur lesen)
-- Claude Code     = Gedächtnis-/Panel-Pflege im Repo (STATUS.md = dein Panel)
-- Claude.ai-Chat  = Adhoc-Arbeit mit MCP (Mails, PDFs, Recherche)
+- Claude Code     = einziger Weg für den vollen Check-in (Repo + Live-MCP zusammen)
+- Claude.ai-Chat  = Adhoc-Arbeit mit MCP (Mails, PDFs, Recherche), ohne Repo-Bezug
 
 ## 5. optional/api-briefing/
-GitHub-Action-Variante des Briefings über die Anthropic API (kostet API-Guthaben).
-NUR relevant, falls du das Briefing später serverseitig ohne App/Rechner willst. Aktuell ignorieren.
+GitHub-Action-Variante des Briefings über die Anthropic API (kostet API-Guthaben) —
+ungetestet, unbenutzt. Gleiche MCP-Einschränkung würde hier nicht greifen (eigener
+Graph-Zugriff per Refresh-Token statt Connector), aber nicht aufgesetzt. Ignorieren.
