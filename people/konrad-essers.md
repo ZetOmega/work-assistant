@@ -8,11 +8,12 @@ Chef & Haupt-Entscheider. Kennt den mobilezone-CEO „gut“. Setzt Tempo, verpa
 ERP (Chefsache mit Eric) · App smartvélo · neue Stelle ausgeschrieben · Werbe-/Event-Kampagne
 
 ## Letzte Aktionen
+09.07 Entscheidung: will alles zu Bonamic migrieren — umgeht damit den HIGH/mobilezone-Business-Stopp (Details offen, s. topics/mobilfunk.md)
 08.07 Zweiter Claude-Account ist gekauft ✅ (Go von Konrad 07.07, 200 €/Mon)
 07.07 Call stattgefunden; Konrad wollte Jobvalley-Dev-Link (dev-fleet.smartvelo-mobility.com) sehen
 07.07 Call-Agenda gesetzt: deine Themen / App / ERP next steps / neue Stelle
 30.06 „OBS weiter nerven + Odoo-Hotline anrufen“
 
 ## Offen / wartet auf
-Antwort auf ERP-Mail (29.06, OBS-Angebot) — Philipp hat 06.07 per Mail erinnert · Antwort bzgl. HIGH Business (To-Do 06.07) · Drucker-Go · Freigabe Werbemails + Zielfirmen
+Antwort auf ERP-Mail (29.06, OBS-Angebot) — Philipp hat 06.07 per Mail erinnert · Drucker-Go · Klärung was genau bei Bonamic-Migration mitgehen soll (bevor Jeannette angeschrieben wird)
 Nächstes 1:1: Mo 13.07, 08:45
