@@ -16,7 +16,6 @@
 - [ ] Konrad Antwort bzgl. HIGH Business
 - [ ] Jokubas anrufen
 - [ ] Pipedrive automatic email, WhatsApp
-- [x] ~~Werbemails raus — Celine fragen ob so gut~~ → **wirkt erledigt**: Mailing ist raus, mit Celine im laufenden Austausch (09.07). Vorschlag: in MS To-Do abschließen — Go?
 
 ## 🔵 Extern / wartet auf andere
 - [ ] Jeannette (Bonamic) → noch nicht angeschrieben (Vertragsliste + Portierung, Robert läuft 20.07 aus!)
