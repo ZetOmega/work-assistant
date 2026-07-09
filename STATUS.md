@@ -9,7 +9,7 @@
 - [ ] Drucker: Modell-Go → dann sofort bestellen
 - [ ] Überstunden-Thema (optional)
 
-## 🟡 Ich (Philipp) — laut Microsoft To-Do (7 offen)
+## 🟡 Ich (Philipp) — laut Microsoft To-Do (6 offen)
 - [ ] SharePoint-Restrukturierung: Ideen — **überfällig seit 01.07**
 - [ ] Wissensdatenbank/Video-Anleitung Service — fällig 30.07
 - [ ] Telefonnummern Verträge (Plan: Simon-Übernahme → Georgina melden · mit Celine aufräumen · Bonamic anschreiben — noch nicht umgesetzt)
