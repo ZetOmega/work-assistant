@@ -1,32 +1,36 @@
-# STATUS — Stand Di 07.07.2026 (nach Konrad-Meeting ggf. aktualisieren)
+# STATUS — Stand Do 09.07.2026, 12:40 Uhr
+
+## 🔥 Akut heute
+- [ ] Werbemail-Kampagne läuft (raus seit heute) — **cosma@ hat keine Zugangsdaten**: falls Interessenten antworten, antwortet niemand → vor echten Rückläufern klären
+- [ ] Klimageräte: Vor-Ort-Termin heute geplatzt (niemand da) — mit Celine klären ob morgen (10.07)
 
 ## 🔴 Wartet auf Konrad (Blocker)
-- [ ] ERP: Antwort/Entscheidungen auf Philipps Mail vom 29.06 (OBS-Angebot 4.551,75 €) → Meeting Di 07.07
+- [ ] ERP: Antwort/Entscheidungen auf OBS-Angebot (29.06, 4.551,75 €) — trotz Erinnerung 06.07 weiter offen
 - [ ] Drucker: Modell-Go → dann sofort bestellen
-- [ ] Werbemails (Event): Freigabe + Zielfirmen
-- [ ] (optional) Überstunden-Thema ansprechen
+- [ ] Überstunden-Thema (optional)
 
-## 🟡 Ich (Philipp)
-- [ ] Bonamic: Vertragsliste + Portierungsdaten bei Jeannette Hilcke anfordern (Robert läuft 20.07 aus!)
-- [ ] Georgina antworten: +49 174 8860330 ist keine HIGH-Nummer (vmtl. Bonamic)
-- [ ] OBS anrufen + Odoo-Hotline (nach Konrad-Meeting, mit dessen Entscheidungen)
-- [ ] SharePoint-Restrukturierung: Ideen (überfällig seit 01.07 → Eric-1:1 Di 13:45)
-- [ ] Klimageräte neu lösen (Hornbach-Bestellung geplatzt, beide Midea PortaSplit nicht lieferbar)
-- [ ] Wissensdatenbank/Video-Anleitung Service (fällig 30.07)
-- [ ] „lukas claude fix“ · „Werbemails raus“ (hängt an Konrad-Freigabe)
+## 🟡 Ich (Philipp) — laut Microsoft To-Do (7 offen)
+- [ ] SharePoint-Restrukturierung: Ideen — **überfällig seit 01.07**
+- [ ] Wissensdatenbank/Video-Anleitung Service — fällig 30.07
+- [ ] Telefonnummern Verträge (Plan: Simon-Übernahme → Georgina melden · mit Celine aufräumen · Bonamic anschreiben — noch nicht umgesetzt)
+- [ ] Konrad Antwort bzgl. HIGH Business
+- [ ] Jokubas anrufen
+- [ ] Pipedrive automatic email, WhatsApp
+- [x] ~~Werbemails raus — Celine fragen ob so gut~~ → **wirkt erledigt**: Mailing ist raus, mit Celine im laufenden Austausch (09.07). Vorschlag: in MS To-Do abschließen — Go?
 
 ## 🔵 Extern / wartet auf andere
-- [ ] Celine → o2-Rechnung/Kundenkennzahl (Kündigung ist raus; nur noch für Unterlagen)
-- [ ] Jeannette (Bonamic) → Vertragsliste (sobald angefragt)
+- [ ] Jeannette (Bonamic) → noch nicht angeschrieben (Vertragsliste + Portierung, Robert läuft 20.07 aus!)
 - [ ] Robert → Liste der Nicht-HIGH-Verträge
-- [ ] NetCologne → 509-Anschluss Nachtermin **Mo 13.07** (oben fertig machen, Werkstatt vorbereiten)
-- [ ] Georgina/mobilezone → konkreter Stichtag Firmenverträge-Stopp (ab Dez. 2026)
+- [ ] Anna/Buchhaltung → Antwort auf Philipps Stunden-Gegenrechnung (38,87 h, seit 07.07 offen)
+- [ ] NetCologne → 509-Anschluss Nachtermin **Mo 13.07**
+- [ ] Georgina/mobilezone → Stichtag Firmenverträge-Stopp (ab Dez. 2026) + wartet auf Philipps Rufnummern-Abgleich
 
-## 📅 Diese Woche
-- Di 07.07 · Konrad-Meeting (ERP/App/neue Stelle) · 13:45 Eric-1:1 · Jobvalley
-- Mi 08.07 · Jobvalley · 14:00 Papaya Weekly (vorläufig)
-- Mo 13.07 · NetCologne-Techniker 509
+## 📅 Nächste Termine
+- Do 09.07 · 13:00–14:30 Blocker Philipp x Eric (Claude-Projekte + ERP)
+- Fr 10.07 · 09:00 Papaya x SMARTVÉLO Weekly (neu, mit Robert+Lukas+Arianna)
+- Mo 13.07 · 06:00–10:00 NetCologne 509 · 06:45 Konrad x Philipp · 10:00 Weekly Büro Köln
 
 ## ✅ Zuletzt erledigt
-- o2-Festnetz (0221 67813736, 53,49 €/Mon) gekündigt · Claude-Workshops + Halbjahresgespräch (30.06) ·
-  515-Anschluss läuft · SIM-Tracker erstellt · Mobilfunk-Anforderungsliste für Konrads CEO-Gespräch steht
+- Zweiter Claude-Account gekauft (Go von Konrad) · Jobvalley-Protokolle an Robert nachgeliefert ·
+  Mechaniker↔Hub-Zuteilungsliste von Eric erhalten · OKAWA-Report-Bug (Lukas) behoben ·
+  To-Dos „Überstunden→Anna“ + „lukas claude fix“ abgehakt · Christian Müller ausscheidend, Nummer an Simon

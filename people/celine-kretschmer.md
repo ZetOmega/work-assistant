@@ -5,12 +5,12 @@ Rolle: Executive Assistant / HR · E-Mail: celine@smart-velo.com · Tel: 0151 53
 Orga-/HR-Drehscheibe: Onboarding, Feedbackgespräche (Personio), Team-Kommunikation, Handy-/eSIM-Liaison. Hat die Team-Rufnummern eingespeichert → Referenz fürs Aufräumen der Nummern-Liste.
 
 ## Aktuelle Themen
-Gespräch mit Philipp geplant: restliche Rufnummern klären/aufräumen (Abgleich mit Georginas Liste) · o2-Rechnung/Kundenkennzahl raussuchen
+Werbemails-Kampagne läuft, gemeinsam im Blick (Bounces, Tempo, cosma-Zugang fehlt noch) · Klimageräte-Termin geplatzt · restliche Rufnummern klären (mit Georginas Liste abgleichen) · o2-Rechnung/Kundenkennzahl raussuchen
 
 ## Letzte Aktionen
-07.07 „WG: Issue with mobile service“ weitergeleitet („Da kommt der nächste…“) — weiterer Mobilfunk-Störfall im Team
-06.07 „Aufgabe von Anna“ (Deine Rufnummer) weitergeleitet
-29.06 Handywechsel → neuer eSIM-QR
+09.07 Werbemail-Versand live mitverfolgt: fragt nach Status, Philipp meldet Tempo/Bounces/cosma-Zugangslücke
+09.07 Klimageräte-Vor-Ort-Termin geplatzt (niemand da) — Philipp fragt nach Verschiebung auf morgen
+07.07 „WG: Issue with mobile service“ weitergeleitet — weiterer Mobilfunk-Störfall im Team
 
 ## Offen / wartet auf
-o2-Rechnung/Kundenkennzahl liefern (nur noch für Unterlagen, Kündigung ist raus)
+o2-Rechnung/Kundenkennzahl liefern (nur noch für Unterlagen, Kündigung ist raus) · Rufnummern-Aufräum-Gespräch mit Philipp noch nicht terminiert
