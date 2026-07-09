@@ -1,25 +1,16 @@
-# Scheduled Task: Morgen-Briefing (Claude-App, werktags ~07:30)
+# Routine: Morgen-Check-in (werktags 08:00, an CC-Session gebunden)
 
-Beim Anlegen des geplanten Tasks BEIDE Connectoren aktivieren
-(Microsoft 365 + Microsoft-Controller-SMARTVELO).
-Der Task startet ohne Chat-Kontext — dieser Prompt ist deshalb self-contained.
+Aktive Variante: Claude-Code-Routine `smartvelo-morning-checkin` (trig_01LZsSxPj2C99pYG7ScepbYk),
+feuert in die persistente Session mit verbundenen MCPs (frische Sessions haben keine MCP-Auth!).
 
---- PROMPT (ab hier kopieren) ---
+Prüfumfang — ALLES, keine Ausschnitte:
+1. Echte Zeit zuerst (outlook_find_available_time, nowDateTime maßgeblich).
+2. Kalender 7 Tage.
+3. ALLE offenen To-Dos (Standardliste, $top=100, überfällige markieren).
+4. ALLE Mails: Inbox seit gestern ~17 Uhr + Sent-Abgleich.
+5. ALLE Teams-Chats mit neuen Nachrichten (1:1 UND Gruppen/Meetings), nicht nur Konrad.
+6. Output: ☀️ Heute · Termine · Top-3 · To-Dos · Mail-/Chat-Aktionen · Blocker.
+7. Repo pflegen: STATUS.md · people/ · topics/ · journal/ · commit + push.
 
-Morgen-Check-in smartvélo (Philipp Klei, philipp@smart-velo.com):
-
-1. Hole ZUERST die echte Zeit: outlook_find_available_time → nowDateTime ist maßgeblich, nichts annehmen.
-2. Kalender heute + morgen (list_calendar_events, days=2).
-3. Offene To-Dos: graph_request GET
-   /me/todo/lists/AQMkADRjZWJmNzY5LTg4AGNhLTRlZmEtOGEyYS0yN2EwYzcwZmU1MTkALgAAA6R08GlsPYdLv4WCEQ32ZoMBAAZslv-uyBJMk_m5ZC2bXikAAAIBEgAAAA==/tasks?$top=100
-   → nur status ≠ completed, überfällige markieren.
-4. list_recent_mail (15) → nur aktionsbedürftige Mails seit gestern ~17 Uhr.
-5. Teams-1:1 mit Konrad Essers auf neue Nachrichten prüfen.
-
-Ausgabe kurz & locker (Du-Form):
-☀️ Heute (Datum) · Termine mit Uhrzeit · Top-3-Prioritäten · fällige/überfällige To-Dos ·
-Mails/Chats mit Handlungsbedarf · Blocker (wer schuldet was).
-
-Wichtig: KEINE To-Do-Änderungen, keine Mails/Nachrichten senden — nur lesen und berichten.
-
---- ENDE PROMPT ---
+Read-only nach außen: keine Mails/Nachrichten senden, keine Termine ändern.
+To-Do-Änderungen nur nach Bestätigung.
