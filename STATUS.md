@@ -1,35 +1,45 @@
-# STATUS — Stand Do 09.07.2026, 12:40 Uhr
+# STATUS — Stand Di 14.07.2026, 08:20 Uhr
 
-## 🔥 Akut heute
-- [ ] Werbemail-Kampagne läuft (raus seit heute) — **cosma@ hat keine Zugangsdaten**: falls Interessenten antworten, antwortet niemand → vor echten Rückläufern klären
-- [ ] Klimageräte: Vor-Ort-Termin heute geplatzt (niemand da) — mit Celine klären ob morgen (10.07)
-- [ ] **Konrad: „alles zu Bonamic migrieren“** — Details mit ihm klären, bevor Jeannette angeschrieben wird (s. topics/mobilfunk.md)
+## 🔴 Rückmeldung von Konrad gebraucht
+- [ ] **Überstunden → Urlaubstage**: Buchhaltung hat 13.07 zugestimmt (38,87 h), wartet nur noch auf Konrads Ok
+- [ ] ERP/OBS: nach den heutigen Terminen (12:15 OBS + 14:00 Odoo-Demo) Ergebnis/Go mit ihm abgleichen
+- [ ] Mobilfunk→Bonamic: sobald mit Jeannette Kontakt aufgenommen, ggf. Rückfragen zu Umfang/Timing klären
 
-## 🔴 Wartet auf Konrad (Blocker)
-- [ ] ERP: Antwort/Entscheidungen auf OBS-Angebot (29.06, 4.551,75 €) — trotz Erinnerung 06.07 weiter offen
-- [ ] Drucker: Modell-Go → dann sofort bestellen
-- [ ] Überstunden-Thema (optional)
+## ✅ Von Konrad bereits erledigt
+- Drucker: Go für Kyocera Ecosys PA2101cwx (13.07) → an Celine zur Bestellung weitergegeben
+- Mobilfunk: Entscheidung final — alles zu Bonamic migrieren (14.07)
 
-## 🟡 Ich (Philipp) — laut Microsoft To-Do (5 offen)
+## 🔥 Heute
+- 12:15–13:30 OBS Solutions Termin
+- 13:30–13:45 Personio aufräumen (eigener Block)
+- 14:00–15:30 Odoo-Demo mit Carina Schuch
+
+## 🟡 Ich (Philipp) — laut Microsoft To-Do (6 offen)
 - [ ] SharePoint-Restrukturierung: Ideen — **überfällig seit 01.07**
 - [ ] Wissensdatenbank/Video-Anleitung Service — fällig 30.07
-- [ ] Telefonnummern Verträge (Plan hängt jetzt an Konrads Bonamic-Migration — erst mit ihm klären, dann Simon/Georgina/Celine/Bonamic)
+- [ ] Telefonnummern Verträge → jetzt konkret: Bonamic-Migration starten (Jeannette anschreiben, vollen Umfang)
 - [ ] Jokubas anrufen
 - [ ] Pipedrive automatic email, WhatsApp
+- [ ] Gag spotify (neu, 09.07)
 
 ## 🔵 Extern / wartet auf andere
-- [ ] Jeannette (Bonamic) → noch nicht angeschrieben — jetzt erst Konrads Migrationsumfang klären (Robert läuft trotzdem 20.07 aus!)
-- [ ] Robert → Liste der Nicht-HIGH-Verträge
-- [ ] Anna/Buchhaltung → Antwort auf Philipps Stunden-Gegenrechnung (38,87 h, seit 07.07 offen)
-- [ ] NetCologne → 509-Anschluss Nachtermin **Mo 13.07**
-- [ ] Georgina/mobilezone → Stichtag Firmenverträge-Stopp (ab Dez. 2026) + wartet auf Philipps Rufnummern-Abgleich
+- [ ] Jeannette (Bonamic) → noch nicht angeschrieben — jetzt mit vollem Migrationsauftrag
+- [ ] Robert → Liste der Nicht-HIGH-Verträge; läuft weiterhin 20.07 aus (im Blick behalten bei Migration)
+- [ ] Celine → o2-Rechnung/Kundenkennzahl (nur noch für Unterlagen)
+- [ ] Arianna/Papaya-Tech-Team → Read-Write-API-Key (angefragt 13.07, über Robert)
+- [ ] Klimageräte → Status nach geplatztem Termin (09.07) unklar, keine neue Meldung
 
 ## 📅 Nächste Termine
-- Do 09.07 · 13:00–14:30 Blocker Philipp x Eric (Claude-Projekte + ERP)
-- Fr 10.07 · 09:00 Papaya x SMARTVÉLO Weekly (neu, mit Robert+Lukas+Arianna)
-- Mo 13.07 · 06:00–10:00 NetCologne 509 · 06:45 Konrad x Philipp · 10:00 Weekly Büro Köln
+- Mi 15.07 – Do 16.07 · (keine Einträge gefunden)
+- Fr 17.07 · 09:00 Papaya x SMARTVÉLO Weekly
+- Mo 20.07 · 06:45 Konrad x Philipp · 10:00 Weekly Büro Köln — **Roberts Bonamic-Vertrag läuft aus!**
 
 ## ✅ Zuletzt erledigt
-- Zweiter Claude-Account gekauft (Go von Konrad) · Jobvalley-Protokolle an Robert nachgeliefert ·
-  Mechaniker↔Hub-Zuteilungsliste von Eric erhalten · OKAWA-Report-Bug (Lukas) behoben ·
-  To-Dos „Überstunden→Anna“ + „lukas claude fix“ abgehakt · Christian Müller ausscheidend, Nummer an Simon
+- Werbemail-Kampagne + „Konrad Antwort HIGH Business" abgehakt (09.07) · Jobvalley-Protokolle an Robert ·
+  Drucker-Modell entschieden & bestellt (13.07) · Überstunden-Berechnung von Buchhaltung bestätigt (13.07) ·
+  Odoo-Demo gebucht (13.07) · NetCologne-509-Termin durchgeführt (13.07)
+
+## ⚠️ Blinde Flecken (5 Tage ohne Check-in, 10.–13.07)
+Kein Journal für diese Tage — People/Topics-Abgleich beruht auf Mail+Chat-Stichproben (Konrad, ERP, Drucker).
+Themen ohne neue Signale seit 09.07: Werbemail-cosma-Zugang-Risiko, Klimageräte, Anna/Stunden (jetzt aber
+durch Buchhaltungsantwort 13.07 überholt), Celine-Rufnummern-Aufräumgespräch.

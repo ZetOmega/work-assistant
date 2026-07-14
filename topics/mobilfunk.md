@@ -1,30 +1,25 @@
-# Mobilfunk (HIGH/mobilezone + Bonamic)  · Status: aktiv — Strategiewechsel 09.07
+# Mobilfunk (Migration zu Bonamic)  · Status: aktiv — Entscheidung final (14.07)
 
-## Neu: Konrads Entscheidung (09.07)
-Konrad will **alles zu Bonamic migrieren** — umgeht damit das mobilezone/HIGH-„Business-Stopp"-Problem
-(Dez. 2026, s.u.) komplett, da man dann gar nicht mehr auf HIGH/mobilezone-Firmenverträgen sitzt.
-**(unbestätigt/offen zu klären)**: ob das nur neue/zukünftige Verträge betrifft oder auch bestehende
-HIGH-Verträge zurückwandern sollen; wie sich das mit dem laufenden Bonamic-Rückbau verträgt (s.u. —
-Robert/Pramod/Simon liefen ja gerade aus Bonamic RAUS zu HIGH, jetzt vmtl. Richtung umgekehrt).
-Todo „Konrad Antwort bzgl. HIGH Business" ist damit beantwortet und abgehakt.
+## Entscheidung
+Konrad hat final entschieden: **alle Mobilfunkverträge zu Bonamic umziehen**, zentral schön verwaltet
+bei einem Anbieter. Das umgeht auch das mobilezone/HIGH-„Business-Stopp"-Problem (Dez. 2026) — sobald
+alles bei Bonamic liegt, ist der HIGH-Ausstieg ohnehin passiert. Todo „Konrad Antwort bzgl. HIGH
+Business" ist damit erledigt.
 
-## Bestand
-- ~25 HIGH-mobile-Verträge (Telekom-D1, 30 GB 5G, 9,99 €, mtl. kündbar, eSIM) — als einzelne
-  Privatkundenkonten über Georgina Zang (mobilezone, seit 01/2026 freenet). **Kein Panel.**
-- SIM-Tracker-Excel existiert (alle 25 Verträge; Rufnummern Oleg/Wirasak/Eric nachtragen).
+Löst auch die vorherige Widersprüchlichkeit auf: der laufende Bonamic-Rückbau (Robert/Pramod/Simon
+liefen aus Bonamic RAUS zu HIGH) dreht sich jetzt um — Ziel ist ab jetzt **hin zu Bonamic**, nicht weg.
 
-## Alte Deadline (durch Bonamic-Migration ggf. gegenstandslos)
-- mobilezone stoppt ab Dez. 2026 Verträge auf Firmennamen — Georgina meldet noch exakten Stichtag,
-  aber relevant nur falls HIGH überhaupt weiterläuft.
-- Bestellungen aktuell nur mittwochs, sonst Storno-Risiko.
+## Nächste Schritte
+- Jeannette Hilcke (jeannette.hilcke@bonamic.de) anschreiben: **jetzt mit vollem Migrationsauftrag**
+  (nicht nur Altvertrags-Portierung) — alle ~25 HIGH-Verträge + die verbleibenden Bonamic-Altverträge
+  in einem Rutsch bei Bonamic bündeln.
+- Robert läuft weiter 20.07 aus — bei Bonamic dringend im Blick behalten, damit die Migration das nicht reißen lässt.
+- SIM-Tracker-Excel als Bestandsliste für die Migration nutzen (alle 25 Verträge; Oleg/Wirasak/Eric-Nummern nachtragen).
 
-## Alte Strategie (Stand vor 09.07, ggf. überholt)
-- Konrad klärt persönlich mit dem mobilezone-CEO. Anforderungsliste stand: Firmenverträge dauerhaft,
-  Self-Service-Portal, eSIM-Selbstverwaltung, Sammelrechnung. Marktrecherche: echtes D1-Panel nur
-  Telekom direkt (~18–28 €/Karte); o2 Business bestes Portal, aber kein D1.
+## Bestand (vor Migration)
+- ~25 HIGH-mobile-Verträge (Telekom-D1, 30 GB 5G, 9,99 €, mtl. kündbar, eSIM) — Privatkundenkonten
+  über Georgina Zang (mobilezone). Kein Panel.
 
-## Bonamic-Kontakt/Altverträge
-- Kontakt: **Jeannette Hilcke, jeannette.hilcke@bonamic.de** — noch nicht angeschrieben.
-- Bisheriger Auftrag war Portierung WEG von Bonamic (Robert läuft 20.07 aus, Pramod ~03.07 ausgelaufen,
-  Simon vmtl. Bonamic-Altnummer) — das kollidiert jetzt ggf. mit der neuen „alles zu Bonamic"-Richtung.
-  **Vor dem Anschreiben an Jeannette mit Konrad klären, was genau migriert werden soll.**
+## Hinfällig durch die Entscheidung
+- Alte Strategie „Konrad klärt mit mobilezone-CEO" / Self-Service-Portal-Wunschliste bei mobilezone — erledigt sich von selbst.
+- mobilezone-Stichtag Dez. 2026 — nicht mehr relevant, sobald migriert.
