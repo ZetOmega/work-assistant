@@ -27,6 +27,13 @@ Claude Code liest/aktualisiert diese Dateien, statt langen Chat-Kontext zu halte
 - Neue Mail-Entwürfe: `POST /me/messages` (kein Copy-Endpoint).
 - Signatur-Bilder lassen sich per API nicht zuverlässig einbetten → manuell.
 - Planner-PATCH braucht exakten ETag (dedizierte update/delete-Tools nutzen, falls vorhanden).
+- **Zeiten sauber halten (UTC vs. CEST — hier schon vermischt worden)**: `list_calendar_events`/`graph_request`
+  liefern Kalenderzeiten ohne „Z"-Suffix, sind aber **UTC** — immer **+2h für CEST** (Sommerzeit) umrechnen,
+  bevor sie an Philipp oder ins Repo gehen. Mail-Timestamps (`received`/`sentDateTime`) haben ein explizites
+  „Z" (UTC) und brauchen dieselbe Umrechnung. `outlook_find_available_time`s `nowDateTime` ist ebenfalls UTC
+  mit „Z". Bei Zweifel: eine bekannte Alltagszeit im Kontext gegenprüfen (z. B. „Techniker kommt zwischen 8
+  und 12 Uhr" vs. Rohwert) statt zu raten. Immer die Zeitzone dazuschreiben (z. B. „14:15 CEST"), nie nackte
+  Uhrzeiten ohne Zone in STATUS.md/people/topics stehen lassen.
 
 ## Skill: check-in
 Trigger: „check-in“, „new day“, „was steht an“, „take all in“.

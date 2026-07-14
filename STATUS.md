@@ -1,18 +1,18 @@
-# STATUS — Stand Di 14.07.2026, 08:20 Uhr
+# STATUS — Stand Di 14.07.2026, 08:42 Uhr (alle Zeiten CEST)
 
 ## 🔴 Rückmeldung von Konrad gebraucht
-- [ ] **Überstunden → Urlaubstage**: Buchhaltung hat 13.07 zugestimmt (38,87 h), wartet nur noch auf Konrads Ok
-- [ ] ERP/OBS: nach den heutigen Terminen (12:15 OBS + 14:00 Odoo-Demo) Ergebnis/Go mit ihm abgleichen
+- [ ] ERP/OBS: nach dem heutigen OBS/Odoo-Termin (14:15–15:30) Ergebnis/Go mit ihm abgleichen
 - [ ] Mobilfunk→Bonamic: sobald mit Jeannette Kontakt aufgenommen, ggf. Rückfragen zu Umfang/Timing klären
 
 ## ✅ Von Konrad bereits erledigt
 - Drucker: Go für Kyocera Ecosys PA2101cwx (13.07) → an Celine zur Bestellung weitergegeben
 - Mobilfunk: Entscheidung final — alles zu Bonamic migrieren (14.07)
+- **Überstunden → Urlaubstage: Konrad hat Ok gegeben** (14.07) — Philipp nimmt das im 15:30-Personio-Slot mit zu Celine
 
 ## 🔥 Heute
-- 12:15–13:30 OBS Solutions Termin
-- 13:30–13:45 Personio aufräumen (eigener Block)
-- 14:00–15:30 Odoo-Demo mit Carina Schuch
+- 11:00–11:15 Weekly x Büro Köln
+- 14:15–15:30 OBS Solutions / Odoo-Demo mit Carina Schuch
+- 15:30–15:45 Personio aufräumen — hier: Überstunden→Urlaubstage mit Celine klären
 
 ## 🟡 Ich (Philipp) — laut Microsoft To-Do (6 offen)
 - [ ] SharePoint-Restrukturierung: Ideen — **überfällig seit 01.07**
@@ -29,10 +29,10 @@
 - [ ] Arianna/Papaya-Tech-Team → Read-Write-API-Key (angefragt 13.07, über Robert)
 - [ ] Klimageräte → Status nach geplatztem Termin (09.07) unklar, keine neue Meldung
 
-## 📅 Nächste Termine
+## 📅 Nächste Termine (alle CEST)
 - Mi 15.07 – Do 16.07 · (keine Einträge gefunden)
-- Fr 17.07 · 09:00 Papaya x SMARTVÉLO Weekly
-- Mo 20.07 · 06:45 Konrad x Philipp · 10:00 Weekly Büro Köln — **Roberts Bonamic-Vertrag läuft aus!**
+- Fr 17.07 · 11:00 Papaya x SMARTVÉLO Weekly
+- Mo 20.07 · 08:45 Konrad x Philipp · 12:00 Weekly Büro Köln — **Roberts Bonamic-Vertrag läuft aus!**
 
 ## ✅ Zuletzt erledigt
 - Werbemail-Kampagne + „Konrad Antwort HIGH Business" abgehakt (09.07) · Jobvalley-Protokolle an Robert ·

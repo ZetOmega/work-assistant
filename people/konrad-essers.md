@@ -8,6 +8,7 @@ Chef & Haupt-Entscheider. Kennt den mobilezone-CEO „gut“. Setzt Tempo, verpa
 ERP (Chefsache mit Eric) · App smartvélo · neue Stelle ausgeschrieben · Werbe-/Event-Kampagne
 
 ## Letzte Aktionen
+14.07 Ok gegeben: Philipps 38,87 Überstunden dürfen in Urlaubstage umgewandelt werden — Philipp nimmt es 15:30 mit zu Celine (Personio)
 14.07 Entscheidung final: **alle Mobilfunkverträge zu Bonamic umziehen** (schön zentral verwaltet) — kein Vorbehalt mehr, klarer Auftrag
 13.07 Drucker-Go: Kyocera Ecosys PA2101cwx abgenickt („top preis und top drucker“) → an Celine zur Bestellung weitergegeben
 13.07 Neues wöchentliches Team-Meeting „Weekly x Büro Köln" eingeführt (Kölner Standort, Wochenthemen)
@@ -16,6 +17,5 @@ ERP (Chefsache mit Eric) · App smartvélo · neue Stelle ausgeschrieben · Werb
 30.06 „OBS weiter nerven + Odoo-Hotline anrufen“
 
 ## Offen / wartet auf
-Antwort auf ERP-Mail (29.06, OBS-Angebot) — heute 14.07 OBS-Termin + Odoo-Demo, danach Ergebnis mit ihm abgleichen ·
-**Neu: Go, ob Philipps 38,87 Überstunden in zusätzliche Urlaubstage statt Auszahlung umgewandelt werden (Buchhaltung hat 13.07 zugestimmt, wartet nur noch auf Konrads Ok)**
-Nächstes 1:1: laufendes wöchentliches Weekly (Mo, Büro Köln)
+Antwort auf ERP-Mail (29.06, OBS-Angebot) — heute 14.07, 14:15–15:30 CEST OBS/Odoo-Demo, danach Ergebnis mit ihm abgleichen
+Nächstes 1:1: laufendes wöchentliches Weekly (Mo 08:45 CEST, Büro Köln)

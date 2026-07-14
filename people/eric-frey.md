@@ -11,4 +11,4 @@ Gemeinsame Claude-Projekte mit Philipp (was bauen wir wie) · ERP (wird in den P
 09.07 „Bereichseinteilung 2026.xlsx" geschickt (Mechaniker↔Hub-Zuteilungsliste, auf Philipps Anfrage)
 08.07 „Eskalationssystem_Uebersicht.pdf" geschickt
 08.07 Drei Claude-Projekte mit Philipp geteilt: „Papaya Ticketscreening“, „Akku-Reklamationsprozess“, „KI-Tool zur Fahrzeugkontrolle“
-08.07 Termin „Blocker: Philipp x Eric“ Do 09.07 13:00–14:30 (angenommen) — Projekte durchgehen + ERP
+08.07 Termin „Blocker: Philipp x Eric“ Do 09.07 15:00–16:30 CEST (angenommen) — Projekte durchgehen + ERP
