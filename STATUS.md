@@ -7,12 +7,12 @@
 ## ✅ Von Konrad bereits erledigt
 - Drucker: Go für Kyocera Ecosys PA2101cwx (13.07) → an Celine zur Bestellung weitergegeben
 - Mobilfunk: Entscheidung final — alles zu Bonamic migrieren (14.07)
-- **Überstunden → Urlaubstage: Konrad hat Ok gegeben** (14.07) — Philipp nimmt das im 15:30-Personio-Slot mit zu Celine
+- **Unbezahlte Arbeitsstunden (Stundenlohn-Zeit) → Urlaubstage: Konrad hat Ok gegeben** (14.07) — Philipp nimmt das im 15:30-Personio-Slot mit zu Celine
 
 ## 🔥 Heute
 - 11:00–11:15 Weekly x Büro Köln
 - 14:15–15:30 OBS Solutions / Odoo-Demo mit Carina Schuch
-- 15:30–15:45 Personio aufräumen — hier: Überstunden→Urlaubstage mit Celine klären
+- 15:30–15:45 Personio aufräumen — hier: Arbeitsstunden→Urlaubstage mit Celine klären
 
 ## 🟡 Ich (Philipp) — laut Microsoft To-Do (6 offen)
 - [ ] SharePoint-Restrukturierung: Ideen — **überfällig seit 01.07**
@@ -36,7 +36,7 @@
 
 ## ✅ Zuletzt erledigt
 - Werbemail-Kampagne + „Konrad Antwort HIGH Business" abgehakt (09.07) · Jobvalley-Protokolle an Robert ·
-  Drucker-Modell entschieden & bestellt (13.07) · Überstunden-Berechnung von Buchhaltung bestätigt (13.07) ·
+  Drucker-Modell entschieden & bestellt (13.07) · Arbeitsstunden-Berechnung von Buchhaltung bestätigt (13.07) ·
   Odoo-Demo gebucht (13.07) · NetCologne-509-Termin durchgeführt (13.07)
 
 ## ⚠️ Blinde Flecken (5 Tage ohne Check-in, 10.–13.07)

@@ -9,4 +9,5 @@ ERP · Jobvalley · Claude-Projekte mit Eric (Do 09.07 Blocker-Session) · Mobil
 Zweiter Claude-Account: gekauft ✅ (08.07)
 
 ## Offen / wartet auf
-Eigene unbezahlte Stunden (38,87 h bis April): Gegenrechnung an Anna/Buchhaltung geschickt (07.07), Antwort ausstehend
+Eigene unbezahlte Arbeitsstunden aus Stundenlohn-Zeit (38,87 h bis April): Buchhaltung hat Berechnung bestätigt (13.07),
+Konrad hat Umwandlung in Urlaubstage genehmigt (14.07) → wird 14.07 15:30 mit Celine (Personio) umgesetzt

@@ -8,7 +8,7 @@ Chef & Haupt-Entscheider. Kennt den mobilezone-CEO „gut“. Setzt Tempo, verpa
 ERP (Chefsache mit Eric) · App smartvélo · neue Stelle ausgeschrieben · Werbe-/Event-Kampagne
 
 ## Letzte Aktionen
-14.07 Ok gegeben: Philipps 38,87 Überstunden dürfen in Urlaubstage umgewandelt werden — Philipp nimmt es 15:30 mit zu Celine (Personio)
+14.07 Ok gegeben: Philipps 38,87 unbezahlte Arbeitsstunden (aus der Zeit als Stundenlohn-Angestellter) dürfen in Urlaubstage umgewandelt werden — Philipp nimmt es 15:30 mit zu Celine (Personio)
 14.07 Entscheidung final: **alle Mobilfunkverträge zu Bonamic umziehen** (schön zentral verwaltet) — kein Vorbehalt mehr, klarer Auftrag
 13.07 Drucker-Go: Kyocera Ecosys PA2101cwx abgenickt („top preis und top drucker“) → an Celine zur Bestellung weitergegeben
 13.07 Neues wöchentliches Team-Meeting „Weekly x Büro Köln" eingeführt (Kölner Standort, Wochenthemen)
