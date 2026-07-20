@@ -10,7 +10,7 @@ Werbemails-Kampagne · restliche Rufnummern klären · o2-Rechnung/Kundenkennzah
 
 ## Letzte Aktionen
 17.07 Hat Philipp über Konrads Mobilfunk-Anbieterwechsel informiert (greendevice.eco/Göllner statt Bonamic), bat um CC
-14.07 Philipp bringt Arbeitsstunden→Urlaubstage-Umwandlung mit (Konrad-Ok vorhanden)
+14.07 Arbeitsstunden→Urlaubstage-Umwandlung mit Philipp erledigt: 5 Urlaubstage, in Personio umgesetzt ✅
 13.07 Drucker-Bestellung von Konrad zugewiesen bekommen (Kyocera Ecosys PA2101cwx)
 09.07 Werbemail-Versand live mitverfolgt: fragt nach Status, Philipp meldet Tempo/Bounces/cosma-Zugangslücke
 09.07 Klimageräte-Vor-Ort-Termin geplatzt (niemand da) — Philipp fragt nach Verschiebung auf morgen

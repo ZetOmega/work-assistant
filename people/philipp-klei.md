@@ -5,9 +5,9 @@ Rolle: Business Development Associate / IT-KI-Lead · E-Mail: philipp@smart-velo
 IT, KI & Automatisierung; Jobvalley-App; ERP-Vorbereitung; Infrastruktur (NetCologne, Mobilfunk, o2). Stellt IT-Sysadmin ein, um sich für Produkt/KI freizuspielen.
 
 ## Aktuelle Themen
-ERP · Jobvalley · Claude-Projekte mit Eric (Do 09.07 Blocker-Session) · Mobilfunk-Aufräumen (Georgina-Liste + Celine + Bonamic) · NetCologne/Netzwerk · Werbemails · Hiring
+ERP · Jobvalley · Claude-Projekte mit Eric · Mobilfunk-Migration zu greendevice.eco · NetCologne/Netzwerk · Werbemails · Hiring
 Zweiter Claude-Account: gekauft ✅ (08.07)
 
-## Offen / wartet auf
-Eigene unbezahlte Arbeitsstunden aus Stundenlohn-Zeit (38,87 h bis April): Buchhaltung hat Berechnung bestätigt (13.07),
-Konrad hat Umwandlung in Urlaubstage genehmigt (14.07) → wird 14.07 15:30 mit Celine (Personio) umgesetzt
+## Erledigt
+Eigene unbezahlte Arbeitsstunden aus Stundenlohn-Zeit (38,87 h bis April) → in 5 Urlaubstage umgewandelt,
+in Personio bereits umgesetzt ✅ (Konrad-Ok 14.07, mit Celine erledigt)

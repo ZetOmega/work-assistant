@@ -4,12 +4,12 @@
 - 08:45–09:00 Konrad x Philipp
 - 12:00–12:15 Weekly x Büro Köln
 - 14:30–15:30 Philipp x Eric
-- ⚠️ Konrad hat "Montag 15 Uhr" für einen OBS-Demo-Termin gewählt (17.07-Chat) — **nicht im Kalender**,
-  möglicher Konflikt mit Philipp x Eric. Klären/bestätigen.
 
 ## 🔴 Rückmeldung von Konrad gebraucht
 - [ ] ERP/OBS: klareres, aufgeschlüsseltes Angebot einfordern (sein Wunsch) — Stundenpreis/100h-Kontingent-Idee entscheiden
-- [ ] Heutigen 15-Uhr-OBS-Termin bestätigen/einordnen
+- [ ] OBS-Beratungstermin: gewünschter Slot "Montag 15 Uhr" war schon weg (17.07) — hat er angerufen
+      oder einen Alternativtermin (Mittwoch+) gefunden? Kein Kalenderkonflikt, nur offen ob überhaupt ein
+      neuer Termin zustande kam.
 
 ## ⚠️ Wichtige Korrektur seit letztem Check-in
 **Mobilfunk-Zielanbieter gewechselt**: nicht mehr Bonamic — Konrad hat auf **greendevice.eco
@@ -42,7 +42,7 @@ ist komplett hinfällig.
 - Fr 24.07 · 11:00 Papaya x SMARTVÉLO Weekly
 
 ## ✅ Zuletzt erledigt
-- Überstunden→Urlaubstage umgesetzt (Konrad-Ok, 14.07) · Drucker bestellt (13.07) ·
+- Unbezahlte Arbeitsstunden → 5 Urlaubstage umgewandelt, in Personio bereits umgesetzt ✅ · Drucker bestellt (13.07) ·
   Odoo-Demo durchgeführt, Team überzeugt (14.07) · Zeitzonen-Fehler in Doku korrigiert (14.07) ·
   externer-Absender-Mail-Banner aktiviert (17.07) · Jobvalley-Protokolldesign live (15.07)
 
