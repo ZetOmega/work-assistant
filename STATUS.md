@@ -15,7 +15,6 @@
 (Verwaltungszugang als K.O.-Kriterium), Antwort steht weiterhin aus (Stand 20.07). Jeannette Hilcke/Bonamic-Plan hinfällig.
 
 ## 🟢 Akute Risiken
-- Roberts eigener (Bonamic-)Mobilfunkvertrag lief **heute 20.07** aus — unklar, ob durch Anbieterwechsel aufgefangen oder noch offen. Prüfen.
 - Flink-Datenpaket (hochvertraulich, seit 17.07 bei Philipp) — Auswertung lief, Status seither nicht geprüft.
 
 ## 🟡 Ich (Philipp) — laut Microsoft To-Do (5 offen)
@@ -24,11 +23,11 @@
 - [ ] Telefonnummern Verträge → jetzt greendevice.eco-Migration (Georgina: Voraussetzungen+Liste; Bonamic soll Daten geben; Umstellung einleiten)
 - [ ] Jokubas anrufen
 - [ ] Papaya api fix (15.07) — labels-Feld im Update-Schema, undok. Rate-Limits (404 statt 429), Kommentar-Historie ~450 Tickets
-- „Nils aes" seit letztem Check-in (08:10) aus der Liste verschwunden → erledigt/gelöscht (unbestätigt)
+- „Nils aes" erledigt (von Philipp bestätigt 20.07)
 
 ## 🔵 Extern / wartet auf andere
 - [ ] Pascal Göllner (greendevice.eco) → Antwort zu Migration + Verwaltungszugang
-- [ ] Robert → Liste der Nicht-HIGH-Verträge; eigener Vertrag heute ausgelaufen
+- [ ] Robert → Liste der Nicht-HIGH-Verträge (eigenen Mobilfunkvertrag regelt Robert selbst)
 - [ ] Celine → o2-Rechnung/Kundenkennzahl (nur noch für Unterlagen)
 - [ ] Arianna/Papaya-Tech-Team → Read-Write-API-Key (weiterhin offen)
 - [ ] Klimageräte → seit 09.07 keine neue Meldung
