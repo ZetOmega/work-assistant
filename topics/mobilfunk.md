@@ -11,10 +11,14 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
 - 17.07 Philipp hat Göllner angeschrieben: bittet um Info, was für den Umzug aller Verträge benötigt wird,
   UND macht klar zur Vorbedingung: **Verwaltungszugang für eSIM-Neuausstellung/Verträge selbst
   hinzufügen&entfernen — ohne das ist der Anbieter für ihn ein Ausschlusskriterium.**
-- Antwort von Göllner noch nicht eingetroffen (Stand 20.07).
+- **20.07 10:14 CEST: Göllner geantwortet.** Hat sich mit Konrad abgestimmt, will vor Ort vorbeikommen.
+  Vorschlag Mi 22.07 12–15 Uhr oder Do 23.07 10–14 Uhr. Braucht dafür **alle Rechnungen zu Mobilfunk,
+  Internet etc.** Verwaltungszugang-Frage (K.O.) hat er NICHT beantwortet — offenbar Vor-Ort-Thema.
 
 ## Nächste Schritte
-- Auf Göllners Antwort warten — insbesondere ob Verwaltungszugang möglich ist.
+- **Termin bestätigen**: Mi 22.07 kollidiert mit KSK-Drehtag (ganztägig) → Do 23.07 10–14 Uhr realistischer.
+- **Alle Mobilfunk-/Internet-Rechnungen zusammenstellen** für den Termin (mit Celine: o2/NetCologne).
+- Verwaltungszugang (K.O.-Kriterium) beim Termin klären — Göllner ist bisher ausgewichen.
 - Robert lief 20.07 (heute!) mit seinem eigenen (privaten Bonamic-)Vertrag aus — Status unklar, prüfen
   ob das von der Migration überholt/aufgefangen wurde oder noch ein offenes Risiko ist.
 - SIM-Tracker-Excel als Bestandsliste für die Migration (alle 25 Verträge; Oleg/Wirasak/Eric-Nummern nachtragen).
