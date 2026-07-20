@@ -1,25 +1,28 @@
-# Mobilfunk (Migration zu Bonamic)  · Status: aktiv — Entscheidung final (14.07)
+# Mobilfunk (Migration zu greendevice.eco)  · Status: aktiv — Anbieter gewechselt (17.07)
 
-## Entscheidung
-Konrad hat final entschieden: **alle Mobilfunkverträge zu Bonamic umziehen**, zentral schön verwaltet
-bei einem Anbieter. Das umgeht auch das mobilezone/HIGH-„Business-Stopp"-Problem (Dez. 2026) — sobald
-alles bei Bonamic liegt, ist der HIGH-Ausstieg ohnehin passiert. Todo „Konrad Antwort bzgl. HIGH
-Business" ist damit erledigt.
+## Wichtige Korrektur
+**Nicht mehr Bonamic.** Konrad hat den Zielanbieter selbst gewechselt: alle Handyverträge ziehen zu
+**Pascal Göllner, p.goellner@greendevice.eco**. Jeannette Hilcke/Bonamic ist damit obsolet — Philipp
+hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der Wechsel bekannt wurde.
 
-Löst auch die vorherige Widersprüchlichkeit auf: der laufende Bonamic-Rückbau (Robert/Pramod/Simon
-liefen aus Bonamic RAUS zu HIGH) dreht sich jetzt um — Ziel ist ab jetzt **hin zu Bonamic**, nicht weg.
+## Stand
+- 17.07 Celine (im Auftrag von Konrad) informiert Philipp über den Anbieterwechsel, bittet ihn,
+  Göllner die nötigen Details zu schicken.
+- 17.07 Philipp hat Göllner angeschrieben: bittet um Info, was für den Umzug aller Verträge benötigt wird,
+  UND macht klar zur Vorbedingung: **Verwaltungszugang für eSIM-Neuausstellung/Verträge selbst
+  hinzufügen&entfernen — ohne das ist der Anbieter für ihn ein Ausschlusskriterium.**
+- Antwort von Göllner noch nicht eingetroffen (Stand 20.07).
 
 ## Nächste Schritte
-- Jeannette Hilcke (jeannette.hilcke@bonamic.de) anschreiben: **jetzt mit vollem Migrationsauftrag**
-  (nicht nur Altvertrags-Portierung) — alle ~25 HIGH-Verträge + die verbleibenden Bonamic-Altverträge
-  in einem Rutsch bei Bonamic bündeln.
-- Robert läuft weiter 20.07 aus — bei Bonamic dringend im Blick behalten, damit die Migration das nicht reißen lässt.
-- SIM-Tracker-Excel als Bestandsliste für die Migration nutzen (alle 25 Verträge; Oleg/Wirasak/Eric-Nummern nachtragen).
+- Auf Göllners Antwort warten — insbesondere ob Verwaltungszugang möglich ist.
+- Robert lief 20.07 (heute!) mit seinem eigenen (privaten Bonamic-)Vertrag aus — Status unklar, prüfen
+  ob das von der Migration überholt/aufgefangen wurde oder noch ein offenes Risiko ist.
+- SIM-Tracker-Excel als Bestandsliste für die Migration (alle 25 Verträge; Oleg/Wirasak/Eric-Nummern nachtragen).
 
 ## Bestand (vor Migration)
 - ~25 HIGH-mobile-Verträge (Telekom-D1, 30 GB 5G, 9,99 €, mtl. kündbar, eSIM) — Privatkundenkonten
-  über Georgina Zang (mobilezone). Kein Panel.
+  über Georgina Zang (mobilezone). Kein Panel — das ist der Hauptgrund für den Umzug.
 
-## Hinfällig durch die Entscheidung
-- Alte Strategie „Konrad klärt mit mobilezone-CEO" / Self-Service-Portal-Wunschliste bei mobilezone — erledigt sich von selbst.
-- mobilezone-Stichtag Dez. 2026 — nicht mehr relevant, sobald migriert.
+## Hinfällig
+- Bonamic/Jeannette-Hilcke-Kontaktaufnahme (war schon als nächster Schritt geplant, jetzt überholt).
+- mobilezone-Stichtag Dez. 2026 / Self-Service-Wunschliste bei mobilezone — erledigt sich mit Umzug von selbst.

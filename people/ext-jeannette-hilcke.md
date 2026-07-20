@@ -5,4 +5,5 @@ Rolle: Bonamic — Alt-Mobilverträge · E-Mail: jeannette.hilcke@bonamic.de · 
 Kontakt für die alten Bonamic-Verträge (Robert, Pramod, evtl. Simons 0174).
 
 ## Offen / wartet auf
-Philipp: Nachricht an Bonamic schicken → Vertragsliste + Portierungsdaten anfordern, Umzug der übrigen Nummern starten (Robert läuft 20.07 aus!)
+Gegenstandslos (17.07): Konrad hat den Anbieter gewechselt, alle Verträge gehen zu greendevice.eco
+(Pascal Göllner) statt Bonamic. Jeannette wurde nie angeschrieben — Plan überholt, bevor er startete.

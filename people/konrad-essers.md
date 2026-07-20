@@ -8,14 +8,15 @@ Chef & Haupt-Entscheider. Kennt den mobilezone-CEO „gut“. Setzt Tempo, verpa
 ERP (Chefsache mit Eric) · App smartvélo · neue Stelle ausgeschrieben · Werbe-/Event-Kampagne
 
 ## Letzte Aktionen
-14.07 Ok gegeben: Philipps 38,87 unbezahlte Arbeitsstunden (aus der Zeit als Stundenlohn-Angestellter) dürfen in Urlaubstage umgewandelt werden — Philipp nimmt es 15:30 mit zu Celine (Personio)
-14.07 Entscheidung final: **alle Mobilfunkverträge zu Bonamic umziehen** (schön zentral verwaltet) — kein Vorbehalt mehr, klarer Auftrag
-13.07 Drucker-Go: Kyocera Ecosys PA2101cwx abgenickt („top preis und top drucker“) → an Celine zur Bestellung weitergegeben
-13.07 Neues wöchentliches Team-Meeting „Weekly x Büro Köln" eingeführt (Kölner Standort, Wochenthemen)
-09.07 Erste Ankündigung: will alles zu Bonamic migrieren — umgeht damit den HIGH/mobilezone-Business-Stopp
-08.07 Zweiter Claude-Account ist gekauft ✅ (Go von Konrad 07.07, 200 €/Mon)
-30.06 „OBS weiter nerven + Odoo-Hotline anrufen“
+17.07 Mobilfunk-Zielanbieter final gewechselt: **greendevice.eco / Pascal Göllner** statt Bonamic — hat es Celine mitgeteilt, sie an Philipp
+16.–17.07 ERP-Verhandlung: unzufrieden mit reiner Stundenpreis-Erklärung, will klareres Angebot; "ich verhandele alles"
+17.07 Für heute (20.07) Demo-Termin "Montag 15 Uhr" bei OBS ausgewählt — noch nicht im Kalender sichtbar
+14.07 Ok gegeben: Philipps 38,87 unbezahlte Arbeitsstunden (Stundenlohn-Zeit) dürfen in Urlaubstage umgewandelt werden
+13.07 Drucker-Go: Kyocera Ecosys PA2101cwx abgenickt → an Celine zur Bestellung weitergegeben
+13.07 Neues wöchentliches Team-Meeting „Weekly x Büro Köln" eingeführt
+08.07 Zweiter Claude-Account ist gekauft ✅
 
 ## Offen / wartet auf
-Antwort auf ERP-Mail (29.06, OBS-Angebot) — heute 14.07, 14:15–15:30 CEST OBS/Odoo-Demo, danach Ergebnis mit ihm abgleichen
+Klareres/aufgeschlüsseltes OBS-Angebot · heutigen 15-Uhr-OBS-Termin bestätigen (Kalenderlücke, möglicher
+Konflikt mit Philipp x Eric 14:30–15:30)
 Nächstes 1:1: laufendes wöchentliches Weekly (Mo 08:45 CEST, Büro Köln)

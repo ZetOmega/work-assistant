@@ -1,45 +1,53 @@
-# STATUS — Stand Di 14.07.2026, 08:42 Uhr (alle Zeiten CEST)
-
-## 🔴 Rückmeldung von Konrad gebraucht
-- [ ] ERP/OBS: nach dem heutigen OBS/Odoo-Termin (14:15–15:30) Ergebnis/Go mit ihm abgleichen
-- [ ] Mobilfunk→Bonamic: sobald mit Jeannette Kontakt aufgenommen, ggf. Rückfragen zu Umfang/Timing klären
-
-## ✅ Von Konrad bereits erledigt
-- Drucker: Go für Kyocera Ecosys PA2101cwx (13.07) → an Celine zur Bestellung weitergegeben
-- Mobilfunk: Entscheidung final — alles zu Bonamic migrieren (14.07)
-- **Unbezahlte Arbeitsstunden (Stundenlohn-Zeit) → Urlaubstage: Konrad hat Ok gegeben** (14.07) — Philipp nimmt das im 15:30-Personio-Slot mit zu Celine
+# STATUS — Stand Mo 20.07.2026, 08:10 Uhr (alle Zeiten CEST)
 
 ## 🔥 Heute
-- 11:00–11:15 Weekly x Büro Köln
-- 14:15–15:30 OBS Solutions / Odoo-Demo mit Carina Schuch
-- 15:30–15:45 Personio aufräumen — hier: Arbeitsstunden→Urlaubstage mit Celine klären
+- 08:45–09:00 Konrad x Philipp
+- 12:00–12:15 Weekly x Büro Köln
+- 14:30–15:30 Philipp x Eric
+- ⚠️ Konrad hat "Montag 15 Uhr" für einen OBS-Demo-Termin gewählt (17.07-Chat) — **nicht im Kalender**,
+  möglicher Konflikt mit Philipp x Eric. Klären/bestätigen.
+
+## 🔴 Rückmeldung von Konrad gebraucht
+- [ ] ERP/OBS: klareres, aufgeschlüsseltes Angebot einfordern (sein Wunsch) — Stundenpreis/100h-Kontingent-Idee entscheiden
+- [ ] Heutigen 15-Uhr-OBS-Termin bestätigen/einordnen
+
+## ⚠️ Wichtige Korrektur seit letztem Check-in
+**Mobilfunk-Zielanbieter gewechselt**: nicht mehr Bonamic — Konrad hat auf **greendevice.eco
+(Pascal Göllner)** umentschieden (17.07, über Celine kommuniziert). Philipp hat Göllner bereits
+angeschrieben (Verwaltungszugang als K.O.-Kriterium), Antwort steht aus. Jeannette Hilcke/Bonamic-Plan
+ist komplett hinfällig.
+
+## 🟢 Akute Risiken
+- Roberts eigener (Bonamic-)Mobilfunkvertrag lief **heute 20.07** aus — unklar, ob durch den
+  Anbieterwechsel aufgefangen oder noch offen. Prüfen.
+- Flink-Datenpaket (hochvertraulich, seit 17.07 bei Philipp) — Auswertung lief, Status seither nicht geprüft.
 
 ## 🟡 Ich (Philipp) — laut Microsoft To-Do (6 offen)
 - [ ] SharePoint-Restrukturierung: Ideen — **überfällig seit 01.07**
-- [ ] Wissensdatenbank/Video-Anleitung Service — fällig 30.07
-- [ ] Telefonnummern Verträge → jetzt konkret: Bonamic-Migration starten (Jeannette anschreiben, vollen Umfang)
+- [ ] Wissensdatenbank/Video-Anleitung Service — fällig 30.07 (nähert sich)
+- [ ] Telefonnummern Verträge → jetzt: greendevice.eco-Migration
 - [ ] Jokubas anrufen
-- [ ] Pipedrive automatic email, WhatsApp
-- [ ] Gag spotify (neu, 09.07)
+- [ ] Papaya api fix (neu, 15.07)
+- [ ] Nils aes (neu, 15.07 — unklar wofür, ggf. nachfragen)
 
 ## 🔵 Extern / wartet auf andere
-- [ ] Jeannette (Bonamic) → noch nicht angeschrieben — jetzt mit vollem Migrationsauftrag
-- [ ] Robert → Liste der Nicht-HIGH-Verträge; läuft weiterhin 20.07 aus (im Blick behalten bei Migration)
+- [ ] Pascal Göllner (greendevice.eco) → Antwort zu Migration + Verwaltungszugang
+- [ ] Robert → Liste der Nicht-HIGH-Verträge; eigener Vertrag heute ausgelaufen
 - [ ] Celine → o2-Rechnung/Kundenkennzahl (nur noch für Unterlagen)
-- [ ] Arianna/Papaya-Tech-Team → Read-Write-API-Key (angefragt 13.07, über Robert)
-- [ ] Klimageräte → Status nach geplatztem Termin (09.07) unklar, keine neue Meldung
+- [ ] Arianna/Papaya-Tech-Team → Read-Write-API-Key (weiterhin offen)
+- [ ] Klimageräte → seit 09.07 keine neue Meldung
 
 ## 📅 Nächste Termine (alle CEST)
-- Mi 15.07 – Do 16.07 · (keine Einträge gefunden)
-- Fr 17.07 · 11:00 Papaya x SMARTVÉLO Weekly
-- Mo 20.07 · 08:45 Konrad x Philipp · 12:00 Weekly Büro Köln — **Roberts Bonamic-Vertrag läuft aus!**
+- Mi 22.07 · KSK Drehtag (ganztägig)
+- Fr 24.07 · 11:00 Papaya x SMARTVÉLO Weekly
 
 ## ✅ Zuletzt erledigt
-- Werbemail-Kampagne + „Konrad Antwort HIGH Business" abgehakt (09.07) · Jobvalley-Protokolle an Robert ·
-  Drucker-Modell entschieden & bestellt (13.07) · Arbeitsstunden-Berechnung von Buchhaltung bestätigt (13.07) ·
-  Odoo-Demo gebucht (13.07) · NetCologne-509-Termin durchgeführt (13.07)
+- Überstunden→Urlaubstage umgesetzt (Konrad-Ok, 14.07) · Drucker bestellt (13.07) ·
+  Odoo-Demo durchgeführt, Team überzeugt (14.07) · Zeitzonen-Fehler in Doku korrigiert (14.07) ·
+  externer-Absender-Mail-Banner aktiviert (17.07) · Jobvalley-Protokolldesign live (15.07)
 
-## ⚠️ Blinde Flecken (5 Tage ohne Check-in, 10.–13.07)
-Kein Journal für diese Tage — People/Topics-Abgleich beruht auf Mail+Chat-Stichproben (Konrad, ERP, Drucker).
-Themen ohne neue Signale seit 09.07: Werbemail-cosma-Zugang-Risiko, Klimageräte, Anna/Stunden (jetzt aber
-durch Buchhaltungsantwort 13.07 überholt), Celine-Rufnummern-Aufräumgespräch.
+## ⚠️ Blinde Flecken (6 Tage ohne Check-in, 15.–19.07)
+Nachträge nur per Stichprobe (Konrad-, Eric-, Celine-, Robert-Chat + Inbox). Nicht geprüft seit 09./14.07:
+Klimageräte-Status, Werbemail-cosma-Zugang-Risiko, Celine-Rufnummern-Aufräumgespräch, restliche neue
+Chat-Kontakte (Joshua Rippelmeier, Simon Rath, Lennert Neumann, Nils Kaun) — falls dort was Wichtiges lief,
+ist es hier nicht erfasst.
