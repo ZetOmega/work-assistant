@@ -16,7 +16,7 @@
 - **⚠️ Zahlung Claude-Abo BLOCKIERT** — Verlauf im Konrad-Chat (08:14–10:32): Celines Karte scheitert, dann Konrads Karte (keine Push-TAN → „wird nicht klappen"), Celines Karte erneut auch nicht. Ergebnis: Philipp läuft aktuell im Rate-Limit („muss warten bis Limit sich auffüllt"), Konrad „ist dann so jetzt erstmal kurz". **Kein funktionierender Bezahlweg (Kreditkarte) — echter Blocker, nicht nur Wartestand.**
 - **✅ Flink-SLA-Rückanalyse mit Robert durchgegangen** (Meeting 14:00–14:30), Ergebnis-Version 14:40 verteilt. Henry-Wunsch erledigt.
 - **jobvalley-Übergabeprotokolle 17.+20.07** (17 Stück) 10:08 als ZIP an Robert geschickt.
-- **🆕 Selbst-Todo: Slack-Bot in Fleet-Channels einladen** (Mail an sich selbst, 15:51 CEST). `@smartvelo-fleet-reader` (read-only) in `#fleet-notifications-smartvelo` + `#fleet-notifications-smartvelo-de-south-central-berlin`. Ablauf via Mathis: er gibt „Mitglieder dürfen hinzufügen" frei → Philipp `/invite` → Mathis stellt zurück. Danach autom. History-Backfill ab Mo 13.07 + Live-Push. Fallbacks Plan B/C in `docs/PLAN-FLINK-SLACKBOT.md`. → **Blocker: Mathis muss Channel-Freigabe kurz öffnen.**
+- **🆕 TODO-Sammelliste Flink-Uptime/Eskalationstool** (Selbst-Mail 16:30 CEST → `topics/flink-uptime-tooling.md`). System ist live (Eskalationstool, Metabase-Dashboard 11 Cards, Slack-Pipeline). Philipps offene Aktionen: (1) Mathis Slack-Invite freischalten, (2) Eric Metabase-Zugang geben, (3) Eric Ersatzteil-Sheet einfordern + Service-Account als Betrachter teilen, (4) Bot-Profilbild hochladen, (5) Papaya-Feature-Request-Mail selbst senden (Entwurf `docs/PAPAYA-FEATURE-REQUEST.md`), (6) KPI-Brainstorm mit Robert terminieren. Automatik: morgen 22.07 07:00 erster voll-live Eskalations-Sweep.
 
 ## 🟡 Ich (Philipp) — Microsoft To-Do (5 offen, KEINE überfällig)
 - [ ] Showroom bike steckbrief — (kein Datum)
@@ -32,6 +32,7 @@
 - [ ] Konrad → OBS-Termin (ERP) vereinbaren
 - [ ] Claude-Abo: Konrad richtet Push-TAN auf neuem Handy ein (Handy war kaputt) → dann Kreditkartenzahlung erneut. Bis dahin blockiert / Rate-Limit.
 - [ ] Mathis → Slack-Channel-Freigabe kurz öffnen für Bot-Invite (seit 21.07 15:51)
+- [ ] Eric → Metabase-Zugang + Ersatzteil-Sheet teilen (Flink-Tooling, seit 21.07 16:30)
 
 ## 📅 Nächste Termine (alle CEST, aus Kalender 21.07 15:56)
 - Mi 22.07 · KSK Drehtag (ganztägig)
