@@ -13,7 +13,7 @@
 - **Henry-Wunsch: Robert durch Flink-Analyse führen** — heute Vormittag, noch offen (seit Mo 17:37).
 
 ## 🆕 Neu seit letztem Lauf (08:03 → 09:14)
-- **Papaya-Eskalations-Welle (08:53 CEST)** — Schwung Mails von noreply@smartvelo-mobility.com: Tickets „7 Tage ohne Bearbeitung STUFE 1" (FLGL-30990, -31060, -31036, -31029) + „Fallback: kein zuständiger Mechaniker" (FLGL-31041, -31035). „Umleitung aktiv" → würden eigentlich an mike/paul/eric/dominik/philip gehen. NICHT als [MUSTER] markiert — Realbetrieb-Relevanz prüfen (unbestätigt).
+- **Papaya-Eskalations-Welle (08:53 CEST) — ✅ ERLEDIGT** (Philipp bestätigt 21.07). Tickets FLGL-30990/-31060/-31036/-31029 (7 Tage Stufe 1) + Fallback FLGL-31041/-31035 abgearbeitet.
 - **Zahlung Claude-Abo (Philipp → Konrad, 08:14 CEST)** — Celines Karte geht nicht durch, Anbieter nimmt nur Kreditkarten. Philipp fragt Konrad nach Alternative → wartet auf Konrad.
 
 ## 🟡 Ich (Philipp) — Microsoft To-Do (6 offen, KEINE überfällig)
