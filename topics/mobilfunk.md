@@ -25,6 +25,7 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
 - Robert lief 20.07 (heute!) mit seinem eigenen (privaten Bonamic-)Vertrag aus — Status unklar, prüfen
   ob das von der Migration überholt/aufgefangen wurde oder noch ein offenes Risiko ist.
 - SIM-Tracker-Excel als Bestandsliste für die Migration (alle 25 Verträge; Oleg/Wirasak/Eric-Nummern nachtragen).
+- **21.07: Rufnummern-/Vertragsumstellung macht greendevice selbst** — nicht mehr Philipps Aufgabe. To-Do „Telefonnummern verträge" (Georgina-Voraussetzungen/Liste, Umstellung einleiten) daher entfernt.
 
 ## Bestand (vor Migration)
 - ~25 HIGH-mobile-Verträge (Telekom-D1, 30 GB 5G, 9,99 €, mtl. kündbar, eSIM) — Privatkundenkonten

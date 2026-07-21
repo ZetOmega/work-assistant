@@ -18,13 +18,13 @@
 - **jobvalley-Übergabeprotokolle 17.+20.07** (17 Stück) 10:08 als ZIP an Robert geschickt.
 - **🆕 Selbst-Todo: Slack-Bot in Fleet-Channels einladen** (Mail an sich selbst, 15:51 CEST). `@smartvelo-fleet-reader` (read-only) in `#fleet-notifications-smartvelo` + `#fleet-notifications-smartvelo-de-south-central-berlin`. Ablauf via Mathis: er gibt „Mitglieder dürfen hinzufügen" frei → Philipp `/invite` → Mathis stellt zurück. Danach autom. History-Backfill ab Mo 13.07 + Live-Push. Fallbacks Plan B/C in `docs/PLAN-FLINK-SLACKBOT.md`. → **Blocker: Mathis muss Channel-Freigabe kurz öffnen.**
 
-## 🟡 Ich (Philipp) — Microsoft To-Do (6 offen, KEINE überfällig)
+## 🟡 Ich (Philipp) — Microsoft To-Do (5 offen, KEINE überfällig)
 - [ ] Showroom bike steckbrief — (kein Datum)
 - [ ] Papaya api fix (labels-Feld im Update-Schema, undok. Rate-Limits 404 statt 429, Kommentar-Historie ~450 Tickets)
-- [ ] Telefonnummern verträge → greendevice.eco-Migration (Georgina: Voraussetzungen+Liste; Umstellung einleiten)
 - [ ] Jokubas anrufen — fällig 23.07 (00:00 CEST)
 - [ ] Wissensdatenbank/Video-Anleitung Service — fällig 30.07
 - [ ] SharePoint-Restrukturierung: Ideen — fällig 30.08
+- (entfernt 21.07: „Telefonnummern verträge" — Rufnummern-Migration macht **greendevice selbst**, nicht mehr Philipps Aufgabe)
 
 ## 🔵 Extern / wartet auf andere
 - [ ] Robert → FordPro-Admin-Zugänge einrichten (seit 20.07 14:30)
@@ -33,11 +33,11 @@
 - [ ] Claude-Abo: Konrad richtet Push-TAN auf neuem Handy ein (Handy war kaputt) → dann Kreditkartenzahlung erneut. Bis dahin blockiert / Rate-Limit.
 - [ ] Mathis → Slack-Channel-Freigabe kurz öffnen für Bot-Invite (seit 21.07 15:51)
 
-## 📅 Nächste Termine (alle CEST)
+## 📅 Nächste Termine (alle CEST, aus Kalender 21.07 15:56)
 - Mi 22.07 · KSK Drehtag (ganztägig)
-- Do 23.07 · 10:00–14:00 greendevice.eco vor Ort (Mobilfunk-Migration) · 10:15–11:15 „get to know smartvélo" · 15:00–15:30 Philipp x Eric (Teams)
+- Do 23.07 · 10:15–11:15 „get to know smartvélo – greendevice" (vor Ort, Venloer Str. 515) · 15:00–15:30 Philipp x Eric (Teams)
 - Fr 24.07 · 11:00–11:30 Papaya x SMARTVÉLO Weekly (Teams)
-- Mo 27.07 · 08:45–09:00 Konrad x Philipp (Teams) · 12:00–12:15 Weekly x Büro Köln
+- Mo 27.07 · 08:45–09:00 Konrad x Philipp (Teams) · 12:00–12:15 Weekly x Büro Köln (Venloer Str. 515)
 
 ## ✅ Zuletzt erledigt
 - Mobilfunk-Rechnungen final abgehakt (21.07) · Rechnungen (O2/Telekom/Vodafone/HIGH) von Anna erhalten (20.07) ·
