@@ -8,13 +8,15 @@
 - **Mobilfunk-Rechnungen final abgehakt** — Philipp bestätigt Anna 21.07 08:15 CEST „Vielen Dank, damit kann ich arbeiten!". Thema Rechnungseinsammlung abgeschlossen.
 
 ## ⏳ Weiter offen
-- **ERP/OBS** — 1:1 mit Konrad Mo 20.07 10:30 lief vermutlich (kein Chat-Beleg); klareres OBS-Angebot + Alternativtermin **unbestätigt** (seit Mo).
+- **ERP/OBS** — Philipp wartet auf Konrad für den **OBS-Termin** (ERP-Angebot). Offen seit Mo.
 - **Arianna/Papaya-Tech-Team → Read-Write-API-Key** — weiterhin offen.
 - **Henry-Wunsch: Robert durch Flink-Analyse führen** — heute Vormittag, noch offen (seit Mo 17:37).
 
 ## 🆕 Neu seit letztem Lauf (08:03 → 09:14)
 - **Papaya-Eskalations-Welle (08:53 CEST) — ✅ ERLEDIGT** (Philipp bestätigt 21.07). Tickets FLGL-30990/-31060/-31036/-31029 (7 Tage Stufe 1) + Fallback FLGL-31041/-31035 abgearbeitet.
 - **Zahlung Claude-Abo (Philipp → Konrad, 08:14 CEST)** — Celines Karte geht nicht durch, Anbieter nimmt nur Kreditkarten. Philipp fragt Konrad nach Alternative → wartet auf Konrad.
+- **Flink-SLA-Rückanalyse — Meeting gelaufen** — Philipp verteilt 14:40 CEST „aktuelle Version aus dem Meeting" (Re: Flink SLA Rückanalyse, mit Anhang) an Henry/Robert. Henry-Wunsch (Robert durchführen) damit adressiert. 🔄
+- **🆕 Selbst-Todo: Slack-Bot in Fleet-Channels einladen** (Mail an sich selbst, 15:51 CEST). `@smartvelo-fleet-reader` (read-only) in `#fleet-notifications-smartvelo` + `#fleet-notifications-smartvelo-de-south-central-berlin`. Ablauf via Mathis: er gibt „Mitglieder dürfen hinzufügen" frei → Philipp `/invite` → Mathis stellt zurück. Danach autom. History-Backfill ab Mo 13.07 + Live-Push. Fallbacks Plan B/C in `docs/PLAN-FLINK-SLACKBOT.md`. → **Blocker: Mathis muss Channel-Freigabe kurz öffnen.**
 
 ## 🟡 Ich (Philipp) — Microsoft To-Do (6 offen, KEINE überfällig)
 - [ ] Showroom bike steckbrief — (kein Datum)
@@ -27,7 +29,8 @@
 ## 🔵 Extern / wartet auf andere
 - [ ] Robert → FordPro-Admin-Zugänge einrichten (seit 20.07 14:30)
 - [ ] Arianna/Papaya-Tech-Team → Read-Write-API-Key
-- [ ] Konrad → Alternative Zahlungsmethode Claude-Abo (seit 21.07 08:14)
+- [ ] Konrad → (1) Alternative Zahlungsmethode Claude-Abo (seit 21.07 08:14) · (2) OBS-Termin (ERP) vereinbaren
+- [ ] Mathis → Slack-Channel-Freigabe kurz öffnen für Bot-Invite (seit 21.07 15:51)
 
 ## 📅 Nächste Termine (alle CEST)
 - Mi 22.07 · KSK Drehtag (ganztägig)
