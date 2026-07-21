@@ -16,15 +16,18 @@
 - **⚠️ Zahlung Claude-Abo BLOCKIERT** — Verlauf im Konrad-Chat (08:14–10:32): Celines Karte scheitert, dann Konrads Karte (keine Push-TAN → „wird nicht klappen"), Celines Karte erneut auch nicht. Ergebnis: Philipp läuft aktuell im Rate-Limit („muss warten bis Limit sich auffüllt"), Konrad „ist dann so jetzt erstmal kurz". **Kein funktionierender Bezahlweg (Kreditkarte) — echter Blocker, nicht nur Wartestand.**
 - **✅ Flink-SLA-Rückanalyse mit Robert durchgegangen** (Meeting 14:00–14:30), Ergebnis-Version 14:40 verteilt. Henry-Wunsch erledigt.
 - **jobvalley-Übergabeprotokolle 17.+20.07** (17 Stück) 10:08 als ZIP an Robert geschickt.
-- **🆕 TODO-Sammelliste Flink-Uptime/Eskalationstool** (Selbst-Mail 16:30 CEST → `topics/flink-uptime-tooling.md`). System ist live (Eskalationstool, Metabase-Dashboard 11 Cards, Slack-Pipeline). Philipps offene Aktionen: (1) Mathis Slack-Invite freischalten, (2) Eric Metabase-Zugang geben, (3) Eric Ersatzteil-Sheet einfordern + Service-Account als Betrachter teilen, (4) Bot-Profilbild hochladen, (5) Papaya-Feature-Request-Mail selbst senden (Entwurf `docs/PAPAYA-FEATURE-REQUEST.md`), (6) KPI-Brainstorm mit Robert terminieren. Automatik: morgen 22.07 07:00 erster voll-live Eskalations-Sweep.
+- **🆕 TODO-Sammelliste Flink-Uptime/Eskalationstool** (Selbst-Mail 16:30 CEST → `topics/flink-uptime-tooling.md`). System ist live (Eskalationstool, Metabase-Dashboard 11 Cards, Slack-Pipeline). Offene Aktionen als Microsoft-To-Do angelegt: Mathis Slack-Invite · Eric Ersatzteil-Sheet teilen · KPI-Brainstorm mit **Eric**. Erledigt: Metabase-Zugang (Eric hat schon) ✅ · Bot-Profilbild ✅ · Papaya-Feature-Request-Mail raus ✅. Automatik: morgen 22.07 07:00 erster voll-live Eskalations-Sweep.
 
-## 🟡 Ich (Philipp) — Microsoft To-Do (5 offen, KEINE überfällig)
-- [ ] Showroom bike steckbrief — (kein Datum)
-- [ ] Papaya api fix (labels-Feld im Update-Schema, undok. Rate-Limits 404 statt 429, Kommentar-Historie ~450 Tickets)
+## 🟡 Ich (Philipp) — Microsoft To-Do (8 offen, KEINE überfällig)
+- [ ] Showroom-Bike-Steckbrief erstellen — (kein Datum)
+- [ ] Papaya-API: Feature-Request raus (21.07) — Antwort nachverfolgen
+- [ ] Slack-Bot in fleet-notifications einladen (via Mathis freischalten) — 🆕
+- [ ] Ersatzteil-Sheet von Eric einfordern & mit Service-Account teilen — 🆕
+- [ ] KPI-Brainstorm mit Eric terminieren — 🆕
 - [ ] Jokubas anrufen — fällig 23.07 (00:00 CEST)
-- [ ] Wissensdatenbank/Video-Anleitung Service — fällig 30.07
-- [ ] SharePoint-Restrukturierung: Ideen — fällig 30.08
-- (entfernt 21.07: „Telefonnummern verträge" — Rufnummern-Migration macht **greendevice selbst**, nicht mehr Philipps Aufgabe)
+- [ ] Wissensdatenbank/Video-Anleitung für Service — fällig 30.07
+- [ ] SharePoint-Restrukturierung: Ideen sammeln — fällig 30.08
+- (entfernt 21.07: „Telefonnummern verträge" — Rufnummern-Migration macht **greendevice selbst**)
 
 ## 🔵 Extern / wartet auf andere
 - [ ] Robert → FordPro-Admin-Zugänge einrichten (seit 20.07 14:30)
