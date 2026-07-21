@@ -1,8 +1,8 @@
 # STATUS — Stand Di 21.07.2026, 09:14 Uhr CEST (alle Zeiten CEST)
 
-## 🔥 Heute (Di 21.07)
-- **Keine Kalendertermine.** Tag ist frei planbar.
-- Informell: **Robert durch die Flink-SLA-Rückanalyse führen** (Henry-Wunsch, „morgen Vormittag" = heute Vormittag; Henry selbst erst ab Nachmittag). Noch kein Beleg für Durchführung.
+## 🔥 Heute (Di 21.07) — Stand 15:56 CEST
+- **✅ Philipp x Robert 14:00–14:30 CEST** (Teams, Robert/Henry/Philipp) — Flink-SLA-Analyse mit Robert durchgegangen (Robert: „Erklär es mir da mal eine halbe Stunde"). Termin entstand erst heute Vormittag (Robert-Einladung, Philipp accepted 13:03). Danach 14:40 „aktuelle Version aus dem Meeting" an Henry/Robert verteilt. → **Henry-Wunsch erledigt.**
+- Sonst keine weiteren Termine heute (KSK Drehtag ist morgen).
 
 ## ✅ Seit letztem Lauf geklärt / vorangekommen (seit Di 21.07 08:03)
 - **Mobilfunk-Rechnungen final abgehakt** — Philipp bestätigt Anna 21.07 08:15 CEST „Vielen Dank, damit kann ich arbeiten!". Thema Rechnungseinsammlung abgeschlossen.
@@ -10,12 +10,12 @@
 ## ⏳ Weiter offen
 - **ERP/OBS** — Philipp wartet auf Konrad für den **OBS-Termin** (ERP-Angebot). Offen seit Mo.
 - **Arianna/Papaya-Tech-Team → Read-Write-API-Key** — weiterhin offen.
-- **Henry-Wunsch: Robert durch Flink-Analyse führen** — heute Vormittag, noch offen (seit Mo 17:37).
 
 ## 🆕 Neu seit letztem Lauf (08:03 → 09:14)
 - **Papaya-Eskalations-Welle (08:53 CEST) — ✅ ERLEDIGT** (Philipp bestätigt 21.07). Tickets FLGL-30990/-31060/-31036/-31029 (7 Tage Stufe 1) + Fallback FLGL-31041/-31035 abgearbeitet.
-- **Zahlung Claude-Abo (Philipp → Konrad, 08:14 CEST)** — Celines Karte geht nicht durch, Anbieter nimmt nur Kreditkarten. Philipp fragt Konrad nach Alternative → wartet auf Konrad.
-- **Flink-SLA-Rückanalyse — Meeting gelaufen** — Philipp verteilt 14:40 CEST „aktuelle Version aus dem Meeting" (Re: Flink SLA Rückanalyse, mit Anhang) an Henry/Robert. Henry-Wunsch (Robert durchführen) damit adressiert. 🔄
+- **⚠️ Zahlung Claude-Abo BLOCKIERT** — Verlauf im Konrad-Chat (08:14–10:32): Celines Karte scheitert, dann Konrads Karte (keine Push-TAN → „wird nicht klappen"), Celines Karte erneut auch nicht. Ergebnis: Philipp läuft aktuell im Rate-Limit („muss warten bis Limit sich auffüllt"), Konrad „ist dann so jetzt erstmal kurz". **Kein funktionierender Bezahlweg (Kreditkarte) — echter Blocker, nicht nur Wartestand.**
+- **✅ Flink-SLA-Rückanalyse mit Robert durchgegangen** (Meeting 14:00–14:30), Ergebnis-Version 14:40 verteilt. Henry-Wunsch erledigt.
+- **jobvalley-Übergabeprotokolle 17.+20.07** (17 Stück) 10:08 als ZIP an Robert geschickt.
 - **🆕 Selbst-Todo: Slack-Bot in Fleet-Channels einladen** (Mail an sich selbst, 15:51 CEST). `@smartvelo-fleet-reader` (read-only) in `#fleet-notifications-smartvelo` + `#fleet-notifications-smartvelo-de-south-central-berlin`. Ablauf via Mathis: er gibt „Mitglieder dürfen hinzufügen" frei → Philipp `/invite` → Mathis stellt zurück. Danach autom. History-Backfill ab Mo 13.07 + Live-Push. Fallbacks Plan B/C in `docs/PLAN-FLINK-SLACKBOT.md`. → **Blocker: Mathis muss Channel-Freigabe kurz öffnen.**
 
 ## 🟡 Ich (Philipp) — Microsoft To-Do (6 offen, KEINE überfällig)
@@ -29,7 +29,8 @@
 ## 🔵 Extern / wartet auf andere
 - [ ] Robert → FordPro-Admin-Zugänge einrichten (seit 20.07 14:30)
 - [ ] Arianna/Papaya-Tech-Team → Read-Write-API-Key
-- [ ] Konrad → (1) Alternative Zahlungsmethode Claude-Abo (seit 21.07 08:14) · (2) OBS-Termin (ERP) vereinbaren
+- [ ] Konrad → OBS-Termin (ERP) vereinbaren
+- [ ] Claude-Abo: Konrad richtet Push-TAN auf neuem Handy ein (Handy war kaputt) → dann Kreditkartenzahlung erneut. Bis dahin blockiert / Rate-Limit.
 - [ ] Mathis → Slack-Channel-Freigabe kurz öffnen für Bot-Invite (seit 21.07 15:51)
 
 ## 📅 Nächste Termine (alle CEST)

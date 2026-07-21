@@ -8,6 +8,7 @@ Chef & Haupt-Entscheider. Kennt den mobilezone-CEO „gut“. Setzt Tempo, verpa
 ERP (Chefsache mit Eric) · App smartvélo · neue Stelle ausgeschrieben · Werbe-/Event-Kampagne
 
 ## Letzte Aktionen
+21.07 Claude-Abo-Zahlung: Konrads Kreditkarte scheitert an fehlender Push-TAN — Handy kaputtgemacht, auf neuem Gerät ist Push-TAN noch nicht eingerichtet. Celines Karte klappt auch nicht. Philipp aktuell im Rate-Limit. → warten, bis Konrad Push-TAN auf neuem Handy eingerichtet hat.
 21.07 1:1 vom Mo 10:30–11:00 lief vermutlich (kein Chat-Beleg); Ergebnis zu klarerem OBS-Angebot + Alternativtermin **unbestätigt**
 20.07 Heutiges 1:1 kurzfristig von 08:45 auf **10:30–11:00 CEST** verschoben (Chat 08:42: „lass um 10:30 sprechen, mehr Ruhe") — Philipp bestätigt
 17.07 Mobilfunk-Zielanbieter final gewechselt: **greendevice.eco / Pascal Göllner** statt Bonamic — hat es Celine mitgeteilt, sie an Philipp
@@ -19,5 +20,6 @@ ERP (Chefsache mit Eric) · App smartvélo · neue Stelle ausgeschrieben · Werb
 08.07 Zweiter Claude-Account ist gekauft ✅
 
 ## Offen / wartet auf
-Klareres/aufgeschlüsseltes OBS-Angebot · ob er bei OBS angerufen/einen Alternativtermin gefunden hat
+Push-TAN auf neuem Handy einrichten → dann Claude-Abo-Kreditkartenzahlung nochmal versuchen
+Klareres/aufgeschlüsseltes OBS-Angebot + OBS-Termin · ob er bei OBS angerufen/einen Alternativtermin gefunden hat
 Nächstes 1:1: heute 10:30 CEST (einmalig verschoben); regulär Mo 08:45 CEST (nächstes 27.07)
