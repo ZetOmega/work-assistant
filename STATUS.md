@@ -1,37 +1,33 @@
-# STATUS — Stand Di 21.07.2026, 08:03 Uhr CEST (alle Zeiten CEST)
+# STATUS — Stand Di 21.07.2026, 09:14 Uhr CEST (alle Zeiten CEST)
 
 ## 🔥 Heute (Di 21.07)
 - **Keine Kalendertermine.** Tag ist frei planbar.
-- Informell: **Robert durch die Flink-SLA-Rückanalyse führen** (Henry-Wunsch, „morgen Vormittag" = heute Vormittag; Henry selbst erst ab Nachmittag).
+- Informell: **Robert durch die Flink-SLA-Rückanalyse führen** (Henry-Wunsch, „morgen Vormittag" = heute Vormittag; Henry selbst erst ab Nachmittag). Noch kein Beleg für Durchführung.
 
-## ✅ Seit letztem Lauf geklärt / vorangekommen (seit Mo 20.07 10:23)
-- **Mobilfunk-/Internet-Rechnungen eingesammelt** — Anna/Buchhaltung lieferte O2, Telekom, Vodafone & HIGH (Juni) am 20.07 15:05–15:07 („solltest du jetzt alle aus dem letzten Monat haben"). Quelle: buchhaltung@smart-velo.com.
-- **greendevice.eco Vor-Ort-Termin fix im Kalender** — Do 23.07 10:00–14:00 CEST (+ „get to know" 10:15–11:15), Venloer Str. 515.
-- **Celine → o2-Rechnung/Kundenkennzahl** — o2-Rechnung ist über Anna angekommen (teilweise erledigt).
-- **Flink-SLA-Rückanalyse** — Philipp hat Ergebnisse 20.07 14:38 präsentiert (Excel + zip zur Gegenrechnung).
-- **greendevice Verwaltungszugang/MDM geklärt (21.07)** — verwalten Geräte komplett, K.O.-Kriterium erfüllt.
+## ✅ Seit letztem Lauf geklärt / vorangekommen (seit Di 21.07 08:03)
+- **Mobilfunk-Rechnungen final abgehakt** — Philipp bestätigt Anna 21.07 08:15 CEST „Vielen Dank, damit kann ich arbeiten!". Thema Rechnungseinsammlung abgeschlossen.
 
 ## ⏳ Weiter offen
-- **ERP/OBS** — 1:1 mit Konrad Mo 10:30 lief vermutlich (kein Chat-Beleg); Ergebnis zu klareres OBS-Angebot + Alternativtermin **unbestätigt**.
+- **ERP/OBS** — 1:1 mit Konrad Mo 20.07 10:30 lief vermutlich (kein Chat-Beleg); klareres OBS-Angebot + Alternativtermin **unbestätigt** (seit Mo).
 - **Arianna/Papaya-Tech-Team → Read-Write-API-Key** — weiterhin offen.
+- **Henry-Wunsch: Robert durch Flink-Analyse führen** — heute Vormittag, noch offen (seit Mo 17:37).
 
-## 🆕 Neu seit letztem Lauf
-- **To-Do „Showroom bike steckbrief"** neu (Mo 20.07 10:45 CEST erstellt, kein Fälligkeitsdatum).
-- **FordPro Admin-Zugänge (KFZ-Tracking-Dashboard) für Eric & Philipp** — Philipp an Robert (20.07 14:30); Vollzugriff/Admin, um API-Keys anzulegen & Datenanbindung zu testen. → wartet auf Robert.
-- **Henry (20.07 17:37):** bittet Philipp, Robert heute Vormittag durch die Flink-Analyse zu führen.
-- **Papaya-Eskalations-Mails [MUSTER]** (20.07) — Anomalie „Sweep abgebrochen" (37 Stufe-1-Claims > Schwelle 25, zurückgerollt) + Test-Ticket FLGL-9999. Markiert [MUSTER]/Test — Relevanz für Realbetrieb (unbestätigt).
+## 🆕 Neu seit letztem Lauf (08:03 → 09:14)
+- **Papaya-Eskalations-Welle (08:53 CEST)** — Schwung Mails von noreply@smartvelo-mobility.com: Tickets „7 Tage ohne Bearbeitung STUFE 1" (FLGL-30990, -31060, -31036, -31029) + „Fallback: kein zuständiger Mechaniker" (FLGL-31041, -31035). „Umleitung aktiv" → würden eigentlich an mike/paul/eric/dominik/philip gehen. NICHT als [MUSTER] markiert — Realbetrieb-Relevanz prüfen (unbestätigt).
+- **Zahlung Claude-Abo (Philipp → Konrad, 08:14 CEST)** — Celines Karte geht nicht durch, Anbieter nimmt nur Kreditkarten. Philipp fragt Konrad nach Alternative → wartet auf Konrad.
 
 ## 🟡 Ich (Philipp) — Microsoft To-Do (6 offen, KEINE überfällig)
-- [ ] Showroom bike steckbrief — 🆕 (kein Datum)
+- [ ] Showroom bike steckbrief — (kein Datum)
 - [ ] Papaya api fix (labels-Feld im Update-Schema, undok. Rate-Limits 404 statt 429, Kommentar-Historie ~450 Tickets)
 - [ ] Telefonnummern verträge → greendevice.eco-Migration (Georgina: Voraussetzungen+Liste; Umstellung einleiten)
-- [ ] Jokubas anrufen — fällig ~23.07
+- [ ] Jokubas anrufen — fällig 23.07 (00:00 CEST)
 - [ ] Wissensdatenbank/Video-Anleitung Service — fällig 30.07
-- [ ] SharePoint-Restrukturierung: Ideen — fällig 30.08 (nicht mehr überfällig)
+- [ ] SharePoint-Restrukturierung: Ideen — fällig 30.08
 
 ## 🔵 Extern / wartet auf andere
-- [ ] Robert → FordPro-Admin-Zugänge einrichten
+- [ ] Robert → FordPro-Admin-Zugänge einrichten (seit 20.07 14:30)
 - [ ] Arianna/Papaya-Tech-Team → Read-Write-API-Key
+- [ ] Konrad → Alternative Zahlungsmethode Claude-Abo (seit 21.07 08:14)
 
 ## 📅 Nächste Termine (alle CEST)
 - Mi 22.07 · KSK Drehtag (ganztägig)
@@ -40,11 +36,12 @@
 - Mo 27.07 · 08:45–09:00 Konrad x Philipp (Teams) · 12:00–12:15 Weekly x Büro Köln
 
 ## ✅ Zuletzt erledigt
-- Mobilfunk-Rechnungen (O2/Telekom/Vodafone/HIGH) von Anna erhalten (20.07) · greendevice-Termin fix (Do 23.07) ·
-  „Nils aes" (20.07) · Robert-Mobilfunkvertrag regelt er selbst · unbezahlte Std → 5 Urlaubstage (Personio) ·
-  Drucker (Kyocera) + Kamera (Reolink TrackMix WiFi) bestellt (20.07) · Odoo-Demo (14.07) · externer-Absender-Banner (17.07)
+- Mobilfunk-Rechnungen final abgehakt (21.07) · Rechnungen (O2/Telekom/Vodafone/HIGH) von Anna erhalten (20.07) ·
+  greendevice-Termin fix (Do 23.07) · „Nils aes" (20.07) · Robert-Mobilfunkvertrag regelt er selbst ·
+  unbezahlte Std → 5 Urlaubstage (Personio) · Drucker (Kyocera) + Kamera (Reolink TrackMix WiFi) bestellt (20.07) ·
+  Odoo-Demo (14.07) · externer-Absender-Banner (17.07)
 
 ## ⚠️ Blinde Flecken
 - Ergebnis 1:1 Konrad (Mo 10:30) nicht belegt (kein Chat, evtl. Call).
-- Teams-Suche durch Graph-429 nur teilweise — nicht alle 45 Chats gescannt.
-- Klimageräte-Status, neue Chat-Kontakte weiter ungeprüft.
+- Papaya-Eskalations-Welle: Realbetrieb vs. Test/Muster nicht sicher unterschieden.
+- Teams-Suche durch Graph-429 nur teilweise. Klimageräte-Status, neue Chat-Kontakte weiter ungeprüft.
