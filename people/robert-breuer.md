@@ -16,4 +16,4 @@ Flink-Datenpaket/Service-Analyse (vertraulich) · Jobvalley-Protokolle/Übergabe
 15.07 Papaya-Weekly (mit Lukas) ab jetzt freitags 11:00 CEST
 
 ## Offen / wartet auf
-Liste der Nicht-HIGH-Verträge liefern · FordPro-Admin-Zugänge (Eric+Philipp) einrichten · eigener Vertrag lief 20.07 aus — Klärung ob durch Anbieterwechsel aufgefangen · Protokoll-Öffnungsproblem lösen
+FordPro-Admin-Zugänge (Eric+Philipp) einrichten (Nicht-HIGH-Liste 21.07 gestrichen) · eigener Vertrag lief 20.07 aus — Klärung ob durch Anbieterwechsel aufgefangen · Protokoll-Öffnungsproblem lösen

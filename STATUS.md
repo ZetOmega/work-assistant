@@ -9,13 +9,11 @@
 - **greendevice.eco Vor-Ort-Termin fix im Kalender** — Do 23.07 10:00–14:00 CEST (+ „get to know" 10:15–11:15), Venloer Str. 515.
 - **Celine → o2-Rechnung/Kundenkennzahl** — o2-Rechnung ist über Anna angekommen (teilweise erledigt).
 - **Flink-SLA-Rückanalyse** — Philipp hat Ergebnisse 20.07 14:38 präsentiert (Excel + zip zur Gegenrechnung).
+- **greendevice Verwaltungszugang/MDM geklärt (21.07)** — verwalten Geräte komplett, K.O.-Kriterium erfüllt.
 
 ## ⏳ Weiter offen
 - **ERP/OBS** — 1:1 mit Konrad Mo 10:30 lief vermutlich (kein Chat-Beleg); Ergebnis zu klareres OBS-Angebot + Alternativtermin **unbestätigt**.
-- **Verwaltungszugang greendevice.eco** (K.O.-Kriterium) — beim Termin Do 23.07 zu klären, Göllner ist bisher ausgewichen.
-- **Robert → Liste der Nicht-HIGH-Verträge** — weiterhin offen.
 - **Arianna/Papaya-Tech-Team → Read-Write-API-Key** — weiterhin offen.
-- **Klimageräte** — seit 09.07 keine neue Meldung.
 
 ## 🆕 Neu seit letztem Lauf
 - **To-Do „Showroom bike steckbrief"** neu (Mo 20.07 10:45 CEST erstellt, kein Fälligkeitsdatum).
@@ -32,9 +30,8 @@
 - [ ] SharePoint-Restrukturierung: Ideen — fällig 30.08 (nicht mehr überfällig)
 
 ## 🔵 Extern / wartet auf andere
-- [ ] Robert → Liste Nicht-HIGH-Verträge · FordPro-Admin-Zugänge einrichten
+- [ ] Robert → FordPro-Admin-Zugänge einrichten
 - [ ] Arianna/Papaya-Tech-Team → Read-Write-API-Key
-- [ ] Klimageräte → seit 09.07 keine Meldung
 
 ## 📅 Nächste Termine (alle CEST)
 - Mi 22.07 · KSK Drehtag (ganztägig)
