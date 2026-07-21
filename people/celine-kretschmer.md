@@ -5,10 +5,11 @@ Rolle: Executive Assistant / HR · E-Mail: celine@smart-velo.com · Tel: 0151 53
 Orga-/HR-Drehscheibe: Onboarding, Feedbackgespräche (Personio), Team-Kommunikation, Handy-/eSIM-Liaison. Hat die Team-Rufnummern eingespeichert → Referenz fürs Aufräumen der Nummern-Liste.
 
 ## Aktuelle Themen
-Mobilfunk-Anbieterwechsel zu greendevice.eco (Pascal Göllner) koordiniert · Drucker-Bestellung (Kyocera) ·
+Mobilfunk-Anbieterwechsel zu greendevice.eco (Pascal Göllner) koordiniert ·
 Werbemails-Kampagne · restliche Rufnummern klären · o2-Rechnung/Kundenkennzahl raussuchen
 
 ## Letzte Aktionen
+20.07 Drucker (Kyocera Ecosys PA2101cwx) bestellt ✅ (Philipp bestätigt)
 17.07 Hat Philipp über Konrads Mobilfunk-Anbieterwechsel informiert (greendevice.eco/Göllner statt Bonamic), bat um CC
 14.07 Arbeitsstunden→Urlaubstage-Umwandlung mit Philipp erledigt: 5 Urlaubstage, in Personio umgesetzt ✅
 13.07 Drucker-Bestellung von Konrad zugewiesen bekommen (Kyocera Ecosys PA2101cwx)

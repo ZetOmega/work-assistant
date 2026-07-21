@@ -15,9 +15,12 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
   Vorschlag Mi 22.07 12–15 Uhr oder Do 23.07 10–14 Uhr. Braucht dafür **alle Rechnungen zu Mobilfunk,
   Internet etc.** Verwaltungszugang-Frage (K.O.) hat er NICHT beantwortet — offenbar Vor-Ort-Thema.
 
+## Entscheidung 20.07 (Konrad)
+- **Schon jetzt von HIGH wegmigrieren** (nicht abwarten). HIGH-Verträge laufen über Georgina Zang (mobilezone).
+
 ## Nächste Schritte
-- **Termin bestätigen**: Mi 22.07 kollidiert mit KSK-Drehtag (ganztägig) → Do 23.07 10–14 Uhr realistischer.
-- **Alle Mobilfunk-/Internet-Rechnungen zusammenstellen** für den Termin (mit Celine: o2/NetCologne).
+- **Termin steht: Do 23.07 10:00–14:00 CEST, Venloer Str. 515** (im Kalender; zusätzlich „get to know smartvélo" 10:15–11:15).
+- **✅ Rechnungen eingesammelt (20.07 15:05–15:07):** Anna/Buchhaltung lieferte doch selbst aus der Ablage — O2, Telekom, Vodafone & HIGH-Rechnungen (Juni). „Solltest du jetzt alle aus dem letzten Monat haben." Jeannette Hilcke/Bonamic verweigerte direkt (ohne Konrad-Freigabe, Mail im Spam) → über Anna gelöst. Für Termin Do bereit.
 - Verwaltungszugang (K.O.-Kriterium) beim Termin klären — Göllner ist bisher ausgewichen.
 - Robert lief 20.07 (heute!) mit seinem eigenen (privaten Bonamic-)Vertrag aus — Status unklar, prüfen
   ob das von der Migration überholt/aufgefangen wurde oder noch ein offenes Risiko ist.

@@ -9,9 +9,11 @@ Eigener Bonamic-Vertrag lief 20.07 (heute!) aus — Status seit der greendevice.
 Flink-Datenpaket/Service-Analyse (vertraulich) · Jobvalley-Protokolle/Übergabe · Papaya-API-Key-Thema
 
 ## Letzte Aktionen
+21.07 Flink-SLA-Rückanalyse fertig (Philipp 20.07 präsentiert); Henry-Wunsch: Philipp führt Robert heute Vormittag durch
+20.07 Philipp an Robert: FordPro Admin-Zugänge (KFZ-Tracking-Dashboard) für Eric & Philipp angefragt — Vollzugriff für API-Keys/Datenanbindung → wartet auf Robert
 17.07 Hat Philipp hochvertrauliches Flink-Service-Datenpaket geschickt, Auswertungsfragen beantwortet
 17.07 Weiterhin Protokoll-Öffnungsprobleme (PDF-Anzeigefehler bei Adobe) — Philipp: Problem scheint bei ihm zu liegen
 15.07 Papaya-Weekly (mit Lukas) ab jetzt freitags 11:00 CEST
 
 ## Offen / wartet auf
-Liste der Nicht-HIGH-Verträge liefern · eigener Vertrag lief 20.07 aus — Klärung ob durch Anbieterwechsel aufgefangen · Protokoll-Öffnungsproblem lösen
+Liste der Nicht-HIGH-Verträge liefern · FordPro-Admin-Zugänge (Eric+Philipp) einrichten · eigener Vertrag lief 20.07 aus — Klärung ob durch Anbieterwechsel aufgefangen · Protokoll-Öffnungsproblem lösen

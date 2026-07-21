@@ -11,7 +11,11 @@ zu Mobilfunk, Internet etc.** — Verwaltungszugang-Frage NICHT beantwortet (off
 17.07 Philipp hat angeschrieben: Infos zum Umzug erbeten + Verwaltungszugang (eSIM-Neuausstellung,
 Verträge selbst hinzufügen/entfernen) als K.O.-Kriterium genannt.
 
+## Letzte Aktionen (Forts.)
+20.07 ~11:00 Philipp hat geantwortet (Du-Form, „Hallo Pascal"): **Termin Do 23.07 ab 10 Uhr, Venloer Str. 515**.
+Rechnungsanfrage an Buchhaltung raus (HIGH mobile alle, o2 alle, Telekom, Vodafone, alles Internet — NetCologne bewusst raus).
+**Kalendereintrag angelegt: Do 23.07 10:00–11:30 CEST.**
+
 ## Offen / wartet auf
-- Philipp: Termin bestätigen (Mi 22.07 kollidiert mit KSK-Drehtag → **Do 23.07 realistischer**).
-- Philipp: alle Mobilfunk-/Internet-Rechnungen für den Termin zusammenstellen.
-- Verwaltungszugang (K.O.-Kriterium) beim Vor-Ort-Termin klären — weiterhin unbeantwortet.
+- Termin Do 23.07 10:00 — Göllner kommt vor Ort. Rechnungen von Buchhaltung bis Mi einsammeln.
+- Verwaltungszugang (K.O.-Kriterium) beim Termin klären — weiterhin unbeantwortet.
