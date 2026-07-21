@@ -5,8 +5,8 @@ Claude Code liest/aktualisiert diese Dateien, statt langen Chat-Kontext zu halte
 
 ## Grundregeln
 - Deutsch, knapp. Philipp schreibt kurz/direktiv → ausführen, nicht erklären. Bei Korrektur: anerkennen, weitermachen.
-- **Source of Truth = dieses Repo.** Nach jeder Session betroffene Dateien patchen + committen
-  (`checkin: YYYY-MM-DD` bzw. `update: <person|thema>`).
+- **Source of Truth = dieses Repo.** Nach jeder Session betroffene Dateien patchen.
+  Committen (`checkin: YYYY-MM-DD` bzw. `update: <person|thema>`) nur bei direktem Repo-Zugriff — s. Git-Regeln.
 - **Keine Passwörter/Secrets im Klartext** — nur Verweis „im Passwortmanager“.
 - Aktionen mit Außenwirkung (Mail senden, Teams posten, Termine ändern) **nur nach explizitem Go**.
 - Nur Fakten festhalten; Vermutungen als solche markieren (`(unbestätigt)`).
@@ -18,6 +18,15 @@ Claude Code liest/aktualisiert diese Dateien, statt langen Chat-Kontext zu halte
 - To-Do-Standardliste (Graph-ID):
   `AQMkADRjZWJmNzY5LTg4AGNhLTRlZmEtOGEyYS0yN2EwYzcwZmU1MTkALgAAA6R08GlsPYdLv4WCEQ32ZoMBAAZslv-uyBJMk_m5ZC2bXikAAAIBEgAAAA==`
 - MCP-Server: `Microsoft-Controller-SMARTVELO` (https://ops-mcp.smart-velo.de/mcp) + `Microsoft 365` (https://microsoft365.mcp.claude.com/mcp)
+
+## Git-Regeln (Lock-Files — hart erarbeitet, 2026-07-21)
+- Host-launchd `com.philipp.work-assistant-sync` committet + pusht ALLE Änderungen automatisch alle 5 min
+  (inkl. Stale-Lock-Cleanup). **Dateien schreiben reicht — nichts geht verloren.**
+- `git commit` nur bei direktem Repo-Zugriff (lokale Claude-Code-Session am Mac). Schlägt ein Commit wegen
+  `.git/*.lock` fehl: NICHT retry, NICHT Lock löschen — Tree dirty lassen, auto-sync übernimmt binnen 5 min.
+- Cowork-/VM-Mount-Umgebungen: Mount kann kein unlink (Dateien/Ordner unlöschbar) und cached veraltet
+  (zeigt Locks, die auf dem Host längst weg sind). Dort: nur Dateien schreiben; kein git; Aufräumarbeiten
+  (ZIP löschen etc.) an Host-Session melden statt selbst versuchen.
 
 ## Graph-Gotchas (hart erarbeitet — nicht neu ausprobieren)
 - **To-Do-Task PATCH direkt → 500** (Auto-`If-Match`). Immer `POST /$batch`,
