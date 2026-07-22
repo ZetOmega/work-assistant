@@ -1,55 +1,53 @@
-# STATUS — Stand Di 21.07.2026, 09:14 Uhr CEST (alle Zeiten CEST)
+# STATUS — Stand Mi 22.07.2026, 07:54 Uhr CEST (alle Zeiten CEST)
 
-## 🔥 Heute (Di 21.07) — Stand 15:56 CEST
-- **✅ Philipp x Robert 14:00–14:30 CEST** (Teams, Robert/Henry/Philipp) — Flink-SLA-Analyse mit Robert durchgegangen (Robert: „Erklär es mir da mal eine halbe Stunde"). Termin entstand erst heute Vormittag (Robert-Einladung, Philipp accepted 13:03). Danach 14:40 „aktuelle Version aus dem Meeting" an Henry/Robert verteilt. → **Henry-Wunsch erledigt.**
-- Sonst keine weiteren Termine heute (KSK Drehtag ist morgen).
+## 🔥 Heute (Mi 22.07)
+- **KSK Drehtag (ganztägig)** — keine getakteten Termine im Kalender.
+- **Jokubas anrufen** — To-Do fällig 23.07 00:00 CEST (also heute/morgen). Noch offen.
 
-## ✅ Seit letztem Lauf geklärt / vorangekommen (seit Di 21.07 08:03)
-- **Mobilfunk-Rechnungen final abgehakt** — Philipp bestätigt Anna 21.07 08:15 CEST „Vielen Dank, damit kann ich arbeiten!". Thema Rechnungseinsammlung abgeschlossen.
+## ✅ Seit letztem Lauf geklärt / vorangekommen (seit Di 21.07 ~16:00)
+- Nichts Neues gelöst. Über Nacht ruhig: nur MS-Systemmail (Passkeys/Auth) eingegangen, keine Aktion.
 
-## ⏳ Weiter offen
-- **ERP/OBS** — Philipp wartet auf Konrad für den **OBS-Termin** (ERP-Angebot). Offen seit Mo.
-- **Arianna/Papaya-Tech-Team → Read-Write-API-Key** — weiterhin offen.
+## ⏳ Weiter offen (kein Fortschritt seit letztem Lauf)
+- **Claude-Abo BLOCKIERT** — Konrad-Chat zuletzt Di 21.07 08:32 („ist dann so jetzt erstmal kurz"). Kein funktionierender Kreditkarten-Bezahlweg (Celines + Konrads Karte scheitern, keine Push-TAN). Philipp im Rate-Limit. Seit 21.07.
+- **ERP/OBS** — wartet auf Konrad für OBS-Termin (ERP-Angebot). Seit Mo 20.07. Kein neuer Chat.
+- **FordPro-Admin-Zugänge (Eric & Philipp)** — an Robert übergeben 20.07 14:30, Robert-Chat zuletzt 17.07. Seit 20.07.
+- **Papaya-RW-API-Key** — Arianna/Papaya-Tech-Team. Seit länger offen.
+- **Slack-Bot-Invite (Mathis)** — Mathis muss Channel-Freigabe kurz öffnen. Seit 21.07 15:51. (Workspace-Invite von Mathis ist da; Channel-Recht für Bot fehlt noch.)
+- **Ersatzteil-Sheet (Eric)** — Metabase-Zugang erledigt ✅ (21.07 09:50), Ersatzteil-Sheet weiter offen.
 
-## 🆕 Neu seit letztem Lauf (08:03 → 09:14)
-- **Papaya-Eskalations-Welle (08:53 CEST) — ✅ ERLEDIGT** (Philipp bestätigt 21.07). Tickets FLGL-30990/-31060/-31036/-31029 (7 Tage Stufe 1) + Fallback FLGL-31041/-31035 abgearbeitet.
-- **⚠️ Zahlung Claude-Abo BLOCKIERT** — Verlauf im Konrad-Chat (08:14–10:32): Celines Karte scheitert, dann Konrads Karte (keine Push-TAN → „wird nicht klappen"), Celines Karte erneut auch nicht. Ergebnis: Philipp läuft aktuell im Rate-Limit („muss warten bis Limit sich auffüllt"), Konrad „ist dann so jetzt erstmal kurz". **Kein funktionierender Bezahlweg (Kreditkarte) — echter Blocker, nicht nur Wartestand.**
-- **✅ Flink-SLA-Rückanalyse mit Robert durchgegangen** (Meeting 14:00–14:30), Ergebnis-Version 14:40 verteilt. Henry-Wunsch erledigt.
-- **jobvalley-Übergabeprotokolle 17.+20.07** (17 Stück) 10:08 als ZIP an Robert geschickt.
-- **🆕 TODO-Sammelliste Flink-Uptime/Eskalationstool** (Selbst-Mail 16:30 CEST → `topics/flink-uptime-tooling.md`). System ist live (Eskalationstool, Metabase-Dashboard 11 Cards, Slack-Pipeline). Offene Aktionen als Microsoft-To-Do angelegt: Mathis Slack-Invite · Eric Ersatzteil-Sheet teilen · KPI-Brainstorm mit **Eric**. Erledigt: Metabase-Zugang (Eric hat schon) ✅ · Bot-Profilbild ✅ · Papaya-Feature-Request-Mail raus ✅. Automatik: morgen 22.07 07:00 erster voll-live Eskalations-Sweep.
+## 🆕 Neu seit letztem Lauf
+- **MS Entra: Passkeys werden Default; MS-SMS/Voice-Auth wird zum 01.02.2027 abgeschaltet.** Systemmail 22.07 04:30 CEST. Informativ, kein Sofort-Handeln — mittelfristig MFA-Methoden im Tenant auf phishing-resistente Verfahren umstellen. → `topics/it-security.md`.
 
 ## 🟡 Ich (Philipp) — Microsoft To-Do (8 offen, KEINE überfällig)
+- [ ] Jokubas anrufen — fällig 23.07 00:00 CEST ⏰
 - [ ] Showroom-Bike-Steckbrief erstellen — (kein Datum)
 - [ ] Papaya-API: Feature-Request raus (21.07) — Antwort nachverfolgen
-- [ ] Slack-Bot in fleet-notifications einladen (via Mathis freischalten) — 🆕
-- [ ] Ersatzteil-Sheet von Eric einfordern & mit Service-Account teilen — 🆕
-- [ ] KPI-Brainstorm mit Eric terminieren — 🆕
-- [ ] Jokubas anrufen — fällig 23.07 (00:00 CEST)
+- [ ] Slack-Bot in fleet-notifications einladen (via Mathis freischalten)
+- [ ] Ersatzteil-Sheet von Eric einfordern & mit Service-Account teilen
+- [ ] KPI-Brainstorm mit Eric terminieren
 - [ ] Wissensdatenbank/Video-Anleitung für Service — fällig 30.07
 - [ ] SharePoint-Restrukturierung: Ideen sammeln — fällig 30.08
-- (entfernt 21.07: „Telefonnummern verträge" — Rufnummern-Migration macht **greendevice selbst**)
 
 ## 🔵 Extern / wartet auf andere
 - [ ] Robert → FordPro-Admin-Zugänge einrichten (seit 20.07 14:30)
 - [ ] Arianna/Papaya-Tech-Team → Read-Write-API-Key
 - [ ] Konrad → OBS-Termin (ERP) vereinbaren
-- [ ] Claude-Abo: Konrad richtet Push-TAN auf neuem Handy ein (Handy war kaputt) → dann Kreditkartenzahlung erneut. Bis dahin blockiert / Rate-Limit.
+- [ ] Claude-Abo: Konrad richtet Push-TAN auf neuem Handy ein → dann Kreditkartenzahlung erneut. Bis dahin blockiert / Rate-Limit.
 - [ ] Mathis → Slack-Channel-Freigabe kurz öffnen für Bot-Invite (seit 21.07 15:51)
-- [ ] Eric → Metabase-Zugang + Ersatzteil-Sheet teilen (Flink-Tooling, seit 21.07 16:30)
+- [ ] Eric → Ersatzteil-Sheet teilen (Flink-Tooling, seit 21.07 16:30)
 
-## 📅 Nächste Termine (alle CEST, aus Kalender 21.07 15:56)
+## 📅 Nächste Termine (alle CEST, aus Kalender 22.07 07:54)
 - Mi 22.07 · KSK Drehtag (ganztägig)
 - Do 23.07 · 10:15–11:15 „get to know smartvélo – greendevice" (vor Ort, Venloer Str. 515) · 15:00–15:30 Philipp x Eric (Teams)
 - Fr 24.07 · 11:00–11:30 Papaya x SMARTVÉLO Weekly (Teams)
 - Mo 27.07 · 08:45–09:00 Konrad x Philipp (Teams) · 12:00–12:15 Weekly x Büro Köln (Venloer Str. 515)
 
 ## ✅ Zuletzt erledigt
-- Mobilfunk-Rechnungen final abgehakt (21.07) · Rechnungen (O2/Telekom/Vodafone/HIGH) von Anna erhalten (20.07) ·
-  greendevice-Termin fix (Do 23.07) · „Nils aes" (20.07) · Robert-Mobilfunkvertrag regelt er selbst ·
-  unbezahlte Std → 5 Urlaubstage (Personio) · Drucker (Kyocera) + Kamera (Reolink TrackMix WiFi) bestellt (20.07) ·
-  Odoo-Demo (14.07) · externer-Absender-Banner (17.07)
+- Metabase-Zugang an Eric (21.07) · Flink-SLA-Analyse mit Robert durchgegangen + Version verteilt (21.07) ·
+  jobvalley-Protokolle als ZIP an Robert (21.07) · Mobilfunk-Rechnungen final abgehakt (21.07) ·
+  greendevice-Termin fix (Do 23.07) · Drucker + Kamera bestellt (20.07) · Odoo-Demo (14.07)
 
 ## ⚠️ Blinde Flecken
-- Ergebnis 1:1 Konrad (Mo 10:30) nicht belegt (kein Chat, evtl. Call).
+- Ergebnis 1:1 Konrad (Mo 20.07 10:30) weiter nicht im Chat belegt (Call).
+- „OBS Solutions"-Meeting-Chat existiert in Teams, aber kein OBS-Event in nächsten 7 Tagen — Status des OBS-Termins unklar (unbestätigt).
 - Papaya-Eskalations-Welle: Realbetrieb vs. Test/Muster nicht sicher unterschieden.
-- Teams-Suche durch Graph-429 nur teilweise. Klimageräte-Status, neue Chat-Kontakte weiter ungeprüft.
