@@ -13,6 +13,10 @@
   Kalenderkonflikt (der Termin kam so nie zustande) — nur offen, ob Konrad angerufen/einen Alternativtermin
   gefunden hat.
 
+- **22.07**: Philipp fragt Konrad 08:19 nach OBS-Verhandlungstermin — keine Antwort. Neue **„Kostenlose Odoo Demo"
+  Mo 27.07** (Carina Schuch, OBS Solutions) per Mail bestätigt (07:33) — Uhrzeit noch prüfen, nicht im Kalender.
+  (= wohl der gesuchte Beratungs-/Folgetermin; die eigentliche Preis-Verhandlung bleibt bei Konrad offen.)
+
 ## Offene Entscheidungen (bei Konrad/Eric)
 1. Go für OBS/Odoo? 2. Direktstart vs. volle Projektprognose 3. Buchhaltungs-Stunden streichen (neuer CFO)?
 4. Hosting 5. Stundenpreis/Paket-Verhandlung (100h-Kontingent?) 6. Internorga-Angebot noch einholen oder committen?
