@@ -2,7 +2,8 @@
 
 ## 🔥 Heute (Mi 22.07)
 - **KSK Drehtag (ganztägig)** — keine getakteten Termine im Kalender.
-- **Jokubas anrufen** — To-Do fällig 23.07 00:00 CEST (also heute/morgen). Noch offen.
+- **Jokubas anrufen** — harte Deadline **Do 23.07 16:30 CEST** (Philipp 22.07). To-Do-Datum auf 23.07 gesetzt.
+- Steckbriefe ggf. heute, vorerst zurückgestellt.
 
 ## ✅ Seit letztem Lauf geklärt / vorangekommen (seit Di 21.07 ~16:00)
 - Nichts Neues gelöst. Über Nacht ruhig: nur MS-Systemmail (Passkeys/Auth) eingegangen, keine Aktion.
@@ -19,11 +20,11 @@
 - **MS Entra: Passkeys werden Default; MS-SMS/Voice-Auth wird zum 01.02.2027 abgeschaltet.** Systemmail 22.07 04:30 CEST. Informativ, kein Sofort-Handeln — mittelfristig MFA-Methoden im Tenant auf phishing-resistente Verfahren umstellen. → `topics/it-security.md`.
 
 ## 🟡 Ich (Philipp) — Microsoft To-Do (7 offen, KEINE überfällig)
-- [ ] Jokubas anrufen — fällig 23.07 00:00 CEST ⏰
-- [ ] Showroom-Bike-Steckbrief erstellen — (kein Datum)
-- [ ] Papaya-API: Feature-Request raus (21.07) — Antwort nachverfolgen
-- [ ] Slack-Bot in fleet-notifications einladen (via Mathis freischalten)
-- [ ] KPI-Brainstorm mit Eric terminieren
+- [ ] Jokubas anrufen — ⏰ Deadline Do 23.07 16:30 CEST
+- [ ] Showroom-Bike-Steckbrief erstellen — ggf. heute, vorerst sidelined
+- [ ] Papaya-API: Feature-Request — nur warten (Antwort abwarten)
+- [ ] Slack-Bot in fleet-notifications einladen — wird vorher noch verbessert, dann via Mathis freischalten
+- [ ] KPI-Brainstorm mit Eric — verschoben auf nächste Woche / ggf. im Eric-Termin Do 23.07 15:00 CEST
 - [ ] Wissensdatenbank/Video-Anleitung für Service — fällig 30.07
 - [ ] SharePoint-Restrukturierung: Ideen sammeln — fällig 30.08
 
