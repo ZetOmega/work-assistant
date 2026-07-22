@@ -13,17 +13,16 @@
 - **FordPro-Admin-Zugänge (Eric & Philipp)** — an Robert übergeben 20.07 14:30, Robert-Chat zuletzt 17.07. Seit 20.07.
 - **Papaya-RW-API-Key** — Arianna/Papaya-Tech-Team. Seit länger offen.
 - **Slack-Bot-Invite (Mathis)** — Mathis muss Channel-Freigabe kurz öffnen. Seit 21.07 15:51. (Workspace-Invite von Mathis ist da; Channel-Recht für Bot fehlt noch.)
-- **Ersatzteil-Sheet (Eric)** — Metabase-Zugang erledigt ✅ (21.07 09:50), Ersatzteil-Sheet weiter offen.
+- ~~Ersatzteil-Sheet (Eric)~~ — **GESTRICHEN 22.07** (zu kompliziert, pro-Mechaniker-Sheets schlecht gepflegt). Metabase-Zugang war 21.07 schon erledigt ✅.
 
 ## 🆕 Neu seit letztem Lauf
 - **MS Entra: Passkeys werden Default; MS-SMS/Voice-Auth wird zum 01.02.2027 abgeschaltet.** Systemmail 22.07 04:30 CEST. Informativ, kein Sofort-Handeln — mittelfristig MFA-Methoden im Tenant auf phishing-resistente Verfahren umstellen. → `topics/it-security.md`.
 
-## 🟡 Ich (Philipp) — Microsoft To-Do (8 offen, KEINE überfällig)
+## 🟡 Ich (Philipp) — Microsoft To-Do (7 offen, KEINE überfällig)
 - [ ] Jokubas anrufen — fällig 23.07 00:00 CEST ⏰
 - [ ] Showroom-Bike-Steckbrief erstellen — (kein Datum)
 - [ ] Papaya-API: Feature-Request raus (21.07) — Antwort nachverfolgen
 - [ ] Slack-Bot in fleet-notifications einladen (via Mathis freischalten)
-- [ ] Ersatzteil-Sheet von Eric einfordern & mit Service-Account teilen
 - [ ] KPI-Brainstorm mit Eric terminieren
 - [ ] Wissensdatenbank/Video-Anleitung für Service — fällig 30.07
 - [ ] SharePoint-Restrukturierung: Ideen sammeln — fällig 30.08
@@ -34,7 +33,6 @@
 - [ ] Konrad → OBS-Termin (ERP) vereinbaren
 - [ ] Claude-Abo: Konrad richtet Push-TAN auf neuem Handy ein → dann Kreditkartenzahlung erneut. Bis dahin blockiert / Rate-Limit.
 - [ ] Mathis → Slack-Channel-Freigabe kurz öffnen für Bot-Invite (seit 21.07 15:51)
-- [ ] Eric → Ersatzteil-Sheet teilen (Flink-Tooling, seit 21.07 16:30)
 
 ## 📅 Nächste Termine (alle CEST, aus Kalender 22.07 07:54)
 - Mi 22.07 · KSK Drehtag (ganztägig)

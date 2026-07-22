@@ -10,7 +10,7 @@ SLA-Datenpaket/Rückanalyse (Vertrag/Daten); dieses File = die gebaute Software 
 ## 👤 Philipps Aktionen
 Offen (als Microsoft-To-Do angelegt 21.07):
 1. **Mathis: Slack-Invite freischalten** — beide `#fleet-notifications-*`-Channels: Mathis öffnet kurz „Wer darf Personen hinzufügen", Philipp tippt `/invite @smartvelo-fleet-reader`, Mathis stellt zurück. Danach autom. Backfill ab Mo 13.07 (KW29) + Live-Push. Fallbacks: Plan B (User-Token, 15 Min) / Plan C (Flink hostet App selbst).
-2. **Eric: Ersatzteil-Sheet einfordern** + mit `sheetreader@smartvelo-tools.iam.gserviceaccount.com` (Betrachter) teilen → schaltet Stufe-3-Ursachenanalyse + Bestelllisten-Verknüpfung frei.
+2. ~~Eric: Ersatzteil-Sheet einfordern~~ — **GESTRICHEN (22.07, Philipp)**: zu kompliziert — ein Sheet pro Mechaniker, schlecht gepflegt. Stufe-3-Ursachenanalyse/Bestelllisten-Verknüpfung entfällt vorerst; langfristig ggf. über Odoo-Anbindung (Backlog).
 3. **KPI-Brainstorm mit Eric** terminieren (nicht Robert — Korrektur 21.07) — bis dahin Personen-Auswertungen (Mechaniker-Scores) bewusst gesperrt, nur Hub-Ebene.
 
 Erledigt (21.07):
@@ -25,7 +25,7 @@ Erledigt (21.07):
 ## 📋 Backlog (bewusst geparkt)
 - Reopen-30-Tage-Regel im Eskalationstool.
 - Label-Langzeitschäden / Label-Wildwuchs-Detection-Card (Papaya-API nimmt keine Label-Writes → nur Read-Auswertung).
-- Odoo-Anbindung Bestelllisten (langfristig, ersetzt Ersatzteil-Sheet).
+- Odoo-Anbindung Bestelllisten (langfristig; Ersatzteil-Sheet-Ansatz 22.07 verworfen — pro-Mechaniker-Sheets zu unsauber).
 
 ## 🤖 Automatik (läuft unbeaufsichtigt)
 - Morgen (22.07) 07:00 CEST: erster voll-live Eskalations-Sweep.
