@@ -1,7 +1,7 @@
 # STATUS — Stand Do 23.07.2026, 08:22 Uhr CEST (alle Zeiten CEST)
 
 ## 🔥 Heute (Do 23.07)
-- **10:15–11:15 — greendevice „get to know smartvélo"** — vor Ort, Venloer Str. 515.
+- **greendevice / Pascal Göllner kommt heute vor Ort** (Mobilfunk-Migration) — Rechnungen liegen bereit; Verwaltungszugang/MDM ist der K.O.-Punkt, beim Termin final klären. Rahmen: „get to know smartvélo" **10:15–11:15**, Venloer Str. 515.
 - **15:00–15:30 — Philipp x Eric** (Teams). Gelegenheit für KPI-Brainstorm / Hub-Cleanup.
 - Jokubas-Anruf hängt weiter an Website-/Impressum-Fixes (To-Do fällig 30.07, nicht heute).
 
@@ -19,7 +19,7 @@
 - **Papaya-IoT-Sync (Robert)** — erst nach SUPLY-Bereinigung + Flink-Abgleich (Eric); Nachfassen nach Urlaub (To-Do fällig 31.08).
 
 ## 🆕/laufend
-- **greendevice-Mobilfunk**: Pascal 22.07 „Passt morgen nicht? Hatte mit Philipp für morgen was abgestimmt" (morgen = heute 23.07). Celine hat Di 28.07 15:00 / Do 30.07 15:00 vorgeschlagen — Terminfindung läuft. → `topics/mobilfunk.md`.
+- **greendevice-Mobilfunk**: **Pascal kommt HEUTE 23.07** (Philipp bestätigt). Celines Mail mit Di 28.07/Do 30.07 15:00 war versehentlich — hinfällig. → `topics/mobilfunk.md`.
 - **Cagatay Walk-in-Kaufinteressenten** (über Uber) — Kontakt/Karte weitergegeben, sie melden sich.
 - **Azure Copilot-Agent-Access bis 01.08.2026 prüfen** (MS-Mail) · **MS Entra Passkeys/SMS-Voice-Abschaltung 01.02.2027** — informativ, IT. → `it-security.md`.
 - Philipp: **Mitte August 2 Wochen Urlaub**.
@@ -53,5 +53,4 @@
 
 ## ⚠️ Blinde Flecken
 - Impressum-Fehlerliste: Status/Umfang unklar — ist die konsolidierte Liste raus an Lukas/Marketing?
-- greendevice: Pascals „mit Philipp für morgen abgestimmt" (23.07) — welcher Termin genau? Ggf. mit heutigem greendevice-Vor-Ort-Termin 10:15 verknüpft.
 - Ergebnis 1:1 Konrad (Mo 20.07) weiter nicht belegt (Call).
