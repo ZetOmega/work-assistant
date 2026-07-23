@@ -14,8 +14,11 @@
   gefunden hat.
 
 - **22.07**: Philipp fragt Konrad 08:19 nach OBS-Verhandlungstermin — keine Antwort. Neue **„Kostenlose Odoo Demo"
-  Mo 27.07** (Carina Schuch, OBS Solutions) per Mail bestätigt (07:33) — Uhrzeit noch prüfen, nicht im Kalender.
-  (= wohl der gesuchte Beratungs-/Folgetermin; die eigentliche Preis-Verhandlung bleibt bei Konrad offen.)
+  Mo 27.07** (Carina Schuch, OBS Solutions) per Mail bestätigt (07:33).
+- **23.07 (Bestätigung geprüft)**: Termin ist **Mo 27.07, 14:00–15:30 CEST**, Microsoft Teams. Booking-Notiz:
+  „Unser Geschäftsführer Konrad Essers würde gerne das Angebot besprechen und über Preis und eventuelle
+  Stundenpakete/Kombis sprechen" → **= der Preis-/Verhandlungstermin mit Konrad**. Nicht im Outlook-Kalender
+  (nur Bookings-Bestätigung + .ics) → ggf. Kalendereintrag anlegen. Blind-Fleck „Uhrzeit unklar" damit geschlossen.
 
 ## Offene Entscheidungen (bei Konrad/Eric)
 1. Go für OBS/Odoo? 2. Direktstart vs. volle Projektprognose 3. Buchhaltungs-Stunden streichen (neuer CFO)?
