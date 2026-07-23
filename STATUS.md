@@ -1,58 +1,57 @@
-# STATUS — Stand Mi 22.07.2026, 16:38 Uhr CEST (alle Zeiten CEST)
+# STATUS — Stand Do 23.07.2026, 08:22 Uhr CEST (alle Zeiten CEST)
 
-## 🔥 Heute (Mi 22.07)
-- **KSK Drehtag (ganztägig)** — keine getakteten Termine im Kalender.
-- **Jokubas anrufen** — harte Deadline **Do 23.07 16:30 CEST**. To-Do-Datum 23.07.
-- Steckbriefe vorerst zurückgestellt.
+## 🔥 Heute (Do 23.07)
+- **10:15–11:15 — greendevice „get to know smartvélo"** — vor Ort, Venloer Str. 515.
+- **15:00–15:30 — Philipp x Eric** (Teams). Gelegenheit für KPI-Brainstorm / Hub-Cleanup.
+- Jokubas-Anruf hängt weiter an Website-/Impressum-Fixes (To-Do fällig 30.07, nicht heute).
 
-## ✅ Seit letztem Lauf geklärt / vorangekommen (seit heute 07:54)
-- **FordPro-Zugänge ✅ LÄUFT** — Robert hat Philipp 08:47 eingeladen, MFA eingerichtet; Zugang funktioniert (Philipp bestätigt 22.07). Thema zu.
-- **OBS/Odoo: Verhandlungstermin fix** — „Odoo Demo" Mo 27.07 (OBS Solutions, Carina Schuch) ist der **Verhandlungstermin mit OBS** (Philipp bestätigt). Nicht mehr Wartestand auf Konrad. Uhrzeit noch prüfen (nicht im Kalender).
+## ✅ Seit letztem Lauf geklärt / vorangekommen (seit Mi 22.07 16:38)
+- **OBS/Odoo-Verhandlungstermin fix & Uhrzeit bestätigt** — Bookings-Bestätigung geprüft: **Mo 27.07 14:00–15:30 CEST**, Teams. Booking-Notiz: Konrad will Angebot/Preis/Stundenpakete besprechen → das IST der Verhandlungstermin. Blind-Fleck „Uhrzeit unklar" geschlossen. Steht aber (noch) NICHT im Outlook-Kalender.
+- Sonst ruhig: keine aktionsbedürftige Mail/Teams seit letztem Lauf (nur 1Password-Promo, Cagatay-Walk-in bereits bekannt).
 
 ## ⏳ Weiter offen (kein Fortschritt / weiter blockiert)
-- **Claude-Abo BLOCKIERT** — heute erneut versucht: Konrad 09:34 „probier meine Kreditkarte aus", Philipp 09:36 „beide Karten werden abgelehnt, nicht verifizierbar". Kein funktionierender Bezahlweg. Seit 21.07.
+- **Claude-Abo BLOCKIERT** — kein funktionierender Bezahlweg (beide Karten abgelehnt). Seit 21.07, keine Änderung.
+- **Impressum-Fehler (Website)** — Jerome: Handelsregister/Registergericht vermischt → Abmahn-Risiko. Philip Soltys hat 22.07 weiteres Website-Feedback geschickt. Philipp macht konsolidierte Fehlerliste, erst mit Lukas abstimmen, dann an Marketing + joku. Seit 22.07, kein neuer Fortschritt. → `topics/website.md`.
 - **Papaya-RW-API-Key** — Arianna/Papaya-Tech-Team. Offen.
-- **Slack-Bot-Invite (Mathis)** — wird vorher noch verbessert, dann Freigabe via Mathis.
-- **Impressum-Fehler (Website)** — Jerome meldet 13:54 (Teams): Handelsregister/Registergericht im Impressum vermischt → **Abmahn-Risiko**. Philipp macht konsolidierte Fehlerliste fertig, geht per Mail an Marketing + joku. Zuerst mit Lukas abstimmen. → `topics/website.md`.
+- **Slack-Bot-Invite (Mathis)** — Bot wird vorher verbessert, dann Freigabe via Mathis.
+- **Hanisch — Telefon/Zugang NetCologne-Glasfaser** — To-Do offen (22.07). → `topics/netcologne-netzwerk.md`.
+- **Eric: Hubs aus Dashboard raus** (DE_BER_RING, DE_CGN_INNE, DE_DUS_DERE, DE_DUS_PEMP, DE_HED_BERG, Storage Flink/SV, X_Gestohlene Bikes) — Flink-Tooling-Cleanup.
+- **Papaya-IoT-Sync (Robert)** — erst nach SUPLY-Bereinigung + Flink-Abgleich (Eric); Nachfassen nach Urlaub (To-Do fällig 31.08).
 
-## 🆕 Neu seit heute früh (Mail + Teams)
-- **NetCologne Glasfaser: To-Do „Hanisch — Telefon/Zugang"** angelegt (22.07). → `topics/netcologne-netzwerk.md`.
-- **Eric (Teams 13:49): Hubs müssen aus Dashboard raus** — DE_BER_RING, DE_CGN_INNE, DE_DUS_DERE, DE_DUS_PEMP, DE_HED_BERG, Storage Flink/SV, X_Gestohlene Bikes Flink_Open. → Flink-Tooling-Cleanup.
-- **Robert (Teams ~11:50): Papaya-IoT-Sync** — Philipp schlägt Skript vor, das alle Bikes einmalig aus Flink-Listen in Papaya korrigiert (Papaya = source of truth; einmalig ~20–30h wg. API-Limits, danach nur Änderungen). Robert positiv; erst nach SUPLY-Bereinigung + Flink-Abgleich (Eric). Abhängig von Papaya-API-Limits.
-- **Cagatay (Teams 14:45): Walk-in-Kaufinteressenten** (über Uber vermittelt) — Philipp hat deren Kontakt/Karte weitergegeben, sie melden sich.
-- Philipp: **Mitte August 2 Wochen Urlaub** (Robert-Chat).
-- **Azure: Copilot-Agent-Access bis 01.08.2026 prüfen** (MS-Mail) · **MS Entra Passkeys/SMS-Voice-Abschaltung 01.02.2027** — beide informativ, IT. → `it-security.md`.
-- greendevice-Mobilfunk: Celine koordiniert Termin mit Pascal (Di 28.07 15:00 / Do 30.07 15:00).
+## 🆕/laufend
+- **greendevice-Mobilfunk**: Pascal 22.07 „Passt morgen nicht? Hatte mit Philipp für morgen was abgestimmt" (morgen = heute 23.07). Celine hat Di 28.07 15:00 / Do 30.07 15:00 vorgeschlagen — Terminfindung läuft. → `topics/mobilfunk.md`.
+- **Cagatay Walk-in-Kaufinteressenten** (über Uber) — Kontakt/Karte weitergegeben, sie melden sich.
+- **Azure Copilot-Agent-Access bis 01.08.2026 prüfen** (MS-Mail) · **MS Entra Passkeys/SMS-Voice-Abschaltung 01.02.2027** — informativ, IT. → `it-security.md`.
+- Philipp: **Mitte August 2 Wochen Urlaub**.
 
-## 🟡 Ich (Philipp) — Microsoft To-Do (9 offen; Stand aus Outlook 16:50)
-- [ ] Jokubas anrufen — fällig **30.07** (bestätigt). Hängt an Website-/Impressum-Fixes.
-- [ ] Robert nach Urlaub nachfassen (Papaya-IoT-Sync) — 🆕 fällig 01.09 (nach Urlaub Mitte Aug + 2 Wo.)
-- [ ] Hanisch: Telefon/Zugang für Glasfaserausbau NetCologne — 🆕
-- [ ] Showroom-Bike-Steckbrief erstellen — vorerst sidelined
-- [ ] Papaya-API: Feature-Request — nur warten
-- [ ] Slack-Bot in fleet-notifications einladen — wird vorher verbessert, dann via Mathis
-- [ ] KPI-Brainstorm mit Eric — verschoben (nächste Woche / ggf. Eric-Termin Do 23.07 15:00)
-- [ ] Wissensdatenbank/Video-Anleitung für Service — Fälligkeit jetzt 29.11 (von Philipp verschoben)
+## 🟡 Ich (Philipp) — Microsoft To-Do (9 offen; KEINE überfällig)
+- [ ] Jokubas anrufen — fällig **30.07**. Hängt an Website-/Impressum-Fixes.
+- [ ] Robert nach Urlaub nachfassen (Papaya-IoT-Sync) — fällig 31.08.
+- [ ] Hanisch: Telefon/Zugang Glasfaserausbau NetCologne
+- [ ] KPI-Brainstorm mit Eric terminieren — ggf. heute im Eric-Termin 15:00 ansprechen
+- [ ] Slack-Bot in fleet-notifications einladen (via Mathis) — wird vorher verbessert
+- [ ] Papaya-API: Feature-Request — Antwort nachverfolgen
+- [ ] Showroom-Bike-Steckbrief erstellen — sidelined
 - [ ] SharePoint-Restrukturierung: Ideen sammeln — fällig 30.08
+- [ ] Wissensdatenbank/Video-Anleitung für Service — fällig 29.11
 
 ## 🔵 Extern / wartet auf andere
 - [ ] Arianna/Papaya-Tech-Team → Read-Write-API-Key
-- [ ] Claude-Abo: funktionierende Kreditkarte / Bezahlweg — beide Karten abgelehnt
+- [ ] Claude-Abo: funktionierender Bezahlweg — beide Karten abgelehnt
 - [ ] Mathis → Slack-Channel-Freigabe für Bot-Invite (nach Bot-Verbesserung)
 - [ ] Eric → SUPLY-Bereinigung + Flink-Abgleich (Voraussetzung für Papaya-Sync-Skript)
 
-## 📅 Nächste Termine (alle CEST, aus Kalender 22.07 16:38)
-- Mi 22.07 · KSK Drehtag (ganztägig)
-- Do 23.07 · 10:15–11:15 „get to know smartvélo – greendevice" (vor Ort, Venloer Str. 515) · 15:00–15:30 Philipp x Eric (Teams)
+## 📅 Nächste Termine (alle CEST, aus Kalender 23.07 08:22)
+- Do 23.07 · 10:15–11:15 greendevice „get to know" (Venloer Str. 515) · 15:00–15:30 Philipp x Eric (Teams)
 - Fr 24.07 · 11:00–11:30 Papaya x SMARTVÉLO Weekly (Teams)
-- Mo 27.07 · 08:45–09:00 Konrad x Philipp (Teams) · 12:30–12:45 Weekly x Büro Köln (Venloer Str. 515) · **OBS-Verhandlungstermin/Odoo (Zeit prüfen, nicht im Kalender)**
+- Mo 27.07 · 08:45–09:00 Konrad x Philipp (Teams) · 12:30–12:45 Weekly x Büro Köln (Venloer Str. 515) · **14:00–15:30 OBS/Odoo-Verhandlungstermin (Carina Schuch, Teams) — noch nicht im Kalender**
 
 ## ✅ Zuletzt erledigt
-- FordPro-Zugang läuft ✅ (22.07) · Metabase-Zugang an Eric (21.07) ·
+- OBS/Odoo-Termin-Uhrzeit bestätigt (23.07) · FordPro-Zugang läuft (22.07) · Metabase-Zugang an Eric (21.07) ·
   Flink-SLA-Analyse mit Robert + Version verteilt (21.07) · jobvalley-Protokolle an Robert (21.07) ·
-  Mobilfunk-Rechnungen final (21.07) · Drucker + Kamera bestellt (20.07) · Odoo-Demo (14.07)
+  Mobilfunk-Rechnungen final (21.07) · Drucker + Kamera bestellt (20.07)
 
 ## ⚠️ Blinde Flecken
-- Jokubas-Deadline: Outlook 30.07 vs. mündlich „morgen 16:30" — ungeklärt.
-- OBS-Verhandlungstermin Mo 27.07: genaue Uhrzeit unklar (nicht im Kalender).
-- Ergebnis 1:1 Konrad (Mo 20.07 10:30) weiter nicht belegt (Call).
+- Impressum-Fehlerliste: Status/Umfang unklar — ist die konsolidierte Liste raus an Lukas/Marketing?
+- greendevice: Pascals „mit Philipp für morgen abgestimmt" (23.07) — welcher Termin genau? Ggf. mit heutigem greendevice-Vor-Ort-Termin 10:15 verknüpft.
+- Ergebnis 1:1 Konrad (Mo 20.07) weiter nicht belegt (Call).
