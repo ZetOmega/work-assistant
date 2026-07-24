@@ -19,7 +19,8 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
 - **Schon jetzt von HIGH wegmigrieren** (nicht abwarten). HIGH-Verträge laufen über Georgina Zang (mobilezone).
 
 ## Nächste Schritte
-- **Termin steht: Pascal kommt HEUTE Do 23.07, Venloer Str. 515** (Philipp bestätigt 23.07). Celines Mail 22.07 mit Alternativvorschlägen Di 28.07/Do 30.07 15:00 war **versehentlich** — hinfällig. Rahmen: greendevice-„get to know" 10:15–11:15.
+- **✅ 23.07 vor Ort gelaufen** (greendevice-„get to know", Venloer Str. 515). Pascal (Mail 23.07 14:24): **nächster Termin 06.08 11:00**, „Thema Mobilfunk bearbeiten wir parallel." Celine bestätigt („passt prima", 23.07 14:26). Mobilfunk-Migration läuft also parallel zum 06.08-Termin weiter.
+- ~~Termin steht: Pascal kommt HEUTE Do 23.07~~ (erledigt). Celines Mail 22.07 mit Alternativvorschlägen Di 28.07/Do 30.07 15:00 war versehentlich — hinfällig.
 - **✅ Rechnungen eingesammelt (20.07 15:05–15:07):** Anna/Buchhaltung lieferte doch selbst aus der Ablage — O2, Telekom, Vodafone & HIGH-Rechnungen (Juni). „Solltest du jetzt alle aus dem letzten Monat haben." Jeannette Hilcke/Bonamic verweigerte direkt (ohne Konrad-Freigabe, Mail im Spam) → über Anna gelöst. Für Termin Do bereit.
 - ✅ **Verwaltungszugang/MDM geklärt (21.07, Philipp):** greendevice verwaltet die Geräte komplett inkl. MDM — K.O.-Kriterium erfüllt.
 - Robert lief 20.07 (heute!) mit seinem eigenen (privaten Bonamic-)Vertrag aus — Status unklar, prüfen
