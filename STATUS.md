@@ -12,7 +12,7 @@
 
 ## ⏳ Weiter offen (kein Fortschritt / weiter blockiert)
 - **Claude-Abo BLOCKIERT (seit 21.07, 3 Tage)** — Teams mit Celine 23.07: Zahlung nun über **Konrads Karte** versucht, geht ebenfalls nicht („weißt du warum Konrads Karte nicht geht?"). Passkey + Sign-in-Links 23.07 → Philipp arbeitet aktiv daran, aber **kein funktionierender Bezahlweg**.
-- **⚠️ Terminkonflikt Mo 27.07**: OBS/Odoo 14:00–15:30 (jetzt im Kalender ✅) überschneidet Philipp x Eric 15:00–15:30 → Eric ggf. verschieben.
+- **Terminkonflikt Mo 27.07 (Entscheidung):** Eric bleibt 15:00–15:30. OBS/Odoo 14:00–15:30 im Kalender ✅ — Philipp hofft auf kurzen Odoo-Termin (1 h reicht, endet ~15:00). Falls OBS überzieht → Überlappung mit Eric.
 - **Impressum-/Website-Fehlerliste** (seit 22.07) — kein neuer Fortschritt; konsolidierte Liste an Lukas/Marketing weiter offen. → `topics/website.md`.
 - **Hanisch — Telefon/Zugang NetCologne-Glasfaser** — nur Umfrage-Reminder von NetCologne (23.07), kein Zugang. To-Do offen (seit 22.07). → `topics/netcologne-netzwerk.md`.
 - **Slack-Bot-Invite (Mathis)** — kein Fortschritt (nur Slack-Onboarding-Promo).
@@ -27,7 +27,7 @@
 - Philipp: **Mitte August 2 Wochen Urlaub**.
 
 ## 🟡 Ich (Philipp) — Microsoft To-Do (10 offen; KEINE überfällig)
-- [ ] Lukas bom abhängigkeitsbuilder — **neu (23.07), kryptisch → präzisieren**
+- [ ] Kompatibilitäts-/Abhängigkeits-Tool für Lukas' Bike-Konfigurator bauen (Titel + Notiz präzisiert 24.07)
 - [ ] Jokubas anrufen — fällig **30.07**. Hängt an Website-/Impressum-Fixes.
 - [ ] Papaya-API: Feature-Request — Antwort nachverfolgen (**Arianna hat geantwortet → jetzt Beispiele + Accept-Header liefern**)
 - [ ] KPI-Brainstorm mit Eric terminieren — evtl. = Philipp x Eric Mo 27.07 15:00 (aber Konflikt OBS)
@@ -55,6 +55,6 @@
 
 ## ⚠️ Blinde Flecken
 - Jobvalley-Termin 10:00: findet er statt? (Calvin-Bestätigung offen, Eric raus).
-- Terminkonflikt Mo 27.07: Eric-Termin (15:00) vs. OBS (bis 15:30) — Eric verschieben?
+- Terminkonflikt Mo 27.07: Eric bleibt; hängt daran, ob OBS in 1 h (bis ~15:00) durch ist.
 - Impressum-Fehlerliste: Status/Umfang weiter unklar — konsolidierte Liste raus an Lukas/Marketing?
 - Ergebnis 1:1 Konrad (Mo 20.07) weiter nicht belegt (Call).
