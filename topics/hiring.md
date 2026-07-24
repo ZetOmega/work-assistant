@@ -7,4 +7,4 @@
 ## KI- & Automatisierungs-Engineer (23.07) — ⚠️ Konflikt
 - 23.07 13:36: Philipp schickt an Flo Stellenprofil **„KI- & Automatisierungs-Engineer (m/w/d)"** (nach Absprache mit Konrad) — „rechte Hand für KI, Tools & Systemintegration", Köln, Vollzeit, überwiegend vor Ort.
 - **ABER** Teams (Jakob Volksdorf, 23.07 09:27–09:33): Konrad hat das Profil anscheinend **nie gelesen** und engagiert gerade **greendevice**, das komplett Geräteverwaltung + Support übernimmt (~80% der Stelle). Konrad dachte wohl, es gehe um „einen weiteren KI-Fritzen". greendevice-Gründer kennt Konrad über Wilke.
-- → **Mit Konrad klären** (Mo-1:1 27.07): Ist die Position so noch gewollt / wie zuschneiden, wenn greendevice den Support-Teil übernimmt? (unbestätigt, ob Stelle gestoppt wird)
+- **✅ 24.07 mit Konrad geklärt:** Umstieg auf den **KI-Engineer** („KI-Fritzen"). Da greendevice die Geräteverwaltung/Support übernimmt, wird die Stelle auf KI/Automatisierung/Systemintegration zugeschnitten — nicht mehr der Sysadmin-/Support-Fokus. Profil „KI- & Automatisierungs-Engineer" gilt.

@@ -2,7 +2,7 @@
 
 ## 🔥 Heute (Fr 24.07)
 - **10:00–11:30 — Jobvalley.** Eric heute früh (05:30) via Teams: noch **keine finale Bestätigung von Calvin**, und Eric hat um 10 selbst „Ops Checkout" mit Konrad → **Eric ist NICHT dabei**. Vor Termin klären, ob er überhaupt stattfindet.
-- **11:30–12:00 — Papaya x SMARTVÉLO Weekly** (Teams). Robert hat heute 05:50 vorgeschlagen, das Weekly **neu aufzusetzen** (Robert + Lukas kombiniert) — Mail an Arianna, altes declined. Mitnehmen: Arianna-Antwort (unten).
+- **Papaya x SMARTVÉLO Weekly (11:30) — Philipp sieht keinen Sinn**, 30 Min verschwendet. Er beantwortet Ariannas Mail direkt schriftlich (Accept-Header + Beispiel-Requests) statt Meeting.
 
 ## ✅ Seit letztem Lauf geklärt / vorangekommen (seit Do 23.07 08:22)
 - **greendevice/Pascal war 23.07 vor Ort** — „get to know" gelaufen. Pascal (Mail 23.07 14:24): **nächster Termin 06.08 11:00**, Mobilfunk läuft parallel. Celine bestätigt („passt prima"). → `topics/mobilfunk.md`.
@@ -12,17 +12,16 @@
 
 ## ⏳ Weiter offen (kein Fortschritt / weiter blockiert)
 - **Claude-Abo BLOCKIERT (seit 21.07, 3 Tage)** — Teams mit Celine 23.07: Zahlung nun über **Konrads Karte** versucht, geht ebenfalls nicht („weißt du warum Konrads Karte nicht geht?"). Passkey + Sign-in-Links 23.07 → Philipp arbeitet aktiv daran, aber **kein funktionierender Bezahlweg**.
-- **OBS/Odoo-Verhandlung Mo 27.07 14:00–15:30 CEST NICHT im Kalender** (seit 23.07) — und **⚠️ Konflikt** mit neuem Philipp x Eric 15:00–15:30.
+- **⚠️ Terminkonflikt Mo 27.07**: OBS/Odoo 14:00–15:30 (jetzt im Kalender ✅) überschneidet Philipp x Eric 15:00–15:30 → Eric ggf. verschieben.
 - **Impressum-/Website-Fehlerliste** (seit 22.07) — kein neuer Fortschritt; konsolidierte Liste an Lukas/Marketing weiter offen. → `topics/website.md`.
 - **Hanisch — Telefon/Zugang NetCologne-Glasfaser** — nur Umfrage-Reminder von NetCologne (23.07), kein Zugang. To-Do offen (seit 22.07). → `topics/netcologne-netzwerk.md`.
 - **Slack-Bot-Invite (Mathis)** — kein Fortschritt (nur Slack-Onboarding-Promo).
-- **Eric: Hubs aus Dashboard raus** — kein Fortschritt.
 - **Papaya-IoT-Sync (Robert)** — erst nach SUPLY-Bereinigung + Flink-Abgleich; Nachfassen nach Urlaub (To-Do 31.08).
 
 ## 🆕/laufend
-- **Hiring-Konflikt (KI- & Automatisierungs-Engineer):** Philipp hat 23.07 13:36 Stellenprofil an Flo geschickt (nach Absprache Konrad). ABER Teams (Jakob, 23.07): **Konrad hat das Profil wohl nie gelesen** und engagiert nun **greendevice** für Geräteverwaltung + Support (~80% der Stelle). → mit Konrad klären (Mo-1:1). → `topics/hiring.md`.
+- **Hiring GEKLÄRT (24.07):** Konrad-Abstimmung erfolgt — Stelle wird auf den **KI-Engineer** zugeschnitten (greendevice übernimmt Geräteverwaltung/Support, daher kein Sysadmin-Fokus mehr). Profil „KI- & Automatisierungs-Engineer" gilt. → `topics/hiring.md`.
 - **greendevice-Mobilfunk:** on-site erledigt, nächster Termin 06.08 11:00. → `topics/mobilfunk.md`.
-- **Neues To-Do „Lukas bom abhängigkeitsbuilder"** (23.07 10:43) — kryptisch, präzisieren.
+- **To-Do „Lukas bom abhängigkeitsbuilder" (geklärt):** Lukas will langfristig einen **Bike-Konfigurator** bauen (komplex). Philipp baut ihm ein **Abhängigkeits-/Kompatibilitäts-Tool** (BOM): z. B. „Teil X gewählt → inkompatibel mit X, Y, Z, braucht aber A, B, C".
 - **Cagatay Walk-in-Kaufinteressenten** — Kontakt weitergegeben, sie melden sich.
 - **Azure Copilot-Agent-Access bis 01.08.2026 prüfen** · **MS Entra Passkeys/SMS-Voice-Abschaltung 01.02.2027** — informativ, IT. → `it-security.md`.
 - Philipp: **Mitte August 2 Wochen Urlaub**.
@@ -44,20 +43,18 @@
 - [ ] Claude-Abo: funktionierender Bezahlweg — beide Karten + Konrads Karte abgelehnt
 - [ ] Mathis → Slack-Channel-Freigabe für Bot-Invite (nach Bot-Verbesserung)
 - [ ] Eric → SUPLY-Bereinigung + Flink-Abgleich (Voraussetzung für Papaya-Sync-Skript)
-- [ ] Konrad → Klärung Hiring vs. greendevice-Auslagerung
 
 ## 📅 Nächste Termine (alle CEST, aus Kalender 24.07 08:46)
 - Fr 24.07 · 10:00–11:30 Jobvalley (Eric raus, Calvin-Bestätigung offen) · 11:30–12:00 Papaya x SMARTVÉLO Weekly (Teams)
-- Mo 27.07 · 12:30–12:45 Weekly x Büro Köln (Venloer Str. 515) · 13:15–13:30 Konrad x Philipp (Teams) · **14:00–15:30 OBS/Odoo-Verhandlung (Carina Schuch, Teams) — noch nicht im Kalender** · 15:00–15:30 Philipp x Eric (Teams) ⚠️ **überschneidet OBS**
+- Mo 27.07 · 12:30–12:45 Weekly x Büro Köln (Venloer Str. 515) · 13:15–13:30 Konrad x Philipp (Teams) · **14:00–15:30 OBS/Odoo-Verhandlung (Carina Schuch, Teams) — im Kalender ✅** · 15:00–15:30 Philipp x Eric (Teams) ⚠️ **überschneidet OBS**
 
 ## ✅ Zuletzt erledigt
-- greendevice on-site „get to know" (23.07) · OBS/Odoo-Termin-Uhrzeit bestätigt (23.07) · FordPro-Zugang läuft (22.07) ·
-  Metabase-Zugang an Eric (21.07) · Flink-SLA-Analyse mit Robert + Version verteilt (21.07) ·
-  Mobilfunk-Rechnungen final (21.07)
+- OBS-Termin in Kalender eingetragen (24.07) · Hiring mit Konrad geklärt → KI-Engineer (24.07) ·
+  Eric-Hubs-Dashboard-Cleanup durch (bestätigt 24.07) · greendevice on-site „get to know" (23.07) ·
+  OBS/Odoo-Termin-Uhrzeit bestätigt (23.07) · FordPro-Zugang läuft (22.07) · Metabase-Zugang an Eric (21.07)
 
 ## ⚠️ Blinde Flecken
 - Jobvalley-Termin 10:00: findet er statt? (Calvin-Bestätigung offen, Eric raus).
-- Hiring: greendevice übernimmt ~80% der geplanten Stelle → ist die KI-Engineer-Position noch gewollt? Mit Konrad klären.
+- Terminkonflikt Mo 27.07: Eric-Termin (15:00) vs. OBS (bis 15:30) — Eric verschieben?
 - Impressum-Fehlerliste: Status/Umfang weiter unklar — konsolidierte Liste raus an Lukas/Marketing?
 - Ergebnis 1:1 Konrad (Mo 20.07) weiter nicht belegt (Call).
-- To-Do „Lukas bom abhängigkeitsbuilder": Bedeutung unklar.

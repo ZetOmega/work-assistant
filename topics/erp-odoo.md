@@ -20,7 +20,7 @@
   Stundenpakete/Kombis sprechen" → **= der Preis-/Verhandlungstermin mit Konrad**. Nicht im Outlook-Kalender
   (nur Bookings-Bestätigung + .ics) → ggf. Kalendereintrag anlegen. Blind-Fleck „Uhrzeit unklar" damit geschlossen.
 
-- **24.07**: Termin steht **weiter NICHT im Outlook-Kalender**. **⚠️ Konflikt**: neuer „Philipp x Eric" Mo 27.07 **15:00–15:30** überschneidet die OBS-Verhandlung (14:00–15:30). → Kalendereintrag OBS anlegen + Eric-Termin verschieben/klären.
+- **24.07**: **✅ OBS-Termin in Outlook-Kalender angelegt** (Mo 27.07 14:00–15:30 CEST, auf Philipps Go). **⚠️ Konflikt bleibt**: „Philipp x Eric" Mo 27.07 15:00–15:30 überschneidet → Eric-Termin verschieben/klären.
 
 ## Offene Entscheidungen (bei Konrad/Eric)
 1. Go für OBS/Odoo? 2. Direktstart vs. volle Projektprognose 3. Buchhaltungs-Stunden streichen (neuer CFO)?
