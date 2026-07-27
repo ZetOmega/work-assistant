@@ -12,7 +12,7 @@
 - **Papaya-Weekly 24.07** — wie geplant abgesagt, schriftlich über Mail geklärt.
 
 ## 🆕 Neu
-- **Katharina Hahn verlässt die Firma — letzter Arbeitstag Do 30.07** (Teams „Venloer Str. 515", 21.07). Relevanz für Philipp (IT): **Offboarding** — M365-/Konten & Zugänge zum 30.07 deaktivieren, Lizenzen, ggf. Weiterleitungen/Einkauf-Übergabe (`einkauf@smart-velo.com` lief über Katharina). Kein To-Do dafür gefunden.
+- **Katharina Hahn verlässt die Firma — letzter Arbeitstag Do 30.07** (Teams „Venloer Str. 515", 21.07). **Plan (Philipp, 27.07):** Offboarding macht er **manuell nächste Woche**. **Postfach bleibt aktiv** (Fehlmails abfangen); **Weiterleitung an `einkauf@smart-velo.com` wird dann eingerichtet**. → kein To-Do nötig, kein Handlungsbedarf diese Woche.
 - **Papaya-Vertrag: mögliche Kündigung.** Robert 24.07 10:13: Papaya am 01.12.2024 scharf gestellt, **Vertrag 24 Monate** → Laufzeit bis ~30.11.2026, danach Verlängerung. Konrad 24.07 12:08: **„Wichtig, bitte Montag mit reinnehmen, dann schauen wir ob wir das kündigen."** Separater Termin **„Papaya Reminder – Vertragslaufzeit" Do 13.08 11:00–11:30 CEST** liegt im Kalender. → `topics/papaya.md`.
 - **Philip x Jens vorOrt** — neuer Termin **Mi 29.07 09:00–09:15 CEST (Teams)** (Konrad-Einladung 24.07).
 
@@ -51,7 +51,6 @@
 - 06.08 · 11:00 greendevice-Mobilfunk (nächster Termin)
 
 ## ⚠️ Blinde Flecken
-- Katharina Hahn Austritt 30.07: IT-Offboarding + Einkauf-Übergabe organisiert? (kein To-Do belegt).
 - Papaya-Kündigung: Fristen/Kündigungstermin (24-Monats-Vertrag ab 01.12.2024) — vor 13.08 prüfen, ob rechtzeitige Kündigung nötig.
 - Terminkonflikt Eric/OBS heute 15:00.
 - Ergebnis 1:1 Konrad (Mo 20.07) weiter nicht belegt.
