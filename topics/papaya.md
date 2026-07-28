@@ -12,6 +12,9 @@ Status: aktiv · Anbieter-Kontakt Engineering: Arianna
   kommt von ihnen („ihr müsst die Infos jederzeit parat haben"). Jurgen 12:56: hält die vorgeschlagene Arbeitsweise für
   **„unmöglich"**, führt selbst eine Excel-Tabelle; **Bike-IDs (vier Standorte) hoffentlich Ende dieser Woche**.
 
+- **Lösungsrichtung Philipp (28.07):** statt Papaya-Warenzuteilung vermutlich **Excel + Microsoft Planner**
+  (Sales führt die Liste, Planner für Zuordnung/Status) — noch nicht mit Sales abgestimmt *(unbestätigt)*.
+
 ## Letzte Aktionen
 - 27.07 — Sales-Bikes-Diskussion (Robert/Jurgen, Mail „Sales Bikes Papaya"); Entscheidung liegt bei Sales, Philipp technisch beratend.
 - 27.07 — Konrad: Papaya-Kündigung „Montag mit reinnehmen"; separater Termin 13.08 im Kalender.

@@ -1,4 +1,4 @@
-# Slack-Lizenzen / Slack-Adminrechte  · Status: aktiv 🔥 (neu 28.07.2026)
+# Slack-Lizenzen / Slack-Adminrechte  · Status: ✅ geklärt (28.07.2026)
 
 ## Stand
 - **27.07 15:44 — Robert Breuer (Prio hoch, Mail „Slack Account Konrad und weitere")**: Konrads Slack-Account
@@ -13,7 +13,7 @@
 - **Der SMARTVÉLO-Space ist geklärt**: Mitglieder **Eric, Robert, Philipp**, bezahlt, **eine Rechnung** — passt so, kein Aufräumbedarf.
 - **Konrads Account läuft vermutlich separat** *(unbestätigt)* → **Konrad muss selbst schauen**, wo sein Account/Abo hängt.
   Philipp hat dort keine Rechte und kündigt nichts fremd.
-- Damit ist Roberts Ask im Kern beantwortet; offen bleibt nur die Rückmeldung an Robert.
+- **Mit Robert am 27.07 „live“ (mündlich) geklärt** (Philipp, 28.07) → Thema geschlossen, keine Rückmeldung mehr offen.
 
 ## Zusammenhang
 - Blockiert auch das seit 21.07 offene To-Do **„Slack-Bot in fleet-notifications einladen (via Mathis)"** — beides
