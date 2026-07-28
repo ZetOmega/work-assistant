@@ -4,23 +4,25 @@
 Celine, Teams 24.07 11:28: „welche KI ist am besten geeignet für Arbeitsverträge etc.?" —
 auf Rückfrage: **DSGVO UND Qualität** („am liebsten beides").
 
-## Antwort/Empfehlung (Philipp, 28.07)
-**Zweistufig, weil „eine KI für Arbeitsverträge" die falsche Frage ist:**
+## Antwort/Empfehlung (Philipp, 28.07 — Rev. 2)
+**Copilot ist raus** (Philipp: Qualität zu schlecht). Zweistufig:
 
-1. **Verträge aus eigener, anwaltlich geprüfter Vorlage befüllen/anpassen/glätten**
-   → **Microsoft 365 Copilot im eigenen Tenant**. Daten bleiben in der EU Data Boundary, kein Modelltraining
-   auf Kundendaten, AVV über die Microsoft Online Services Terms. Braucht Copilot-Lizenzen.
-   Fallback ohne Copilot-Lizenz: **Claude Team/Enterprise** (kein Training auf Business-Daten, AVV verfügbar;
-   US-Anbieter → SCC/DPF-Grundlage dokumentieren).
-2. **Juristische Prüfung von Klauseln** (AGB-Kontrolle §§ 305 ff. BGB, Nachweisgesetz-Pflichtangaben,
-   Befristung TzBfG, Verfall-/Wettbewerbsklauseln) → dafür ist kein Allzweck-Chatbot gut genug.
-   Passendes Werkzeug wäre **Beck-Noxtua** (in Deutschland gehostet auf IONOS/Open Telekom Cloud,
-   BSI C5 / ISO 27001 / ISO 42001, Word-Add-in) — auf Juristen ausgelegt, lizenzkostenintensiv.
-   **Pragmatischer für ~41 MA:** einmalig eine Mustervorlage anwaltlich prüfen lassen, danach KI nur
-   zum Befüllen/Vergleichen einsetzen.
+1. **Arbeitspferd = Claude Team** (haben wir schon im Haus, klar beste Qualität bei langen Vertragstexten).
+   Rechtliche Basis: Anthropic stellt einen **DPA nach Art. 28 DSGVO** (= AVV) für Team/Enterprise/API,
+   in die Commercial Terms integriert; Drittlandtransfer über **SCCs**.
+   **Wichtige Einschränkung:** **kein EU-only-Processing im Standard** — echtes EU-Residency gäbe es nur über
+   AWS Bedrock / Google Vertex in EU-Regionen. Zero Data Retention gilt für API/Claude Code, **nicht** fürs
+   normale Team-Chat-Interface.
+   → **Arbeitsregel daraus:** Vertragsarbeit mit **Platzhaltern** ([Name], [Gehalt], [Geburtsdatum]);
+   echte Personendaten erst lokal in Word einsetzen. Damit ist der DSGVO-Punkt praktisch entschärft.
 
-**Hartes Nein:** private/kostenlose Consumer-Accounts mit echten Personendaten (Name, Gehalt, Geburtsdatum).
-Wenn es schnell gehen muss: Platzhalter verwenden ([Name], [Gehalt]) und erst lokal einsetzen.
+2. **Wenn HR echte Personendaten in die KI geben will** (Bestandsverträge prüfen o. Ä.) →
+   **Mistral Le Chat Pro/Team** als HR-Werkzeug: Server in Paris, **AVV ohne SCC-/Drittlandthematik**,
+   kein Training auf Pro/Business-Daten. Qualität für Vorlagenarbeit ausreichend, günstig.
+
+3. **Klauselprüfung (ob es hält)** ist kein KI-Thema: einmalig **Mustervorlage anwaltlich** prüfen lassen,
+   danach KI nur zum Befüllen/Vergleichen. Spezial-Tools (z. B. Beck-Noxtua, in DE gehostet) sind für ~41 MA
+   überdimensioniert und teuer.
 
 ## Flankierend nötig
 - AVV + Eintrag im Verzeichnis von Verarbeitungstätigkeiten; kurze KI-Nutzungsrichtlinie fürs Team.
