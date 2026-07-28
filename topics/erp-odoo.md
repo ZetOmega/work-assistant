@@ -31,6 +31,18 @@
   krankheitsbedingt verspätet, **fragt nach einem neuen Termin** → Alternativangebot zu OBS weiter im Rennen.
 - **27.07 08:52 — Neues To-Do „Recruiting via odoo"** (Odoo-Recruiting-Modul als Option, noch unkonkret).
 
+- **28.07 08:38 — Konrads Verhandlungsmail an Stefan Arens** (CC Celine, Philipp), Betreff „SMARTVELO x OBS".
+  Damit ist der Inhalt der Verhandlung vom 27.07 belegt. Konrads Forderungen:
+  1. **12-Monats-„Schlachtplan"** mit klar geregelten Preisen.
+  2. **145 € Einrichtung „so nicht machbar"** → Gegenvorschlag **100 € für 100 Stunden**, plus direkt **weitere 100 Stunden
+     zum gleichen Preis** (Volumen + Sicherheit für OBS).
+  3. **Vorabzahlungen** grundsätzlich möglich („lass mich wissen, was du brauchst").
+  4. **Workshop**: zahlt er nur ungern (= Termin zur Kundengewinnung); fragt nach Zeitansatz. Die 100 Stunden sollen die
+     **gesamte Einrichtung** abdecken — alternativ **Rabatt 1.350,00 € gegen den Workshop verrechnen**.
+  5. **Fixer Ansprechpartner** bei OBS — für ihn zentral („Verzögerungen sind sehr schwierig").
+  Argumentation: SMARTVÉLO verdoppelt sich jährlich, er muss der Gesellschaft den richtigen Partner nachweisen.
+- **28.07 08:26 — Philipp leitet „Kontakt Odoo OBS x smartvelo" weiter** (Lizenz-Kontakt Julia Bücker).
+
 ## Offene Entscheidungen (bei Konrad/Eric)
 1. Go für OBS/Odoo? 2. Direktstart vs. volle Projektprognose 3. Buchhaltungs-Stunden streichen (neuer CFO)?
 4. Hosting 5. Stundenpreis/Paket-Verhandlung (100h-Kontingent?) 6. Internorga-Angebot noch einholen oder committen?

@@ -1,4 +1,9 @@
-# STATUS — Stand Di 28.07.2026, 08:22 Uhr CEST (alle Zeiten CEST)
+# STATUS — Stand Di 28.07.2026, 09:06 Uhr CEST (alle Zeiten CEST)
+
+## 🔔 Neu seit 08:22 (Pull 09:06)
+- **Konrad hat die OBS-Verhandlung schriftlich nachgezogen** — Mail „SMARTVELO x OBS" an Stefan Arens, 28.07 08:38, **CC Celine + Philipp**: 12-Monats-Schlachtplan gefordert; **145 € Einrichtung abgelehnt** → Gegenangebot **100 € für 100 Stunden + direkt weitere 100 Stunden zum gleichen Preis**; Vorabzahlung möglich; **Workshop** nur, wenn die 100 h die gesamte Einrichtung abdecken — sonst **Rabatt 1.350 € gegen den Workshop verrechnen**; **fixer Ansprechpartner** bei OBS als Bedingung. → Ball bei OBS. *(Blinder Fleck „Verhandlungsergebnis 27.07" damit geschlossen.)*
+- **Philipp 08:26**: „Kontakt Odoo OBS x smartvelo" weitergeleitet (Lizenzspur Julia Bücker).
+- Sommerfest-Anmeldung 08:47–08:50 mehrfach geändert (Ja/Nein/Ja, 0 Begleitpersonen) — Endstand **Ja**.
 
 ## 🔥 Heute (Di 28.07)
 - **11:45–12:00 — Weekly x Büro Köln** (Venloer Str. 515). Serie liegt diese Woche auf Dienstag (Zeiten wandern weiterhin; nächste Instanz Mo 03.08 12:00).
@@ -52,7 +57,7 @@
 - Do 17.09 · ab 17:00 SMARTVÉLO-Sommerfest (Rosa, Brüsseler Platz 1)
 
 ## ⚠️ Blinde Flecken
-- **Ergebnis der OBS/Odoo-Verhandlung 27.07** nicht schriftlich belegt (Preis/Stundenpaket/Go?) — nur der Lizenz-Folgekontakt ist dokumentiert.
+- **OBS: Reaktion auf Konrads Gegenangebot** (100 €/100 h, Workshop-Verrechnung, fixer Ansprechpartner) — Antwort steht aus; wer zieht nach, wenn Stefan sich nicht zeitnah meldet?
 - **Slack-Adminrechte**: unklar, bei wem sie liegen (Philipp hat keine) — blockiert Lizenz-Kündigung und Bot-Invite.
 - Papaya-Kündigungsfrist weiter ungeprüft.
 - Impressum-Fehlerliste: Status/Umfang weiter unklar.
