@@ -43,6 +43,14 @@
   Argumentation: SMARTVÉLO verdoppelt sich jährlich, er muss der Gesellschaft den richtigen Partner nachweisen.
 - **28.07 08:26 — Philipp leitet „Kontakt Odoo OBS x smartvelo" weiter** (Lizenz-Kontakt Julia Bücker).
 
+- **28.07 15:20 — Philipp an Julia Bücker (Odoo)**: Lizenzgespräch diese Woche angefragt; Hinweis, dass Konrad einen
+  schnellen Abschluss will und die bisherige Kommunikation mit Odoo direkt unbefriedigend war.
+- **28.07 15:35 — Julia Bücker antwortet**: Terminangebot **Mi 29.07 10:15–12:00**, alternativ **15:00** oder **16:30**,
+  sonst nächste Woche. Will im Termin auch Feedback zu den bisherigen Odoo-Erfahrungen. Kalender Mi ist frei
+  (nur 09:00–09:15 Jens/CFO) → kein Konflikt.
+- **28.07 15:44 — Philipp bestätigt: Lizenztermin Mi 29.07 16:30 CEST**, Julia soll konrad@smart-velo.com direkt
+  mit einladen. → Kalendereinladung von Odoo-Seite steht noch aus.
+
 ## Offene Entscheidungen (bei Konrad/Eric)
 1. Go für OBS/Odoo? 2. Direktstart vs. volle Projektprognose 3. Buchhaltungs-Stunden streichen (neuer CFO)?
 4. Hosting 5. Stundenpreis/Paket-Verhandlung (100h-Kontingent?) 6. Internorga-Angebot noch einholen oder committen?
