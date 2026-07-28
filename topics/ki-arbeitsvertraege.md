@@ -1,5 +1,8 @@
 # KI für Arbeitsverträge (Anfrage Celine)  · Status: beantwortet 28.07.2026
 
+## Status
+28.07: Philipp hat direkt mit Celine gesprochen — Thema erledigt, keine offene Aktion.
+
 ## Anfrage
 Celine, Teams 24.07 11:28: „welche KI ist am besten geeignet für Arbeitsverträge etc.?" —
 auf Rückfrage: **DSGVO UND Qualität** („am liebsten beides").
@@ -13,8 +16,13 @@ auf Rückfrage: **DSGVO UND Qualität** („am liebsten beides").
    **Wichtige Einschränkung:** **kein EU-only-Processing im Standard** — echtes EU-Residency gäbe es nur über
    AWS Bedrock / Google Vertex in EU-Regionen. Zero Data Retention gilt für API/Claude Code, **nicht** fürs
    normale Team-Chat-Interface.
-   → **Arbeitsregel daraus:** Vertragsarbeit mit **Platzhaltern** ([Name], [Gehalt], [Geburtsdatum]);
-   echte Personendaten erst lokal in Word einsetzen. Damit ist der DSGVO-Punkt praktisch entschärft.
+   **Klarstellung (28.07):** Personenbezogene Daten sind in Claude **zulässig** — AVV nach Art. 28 + **SCC** als
+   Transfermechanismus (Art. 46) reichen; EU-only-Verarbeitung ist keine DSGVO-Voraussetzung. DPF-Status von
+   Anthropic ist widersprüchlich dokumentiert → SCC als tragenden Mechanismus dokumentieren.
+   Bedingungen: **Business-Account** (Team/Enterprise, kein Privat-/Free-Account), Eintrag im Verzeichnis von
+   Verarbeitungstätigkeiten, kurzes Transfer Impact Assessment, § 26 BDSG + Art.-13-Info an die Beschäftigten.
+   **Platzhalter ([Name], [Gehalt]) = Datenminimierung/Best Practice (Art. 5 Abs. 1 lit. c), kein Verbot.**
+   Echte Zurückhaltung nur bei **Art.-9-Daten**: Gesundheit, Schwerbehinderung, Konfession, Gewerkschaft.
 
 2. **Wenn HR echte Personendaten in die KI geben will** (Bestandsverträge prüfen o. Ä.) →
    **Mistral Le Chat Pro/Team** als HR-Werkzeug: Server in Paris, **AVV ohne SCC-/Drittlandthematik**,
