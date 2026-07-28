@@ -1,34 +1,40 @@
-# STATUS — Stand Mo 27.07.2026, 08:31 Uhr CEST (alle Zeiten CEST)
+# STATUS — Stand Di 28.07.2026, 08:22 Uhr CEST (alle Zeiten CEST)
 
-## 🔥 Heute (Mo 27.07)
-- **08:45–09:00 — Konrad x Philipp (Teams).** 1:1 wurde erneut verschoben — jetzt **morgens 08:45**, nicht mehr 13:15 (Konrad-Neueinladung 24.07, akzeptiert). Läuft gleich.
-- **13:00–13:15 — Weekly x Büro Köln** (Venloer Str. 515). Zeit geändert (vorher 12:30). Konrads neues Wochen-Meeting für den Kölner Standort.
-- **14:00–15:30 — OBS/Odoo-Verhandlung (Carina Schuch, Teams).**
-- **15:00–15:30 — Philipp x Eric (Teams).** ⚠️ **Überschneidet OBS** — Konflikt weiter ungelöst; hängt daran, ob OBS bis ~15:00 durch ist.
+## 🔥 Heute (Di 28.07)
+- **11:45–12:00 — Weekly x Büro Köln** (Venloer Str. 515). Serie liegt diese Woche auf Dienstag (Zeiten wandern weiterhin; nächste Instanz Mo 03.08 12:00).
+- **12:00–12:15 — „Kamera einrichten, Kalender einrichten"** (Konrad, Teams). Direkt anschließend an das Weekly. Inhalt: Kalender-Freigaben Sales-Team + Kamera-Setup.
 
-## ✅ Seit letztem Lauf geklärt / vorangekommen (seit Fr 24.07 08:46)
-- **Jobvalley-Termin lief 24.07 10:00** — „Anbindung der App, Datenaustausch & Pilotenstart" (Calvin, Google Meet, akzeptiert). Danach hat Philipp die **Rider-E-Mail-Vorlagen** geschickt: DE 24.07 18:14, **EN heute 27.07 06:21** an Alexander Grothe + Calvin Polenda. → `topics/jobvalley-app.md`.
-- **Papaya-API (Arianna):** Philipp am 24.07 07:39 geantwortet — **/comments-Endpoint funktioniert inzwischen** (404 war Accept-Header), Rate-Limit/Labels-Punkte adressiert. Ball wieder bei Arianna. To-Do bleibt zur Nachverfolgung offen.
-- **Papaya-Weekly 24.07** — wie geplant abgesagt, schriftlich über Mail geklärt.
+## ✅ Seit letztem Lauf geklärt / vorangekommen (seit Mo 27.07 08:31)
+- **Terminkonflikt Eric/OBS gelöst** — „Philipp x Eric" verschoben auf **Do 30.07 14:30–15:00 CEST** (Mail-Thread 27.07 14:06–14:09; Eric: „Das ist Donnerstag :D").
+- **OBS/Odoo-Verhandlung lief 27.07 14:00–15:30** (Konrad hat 13:41 angenommen, Teams 14:05 „kommst du rein?"). Ergebnis-Detail noch nicht schriftlich belegt *(unbestätigt)* — aber Folgeschritt steht: Stefan Arens (OBS) 17:33 → **Julia Bücker (jubu@odoo.com)** soll sich mit Philipp zu **Lizenzen + laufzeitbezogener Rabattierung** verbinden.
+- **Kalender-Freigabe für Konrad angeschoben** — Sammelmail „Kalender für Konrad freigeben" 27.07 13:51 verschickt; Umsetzung heute 12:00 im Termin mit Konrad.
+- **Pramod/Zoll** — Handyhalter-Bestellung bestätigt (kein Phishing), Gebühr wird gezahlt (Teams 27.07 09:00–09:10).
 
 ## 🆕 Neu
-- **Katharina Hahn verlässt die Firma — letzter Arbeitstag Do 30.07** (Teams „Venloer Str. 515", 21.07). **Plan (Philipp, 27.07):** Offboarding macht er **manuell nächste Woche**. **Postfach bleibt aktiv** (Fehlmails abfangen); **Weiterleitung an `einkauf@smart-velo.com` wird dann eingerichtet**. → kein To-Do nötig, kein Handlungsbedarf diese Woche.
-- **Papaya-Vertrag: mögliche Kündigung.** Robert 24.07 10:13: Papaya am 01.12.2024 scharf gestellt, **Vertrag 24 Monate** → Laufzeit bis ~30.11.2026, danach Verlängerung. Konrad 24.07 12:08: **„Wichtig, bitte Montag mit reinnehmen, dann schauen wir ob wir das kündigen."** Separater Termin **„Papaya Reminder – Vertragslaufzeit" Do 13.08 11:00–11:30 CEST** liegt im Kalender. → `topics/papaya.md`.
-- **Philip x Jens vorOrt** — neuer Termin **Mi 29.07 09:00–09:15 CEST (Teams)** (Konrad-Einladung 24.07).
+- **Slack-Lizenzen aufräumen (Robert, Prio hoch).** Robert 27.07 15:44: Konrads Slack-Account kündigen + Übersicht, wer noch angemeldet ist; nur Philipp/Eric/Robert brauchen Accounts. Philipp 15:45: „habe gar keine Rechte in Slack". Robert 15:46: „Wie kriegen wir das am Besten raus?" → **Antwort/Weg offen.** → `topics/slack-lizenzen.md`
+- **Sales Bikes in Papaya abbilden.** Robert 27.07 12:32: Rippelmeier, Cagatay Oguz, Jurgen de Jonge sollen aktiv auf Philipp zugehen, Entscheidung kommt von ihnen (Vorschlag: Bestand als „Waren-Zuteilung" pro Sales Manager). Jurgen 12:56: hält die Arbeitsweise für „unmöglich", führt eigene Excel; **Bike-IDs vier Standorte → Ende dieser Woche**. → `topics/papaya.md`
+- **Intero Technologies (Uli Kessel) 27.07 13:17** — krankheitsbedingt späte Antwort auf „Odoo für smartvélo – Kosten und Setup", **fragt nach neuem Termin**. → `topics/erp-odoo.md`
+- **Eric 27.07 10:03 (Teams):** „Digest keine Durchsichten" — Filter im Digest anpassen. Kleiner Fix, offen.
+- **SMARTVÉLO-Sommerfest 17.09.2026 ab 17:00**, Rosa, Brüsseler Platz 1, Köln — Philipp angemeldet (27.07 17:07).
+- **Neues To-Do „Recruiting via odoo"** (27.07 08:52) — Odoo-Recruiting-Modul als Option, noch unkonkret.
 
-## ⏳ Weiter offen (kein Fortschritt)
-- **Claude-Abo BLOCKIERT (seit 21.07, 6 Tage)** — kein neuer Bezahlweg seit 24.07 sichtbar; beide Karten + Konrads Karte abgelehnt.
-- **Impressum-/Website-Fehlerliste (seit 22.07, 5 Tage)** — kein Fortschritt; konsolidierte Liste an Lukas/Marketing weiter offen. → `topics/website.md`.
-- **Hanisch — Telefon/Zugang NetCologne-Glasfaser (seit 22.07)** — kein Zugang, To-Do offen. → `topics/netcologne-netzwerk.md`.
-- **Slack-Bot-Invite (Mathis)** — kein Fortschritt.
+## ⏳ Weiter offen / Wartet auf (kein Fortschritt)
+- **Claude-Abo BLOCKIERT (seit 21.07, 7 Tage)** — nur ein Anthropic-Sign-in-Link 27.07 16:59; kein neuer Bezahlweg. Wartet auf Konrads Push-TAN auf neuem Handy.
+- **Impressum-/Website-Fehlerliste (seit 22.07, 6 Tage)** — konsolidierte Liste an Lukas/Marketing weiter offen. → `topics/website.md`
+- **Hanisch — Telefon/Zugang NetCologne-Glasfaser (seit 22.07, 6 Tage)** — To-Do offen. → `topics/netcologne-netzwerk.md`
+- **Slack-Bot-Invite (Mathis)** — kein Fortschritt; hängt jetzt thematisch an der Slack-Lizenz-/Rechte-Frage.
+- **Papaya-Kündigungsfrist** — vor Termin Do 13.08 11:00 prüfen (24-Monats-Vertrag ab 01.12.2024, Originalvertrag ansehen).
 - **Papaya-IoT-Sync (Robert)** — erst nach SUPLY-Bereinigung + Flink-Abgleich; To-Do fällig 31.08.
-- **Terminkonflikt Eric/OBS heute** — s. oben.
+- **Arianna/Papaya** — Rückmeldung auf Feature-Request (labels, Rate-Limits) + RW-API-Key.
+- **Calvin/Jobvalley** — Rückmeldung zu den Rider-E-Mail-Vorlagen (DE 24.07, EN 27.07).
+- **Katharina Hahn — letzter Arbeitstag Do 30.07.** Offboarding macht Philipp manuell diese Woche; Postfach bleibt aktiv, Weiterleitung an `einkauf@smart-velo.com` einrichten. Läuft in 2 Tagen ab.
 
-## 🟡 Ich (Philipp) — Microsoft To-Do (10 offen; KEINE überfällig)
-- [ ] Kompatibilitäts-/Abhängigkeits-Tool für Lukas' Bike-Konfigurator bauen
+## 🟡 Ich (Philipp) — Microsoft To-Do (11 offen; KEINE überfällig)
 - [ ] **Jokubas anrufen — fällig 30.07** (nächste Fälligkeit; hängt an Website-/Impressum-Fixes)
+- [ ] Recruiting via odoo *(neu 27.07)*
+- [ ] Kompatibilitäts-/Abhängigkeits-Tool für Lukas' Bike-Konfigurator bauen
 - [ ] Papaya-API: Feature-Request — Antwort von Arianna nachverfolgen
-- [ ] KPI-Brainstorm mit Eric terminieren — evtl. = Philipp x Eric heute 15:00
+- [ ] KPI-Brainstorm mit Eric terminieren — passt in Do 30.07 14:30
 - [ ] Hanisch: Telefon/Zugang Glasfaserausbau NetCologne
 - [ ] Slack-Bot in fleet-notifications einladen (via Mathis)
 - [ ] Showroom-Bike-Steckbrief erstellen — sidelined
@@ -36,22 +42,18 @@
 - [ ] SharePoint-Restrukturierung: Ideen sammeln — fällig 30.08
 - [ ] Wissensdatenbank/Video-Anleitung für Service — fällig 29.11
 
-## 🔵 Extern / wartet auf andere
-- [ ] Arianna/Papaya → nach Philipps Antwort wieder Ball bei Arianna; RW-API-Key weiter offen
-- [ ] Claude-Abo: funktionierender Bezahlweg
-- [ ] Mathis → Slack-Channel-Freigabe für Bot-Invite
-- [ ] Eric → SUPLY-Bereinigung + Flink-Abgleich (Voraussetzung Papaya-Sync-Skript)
-- [ ] Calvin/Jobvalley → Rückmeldung zu Rider-E-Mail-Vorlagen
-
-## 📅 Nächste Termine (alle CEST, aus Kalender 27.07 08:31)
-- Mo 27.07 · 08:45–09:00 Konrad x Philipp (Teams) · 13:00–13:15 Weekly x Büro Köln (Venloer Str. 515) · 14:00–15:30 OBS/Odoo (Carina Schuch, Teams) · 15:00–15:30 Philipp x Eric (Teams) ⚠️ überschneidet OBS
+## 📅 Nächste Termine (alle CEST, aus Kalender 28.07 08:22)
+- Di 28.07 · 11:45–12:00 Weekly x Büro Köln (Venloer Str. 515) · 12:00–12:15 Kamera/Kalender einrichten (Konrad, Teams)
 - Mi 29.07 · 09:00–09:15 Philip x Jens vorOrt (Teams)
+- Do 30.07 · 14:30–15:00 Philipp x Eric (Teams) — verschoben von Mo 27.07 · **Katharina Hahn letzter Arbeitstag**
 - Fr 31.07 · 11:00–11:30 Papaya x SMARTVÉLO Weekly (Teams)
-- Do 13.08 · 11:00–11:30 Papaya Reminder – Vertragslaufzeit
-- 06.08 · 11:00 greendevice-Mobilfunk (nächster Termin)
+- Mo 03.08 · 08:45–09:00 Konrad x Philipp (Teams) · 12:00–12:15 Weekly x Büro Köln
+- Do 06.08 · 11:00 greendevice-Mobilfunk · Do 13.08 · 11:00–11:30 Papaya Reminder – Vertragslaufzeit
+- Do 17.09 · ab 17:00 SMARTVÉLO-Sommerfest (Rosa, Brüsseler Platz 1)
 
 ## ⚠️ Blinde Flecken
-- Papaya-Kündigung: Fristen/Kündigungstermin (24-Monats-Vertrag ab 01.12.2024) — vor 13.08 prüfen, ob rechtzeitige Kündigung nötig.
-- Terminkonflikt Eric/OBS heute 15:00.
-- Ergebnis 1:1 Konrad (Mo 20.07) weiter nicht belegt.
+- **Ergebnis der OBS/Odoo-Verhandlung 27.07** nicht schriftlich belegt (Preis/Stundenpaket/Go?) — nur der Lizenz-Folgekontakt ist dokumentiert.
+- **Slack-Adminrechte**: unklar, bei wem sie liegen (Philipp hat keine) — blockiert Lizenz-Kündigung und Bot-Invite.
+- Papaya-Kündigungsfrist weiter ungeprüft.
 - Impressum-Fehlerliste: Status/Umfang weiter unklar.
+- Ergebnis 1:1 Konrad (Mo 20.07) weiter nicht belegt.

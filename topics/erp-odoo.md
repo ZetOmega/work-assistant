@@ -22,10 +22,21 @@
 
 - **24.07**: **✅ OBS-Termin in Outlook-Kalender angelegt** (Mo 27.07 14:00–15:30 CEST, auf Philipps Go). Konflikt mit „Philipp x Eric" 15:00–15:30: **Eric bleibt**, Philipp hofft OBS ist in 1 h (bis ~15:00) durch. Falls es überzieht, Überlappung in Kauf genommen.
 
+- **27.07 (Verhandlung gelaufen)**: OBS/Odoo-Verhandlungstermin **14:00–15:30 CEST** fand statt (Konrad 13:41 angenommen,
+  Teams 14:05 „kommst du rein?"). Inhaltliches Ergebnis (Preis, Stundenpaket, Go/No-Go) **nicht schriftlich belegt (unbestätigt)**.
+- **27.07 17:33 — Stefan Arens (OBS, Functional Consultant)**: „Smartvelo evaluiert aktuell, ob Sie einen Odoo Workshop und
+  im Anschluss die Implementierung mit uns machen." → **Julia Bücker (jubu@odoo.com, Odoo)** soll sich mit Philipp
+  bzgl. **Lizenzen** verbinden; Fragen insbesondere zur **laufzeitbezogenen Rabattierung**. → Ball bei Philipp/Julia.
+- **27.07 13:17 — Intero Technologies (Uli Kessel)**: Antwort auf „Odoo für smartvélo – Frage zu Kosten und Setup",
+  krankheitsbedingt verspätet, **fragt nach einem neuen Termin** → Alternativangebot zu OBS weiter im Rennen.
+- **27.07 08:52 — Neues To-Do „Recruiting via odoo"** (Odoo-Recruiting-Modul als Option, noch unkonkret).
+
 ## Offene Entscheidungen (bei Konrad/Eric)
 1. Go für OBS/Odoo? 2. Direktstart vs. volle Projektprognose 3. Buchhaltungs-Stunden streichen (neuer CFO)?
 4. Hosting 5. Stundenpreis/Paket-Verhandlung (100h-Kontingent?) 6. Internorga-Angebot noch einholen oder committen?
 
 ## Nächste Schritte
-- Klären ob Konrad OBS angerufen / einen neuen Beratungstermin gefunden hat.
+- **Julia Bücker (jubu@odoo.com) zu Lizenzen + laufzeitbezogener Rabattierung kontaktieren.**
+- **Uli Kessel (Intero) Terminvorschlag schicken** oder Vergleichsangebot bewusst abschließen.
+- Ergebnis der Verhandlung vom 27.07 mit Konrad festhalten (Preis/Stundenpaket/Go).
 - OBS um klareres/aufgeschlüsseltes Angebot bitten (Konrads Wunsch).

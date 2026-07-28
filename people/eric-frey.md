@@ -9,6 +9,8 @@ Gemeinsame Claude-Projekte mit Philipp · ERP · Jobvalley-Protokoll-Redesign (K
 KFZ- & Werkzeugtracking (einheitliche technische Lösung gesucht) · Flink-Datenauswertung (Idee: Slack+Ticket-Daten verbinden)
 
 ## Letzte Aktionen
+27.07 1:1 auf Do 30.07 14:30–15:00 CEST verschoben (Konflikt mit OBS-Termin damit gelöst) — passt für KPI-Brainstorm
+27.07 10:03 Bitte: „Digest keine Durchsichten" — Durchsichten aus dem Digest filtern (offen)
 15.07 Neues Jobvalley-Protokolldesign live für Köln-Standort, Sign-off von Philipp erbeten
 15.07 Idee: Slack-Channel-Daten (Hub-Besuche/Reparaturen/Flink-Kommunikation) mit Ticket-Review verbinden
 14.07 Wollte diese Woche noch KFZ- & Werkzeugtracking gemeinsam angehen (einheitliche technische Lösung)

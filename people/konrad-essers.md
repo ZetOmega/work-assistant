@@ -8,6 +8,10 @@ Chef & Haupt-Entscheider. Kennt den mobilezone-CEO „gut“. Setzt Tempo, verpa
 ERP (Chefsache mit Eric) · App smartvélo · neue Stelle ausgeschrieben · Werbe-/Event-Kampagne
 
 ## Letzte Aktionen
+28.07 Termin „Kamera einrichten, Kalender einrichten" 12:00–12:15 CEST (Teams) — Umsetzung der Sales-Kalender-Freigaben + Kamera-Setup
+27.07 OBS/Odoo-Verhandlung 14:00–15:30 CEST mit dabei (13:41 angenommen); inhaltliches Ergebnis unbestätigt
+27.07 10:22 Neues „Weekly x Büro Köln" ausgerollt (übergeordnetes Wochenmeeting Standort Köln); Termine der Serie wandern
+24.07 11:34 Bittet um Einsicht in die Kalender der Sales-Leute → Philipp: braucht Zugriff auf die Laptops, macht es nächste Woche; Sammelmail „Kalender für Konrad freigeben" raus 27.07 13:51
 21.07 Claude-Abo-Zahlung: Konrads Kreditkarte scheitert an fehlender Push-TAN — Handy kaputtgemacht, auf neuem Gerät ist Push-TAN noch nicht eingerichtet. Celines Karte klappt auch nicht. Philipp aktuell im Rate-Limit. → warten, bis Konrad Push-TAN auf neuem Handy eingerichtet hat.
 21.07 1:1 vom Mo 10:30–11:00 lief vermutlich (kein Chat-Beleg); Ergebnis zu klarerem OBS-Angebot + Alternativtermin **unbestätigt**
 20.07 Heutiges 1:1 kurzfristig von 08:45 auf **10:30–11:00 CEST** verschoben (Chat 08:42: „lass um 10:30 sprechen, mehr Ruhe") — Philipp bestätigt
