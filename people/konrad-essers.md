@@ -8,6 +8,9 @@ Chef & Haupt-Entscheider. Kennt den mobilezone-CEO „gut“. Setzt Tempo, verpa
 ERP (Chefsache mit Eric) · App smartvélo · neue Stelle ausgeschrieben · Werbe-/Event-Kampagne
 
 ## Letzte Aktionen
+28.07 08:58 Teams: **„kamera hat geklappt danke"** + **„Cag Kalender hat geklappt danke"** + **„jetzt nur noch Joshua"** → Kamera + Cagatays Kalenderfreigabe erledigt, offen nur noch Joshua Rippelmeier
+28.07 08:38 Verhandlungsmail „SMARTVELO x OBS" an Stefan Arens (CC Celine, Philipp): 12-Monats-Plan, 145 € Einrichtung abgelehnt, 100 €/100 h + weitere 100 h, Workshop gegen 1.350 € Rabatt verrechnen, fixer Ansprechpartner
+27.07 1:1 lief als Call **08:46–09:03 CEST (17:31 Min)**, von Konrad gestartet
 28.07 Termin „Kamera einrichten, Kalender einrichten" 12:00–12:15 CEST (Teams) — Umsetzung der Sales-Kalender-Freigaben + Kamera-Setup
 27.07 OBS/Odoo-Verhandlung 14:00–15:30 CEST mit dabei (13:41 angenommen); inhaltliches Ergebnis unbestätigt
 27.07 10:22 Neues „Weekly x Büro Köln" ausgerollt (übergeordnetes Wochenmeeting Standort Köln); Termine der Serie wandern

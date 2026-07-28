@@ -9,6 +9,11 @@ Mobilfunk-Anbieterwechsel zu greendevice.eco (Pascal Göllner) koordiniert ·
 Werbemails-Kampagne · restliche Rufnummern klären · o2-Rechnung/Kundenkennzahl raussuchen
 
 ## Letzte Aktionen
+27.07 10:15 Philipp schickt ihr das Adressbuch-Tool (tools.smartvelo-mobility.com/adressbuch)
+24.07 12:28 Google-Business-Zugang: Max + Marv brauchen ihn „recht dringend"; fragt ob Henry ihn noch hat, will bei Konrad nachfragen → topics/google-business-profil.md
+24.07 12:02 Klärt auf: **„Jens" = der neue CFO** (Termin „Philip x Jens vorOrt" Mi 29.07 09:00 CEST)
+24.07 11:28 Bittet Philipp herauszufinden, **welche KI sich am besten für Arbeitsverträge eignet** (Philipp fragt nach: DSGVO oder Qualität → „am liebsten beides") — offen
+23.07 15:19 Zur Claude-Zahlung: **„Das Konto ist nicht gedeckt"** → Kartenablehnungen sind ein Deckungs-, kein Karten-/Technikproblem
 20.07 Drucker (Kyocera Ecosys PA2101cwx) bestellt ✅ (Philipp bestätigt)
 17.07 Hat Philipp über Konrads Mobilfunk-Anbieterwechsel informiert (greendevice.eco/Göllner statt Bonamic), bat um CC
 14.07 Arbeitsstunden→Urlaubstage-Umwandlung mit Philipp erledigt: 5 Urlaubstage, in Personio umgesetzt ✅

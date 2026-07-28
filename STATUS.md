@@ -1,5 +1,15 @@
 # STATUS — Stand Di 28.07.2026, 09:06 Uhr CEST (alle Zeiten CEST)
 
+## 🔔 Nachtrag Teams-Scan (vollständig, 09:35) — vorher übersehen
+- **Heute 08:58 (Konrad, Teams):** „kamera hat geklappt danke" · „Cag Kalender hat geklappt danke" · **„jetzt nur noch Joshua"**. → Der 12:00-Termin ist inhaltlich fast erledigt; **offen nur noch Joshua Rippelmeiers Kalenderfreigabe**.
+- **Claude-Zahlung, Ursache belegt:** Celine 23.07 15:19 — **„Das Konto ist nicht gedeckt."** Karte abgelehnt/gesperrt ist also ein **Deckungsproblem**, kein Technikproblem. Weiter blockiert (seit 21.07, 7 Tage).
+- **Slack halb geklärt (Philipp 28.07):** SMARTVÉLO-Space = **Eric, Robert, Philipp**, bezahlt, **eine Rechnung** → passt. **Konrads Account läuft vermutlich separat** *(unbestätigt)*, er muss selbst schauen. → nur noch Robert antworten.
+- **„Jens" = der neue CFO** (Celine 24.07 12:02) → Termin **Mi 29.07 09:00 „Philip x Jens vorOrt" ist das Kennenlernen mit dem neuen CFO**.
+- **🆕 Google-Business-Zugang (Celine, seit 24.07):** Max + Marv brauchen ihn „recht dringend"; im Konto hängt eine **unbekannte Telefonnummer**, Google-Support-Weg dauert Wochen. Celine fragt Konrad, evtl. hat **Henry** Zugang. → `topics/google-business-profil.md`
+- **🆕 Celine 24.07:** Welche **KI eignet sich für Arbeitsverträge** (DSGVO + Qualität)? — Bitte an Philipp, unbeantwortet.
+- **⚠️ Heute 15:30: „Sorosch"** — Jakob 23.07: „kommt voraussichtlich nächsten Dienstag um 15:30". Steht **nicht** in Philipps Kalender; ob Philipp teilnehmen soll, ist unklar *(unbestätigt)*.
+- Konrad-1:1 am 27.07 lief als Call **08:46–09:03 CEST (17:31 Min)**. Steffen hat die Bike-Renders (Lieferando/Flink/Dominos, transparent) am 22.07 geliefert ✅.
+
 ## 🔔 Neu seit 08:22 (Pull 09:06)
 - **Konrad hat die OBS-Verhandlung schriftlich nachgezogen** — Mail „SMARTVELO x OBS" an Stefan Arens, 28.07 08:38, **CC Celine + Philipp**: 12-Monats-Schlachtplan gefordert; **145 € Einrichtung abgelehnt** → Gegenangebot **100 € für 100 Stunden + direkt weitere 100 Stunden zum gleichen Preis**; Vorabzahlung möglich; **Workshop** nur, wenn die 100 h die gesamte Einrichtung abdecken — sonst **Rabatt 1.350 € gegen den Workshop verrechnen**; **fixer Ansprechpartner** bei OBS als Bedingung. → Ball bei OBS. *(Blinder Fleck „Verhandlungsergebnis 27.07" damit geschlossen.)*
 - **Philipp 08:26**: „Kontakt Odoo OBS x smartvelo" weitergeleitet (Lizenzspur Julia Bücker).
