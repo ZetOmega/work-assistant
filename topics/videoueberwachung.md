@@ -36,9 +36,12 @@
 - **Dritte TrackMix verworfen**: kann nur die statische Maske, die beim PTZ-Schwenk mitwandert und den
   falschen Bereich abdeckt. Philipp 29.07: **auf Firmware-Versprechen wird nicht gewartet** („wir kaufen
   keine Versprechen") → Reolink-Ticket entfällt, Entscheidung auf Basis des heute verfügbaren Funktionsumfangs.
-- **RLC-823S2** (16x Zoom) verworfen: **PoE only**. WLAN am Standort ist laut Philipp „1a, direkt neben AP",
-  und 16x Zoom ist auf 10–20 m Hofdistanz ohne Nutzen (16x zielt auf ~60 m/Kennzeichen). Kabelaufwand
-  kauft keine Funktion, die hier gebraucht wird.
+- **RLC-823S2** (16x Zoom) verworfen: **PoE only**. WLAN am Standort ist laut Philipp „1a, direkt neben AP".
+- **Hofmaß korrigiert (Philipp 29.07): Hof ist eher ~50 m lang**, nicht 10–20 m. Philipp bleibt bei der W.
+  → **Bedingung: Kamera nah am Bike-Lager montieren.** Dann ist die Distanz zum Schutzobjekt klein und 5x reicht.
+  4K/5x auf 50 m liefert **Detektion** („da bewegt sich was"), aber **keine verwertbare Identifikation**
+  (Gesicht/Kennzeichen). Falls die Kamera doch als Rundumblick für den ganzen Hof gedacht ist,
+  **Entscheidung neu aufmachen** → dann 823S2 + PoE.
 - Funktionaler Unterschied 823S1W ↔ 823S2 ist **allein der Zoom** (5x vs. 16x); 4K, PTZ-Bereich, dynamische
   Maske, Auto-Tracking, Erkennung, Spotlight, Sirene, 512 GB microSD, IP66 sind identisch.
 
