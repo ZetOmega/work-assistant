@@ -1,4 +1,4 @@
-# Google Business Profil / Unternehmensprofil-Zugang  · Status: aktiv (aufgenommen 28.07.2026)
+# Google Business Profil / Unternehmensprofil-Zugang  · Status: ✅ erledigt (29.07.2026)
 
 ## Stand
 - **24.07 (Teams Celine)**: Celine fragt nach dem **Google-Business-Account bzw. den Login-Daten**.
@@ -16,7 +16,8 @@
   neutrale Firmennummer wechseln). Zugangsdaten: **Passwortmanager**, nicht im Repo.
   → Google-Support-/Wiederherstellungsweg (Wochen) ist damit vom Tisch.
 
+- **✅ 29.07 — Zugang an Max + Marv weitergegeben** (Philipp). Thema damit **abgeschlossen**.
+
 ## Offen / wartet auf
-- Zugang an **Max + Marv** (complective/Marketing) weitergeben — war „recht dringend" (seit 24.07, 5 Tage).
-- Philipps Handynummer im Konto später auf eine **neutrale Firmennummer** umstellen.
+- Philipps Handynummer im Konto später auf eine **neutrale Firmennummer** umstellen (kein Zeitdruck).
 - Klartext-Zugangsdaten aus der Mail in den Passwortmanager übernehmen, Mail danach löschen.

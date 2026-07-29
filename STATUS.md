@@ -12,7 +12,7 @@
 - **Google-Business-Zugang gelöst** (Korrektur Philipp 29.07): die unbekannte Nummer im Konto war **Henrys**,
   nicht Celines. Läuft jetzt über **`admin@smart-velo.com` mit Admin-Access**, Philipps Handynummer daran
   (*subject to change* → später neutrale Firmennummer). Zugangsdaten in den Passwortmanager, nicht ins Repo.
-  Google-Support-Weg vom Tisch. Rest: Zugang an Max + Marv geben.
+  Google-Support-Weg vom Tisch. **Zugang an Max + Marv ist raus → Thema komplett abgeschlossen.**
 - **Impressum-/Website-Fehlerliste ist raus** (28.07 14:58 + 14:59, „Re: Website-Feedback SMARTVÉLO" an Jokubas Aust
   + marv, CC Konrad/Celine, PDF nachgereicht): Nachdruck auf Impressum (rechtlich nicht korrekt abgesichert) und
   Cookies/DSGVO. → 6-Tage-Blocker aufgelöst, **Ball bei Karlsson/complective**.
