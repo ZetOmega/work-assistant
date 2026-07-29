@@ -51,6 +51,15 @@
 - **28.07 15:44 — Philipp bestätigt: Lizenztermin Mi 29.07 16:30 CEST**, Julia soll konrad@smart-velo.com direkt
   mit einladen. → Kalendereinladung von Odoo-Seite steht noch aus.
 
+- **28.07 16:55 — Kalendereinladung von Julia Bücker da**: „SMARTVÉLO x Odoo", **Mi 29.07 16:30–17:00 CEST**,
+  **Google Meet** (meet.google.com/bgy-rbia-gbv). Steht im Outlook-Kalender.
+- **29.07 07:30 (Teams Konrad)**: „Frag Mal bitte ob wir auf 15 Uhr schieben konnten" → **Konrad will den
+  Lizenztermin von 16:30 auf 15:00 CEST verlegen**. Julia hatte 15:00 als Alternative angeboten.
+  → Aktion Philipp: Julia fragen (Außenwirkung, wartet auf Go).
+- **Stand 29.07 07:50: keine Antwort von Stefan Arens/OBS** auf Konrads Gegenangebot vom 28.07 08:38 (1 Tag).
+- **Uli Kessel (Intero) weiter unbeantwortet** (seit 27.07, 2 Tage).
+- To-Do „Recruiting via odoo" ist **nicht mehr in der offenen To-Do-Liste** (29.07) → offenbar abgehakt/entfernt *(unbestätigt)*.
+
 ## Offene Entscheidungen (bei Konrad/Eric)
 1. Go für OBS/Odoo? 2. Direktstart vs. volle Projektprognose 3. Buchhaltungs-Stunden streichen (neuer CFO)?
 4. Hosting 5. Stundenpreis/Paket-Verhandlung (100h-Kontingent?) 6. Internorga-Angebot noch einholen oder committen?

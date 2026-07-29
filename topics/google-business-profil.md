@@ -9,7 +9,12 @@
 - Philipp hat Celine die Nummer **01578 0615586** genannt *(Kontext: vermutlich Vergleichs-/Verdachtsnummer, unbestätigt)*.
 - **Celine 24.07**: „Ich frag mal KK" (= Konrad) — evtl. hat **Henry** noch Zugang.
 
+- **✅ 28.07 13:19 — Blocker gelöst (Mail Celine „WG: Google Business", FYI an Philipp)**: Die im Konto hinterlegte,
+  bislang unbekannte **Handynummer ist Celines eigene** („Handynummer ist meine – gerne rausnehmen!").
+  Zugangsdaten zum Profil `smartvelo.mobility` hat sie mitgeschickt (**im Passwortmanager ablegen, nicht im Repo**).
+  → Der wochenlange Google-Support-Weg ist damit **nicht mehr nötig**.
+
 ## Offen / wartet auf
-- Celine/Konrad: Rückmeldung, ob Henry oder Konrad die Zugangsdaten bzw. die hinterlegte Nummer kennt.
-- Alternativ: Google-Wiederherstellungsprozess weiterlaufen lassen (mehrere Wochen).
-- Danach: Zugang an Max + Marv (complective/Marketing) geben.
+- Zugang an **Max + Marv** (complective/Marketing) weitergeben — war „recht dringend" (seit 24.07, 5 Tage).
+- Celines Nummer aus dem Konto entfernen und durch eine Firmennummer ersetzen.
+- Zugangsdaten in den Passwortmanager übernehmen, Mail mit Klartext-Zugang löschen.

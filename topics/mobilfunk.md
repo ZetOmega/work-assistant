@@ -28,6 +28,14 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
 - SIM-Tracker-Excel als Bestandsliste für die Migration (alle 25 Verträge; Oleg/Wirasak/Eric-Nummern nachtragen).
 - **21.07: Rufnummern-/Vertragsumstellung macht greendevice selbst** — nicht mehr Philipps Aufgabe. To-Do „Telefonnummern verträge" (Georgina-Voraussetzungen/Liste, Umstellung einleiten) daher entfernt.
 
+## Pramod-SIM (28./29.07) — Interimslösung
+- 28.07 10:10 Pramod fragt nach der neuen SIM. Philipp 10:31: greendevice-Wechsel stockt → **Interims-SIM beim
+  alten Anbieter (HIGH/mobilezone)** gebucht. Pramod ok (10:35).
+- 28.07 10:33 Philipp an **Georgina Zang (mobilezone)**: Vertrag für Pramod Mallipudi anlegen.
+  **Georgina 11:26: „können wir anlegen, Nummer wird morgen zum Mittag freigeschaltet"** → also **heute
+  Mi 29.07 mittags aktiv**. Zusätzlich: Georgina hat der Buchhaltung 27.07 Infos zu **Vertragsänderungen**
+  geschickt — Bitte an Philipp, dort nachzufragen (bessere Vorausplanung). **Offen.**
+
 ## Bestand (vor Migration)
 - ~25 HIGH-mobile-Verträge (Telekom-D1, 30 GB 5G, 9,99 €, mtl. kündbar, eSIM) — Privatkundenkonten
   über Georgina Zang (mobilezone). Kein Panel — das ist der Hauptgrund für den Umzug.
