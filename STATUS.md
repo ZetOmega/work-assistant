@@ -28,7 +28,10 @@
   fixer Ansprechpartner) — **1 Tag**. Ball bei OBS.
 - **Intero Technologies (Uli Kessel) — Terminvorschlag schuldig (seit 27.07, 2 Tage).** Er fragt nach neuem Termin.
 - **Jurgens Kalenderfreigabe für Konrad** (Konrad 28.07 09:52; Philipp: „kümmere mich drum, sobald ich ihn erreiche").
-- **Konrads Kamera-Preisfrage** (28.07 18:01: „Was kostet eine Kamera, brauchen wir auch eine für den Garten") — unbeantwortet.
+- **Konrads Kamera-Frage** (28.07 18:01: „Was kostet eine Kamera, brauchen wir auch eine für den Garten"):
+  Bewertung + Modellentscheidung steht (**RLC-823S1W**, WLAN, dynamische Privacy Mask für den Pausenbereich)
+  → `topics/videoueberwachung.md`. **Offen: Preis nennen + Go von Konrad.** Datenschutz-Knackpunkt ist die
+  Community Area im Garten, nicht das Bike-Lager.
 - **Erics Ticket-Frage** (heute 07:43): nur 3 Tickets angezeigt, Filter zeigen 9 bzw. 17 offene — unbeantwortet.
 - **Georgina/Buchhaltung**: Georgina hat der Buchhaltung 27.07 Infos zu **Vertragsänderungen** geschickt und bittet
   Philipp, dort nachzufragen (bessere Vorausplanung).
