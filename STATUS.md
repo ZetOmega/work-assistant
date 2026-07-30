@@ -35,6 +35,9 @@
 - **Claude-Abo komplett erledigt.** Konrad hat die 180 € direkt geschickt, **Geld ist eingegangen**, keine
   Vorkasse nötig, Buchhaltungs-Mail-Frage hat sich erübrigt.
 - **Jurgens Kalenderfreigabe für Konrad erledigt.**
+- **Bike-Konfigurator-Tool: Korrektur.** Das Abhängigkeits-/Kompatibilitätstool ist **kein Bau-Task mehr** —
+  es existiert bereits (vermutlich tools.smartvelo-mobility.com, s. people/lukas-laarmann.md). To-Do-Eintrag
+  live auf „erledigt" gesetzt, Beschreibung korrigiert.
 
 ## ⏳ Weiter offen / Wartet auf (kein Fortschritt)
 - Kamera-Einrichtung nach Lieferung: Netzteil/Steckdose im Garten sicherstellen, Zeitfenster-Aufzeichnung
@@ -47,18 +50,16 @@
 - **Papaya-Kündigungsfrist + Arianna/Feature-Request** — bewusst geparkt, liegt bis zum Termin Do 13.08 11:00
   (Papaya Reminder – Vertragslaufzeit), dann prüfen/nachfassen.
 
-## 🟡 Ich (Philipp) — Microsoft To-Do (8 offen; KEINE überfällig)
-- [ ] Kompatibilitäts-/Abhängigkeits-Tool für Lukas' Bike-Konfigurator bauen — **Vorstufe des eigentlichen
-  Konfigurators**: erst das BOM-/Abhängigkeitstool, danach mit dessen Daten der Bike-Konfigurator selbst
+## 🟡 Ich (Philipp) — Microsoft To-Do (6 offen; live geprüft 30.07 16:33 CEST; KEINE überfällig)
 - [ ] Papaya-API: Feature-Request — Antwort von Arianna nachverfolgen
-- [ ] KPI-Brainstorm mit Eric terminieren — sitzt jetzt im 1:1 Di 04.08
 - [ ] Hanisch: Telefon/Zugang Glasfaserausbau NetCologne
 - [ ] Slack-Bot in fleet-notifications einladen (via Mathis)
-- [ ] Showroom-Bike-Steckbrief erstellen — sidelined
 - [ ] Robert nach Urlaub nachfassen (Papaya-IoT-Sync) — fällig 31.08
 - [ ] SharePoint-Restrukturierung: Ideen sammeln — **fällig Mitte/Ende September (verlegt von 30.08 auf 20.09)**
 - [ ] Wissensdatenbank/Video-Anleitung für Service — fällig 29.11
-- *„Jokubas anrufen" und „Fernbedienung Samsung-TV" sind erledigt/abgehakt — nicht mehr offen.*
+- *„Jokubas anrufen", „Fernbedienung Samsung-TV", „Abhängigkeits-/Kompatibilitätstool" (existiert bereits),
+  „KPI-Brainstorm mit Eric terminieren" (Termin steht: Di 04.08) und „Showroom-Bike-Steckbrief" (von Philipp
+  selbst abgehakt, ~seit einer Woche fertig) sind erledigt — nicht mehr offen.*
 
 ## 📅 Nächste Termine (alle CEST, aus Kalender 30.07 07:40)
 - **Do 30.07** · keine Termine · Katharina Hahns letzter Arbeitstag
