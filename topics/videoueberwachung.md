@@ -1,4 +1,4 @@
-# Videoüberwachung Venloer Str. (Eingänge + Garten)  · Status: aktiv (aufgenommen 29.07.2026)
+# Videoüberwachung Venloer Str. (Eingänge + Garten)  · Status: Kamera-Go erteilt, wird bestellt (Stand 30.07.2026)
 
 ## Stand
 - **Bestand: 2x Reolink TrackMix WiFi** (4K PTZ, Wi-Fi 6, Dual-Objektiv, Auto-Tracking) — an den **beiden Eingängen**.
@@ -65,13 +65,23 @@ Gegen Bike-Diebstahl: **IoT-Tracker/Ortung (läuft schon über Papaya)** + absch
 Bewegungslicht. Oft wirksamer als eine Kamera und komplett unproblematisch. Kamera als Ergänzung, nicht
 als erste Maßnahme.
 
+## ✅ Go erteilt (30.07) — RLC-823S1W, Celine bestellt
+- 30.07 09:11 Konrad leitet Philipps DSGVO-/250-€-Nachricht in den Gruppenchat weiter, dazu: „wir müssen eine
+  Kamera aufhängen im Garten". Fragt, ob sie nur vor/nach der Arbeit läuft (Zeitfenster-Idee) — Philipp: „das
+  geht auch". Konrad: „derzeit steht weit über 1 Millionen im Garten" (Begründung Sachwert).
+- 09:14 Philipp fragt explizit nach: „dann die etwas teurere mit den mehreren Zonen oder die gleiche wie überall
+  sonst? 180 vs 250€" → **09:20 Konrad: „250"** → **klares Go für die 250-€-Kamera (RLC-823S1W)**.
+- 09:21 Philipp: „wird bestellt". 09:26 Philipp schickt Celine den Reolink-Produktlink (RLC-823S1W) mit „Das ist
+  die Kamera die Konrad jetzt freigegeben hat". **09:27 Celine: „Bestell ich gleich."** → Bestellung läuft.
+
 ## Offen / wartet auf
-- **RLC-823S1W bestellen** (Restbestände, Verfügbarkeit prüfen) — **Go von Konrad nötig, einzige Option** (180-€-Variante ist mit dem DSGVO-Nachtrag vom Tisch)
-- **Produktlink an Celine schicken** (Konrad 29.07 08:22 „link kannst du celine schicken" — bezieht sich auf diese Kamera) — hängt am Go
+- Bestellung durch Celine abschließen/bestätigen lassen
 - 12-V-Netzteil/Steckdose am Kamerastandort im Garten sicherstellen (WLAN ist da, Strom braucht sie trotzdem)
 - Betriebsrat-Frage klären
+- Zeitfenster-Umsetzung (nur außerhalb Arbeitszeit aufzeichnen) technisch einrichten, wie mit Konrad besprochen
+- Restliche Punkte der Einrichtungs-Checkliste oben (Privacy Mask, Zweckbindung, Hinweisschilder etc.)
 
-## Verlauf Konrad-Abstimmung (29.07)
+## Verlauf Konrad-Abstimmung (29.07, Vorgeschichte)
 - 07:55 Philipp: **„180 € ca"** (Preis auf Konrads Frage vom 28.07 18:01).
 - 08:01 Konrad: „Reicht eine für den Garten ja oder" → 08:02 Philipp: ja, PTZ rotiert, Blindspot nur bei starrer
   Montage; je nach Montagepunkt ggf. **Kabelverlängerungen** von Reolink nötig.
@@ -79,4 +89,4 @@ als erste Maßnahme.
   → Go, **bezogen auf 180 €**.
 - 08:40 Philipp: DSGVO-Nachtrag — Kamera darf **nicht auf Pausenbereich/Terrasse** zeigen; Alternative ist die
   **teurere Kamera für 250 €** (mehr Funktionen, kann den Pausenbereich ausblenden und den Rest anlassen).
-- **→ Konrad hat auf die 250 € nicht geantwortet. Go für die RLC-823S1W fehlt, Bestellung hängt (Stand 30.07).**
+- Darauf zunächst keine Antwort — bis Konrad das Thema 30.07 im Gruppenchat wieder aufgriff (s. oben, jetzt gelöst).

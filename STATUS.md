@@ -11,9 +11,8 @@
 ## ✅ Seit letztem Lauf geklärt / vorangekommen (seit Mi 29.07 07:50)
 - **Odoo-Termin auf 15:00 vorgezogen** — Philipp 07:56 an Julia; Julia 09:01 „Updated invitation … Changed: time".
   Termin lief 15:00–15:30 CEST. → Konrads Ask erledigt.
-- **Kamera-Preisfrage beantwortet** — Philipp 07:55 Teams „180 € ca", Konrad 08:08 Go „bei dem Preis". Die
-  180-€-Option ist danach entfallen (DSGVO-Problem Pausenbereich/Terrasse) — **einzige Option jetzt: 250 €
-  (RLC-823S1W)**, s. offen.
+- **Kamera final geklärt — Go für 250 € (RLC-823S1W).** Konrad hat die 180-€/250-€-Frage heute im Gruppenchat
+  entschieden: „250". Philipp hat Celine den Produktlink geschickt, **Celine bestellt bereits**.
 - **Erics SharePoint-Freigabe erledigt** — Eric 11:17 bat um „Einkauf und Supply Chain", Philipp 11:18 Ordner
   **„06 PM & Einkauf"** geteilt, Eric ❤️ 13:08.
 - **einkauf@-Passwort an Katharina/Team** raus (11:19), Bestätigung 11:58 „hat geklappt".
@@ -26,21 +25,27 @@
   hin- und hergeschoben wird — kein neuer Einzelfall. KPI-Brainstorm sitzt weiter dort.
 - **Erics Ticket-Frage geklärt** (war: nur 3 Tickets sichtbar, Filter sagen 9 bzw. 17).
 - **Celine/Bewerbergespräch IT-Stelle** (29.07) — Kandidat war **Sorosch Hadiyan**, Gespräch **lief gut**,
-  positiver Eindruck → topics/hiring.md, people/sorosch-hadiyan.md.
+  positiver Eindruck → topics/hiring.md, people/sorosch-hadiyan.md. Recap-Mail an Jakob (CC Celine, Konrad) ist raus.
 - **Calvin/Jobvalley angestoßen** — Philipp 15:03 an Eric: „sehe grade dass du calvin noch nicht auf slack
   geantwortet hast" → Ball liegt jetzt belegt bei Eric.
 - **1Password-Onboarding Eric** angelaufen (Beitritt 15:56, Eric 15:56 „Was mache ich jetzt mit 1 Password?",
   Philipp 16:00 „komme gleich zu dir") — vermutlich vor Ort geklärt *(unbestätigt)*.
+- **Fernbedienung Samsung-TV geklärt** (30.07 07:16–08:31 Teams) — Konrad will eine neue, für den Raum, in dem
+  er sitzt.
+- **Claude-Abo: Weg gefunden** (30.07 08:29–09:11 Teams) — Philipp hat Konrad übers Limit informiert (Reset erst
+  Sonntag, Flink SLA verbraucht es schnell wieder), Konrad hat versucht die Kreissparkasse-Karte erneut, klappt
+  weiter nicht (nur Kreditkarte, 180 €/Monat). **Konrad schickt Philipp die 180 € direkt, keine Vorkasse.**
+  **Konrad 09:11: „sag der celine das damit sie an die buchhaltung schreibt"** — Buchhaltungs-Mail läuft jetzt
+  über Celine, nicht direkt von Philipp. Mail an Buchhaltung ist raus (Philipp).
 
 ## ⏳ Weiter offen / Wartet auf (kein Fortschritt)
-- **Kamera: Konrads Go fehlt (seit 29.07, 1 Tag).** Philipp 08:40 Teams an Konrad: Kamera darf nicht auf
-  Pausenbereich/Terrasse zeigen (DSGVO); einzige Option ist die **250-€-Kamera (RLC-823S1W, dynamische
-  Privacy Mask)**. **Konrad hat darauf nicht geantwortet** → Bestellung hängt.
-- **Konrad: „link kannst du celine schicken"** (29.07 08:22) — betrifft die Kamera (Produktlink). Noch nicht an
-  Celine geschickt → offen, hängt am Kamera-Go.
-- ~~Konrad: neue Fernbedienung für den Samsung-TV im Meetingraum bestellen~~ → ✅ To-Do angelegt (30.07).
-- **Claude-Abo BLOCKIERT (seit 21.07, 9 Tage)** — Ursache belegt: Konto nicht gedeckt (Celine 23.07). Am 29.07
-  nur wieder Sign-in-Link (10:24) + Datenexport (10:26), **kein neuer Bezahlweg**. Wartet auf Konrad.
+- **Kamera-Bestellung** — Celine bestellt, noch keine Bestätigung; danach Einrichtung (Privacy Mask, Zeitfenster,
+  Betriebsrat-Frage, Netzteil) laut topics/videoueberwachung.md.
+- **Konrad: „link kannst du celine schicken"** (29.07 08:22) — Kontext unklar, zeitlich eher Julias
+  Kalenderbuchungslink als die Kamera *(zu prüfen)*.
+- **Celine informieren wegen Buchhaltung** — Konrad will, dass Celine (nicht Philipp) an die Buchhaltung
+  schreibt wegen der 180 € fürs Claude-Abo. Noch zu tun.
+- Geld von Konrad (180 €) noch nicht eingegangen *(unbestätigt)*.
 - **OBS: keine Antwort von Stefan Arens** auf Konrads Gegenangebot vom 28.07 — **2 Tage**. Ist aktuell Konrads
   Thema, nicht bei Philipp.
 - **Intero Technologies (Uli Kessel) — Terminvorschlag schuldig (seit 27.07, 3 Tage).**
@@ -63,7 +68,6 @@
 - [ ] SharePoint-Restrukturierung: Ideen sammeln — **fällig Mitte/Ende September (verlegt von 30.08 auf 20.09)**
 - [ ] Wissensdatenbank/Video-Anleitung für Service — fällig 29.11
 - *„Jokubas anrufen" ist erledigt/von der Liste — nicht mehr offen.*
-- *Nicht in der Liste, aber zugesagt/angefragt: Camera-Link an Celine schicken.*
 
 ## 📅 Nächste Termine (alle CEST, aus Kalender 30.07 07:40)
 - **Do 30.07** · keine Termine · Katharina Hahns letzter Arbeitstag

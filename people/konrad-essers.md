@@ -8,6 +8,10 @@ Chef & Haupt-Entscheider. Kennt den mobilezone-CEO „gut“. Setzt Tempo, verpa
 ERP (Chefsache mit Eric) · App smartvélo · neue Stelle ausgeschrieben · Werbe-/Event-Kampagne
 
 ## Letzte Aktionen
+30.07 09:11–09:21 Gruppenchat: **Go für die Garten-Kamera erteilt.** Konrad leitet Philipps DSGVO-Nachricht
+weiter, will die Kamera aufgehängt haben (Begründung: „derzeit steht weit über 1 Millionen im Garten"), fragt
+nach Zeitfenster-Betrieb (nur vor/nach Arbeit). Auf Philipps „180 vs 250€"-Nachfrage: **„250"** → RLC-823S1W
+ist beschlossen. Philipp hat Celine direkt danach den Produktlink geschickt, sie bestellt.
 30.07 09:00–09:11 Teams: **Claude-Abo-Thema live geklärt.** Philipp hatte 08:30 Konrad über das drohende Limit
 informiert (Reset erst Sonntag, Flink-SLA verbraucht es schnell wieder). Konrad zunächst verwirrt („heißt was?"),
 dann PayPal/Aufladen-Optionen durchgesprochen, Kreissparkasse-Karte nochmal versucht — klappt weiter nicht
@@ -45,7 +49,6 @@ Julia/15-Uhr-Terminfrage), evtl. Julias Kalenderbuchungslink statt Kamera *(zu p
 08.07 Zweiter Claude-Account ist gekauft ✅
 
 ## Offen / wartet auf
-**Go für die Garten-Kamera (250 €, RLC-823S1W)** — einzige Option nach DSGVO-Nachtrag, weiterhin keine Antwort (seit 29.07 08:40)
 **Odoo-Lizenzentscheidung 1/2/5 Jahre** — Angebote von Julia Bücker liegen seit 29.07 16:26 vor, von Philipp gesichtet, Entscheidung jetzt bei Konrad
 Geld an Philipp schicken (180 €, Claude-Abo) — zugesagt 30.07 09:10, noch nicht eingegangen *(unbestätigt)*
 Klareres/aufgeschlüsseltes OBS-Angebot + OBS-Termin · ob er bei OBS angerufen/einen Alternativtermin gefunden hat
