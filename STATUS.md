@@ -6,8 +6,8 @@
   Katharina 11:58 „hat geklappt"). **Keine Weiterleitung** — Postfach katharina@ bleibt aktiv, wird periodisch
   gesichtet; Katharina richtet selbst eine Autoreply ein („ich arbeite hier nicht mehr, bitte an einkauf@ wenden").
 - **To-Do „Jokubas anrufen" ist heute fällig** (Website-/Impressum-Fixes; Mail ist seit 28.07 raus, Ball bei Karlsson).
-- **Odoo-Lizenzangebote liegen vor** (Julia Bücker 29.07 16:26): 40 Lizenzen, 1-/2-/5-Jahres-Vertrag →
-  Entscheidung mit Konrad. Kein Termindruck von Odoo, aber hängt am OBS-Paket.
+- **Odoo-Lizenzangebote von Philipp gesichtet** (40 Lizenzen, 1/2/5 Jahre) — **Ball bei Konrad**, Entscheidung
+  liegt bei ihm, kein Handlungsbedarf mehr bei Philipp.
 
 ## ✅ Seit letztem Lauf geklärt / vorangekommen (seit Mi 29.07 07:50)
 - **Odoo-Termin auf 15:00 vorgezogen** — Philipp 07:56 an Julia; Julia 09:01 „Updated invitation … Changed: time".
@@ -34,8 +34,7 @@
 - **Kamera: Go für die 250-€-Variante fehlt (seit 29.07, 1 Tag).** Philipp 08:40 Teams an Konrad: Kamera darf
   nicht auf Pausenbereich/Terrasse zeigen (DSGVO), Alternative = bessere Kamera **250 €** mit dynamischer
   Privacy Mask (**RLC-823S1W**). **Konrad hat darauf nicht geantwortet** → Bestellung hängt.
-- **Konrad: neue Fernbedienung für den Samsung-TV im Meetingraum bestellen** (29.07 08:22) — **unbeantwortet,
-  kein To-Do angelegt** (1 Tag).
+- ~~Konrad: neue Fernbedienung für den Samsung-TV im Meetingraum bestellen~~ → ✅ To-Do angelegt (30.07).
 - **Konrad: „link kannst du celine schicken"** (29.07 08:22) — welcher Link ist nicht eindeutig
   *(unbestätigt: Julias Terminbuchungslink)* → unbeantwortet.
 - **Robert: „AW: Flink SLA Rückanalyse"** (29.07 13:24, an Philipp + Henry): „was könnten wir hier noch
@@ -60,8 +59,9 @@
 - **Celine (29.07 15:39–15:53)**: „Magst du dazu kommen?" → „Kannst den auch raus jagen, wenn du glaubst der ist
   nix" — Bewerber-/Kandidatengespräch, **Ausgang unbelegt** *(unbestätigt)*.
 
-## 🟡 Ich (Philipp) — Microsoft To-Do (10 offen; KEINE überfällig)
+## 🟡 Ich (Philipp) — Microsoft To-Do (11 offen; KEINE überfällig)
 - [ ] **Jokubas anrufen — fällig HEUTE Do 30.07**
+- [ ] Fernbedienung Samsung-TV Meetingraum bestellen (neu, 30.07)
 - [ ] Kompatibilitäts-/Abhängigkeits-Tool für Lukas' Bike-Konfigurator bauen
 - [ ] Papaya-API: Feature-Request — Antwort von Arianna nachverfolgen
 - [ ] KPI-Brainstorm mit Eric terminieren — sitzt jetzt im 1:1 Di 04.08
@@ -71,8 +71,7 @@
 - [ ] Robert nach Urlaub nachfassen (Papaya-IoT-Sync) — fällig 31.08
 - [ ] SharePoint-Restrukturierung: Ideen sammeln — fällig 30.08
 - [ ] Wissensdatenbank/Video-Anleitung für Service — fällig 29.11
-- *Nicht in der Liste, aber zugesagt/angefragt: Fernbedienung Samsung-TV ·
-  Antwort an Robert (Flink SLA) · Odoo-Lizenzentscheidung.*
+- *Nicht in der Liste, aber zugesagt/angefragt: Antwort an Robert (Flink SLA).*
 
 ## 📅 Nächste Termine (alle CEST, aus Kalender 30.07 07:40)
 - **Do 30.07** · keine Termine · Katharina Hahns letzter Arbeitstag · To-Do „Jokubas anrufen" fällig

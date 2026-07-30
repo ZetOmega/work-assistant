@@ -80,8 +80,7 @@
   - **Mehrjahresrabatte** je Laufzeit (Details in den einzelnen Angeboten).
   - **Zahlung innerhalb 21 Tagen** nach Unterzeichnung; **bei Mehrjahresverträgen Vorauszahlung der gesamten Laufzeit**;
     Rechnung binnen 1 Arbeitstag; Online-Signatur möglich.
-  → **Offen: Entscheidung 1/2/5 Jahre mit Konrad.** Konkrete Preise/Rabattsätze stehen nur in den Odoo-Angebotslinks,
-  nicht in der Mail — für einen Vergleich müssen die drei Angebote geöffnet werden.
+  → **Philipp hat die Angebote gesichtet; Entscheidung 1/2/5 Jahre liegt jetzt bei Konrad** (30.07).
 - **30.07 — OBS/Stefan Arens**: weiter **keine Antwort** auf Konrads Gegenangebot vom 28.07 (2 Tage).
   Lizenzspur (Odoo direkt) läuft damit dem Implementierungspaket voraus.
 - **30.07 — Intero Technologies (Uli Kessel)**: Terminvorschlag weiter schuldig (seit 27.07, 3 Tage).
