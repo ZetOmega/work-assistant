@@ -82,5 +82,5 @@
     Rechnung binnen 1 Arbeitstag; Online-Signatur möglich.
   → **Philipp hat die Angebote gesichtet; Entscheidung 1/2/5 Jahre liegt jetzt bei Konrad** (30.07).
 - **30.07 — OBS/Stefan Arens**: weiter **keine Antwort** auf Konrads Gegenangebot vom 28.07 (2 Tage).
-  Lizenzspur (Odoo direkt) läuft damit dem Implementierungspaket voraus.
+  Lizenzspur (Odoo direkt) läuft damit dem Implementierungspaket voraus. **Ist aktuell Konrads Thema**, nicht bei Philipp.
 - **30.07 — Intero Technologies (Uli Kessel)**: Terminvorschlag weiter schuldig (seit 27.07, 3 Tage).

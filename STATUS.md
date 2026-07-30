@@ -41,18 +41,17 @@
   freimachen." → **unbeantwortet (1 Tag)**, Robert will das Projekt nach vorne ziehen.
 - **Claude-Abo BLOCKIERT (seit 21.07, 9 Tage)** — Ursache belegt: Konto nicht gedeckt (Celine 23.07). Am 29.07
   nur wieder Sign-in-Link (10:24) + Datenexport (10:26), **kein neuer Bezahlweg**. Wartet auf Konrad.
-- **OBS: keine Antwort von Stefan Arens** auf Konrads Gegenangebot vom 28.07 (100 €/100 h, Workshop-Verrechnung,
-  fixer Ansprechpartner) — **2 Tage**. Ball bei OBS.
+- **OBS: keine Antwort von Stefan Arens** auf Konrads Gegenangebot vom 28.07 — **2 Tage**. Ist aktuell Konrads
+  Thema, nicht bei Philipp.
 - **Intero Technologies (Uli Kessel) — Terminvorschlag schuldig (seit 27.07, 3 Tage).**
 - **Jurgens Kalenderfreigabe für Konrad** (seit 28.07, 2 Tage) — „sobald ich ihn erreiche".
 - **Erics Ticket-Frage** (29.07 07:43: nur 3 Tickets sichtbar, Filter sagen 9 bzw. 17) — schriftlich
   unbeantwortet; ob im Vorbeigehen geklärt, ist offen *(unbestätigt)*. Landet sonst im 1:1 am 04.08.
 - **Georgina/Buchhaltung**: bei der Buchhaltung nach Georginas Infos zu **Vertragsänderungen** fragen (seit 27.07).
-- **Pramod-SIM**: sollte 29.07 mittags freigeschaltet sein (Georgina 28.07) — **keine Bestätigung** *(unbestätigt)*.
 - **Hanisch — Telefon/Zugang NetCologne-Glasfaser (seit 22.07, 8 Tage)** — To-Do offen.
 - **Slack-Bot-Invite (Mathis)** — kein Fortschritt.
-- **Papaya-Kündigungsfrist** — vor Termin Do 13.08 11:00 prüfen (24-Monats-Vertrag ab 01.12.2024).
-- **Arianna/Papaya** — Rückmeldung auf Feature-Request (labels, Rate-Limits) + RW-API-Key.
+- **Papaya-Kündigungsfrist + Arianna/Feature-Request** — bewusst geparkt, liegt bis zum Termin Do 13.08 11:00
+  (Papaya Reminder – Vertragslaufzeit), dann prüfen/nachfassen.
 - **Sales Bikes abbilden** — Richtung Excel + Planner (mit Sales nicht bestätigt). **Jurgen liefert Bike-IDs
   „Ende dieser Woche"** → diese Woche fällig.
 - **Celine (29.07 15:39–15:53)**: „Magst du dazu kommen?" → „Kannst den auch raus jagen, wenn du glaubst der ist
@@ -83,11 +82,5 @@
 - Mitte August: Philipp 2 Wochen Urlaub
 
 ## ⚠️ Blinde Flecken
-- **Odoo-Lizenztermin 29.07 15:00**: kein Protokoll/keine Notiz — nur das Angebot als Ergebnis. Was zu Rabatten
-  gesagt wurde, ist nicht festgehalten.
 - **Katharina-Offboarding**: Geräte, restliche Accounts/Lizenzen — nirgends dokumentiert. Postfach-Handling
   (periodisches Sichten + Katharinas eigene Autoreply auf einkauf@) ist geklärt, kein blinder Fleck mehr.
-- **Erics Übernahme von Einkauf/Supply Chain** (Freigabe 29.07, einen Tag vor Katharinas Abgang) —
-  liegt nahe, ist aber nirgends bestätigt *(unbestätigt)*.
-- **OBS**: wer zieht nach, wenn Stefan Arens sich nicht meldet? Konrads Gegenangebot hängt seit 2 Tagen.
-- Pramod-SIM: Freischaltung nicht verifiziert. · Papaya-Kündigungsfrist weiter ungeprüft.

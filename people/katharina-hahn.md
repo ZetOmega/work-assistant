@@ -16,5 +16,6 @@ Katharina 11:58 **„hat geklappt danke dir"** → ✅ einkauf@-Zugang liegt bei
 
 ## Offen / wartet auf
 **Geräte / restliche Accounts / Lizenzen** — nirgends dokumentiert *(blinder Fleck)*
-Wer übernimmt Einkauf/Supply Chain? Erics SharePoint-Freigabe 29.07 legt Eric nahe *(unbestätigt)*
+Einkauf/Supply Chain wird bis zu einer neuen Einkaufs-Stelle **informell von PM + Eric + Team gemeinsam
+aufgefangen** (Philipp 30.07) — keine feste Übergabe, kein offener Punkt.
 WaWi-/ERP-Wissen abholen, bevor sie weg ist

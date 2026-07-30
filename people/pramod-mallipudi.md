@@ -2,4 +2,5 @@
 Rolle: (Rolle offen) · E-Mail: pramod@smart-velo.com · Status: aktiv
 
 ## Aktuelle Themen
-**Seit ~07.07 ohne Netz**: Bonamic-Vertrag war gekündigt (ausgelaufen ~03.07), Umzug versäumt. Anna empfiehlt neuen Vertrag + neue Nummer über mobilezone → alte Nummer vmtl. verloren.
+**Interims-SIM ist durch** (30.07, Philipp bestätigt) — Anschluss läuft. Ursprüngliches Problem seit ~07.07 ohne
+Netz: Bonamic-Vertrag war gekündigt (ausgelaufen ~03.07), Umzug versäumt; alte Nummer vmtl. verloren.
