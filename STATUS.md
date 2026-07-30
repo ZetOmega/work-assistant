@@ -3,7 +3,8 @@
 ## 🔥 Heute (Do 30.07)
 - **Keine Termine.** Freier Arbeitstag.
 - **Katharina Hahn: letzter Arbeitstag.** einkauf@-Zugang ist beim Team ✅ (Passwort 29.07 11:19 raus,
-  Katharina 11:58 „hat geklappt"). **Weiterleitung von katharina@ auf einkauf@ weiter ohne Beleg** — heute machen.
+  Katharina 11:58 „hat geklappt"). **Keine Weiterleitung** — Postfach katharina@ bleibt aktiv, wird periodisch
+  gesichtet; Katharina richtet selbst eine Autoreply ein („ich arbeite hier nicht mehr, bitte an einkauf@ wenden").
 - **To-Do „Jokubas anrufen" ist heute fällig** (Website-/Impressum-Fixes; Mail ist seit 28.07 raus, Ball bei Karlsson).
 - **Odoo-Lizenzangebote liegen vor** (Julia Bücker 29.07 16:26): 40 Lizenzen, 1-/2-/5-Jahres-Vertrag →
   Entscheidung mit Konrad. Kein Termindruck von Odoo, aber hängt am OBS-Paket.
