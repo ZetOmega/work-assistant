@@ -23,8 +23,10 @@ Termin kam ursprünglich über Jakob Volksdorf (23.07: „kommt voraussichtlich 
 ## Einschätzung Philipp (30.07)
 Beworben über das Sysadmin-Profil, aber breiter aufgestellt als der CV allein zeigt: **auch stark in
 KI-Themen**, dazu **Marketing als großes Plus** (Diplom Kommunikationsdesign, Senior-Art-Director-Erfahrung),
-**hohe Lernbereitschaft und gutes Knowledge** insgesamt. Passt damit potenziell sowohl auf den Sysadmin-
-als auch auf den KI-/Automatisierungs-Zuschnitt der Stelle.
+**hohe Lernbereitschaft und gutes Knowledge** insgesamt. Die **solide „normale" IT-Erfahrung** (durchgehend
+Support/Administration seit 2014, zuletzt Senior IT Administrator) macht das Profil **nur noch stärker** —
+kein Trade-off, sondern zusätzliches Plus obendrauf. Passt damit potenziell sowohl auf den Sysadmin- als
+auch auf den KI-/Automatisierungs-Zuschnitt der Stelle.
 
 ## Offen / wartet auf
 Nächster Schritt im Prozess *(unbestätigt, nicht dokumentiert)*.

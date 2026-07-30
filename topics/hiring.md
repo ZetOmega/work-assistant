@@ -13,7 +13,8 @@
   Administrator bei Levy Holding AG.
 - **Beworben über das Sysadmin-Profil**, aber laut Philipp (30.07) breiter: **auch stark in KI-Themen**,
   **Marketing großes Plus** (Diplom Kommunikationsdesign, Senior-Art-Director-Erfahrung), hohe Lernbereitschaft,
-  gutes Knowledge. Passt damit potenziell auch auf den jetzt gewählten „KI- & Automatisierungs-Engineer"-Zuschnitt.
+  gutes Knowledge — die **solide „normale" IT-Erfahrung macht das Profil nur noch besser**, kein Trade-off.
+  Passt damit potenziell auch auf den jetzt gewählten „KI- & Automatisierungs-Engineer"-Zuschnitt.
 - Nächster Schritt: nicht dokumentiert *(unbestätigt)*.
 
 ## KI- & Automatisierungs-Engineer (23.07) — ⚠️ Konflikt
