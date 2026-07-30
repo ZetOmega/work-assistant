@@ -33,24 +33,16 @@
   Philipp 16:00 „komme gleich zu dir") — vermutlich vor Ort geklärt *(unbestätigt)*.
 - **Fernbedienung Samsung-TV geklärt** (30.07 07:16–08:31 Teams) — Konrad will eine neue, für den Raum, in dem
   er sitzt.
-- **Claude-Abo: Weg gefunden** (30.07 08:29–09:11 Teams) — Philipp hat Konrad übers Limit informiert (Reset erst
-  Sonntag, Flink SLA verbraucht es schnell wieder), Konrad hat versucht die Kreissparkasse-Karte erneut, klappt
-  weiter nicht (nur Kreditkarte, 180 €/Monat). **Konrad schickt Philipp die 180 € direkt, keine Vorkasse.**
-  **Konrad 09:11: „sag der celine das damit sie an die buchhaltung schreibt"** — Buchhaltungs-Mail läuft jetzt
-  über Celine, nicht direkt von Philipp. Mail an Buchhaltung ist raus (Philipp).
+- **Claude-Abo komplett erledigt.** Konrad hat die 180 € direkt geschickt, **Geld ist eingegangen**, keine
+  Vorkasse nötig, Buchhaltungs-Mail-Frage hat sich erübrigt.
+- **Jurgens Kalenderfreigabe für Konrad erledigt.**
 
 ## ⏳ Weiter offen / Wartet auf (kein Fortschritt)
-- **Kamera-Bestellung** — Celine bestellt, noch keine Bestätigung; danach Einrichtung (Privacy Mask, Zeitfenster,
-  Betriebsrat-Frage, Netzteil) laut topics/videoueberwachung.md.
-- **Konrad: „link kannst du celine schicken"** (29.07 08:22) — Kontext unklar, zeitlich eher Julias
-  Kalenderbuchungslink als die Kamera *(zu prüfen)*.
-- **Celine informieren wegen Buchhaltung** — Konrad will, dass Celine (nicht Philipp) an die Buchhaltung
-  schreibt wegen der 180 € fürs Claude-Abo. Noch zu tun.
-- Geld von Konrad (180 €) noch nicht eingegangen *(unbestätigt)*.
+- Kamera-Einrichtung nach Lieferung: Netzteil/Steckdose im Garten sicherstellen, Zeitfenster-Aufzeichnung
+  einrichten, restliche Checkliste (Privacy Mask, Zweckbindung, Hinweisschilder) — laut topics/videoueberwachung.md.
 - **OBS: keine Antwort von Stefan Arens** auf Konrads Gegenangebot vom 28.07 — **2 Tage**. Ist aktuell Konrads
   Thema, nicht bei Philipp.
 - **Intero Technologies (Uli Kessel) — Terminvorschlag schuldig (seit 27.07, 3 Tage).**
-- **Jurgens Kalenderfreigabe für Konrad** (seit 28.07, 2 Tage) — „sobald ich ihn erreiche".
 - **Georgina/Buchhaltung**: bei der Buchhaltung nach Georginas Infos zu **Vertragsänderungen** fragen (seit 27.07).
 - **Hanisch — Telefon/Zugang NetCologne-Glasfaser (seit 22.07, 8 Tage)** — To-Do offen.
 - **Slack-Bot-Invite (Mathis)** — kein Fortschritt.
