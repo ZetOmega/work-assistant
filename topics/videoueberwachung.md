@@ -66,10 +66,10 @@ Bewegungslicht. Oft wirksamer als eine Kamera und komplett unproblematisch. Kame
 als erste Maßnahme.
 
 ## Offen / wartet auf
-- **RLC-823S1W bestellen** (Restbestände, Verfügbarkeit prüfen) — Go von Konrad nötig
+- **RLC-823S1W bestellen** (Restbestände, Verfügbarkeit prüfen) — **Go von Konrad nötig, einzige Option** (180-€-Variante ist mit dem DSGVO-Nachtrag vom Tisch)
+- **Produktlink an Celine schicken** (Konrad 29.07 08:22 „link kannst du celine schicken" — bezieht sich auf diese Kamera) — hängt am Go
 - 12-V-Netzteil/Steckdose am Kamerastandort im Garten sicherstellen (WLAN ist da, Strom braucht sie trotzdem)
 - Betriebsrat-Frage klären
-- Konrads Frage nach den **Kosten** ist noch unbeantwortet (Teams 28.07 18:01)
 
 ## Verlauf Konrad-Abstimmung (29.07)
 - 07:55 Philipp: **„180 € ca"** (Preis auf Konrads Frage vom 28.07 18:01).

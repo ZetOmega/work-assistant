@@ -36,8 +36,9 @@ ERP (Chefsache mit Eric) · App smartvélo · neue Stelle ausgeschrieben · Werb
 08.07 Zweiter Claude-Account ist gekauft ✅
 
 ## Offen / wartet auf
-**Go für die 250-€-Kamera (RLC-823S1W)** — Konrads Go vom 29.07 galt für 180 €, auf den DSGVO-Nachtrag keine Antwort (seit 29.07)
-**Odoo-Lizenzentscheidung 1/2/5 Jahre** — Angebote von Julia Bücker liegen seit 29.07 16:26 vor (an Philipp + Konrad)
+**Go für die Garten-Kamera (250 €, RLC-823S1W)** — einzige Option nach DSGVO-Nachtrag, keine Antwort seit 29.07
+**Kamera-Produktlink an Celine** — hängt am Go
+**Odoo-Lizenzentscheidung 1/2/5 Jahre** — Angebote von Julia Bücker liegen seit 29.07 16:26 vor, von Philipp gesichtet, Entscheidung jetzt bei Konrad
 Push-TAN auf neuem Handy einrichten → dann Claude-Abo-Kreditkartenzahlung nochmal versuchen
 Klareres/aufgeschlüsseltes OBS-Angebot + OBS-Termin · ob er bei OBS angerufen/einen Alternativtermin gefunden hat
 Nächstes 1:1: heute 10:30 CEST (einmalig verschoben); regulär Mo 08:45 CEST (nächstes 27.07)
