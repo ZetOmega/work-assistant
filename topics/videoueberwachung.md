@@ -56,9 +56,8 @@
 - [ ] Löschfrist automatisch, 48–72 h; Ereignisclips per Bewegungstrigger statt Dauerlauf
 - [ ] Zugriffskonzept: max. 2 benannte Personen, PTZ-Rechte begrenzt, Zugriffe protokolliert
 - [ ] Eintrag ins Verarbeitungsverzeichnis; **DSFA** für den Beschäftigtenbereich ratsam
-- [ ] **Betriebsrat?** Falls vorhanden: Mitbestimmung nach § 87 Abs. 1 Nr. 6 BetrVG **zwingend** — die
-      *Eignung* zur Überwachung genügt, unabhängig von Zeitfenster und Maske
-- [ ] Von eurem Datenschutzbeauftragten abzeichnen lassen (DSFA + BetrVG)
+- [x] ~~Betriebsrat?~~ — **kein Betriebsrat bei smartvélo** (30.07, Philipp), § 87 BetrVG damit nicht einschlägig
+- [ ] Von eurem Datenschutzbeauftragten abzeichnen lassen (DSFA)
 
 ## Alternative, die zuerst geprüft werden sollte
 Gegen Bike-Diebstahl: **IoT-Tracker/Ortung (läuft schon über Papaya)** + abschließbare Bikeboxen +
@@ -72,14 +71,14 @@ als erste Maßnahme.
 - 09:14 Philipp fragt explizit nach: „dann die etwas teurere mit den mehreren Zonen oder die gleiche wie überall
   sonst? 180 vs 250€" → **09:20 Konrad: „250"** → **klares Go für die 250-€-Kamera (RLC-823S1W)**.
 - 09:21 Philipp: „wird bestellt". 09:26 Philipp schickt Celine den Reolink-Produktlink (RLC-823S1W) mit „Das ist
-  die Kamera die Konrad jetzt freigegeben hat". **09:27 Celine: „Bestell ich gleich."** → Bestellung läuft.
+  die Kamera die Konrad jetzt freigegeben hat". **09:27 Celine: „Bestell ich gleich."** → ✅ **bestellt** (Celine
+  hat auch alle nötigen Links, 30.07).
 
 ## Offen / wartet auf
-- Bestellung durch Celine abschließen/bestätigen lassen
 - 12-V-Netzteil/Steckdose am Kamerastandort im Garten sicherstellen (WLAN ist da, Strom braucht sie trotzdem)
-- Betriebsrat-Frage klären
 - Zeitfenster-Umsetzung (nur außerhalb Arbeitszeit aufzeichnen) technisch einrichten, wie mit Konrad besprochen
-- Restliche Punkte der Einrichtungs-Checkliste oben (Privacy Mask, Zweckbindung, Hinweisschilder etc.)
+- Restliche Punkte der Einrichtungs-Checkliste oben (Privacy Mask, Zweckbindung, Hinweisschilder etc.) —
+  **Betriebsrat-Punkt entfällt, es gibt keinen Betriebsrat bei smartvélo (30.07)**
 
 ## Verlauf Konrad-Abstimmung (29.07, Vorgeschichte)
 - 07:55 Philipp: **„180 € ca"** (Preis auf Konrads Frage vom 28.07 18:01).

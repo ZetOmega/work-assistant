@@ -11,8 +11,9 @@
 ## ✅ Seit letztem Lauf geklärt / vorangekommen (seit Mi 29.07 07:50)
 - **Odoo-Termin auf 15:00 vorgezogen** — Philipp 07:56 an Julia; Julia 09:01 „Updated invitation … Changed: time".
   Termin lief 15:00–15:30 CEST. → Konrads Ask erledigt.
-- **Kamera final geklärt — Go für 250 € (RLC-823S1W).** Konrad hat die 180-€/250-€-Frage heute im Gruppenchat
-  entschieden: „250". Philipp hat Celine den Produktlink geschickt, **Celine bestellt bereits**.
+- **Kamera komplett durch — 250 € (RLC-823S1W) bestellt.** Konrad hat sich im Gruppenchat entschieden: „250".
+  Celine hat den Produktlink und **hat bereits bestellt**. Kein Betriebsrat bei smartvélo → dieser Punkt der
+  Einrichtungs-Checkliste entfällt.
 - **Erics SharePoint-Freigabe erledigt** — Eric 11:17 bat um „Einkauf und Supply Chain", Philipp 11:18 Ordner
   **„06 PM & Einkauf"** geteilt, Eric ❤️ 13:08.
 - **einkauf@-Passwort an Katharina/Team** raus (11:19), Bestätigung 11:58 „hat geklappt".

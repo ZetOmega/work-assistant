@@ -16,18 +16,18 @@ ist beschlossen. Philipp hat Celine direkt danach den Produktlink geschickt, sie
 informiert (Reset erst Sonntag, Flink-SLA verbraucht es schnell wieder). Konrad zunächst verwirrt („heißt was?"),
 dann PayPal/Aufladen-Optionen durchgesprochen, Kreissparkasse-Karte nochmal versucht — klappt weiter nicht
 (nur Kreditkarte möglich, 180 €/Monat). **Ergebnis: Konrad schickt Philipp das Geld direkt** („ja wir schicken
-dir das direkt"), Philipp bucht das Abo selbst, keine Vorkasse nötig. **Konrad 09:11: „sag der celine das damit
-sie an die buchhaltung schreibt"** → Philipp muss Celine informieren, Celine schreibt an Buchhaltung.
+dir das direkt"), Philipp bucht das Abo selbst, keine Vorkasse nötig. **Geld ist eingegangen, Abo erledigt**
+(Stand 30.07) — die Buchhaltungs-Mail-Frage hat sich erübrigt.
 30.07 07:16–08:31 Teams: Fernbedienung-Thema geklärt — Konrad wollte ursprünglich eine neue, wollte dann bei
 Nachfrage doch lieber die vorhandene schmale Fernbedienung, hat sich dann aber final für **eine neue Fernbedienung
 für den Raum, in dem er sitzt** entschieden („einfach eine bestellen für den Raum hier wo ich drin sitze danke").
-29.07 08:22 Teams: **„link kannst du celine schikcne"** — Kontext unklar (zwischen Fernbedienung-Ask und der
-Julia/15-Uhr-Terminfrage), evtl. Julias Kalenderbuchungslink statt Kamera *(zu prüfen)*.
-29.07 08:08 Teams: **Go für die Garten-Kamera „bei dem Preis"** (nach Philipps „180 € ca" 07:55) — 08:01 vorher: „Reicht eine für den Garten ja oder". Direkt danach ist die 180-€-Option entfallen: Philipp 08:40 DSGVO-Problem (Pausenbereich/Terrasse), einzige verbleibende Option **250 € (RLC-823S1W, dynamische Privacy Mask)** → **im Chat bis 30.07 09:11 keine Antwort dazu, Go fehlt weiterhin** (das Gespräch danach drehte sich um Fernbedienung + Claude-Abo, nicht um die Kamera)
+29.07 08:22 Teams: **„link kannst du celine schikcne"** — erledigt, Celine hat mittlerweile alle nötigen Links.
+29.07 08:08 Teams: **Go für die Garten-Kamera „bei dem Preis"** (180 €) — überholt durch das finale Go für
+250 € am 30.07 (s. oben).
 29.07 07:30 Teams: **„Frag Mal bitte ob wir auf 15 Uhr schieben konnten"** → ✅ erledigt: Philipp 07:56 an Julia, Julia 09:01 Termin auf 15:00 verlegt
 29.07 07:12 Gruppenchat (Sales/Ops): macht heute mit **Jens (neuer CFO)** eine Runde und stellt die Teams vor — „gerne direkt offen sein, damit er ein gutes Gefühl bekommt" (Kontext für 09:00 „Philip x Jens vorOrt")
 28.07 18:01 Teams: **„Was kostet eine Kamera eig, brauchen wir auch eine die den Garten überwacht"** → ✅ 29.07 07:55 beantwortet (180 € ca)
-28.07 09:52 Teams: **„kalender vom Jurgen hätte ich auch gerne"** → Philipp 15:23: „kümmere mich drum, sobald ich ihn erreiche"; **Jurgens Kalenderfreigabe offen**
+28.07 09:52 Teams: **„kalender vom Jurgen hätte ich auch gerne"** → ✅ erledigt (30.07)
 28.07 09:37 Termin „Kamera einrichten, Kalender einrichten" **abgesagt** (Thema war vorab geklärt) — Philipp hatte 09:34 vorgeschlagen zu canceln, Konrad 09:36 „ja perfekt"
 28.07 15:17 Teams: „wann ist das treffen mit der Julia / will da jetzt schnell einen Haken hinbekommen" → Terminfindung Odoo-Lizenzen
 28.07 08:58 Teams: **„kamera hat geklappt danke"** + **„Cag Kalender hat geklappt danke"** + **„jetzt nur noch Joshua"** → Kamera + Cagatays Kalenderfreigabe erledigt, offen nur noch Joshua Rippelmeier
@@ -50,6 +50,5 @@ Julia/15-Uhr-Terminfrage), evtl. Julias Kalenderbuchungslink statt Kamera *(zu p
 
 ## Offen / wartet auf
 **Odoo-Lizenzentscheidung 1/2/5 Jahre** — Angebote von Julia Bücker liegen seit 29.07 16:26 vor, von Philipp gesichtet, Entscheidung jetzt bei Konrad
-Geld an Philipp schicken (180 €, Claude-Abo) — zugesagt 30.07 09:10, noch nicht eingegangen *(unbestätigt)*
 Klareres/aufgeschlüsseltes OBS-Angebot + OBS-Termin · ob er bei OBS angerufen/einen Alternativtermin gefunden hat
 Nächstes 1:1: heute 10:30 CEST (einmalig verschoben); regulär Mo 08:45 CEST (nächstes 27.07)
