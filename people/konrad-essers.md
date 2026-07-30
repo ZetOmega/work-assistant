@@ -8,9 +8,12 @@ Chef & Haupt-Entscheider. Kennt den mobilezone-CEO „gut“. Setzt Tempo, verpa
 ERP (Chefsache mit Eric) · App smartvélo · neue Stelle ausgeschrieben · Werbe-/Event-Kampagne
 
 ## Letzte Aktionen
-29.07 07:30 Teams: **„Frag Mal bitte ob wir auf 15 Uhr schieben konnten"** → will den Odoo-Lizenztermin heute von 16:30 auf **15:00 CEST** verlegen. Ask an Julia Bücker offen (Außenwirkung → Go nötig)
+29.07 08:22 Teams: **„kannst du eine neue fernbedinung bestellen für den samsung fernseher im meetingraum"** → **unbeantwortet, kein To-Do angelegt**
+29.07 08:22 Teams: **„link kannst du celine schikcne"** → welcher Link ist nicht eindeutig *(unbestätigt: Julias Terminbuchungslink)*, unbeantwortet
+29.07 08:08 Teams: **Go für die Garten-Kamera „bei dem Preis"** (nach Philipps „180 € ca" 07:55) — 08:01 vorher: „Reicht eine für den Garten ja oder". **Aber:** Philipp 08:40 DSGVO-Problem + Alternative **250 € (RLC-823S1W, dynamische Privacy Mask)** → **darauf keine Antwort, Go für 250 € fehlt**
+29.07 07:30 Teams: **„Frag Mal bitte ob wir auf 15 Uhr schieben konnten"** → ✅ erledigt: Philipp 07:56 an Julia, Julia 09:01 Termin auf 15:00 verlegt
 29.07 07:12 Gruppenchat (Sales/Ops): macht heute mit **Jens (neuer CFO)** eine Runde und stellt die Teams vor — „gerne direkt offen sein, damit er ein gutes Gefühl bekommt" (Kontext für 09:00 „Philip x Jens vorOrt")
-28.07 18:01 Teams: **„Was kostet eine Kamera eig, brauchen wir auch eine die den Garten überwacht"** → Preisfrage an Philipp, **unbeantwortet**
+28.07 18:01 Teams: **„Was kostet eine Kamera eig, brauchen wir auch eine die den Garten überwacht"** → ✅ 29.07 07:55 beantwortet (180 € ca)
 28.07 09:52 Teams: **„kalender vom Jurgen hätte ich auch gerne"** → Philipp 15:23: „kümmere mich drum, sobald ich ihn erreiche"; **Jurgens Kalenderfreigabe offen**
 28.07 09:37 Termin „Kamera einrichten, Kalender einrichten" **abgesagt** (Thema war vorab geklärt) — Philipp hatte 09:34 vorgeschlagen zu canceln, Konrad 09:36 „ja perfekt"
 28.07 15:17 Teams: „wann ist das treffen mit der Julia / will da jetzt schnell einen Haken hinbekommen" → Terminfindung Odoo-Lizenzen
@@ -33,6 +36,8 @@ ERP (Chefsache mit Eric) · App smartvélo · neue Stelle ausgeschrieben · Werb
 08.07 Zweiter Claude-Account ist gekauft ✅
 
 ## Offen / wartet auf
+**Go für die 250-€-Kamera (RLC-823S1W)** — Konrads Go vom 29.07 galt für 180 €, auf den DSGVO-Nachtrag keine Antwort (seit 29.07)
+**Odoo-Lizenzentscheidung 1/2/5 Jahre** — Angebote von Julia Bücker liegen seit 29.07 16:26 vor (an Philipp + Konrad)
 Push-TAN auf neuem Handy einrichten → dann Claude-Abo-Kreditkartenzahlung nochmal versuchen
 Klareres/aufgeschlüsseltes OBS-Angebot + OBS-Termin · ob er bei OBS angerufen/einen Alternativtermin gefunden hat
 Nächstes 1:1: heute 10:30 CEST (einmalig verschoben); regulär Mo 08:45 CEST (nächstes 27.07)
