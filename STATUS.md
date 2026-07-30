@@ -23,7 +23,10 @@
   **Mehrjahresverträge = Vorauszahlung der ganzen Laufzeit**, Online-Signatur.
 - **Eric-1:1 wieder verschoben** — Eric 14:01 Teams „Wir müssen wieder verschieben" → jetzt **Di 04.08
   14:00–15:30 CEST** (Philipp 14:19 angenommen). Das ist der Termin, der schon seit Wochen laufend
-  hin- und hergeschoben wird — kein neuer Einzelfall. KPI-Brainstorm + Ticket-Frage rutschen mit.
+  hin- und hergeschoben wird — kein neuer Einzelfall. KPI-Brainstorm sitzt weiter dort.
+- **Erics Ticket-Frage geklärt** (war: nur 3 Tickets sichtbar, Filter sagen 9 bzw. 17).
+- **Celine/Bewerbergespräch IT-Stelle** (29.07) — Kandidat war **Sorosch Hadiyan**, Gespräch **lief gut**,
+  positiver Eindruck → topics/hiring.md, people/sorosch-hadiyan.md.
 - **Calvin/Jobvalley angestoßen** — Philipp 15:03 an Eric: „sehe grade dass du calvin noch nicht auf slack
   geantwortet hast" → Ball liegt jetzt belegt bei Eric.
 - **1Password-Onboarding Eric** angelaufen (Beitritt 15:56, Eric 15:56 „Was mache ich jetzt mit 1 Password?",
@@ -45,8 +48,6 @@
   Thema, nicht bei Philipp.
 - **Intero Technologies (Uli Kessel) — Terminvorschlag schuldig (seit 27.07, 3 Tage).**
 - **Jurgens Kalenderfreigabe für Konrad** (seit 28.07, 2 Tage) — „sobald ich ihn erreiche".
-- **Erics Ticket-Frage** (29.07 07:43: nur 3 Tickets sichtbar, Filter sagen 9 bzw. 17) — schriftlich
-  unbeantwortet; ob im Vorbeigehen geklärt, ist offen *(unbestätigt)*. Landet sonst im 1:1 am 04.08.
 - **Georgina/Buchhaltung**: bei der Buchhaltung nach Georginas Infos zu **Vertragsänderungen** fragen (seit 27.07).
 - **Hanisch — Telefon/Zugang NetCologne-Glasfaser (seit 22.07, 8 Tage)** — To-Do offen.
 - **Slack-Bot-Invite (Mathis)** — kein Fortschritt.
@@ -54,8 +55,6 @@
   (Papaya Reminder – Vertragslaufzeit), dann prüfen/nachfassen.
 - **Sales Bikes abbilden** — Richtung Excel + Planner (mit Sales nicht bestätigt). **Jurgen liefert Bike-IDs
   „Ende dieser Woche"** → diese Woche fällig.
-- **Celine (29.07 15:39–15:53)**: „Magst du dazu kommen?" → „Kannst den auch raus jagen, wenn du glaubst der ist
-  nix" — Bewerber-/Kandidatengespräch, **Ausgang unbelegt** *(unbestätigt)*.
 
 ## 🟡 Ich (Philipp) — Microsoft To-Do (9 offen; KEINE überfällig)
 - [ ] Fernbedienung Samsung-TV Meetingraum bestellen (neu, 30.07)
