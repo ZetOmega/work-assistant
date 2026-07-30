@@ -8,9 +8,18 @@ Chef & Haupt-Entscheider. Kennt den mobilezone-CEO „gut“. Setzt Tempo, verpa
 ERP (Chefsache mit Eric) · App smartvélo · neue Stelle ausgeschrieben · Werbe-/Event-Kampagne
 
 ## Letzte Aktionen
-29.07 08:22 Teams: **„kannst du eine neue fernbedinung bestellen für den samsung fernseher im meetingraum"** → ✅ To-Do angelegt (30.07)
-29.07 08:22 Teams: **„link kannst du celine schikcne"** → betrifft die Kamera (Produktlink), noch nicht an Celine geschickt, hängt am Kamera-Go
-29.07 08:08 Teams: **Go für die Garten-Kamera „bei dem Preis"** (nach Philipps „180 € ca" 07:55) — 08:01 vorher: „Reicht eine für den Garten ja oder". Direkt danach ist die 180-€-Option entfallen: Philipp 08:40 DSGVO-Problem (Pausenbereich/Terrasse), einzige verbleibende Option **250 € (RLC-823S1W, dynamische Privacy Mask)** → **darauf keine Antwort, Go fehlt weiterhin**
+30.07 09:00–09:11 Teams: **Claude-Abo-Thema live geklärt.** Philipp hatte 08:30 Konrad über das drohende Limit
+informiert (Reset erst Sonntag, Flink-SLA verbraucht es schnell wieder). Konrad zunächst verwirrt („heißt was?"),
+dann PayPal/Aufladen-Optionen durchgesprochen, Kreissparkasse-Karte nochmal versucht — klappt weiter nicht
+(nur Kreditkarte möglich, 180 €/Monat). **Ergebnis: Konrad schickt Philipp das Geld direkt** („ja wir schicken
+dir das direkt"), Philipp bucht das Abo selbst, keine Vorkasse nötig. **Konrad 09:11: „sag der celine das damit
+sie an die buchhaltung schreibt"** → Philipp muss Celine informieren, Celine schreibt an Buchhaltung.
+30.07 07:16–08:31 Teams: Fernbedienung-Thema geklärt — Konrad wollte ursprünglich eine neue, wollte dann bei
+Nachfrage doch lieber die vorhandene schmale Fernbedienung, hat sich dann aber final für **eine neue Fernbedienung
+für den Raum, in dem er sitzt** entschieden („einfach eine bestellen für den Raum hier wo ich drin sitze danke").
+29.07 08:22 Teams: **„link kannst du celine schikcne"** — Kontext unklar (zwischen Fernbedienung-Ask und der
+Julia/15-Uhr-Terminfrage), evtl. Julias Kalenderbuchungslink statt Kamera *(zu prüfen)*.
+29.07 08:08 Teams: **Go für die Garten-Kamera „bei dem Preis"** (nach Philipps „180 € ca" 07:55) — 08:01 vorher: „Reicht eine für den Garten ja oder". Direkt danach ist die 180-€-Option entfallen: Philipp 08:40 DSGVO-Problem (Pausenbereich/Terrasse), einzige verbleibende Option **250 € (RLC-823S1W, dynamische Privacy Mask)** → **im Chat bis 30.07 09:11 keine Antwort dazu, Go fehlt weiterhin** (das Gespräch danach drehte sich um Fernbedienung + Claude-Abo, nicht um die Kamera)
 29.07 07:30 Teams: **„Frag Mal bitte ob wir auf 15 Uhr schieben konnten"** → ✅ erledigt: Philipp 07:56 an Julia, Julia 09:01 Termin auf 15:00 verlegt
 29.07 07:12 Gruppenchat (Sales/Ops): macht heute mit **Jens (neuer CFO)** eine Runde und stellt die Teams vor — „gerne direkt offen sein, damit er ein gutes Gefühl bekommt" (Kontext für 09:00 „Philip x Jens vorOrt")
 28.07 18:01 Teams: **„Was kostet eine Kamera eig, brauchen wir auch eine die den Garten überwacht"** → ✅ 29.07 07:55 beantwortet (180 € ca)
@@ -36,9 +45,8 @@ ERP (Chefsache mit Eric) · App smartvélo · neue Stelle ausgeschrieben · Werb
 08.07 Zweiter Claude-Account ist gekauft ✅
 
 ## Offen / wartet auf
-**Go für die Garten-Kamera (250 €, RLC-823S1W)** — einzige Option nach DSGVO-Nachtrag, keine Antwort seit 29.07
-**Kamera-Produktlink an Celine** — hängt am Go
+**Go für die Garten-Kamera (250 €, RLC-823S1W)** — einzige Option nach DSGVO-Nachtrag, weiterhin keine Antwort (seit 29.07 08:40)
 **Odoo-Lizenzentscheidung 1/2/5 Jahre** — Angebote von Julia Bücker liegen seit 29.07 16:26 vor, von Philipp gesichtet, Entscheidung jetzt bei Konrad
-Push-TAN auf neuem Handy einrichten → dann Claude-Abo-Kreditkartenzahlung nochmal versuchen
+Geld an Philipp schicken (180 €, Claude-Abo) — zugesagt 30.07 09:10, noch nicht eingegangen *(unbestätigt)*
 Klareres/aufgeschlüsseltes OBS-Angebot + OBS-Termin · ob er bei OBS angerufen/einen Alternativtermin gefunden hat
 Nächstes 1:1: heute 10:30 CEST (einmalig verschoben); regulär Mo 08:45 CEST (nächstes 27.07)
