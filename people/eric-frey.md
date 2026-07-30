@@ -11,7 +11,7 @@ KFZ- & Werkzeugtracking (einheitliche technische Lösung gesucht) · Flink-Daten
 ## Letzte Aktionen
 29.07 15:56 Teams: „Was mache ich jetzt mit 1 Password?" (1Password-Beitritt + Bestätigungsmail 15:56) → Philipp 16:00 „komme gleich zu dir" — vor Ort geklärt *(unbestätigt)*
 29.07 15:03 Philipp an Eric: „sehe grade dass du calvin noch nicht auf slack geantwortet hast, nur fyi" → **Calvin/Jobvalley liegt bei Eric**
-29.07 14:01 Teams: **„Wir müssen wieder verschieben"** → 1:1 jetzt **Di 04.08 14:00–15:30 CEST** (Philipp 14:19 angenommen). KPI-Brainstorm + Ticket-Frage rutschen mit
+29.07 14:01 Teams: **„Wir müssen wieder verschieben"** → 1:1 jetzt **Di 04.08 14:00–15:30 CEST** (Philipp 14:19 angenommen). Das ist der Dauer-Verschiebe-Termin, kein neuer Einzelfall. KPI-Brainstorm + Ticket-Frage rutschen mit
 29.07 11:17 Bat um Freigabe für SharePoint „Einkauf und Supply Chain" → ✅ Philipp 11:18 Ordner **„06 PM & Einkauf"** geteilt (Eric ❤️ 13:08). *Übernahme von Katharinas Einkaufsbereich liegt nahe, ist aber nicht bestätigt (unbestätigt)*
 29.07 07:43 (Teams, mit Screenshot) Frage: „warum werden nur drei Tickets angezeigt, aber in den Filtern 9 bzw. 17 als offen?" — **schriftlich weiter unbeantwortet**, landet sonst im 1:1 04.08
 28.07 15:02 Neue Serie/Termin **„AD Meeting: Ticket Reviews & Maintenance Tickets" Fr 31.07 09:00–09:30 CEST** (Teams) — Philipp hat angenommen

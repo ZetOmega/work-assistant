@@ -10,8 +10,11 @@ Führte Einkauf zusammen (einkauf@smart-velo.com, seit 29.06). Eine der wichtigs
 Katharina 11:58 **„hat geklappt danke dir"** → ✅ einkauf@-Zugang liegt beim Team.
 *(Passwort steht bewusst nicht hier — gehört in den Passwortmanager.)*
 
+## Postfach-Regelung (geklärt, Philipp 30.07)
+**Keine Weiterleitung.** katharina@ bleibt aktiv, wird **periodisch gesichtet**. Katharina richtet selbst eine
+**Autoreply** ein: „ich arbeite hier nicht mehr, bitte an einkauf@ wenden."
+
 ## Offen / wartet auf
-**Weiterleitung katharina@ → einkauf@smart-velo.com einrichten** (Postfach bleibt aktiv) — kein Beleg, heute fällig
 **Geräte / restliche Accounts / Lizenzen** — nirgends dokumentiert *(blinder Fleck)*
 Wer übernimmt Einkauf/Supply Chain? Erics SharePoint-Freigabe 29.07 legt Eric nahe *(unbestätigt)*
 WaWi-/ERP-Wissen abholen, bevor sie weg ist

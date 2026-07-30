@@ -22,8 +22,9 @@
   (1/2/5 Jahre) als Odoo-Auftragslinks. Konditionen: Preisstabilität über Laufzeit, **Erhöhung bei Verlängerung
   auf max. 7 %/Jahr gedeckelt**, Mehrjahresrabatte, **Zahlung 21 Tage nach Unterzeichnung**,
   **Mehrjahresverträge = Vorauszahlung der ganzen Laufzeit**, Online-Signatur.
-- **Eric-1:1 neu terminiert** — Eric 14:01 Teams „Wir müssen wieder verschieben" → jetzt **Di 04.08
-  14:00–15:30 CEST** (Philipp 14:19 angenommen). KPI-Brainstorm + Ticket-Frage rutschen mit.
+- **Eric-1:1 wieder verschoben** — Eric 14:01 Teams „Wir müssen wieder verschieben" → jetzt **Di 04.08
+  14:00–15:30 CEST** (Philipp 14:19 angenommen). Das ist der Termin, der schon seit Wochen laufend
+  hin- und hergeschoben wird — kein neuer Einzelfall. KPI-Brainstorm + Ticket-Frage rutschen mit.
 - **Calvin/Jobvalley angestoßen** — Philipp 15:03 an Eric: „sehe grade dass du calvin noch nicht auf slack
   geantwortet hast" → Ball liegt jetzt belegt bei Eric.
 - **1Password-Onboarding Eric** angelaufen (Beitritt 15:56, Eric 15:56 „Was mache ich jetzt mit 1 Password?",
@@ -70,7 +71,7 @@
 - [ ] Robert nach Urlaub nachfassen (Papaya-IoT-Sync) — fällig 31.08
 - [ ] SharePoint-Restrukturierung: Ideen sammeln — fällig 30.08
 - [ ] Wissensdatenbank/Video-Anleitung für Service — fällig 29.11
-- *Nicht in der Liste, aber zugesagt/angefragt: Fernbedienung Samsung-TV · Weiterleitung katharina@ → einkauf@ ·
+- *Nicht in der Liste, aber zugesagt/angefragt: Fernbedienung Samsung-TV ·
   Antwort an Robert (Flink SLA) · Odoo-Lizenzentscheidung.*
 
 ## 📅 Nächste Termine (alle CEST, aus Kalender 30.07 07:40)
@@ -86,7 +87,8 @@
 ## ⚠️ Blinde Flecken
 - **Odoo-Lizenztermin 29.07 15:00**: kein Protokoll/keine Notiz — nur das Angebot als Ergebnis. Was zu Rabatten
   gesagt wurde, ist nicht festgehalten.
-- **Katharina-Offboarding**: Geräte, Accounts, Weiterleitung — nur der einkauf@-Zugang ist belegt.
+- **Katharina-Offboarding**: Geräte, restliche Accounts/Lizenzen — nirgends dokumentiert. Postfach-Handling
+  (periodisches Sichten + Katharinas eigene Autoreply auf einkauf@) ist geklärt, kein blinder Fleck mehr.
 - **Erics Übernahme von Einkauf/Supply Chain** (Freigabe 29.07, einen Tag vor Katharinas Abgang) —
   liegt nahe, ist aber nirgends bestätigt *(unbestätigt)*.
 - **OBS**: wer zieht nach, wenn Stefan Arens sich nicht meldet? Konrads Gegenangebot hängt seit 2 Tagen.
