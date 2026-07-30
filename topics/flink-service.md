@@ -13,3 +13,11 @@
 
 ## Notizen
 Vertraulichkeit ernst nehmen — nicht in andere Kanäle/Chats tragen, die dieses Repo öffentlicher machen als nötig.
+
+## 29.07 — Robert zieht die SLA-Rückanalyse nach vorne
+- Mail **„AW: Flink SLA Rückanalyse"** 29.07 13:24 CEST, Robert Breuer an Philipp + **Henry Horn**:
+  „was könnten wir hier noch verbessern, um noch tiefer in die Datenlage einzusteigen? Wir müssen das Projekt
+  gerade nach vorne ziehen. **Wenn Kapas dafür notwendig sind, sollten wir die freimachen.**"
+- → **Antwort offen (Stand 30.07).** Robert bietet aktiv Ressourcen an; Ask ist ein konkreter Vorschlag,
+  welche Datenquellen/Auswertungstiefe fehlen (Kandidaten aus früheren Threads: Slack-Channel-Daten +
+  Ticket-Review verbinden, Kommentar-Historie aus Papaya — dort blockieren aber die API-Rate-Limits).

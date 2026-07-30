@@ -70,3 +70,13 @@ als erste Maßnahme.
 - 12-V-Netzteil/Steckdose am Kamerastandort im Garten sicherstellen (WLAN ist da, Strom braucht sie trotzdem)
 - Betriebsrat-Frage klären
 - Konrads Frage nach den **Kosten** ist noch unbeantwortet (Teams 28.07 18:01)
+
+## Verlauf Konrad-Abstimmung (29.07)
+- 07:55 Philipp: **„180 € ca"** (Preis auf Konrads Frage vom 28.07 18:01).
+- 08:01 Konrad: „Reicht eine für den Garten ja oder" → 08:02 Philipp: ja, PTZ rotiert, Blindspot nur bei starrer
+  Montage; je nach Montagepunkt ggf. **Kabelverlängerungen** von Reolink nötig.
+- 08:08 Konrad: **„Ja lass uns das machen bei dem Preis, das ist gut dann haben wir den Garten auch."**
+  → Go, **bezogen auf 180 €**.
+- 08:40 Philipp: DSGVO-Nachtrag — Kamera darf **nicht auf Pausenbereich/Terrasse** zeigen; Alternative ist die
+  **teurere Kamera für 250 €** (mehr Funktionen, kann den Pausenbereich ausblenden und den Rest anlassen).
+- **→ Konrad hat auf die 250 € nicht geantwortet. Go für die RLC-823S1W fehlt, Bestellung hängt (Stand 30.07).**

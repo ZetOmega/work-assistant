@@ -9,6 +9,8 @@ Mobilfunk-Anbieterwechsel zu greendevice.eco (Pascal Göllner) koordiniert ·
 Werbemails-Kampagne · restliche Rufnummern klären · o2-Rechnung/Kundenkennzahl raussuchen
 
 ## Letzte Aktionen
+29.07 15:39–15:53 Teams: „Magst du dazu kommen?" → Philipp „jo" → Celine 15:53 **„Kannst den auch raus jagen, wenn du glaubst der ist nix"** → Bewerber-/Kandidatengespräch, **Ausgang nicht dokumentiert** *(unbestätigt)*
+29.07 09:20 Philipp zu Personio/Sales-Account: „die Verträge in Personio werden damit ja auch gemacht … wir können natürlich da für Sales einen Account erstellen"
 28.07 Antwort auf „welche KI für Arbeitsverträge“ formuliert (M365 Copilot im Tenant für Vorlagen-Arbeit, Beck-Noxtua nur bei echtem Prüfbedarf, keine Consumer-Accounts) → topics/ki-arbeitsvertraege.md
 27.07 10:15 Philipp schickt ihr das Adressbuch-Tool (tools.smartvelo-mobility.com/adressbuch)
 24.07 12:28 Google-Business-Zugang: Max + Marv brauchen ihn „recht dringend"; fragt ob Henry ihn noch hat, will bei Konrad nachfragen → topics/google-business-profil.md

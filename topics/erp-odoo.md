@@ -69,3 +69,19 @@
 - **Uli Kessel (Intero) Terminvorschlag schicken** oder Vergleichsangebot bewusst abschließen.
 - Ergebnis der Verhandlung vom 27.07 mit Konrad festhalten (Preis/Stundenpaket/Go).
 - OBS um klareres/aufgeschlüsseltes Angebot bitten (Konrads Wunsch).
+
+- **29.07 — Lizenztermin mit Odoo lief 15:00–15:30 CEST** (Google Meet, Julia Bücker + Konrad; von 16:30 vorgezogen,
+  Konrads Ask via Philipp 07:56, Julia bestätigte 09:01). **Kein Protokoll** — Ergebnis ist das Angebot (unten).
+- **29.07 16:26 — Julia Bücker: „Eure Odoo-Lizenzen"** (an Philipp + Konrad). **3 Angebote über 40 Odoo-Lizenzen**
+  als Odoo-Auftragslinks: **1-Jahres-, 2-Jahres-, 5-Jahres-Vertrag** (Laufzeiten bis 5 Jahre möglich, andere auf Anfrage).
+  Konditionen:
+  - **Preisstabilität** über die gesamte Laufzeit; danach Anpassung nach Standard-AGB.
+  - **Preisschutz bei Verlängerung**: Steigerung auf **max. 7 % pro Jahr der vorangegangenen Laufzeit** begrenzt.
+  - **Mehrjahresrabatte** je Laufzeit (Details in den einzelnen Angeboten).
+  - **Zahlung innerhalb 21 Tagen** nach Unterzeichnung; **bei Mehrjahresverträgen Vorauszahlung der gesamten Laufzeit**;
+    Rechnung binnen 1 Arbeitstag; Online-Signatur möglich.
+  → **Offen: Entscheidung 1/2/5 Jahre mit Konrad.** Konkrete Preise/Rabattsätze stehen nur in den Odoo-Angebotslinks,
+  nicht in der Mail — für einen Vergleich müssen die drei Angebote geöffnet werden.
+- **30.07 — OBS/Stefan Arens**: weiter **keine Antwort** auf Konrads Gegenangebot vom 28.07 (2 Tage).
+  Lizenzspur (Odoo direkt) läuft damit dem Implementierungspaket voraus.
+- **30.07 — Intero Technologies (Uli Kessel)**: Terminvorschlag weiter schuldig (seit 27.07, 3 Tage).
