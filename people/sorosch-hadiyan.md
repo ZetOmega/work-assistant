@@ -20,7 +20,11 @@ Bewerbung auf die offene IT-Stelle bei smartvélo (Kontext: topics/hiring.md).
 30.07 Bewerbergespräch mit Celine (+ Philipp) — **lief gut, positiver Eindruck**.
 Termin kam ursprünglich über Jakob Volksdorf (23.07: „kommt voraussichtlich Di 28.07 15:30").
 
+## Einschätzung Philipp (30.07)
+Beworben über das Sysadmin-Profil, aber breiter aufgestellt als der CV allein zeigt: **auch stark in
+KI-Themen**, dazu **Marketing als großes Plus** (Diplom Kommunikationsdesign, Senior-Art-Director-Erfahrung),
+**hohe Lernbereitschaft und gutes Knowledge** insgesamt. Passt damit potenziell sowohl auf den Sysadmin-
+als auch auf den KI-/Automatisierungs-Zuschnitt der Stelle.
+
 ## Offen / wartet auf
 Nächster Schritt im Prozess *(unbestätigt, nicht dokumentiert)*.
-Rollenzuschnitt prüfen: CV passt eher zu Support/Sysadmin als zum aktuell gewählten
-„KI- & Automatisierungs-Engineer"-Profil — Abgleich mit Konrad/Celine sinnvoll.

@@ -11,8 +11,9 @@
   people/sorosch-hadiyan.md) — IT-Support/Administration-Profil (Windows/macOS, AD, Exchange, Intune/Meraki,
   M365, Lizenz-/Asset-Management), 2016–2025 durchgehend in IT-Support-/Admin-Rollen, zuletzt Senior IT
   Administrator bei Levy Holding AG.
-- Passt eher zum **Support-/Sysadmin-Zuschnitt** als zum jetzt gewählten „KI- & Automatisierungs-Engineer"-Profil
-  (s. unten) — mit greendevice, das den Support-/Geräteverwaltungs-Teil übernimmt, ggf. Rollenzuschnitt prüfen.
+- **Beworben über das Sysadmin-Profil**, aber laut Philipp (30.07) breiter: **auch stark in KI-Themen**,
+  **Marketing großes Plus** (Diplom Kommunikationsdesign, Senior-Art-Director-Erfahrung), hohe Lernbereitschaft,
+  gutes Knowledge. Passt damit potenziell auch auf den jetzt gewählten „KI- & Automatisierungs-Engineer"-Zuschnitt.
 - Nächster Schritt: nicht dokumentiert *(unbestätigt)*.
 
 ## KI- & Automatisierungs-Engineer (23.07) — ⚠️ Konflikt
