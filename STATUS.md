@@ -39,9 +39,6 @@
 - **Konrad: „link kannst du celine schicken"** (29.07 08:22) — betrifft die Kamera (Produktlink). Noch nicht an
   Celine geschickt → offen, hängt am Kamera-Go.
 - ~~Konrad: neue Fernbedienung für den Samsung-TV im Meetingraum bestellen~~ → ✅ To-Do angelegt (30.07).
-- **Robert: „AW: Flink SLA Rückanalyse"** (29.07 13:24, an Philipp + Henry): „was könnten wir hier noch
-  verbessern, um noch tiefer in die Datenlage einzusteigen? … Wenn Kapas dafür notwendig sind, sollten wir die
-  freimachen." → **unbeantwortet (1 Tag)**, Robert will das Projekt nach vorne ziehen.
 - **Claude-Abo BLOCKIERT (seit 21.07, 9 Tage)** — Ursache belegt: Konto nicht gedeckt (Celine 23.07). Am 29.07
   nur wieder Sign-in-Link (10:24) + Datenexport (10:26), **kein neuer Bezahlweg**. Wartet auf Konrad.
 - **OBS: keine Antwort von Stefan Arens** auf Konrads Gegenangebot vom 28.07 — **2 Tage**. Ist aktuell Konrads
@@ -53,8 +50,6 @@
 - **Slack-Bot-Invite (Mathis)** — kein Fortschritt.
 - **Papaya-Kündigungsfrist + Arianna/Feature-Request** — bewusst geparkt, liegt bis zum Termin Do 13.08 11:00
   (Papaya Reminder – Vertragslaufzeit), dann prüfen/nachfassen.
-- **Sales Bikes abbilden** — Richtung Excel + Planner (mit Sales nicht bestätigt). **Jurgen liefert Bike-IDs
-  „Ende dieser Woche"** → diese Woche fällig.
 
 ## 🟡 Ich (Philipp) — Microsoft To-Do (9 offen; KEINE überfällig)
 - [ ] Fernbedienung Samsung-TV Meetingraum bestellen (neu, 30.07)
@@ -68,7 +63,7 @@
 - [ ] SharePoint-Restrukturierung: Ideen sammeln — **fällig Mitte/Ende September (verlegt von 30.08 auf 20.09)**
 - [ ] Wissensdatenbank/Video-Anleitung für Service — fällig 29.11
 - *„Jokubas anrufen" ist erledigt/von der Liste — nicht mehr offen.*
-- *Nicht in der Liste, aber zugesagt/angefragt: Antwort an Robert (Flink SLA) · Camera-Link an Celine schicken.*
+- *Nicht in der Liste, aber zugesagt/angefragt: Camera-Link an Celine schicken.*
 
 ## 📅 Nächste Termine (alle CEST, aus Kalender 30.07 07:40)
 - **Do 30.07** · keine Termine · Katharina Hahns letzter Arbeitstag
