@@ -34,7 +34,8 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
 - 28.07 10:33 Philipp an **Georgina Zang (mobilezone)**: Vertrag für Pramod Mallipudi anlegen.
   **Georgina 11:26: „können wir anlegen, Nummer wird morgen zum Mittag freigeschaltet"** → also **heute
   Mi 29.07 mittags aktiv**. Zusätzlich: Georgina hat der Buchhaltung 27.07 Infos zu **Vertragsänderungen**
-  geschickt — Bitte an Philipp, dort nachzufragen (bessere Vorausplanung). **Offen.**
+  geschickt — Bitte an Philipp, dort nachzufragen (bessere Vorausplanung). **Zurückgestellt (30.07, Philipp):
+  läuft mit greendevice-Migration später mit, kein separater Punkt jetzt.**
 
 ## Bestand (vor Migration)
 - ~25 HIGH-mobile-Verträge (Telekom-D1, 30 GB 5G, 9,99 €, mtl. kündbar, eSIM) — Privatkundenkonten

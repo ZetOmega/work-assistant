@@ -10,3 +10,4 @@ Alle HIGH-Verträge laufen über sie (kein Self-Service-Panel; Bestellungen aktu
 
 ## Offen / wartet auf
 Philipp: Rufnummern-Liste prüfen/anpassen und zurückschicken · Sie: konkreter Stichtag Firmenverträge-Stopp (ab Dez. 2026)
+*Vertragsänderungen-Info an Buchhaltung (27.07): zurückgestellt, läuft später mit der greendevice-Migration mit.*

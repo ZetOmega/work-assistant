@@ -31,8 +31,7 @@
   geantwortet hast" → Ball liegt jetzt belegt bei Eric.
 - **1Password-Onboarding Eric** angelaufen (Beitritt 15:56, Eric 15:56 „Was mache ich jetzt mit 1 Password?",
   Philipp 16:00 „komme gleich zu dir") — vermutlich vor Ort geklärt *(unbestätigt)*.
-- **Fernbedienung Samsung-TV geklärt** (30.07 07:16–08:31 Teams) — Konrad will eine neue, für den Raum, in dem
-  er sitzt.
+- **Fernbedienung Samsung-TV komplett erledigt** — am Ende ging's nur um neue Batterien, kein Bestell-Bedarf.
 - **Claude-Abo komplett erledigt.** Konrad hat die 180 € direkt geschickt, **Geld ist eingegangen**, keine
   Vorkasse nötig, Buchhaltungs-Mail-Frage hat sich erübrigt.
 - **Jurgens Kalenderfreigabe für Konrad erledigt.**
@@ -43,15 +42,14 @@
 - **OBS: keine Antwort von Stefan Arens** auf Konrads Gegenangebot vom 28.07 — **2 Tage**. Ist aktuell Konrads
   Thema, nicht bei Philipp.
 - **Intero Technologies (Uli Kessel) — Terminvorschlag schuldig (seit 27.07, 3 Tage).**
-- **Georgina/Buchhaltung**: bei der Buchhaltung nach Georginas Infos zu **Vertragsänderungen** fragen (seit 27.07).
 - **Hanisch — Telefon/Zugang NetCologne-Glasfaser (seit 22.07, 8 Tage)** — To-Do offen.
 - **Slack-Bot-Invite (Mathis)** — kein Fortschritt.
 - **Papaya-Kündigungsfrist + Arianna/Feature-Request** — bewusst geparkt, liegt bis zum Termin Do 13.08 11:00
   (Papaya Reminder – Vertragslaufzeit), dann prüfen/nachfassen.
 
-## 🟡 Ich (Philipp) — Microsoft To-Do (9 offen; KEINE überfällig)
-- [ ] Fernbedienung Samsung-TV Meetingraum bestellen (neu, 30.07)
-- [ ] Kompatibilitäts-/Abhängigkeits-Tool für Lukas' Bike-Konfigurator bauen
+## 🟡 Ich (Philipp) — Microsoft To-Do (8 offen; KEINE überfällig)
+- [ ] Kompatibilitäts-/Abhängigkeits-Tool für Lukas' Bike-Konfigurator bauen — **Vorstufe des eigentlichen
+  Konfigurators**: erst das BOM-/Abhängigkeitstool, danach mit dessen Daten der Bike-Konfigurator selbst
 - [ ] Papaya-API: Feature-Request — Antwort von Arianna nachverfolgen
 - [ ] KPI-Brainstorm mit Eric terminieren — sitzt jetzt im 1:1 Di 04.08
 - [ ] Hanisch: Telefon/Zugang Glasfaserausbau NetCologne
@@ -60,7 +58,7 @@
 - [ ] Robert nach Urlaub nachfassen (Papaya-IoT-Sync) — fällig 31.08
 - [ ] SharePoint-Restrukturierung: Ideen sammeln — **fällig Mitte/Ende September (verlegt von 30.08 auf 20.09)**
 - [ ] Wissensdatenbank/Video-Anleitung für Service — fällig 29.11
-- *„Jokubas anrufen" ist erledigt/von der Liste — nicht mehr offen.*
+- *„Jokubas anrufen" und „Fernbedienung Samsung-TV" sind erledigt/abgehakt — nicht mehr offen.*
 
 ## 📅 Nächste Termine (alle CEST, aus Kalender 30.07 07:40)
 - **Do 30.07** · keine Termine · Katharina Hahns letzter Arbeitstag

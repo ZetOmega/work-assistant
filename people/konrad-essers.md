@@ -18,9 +18,8 @@ dann PayPal/Aufladen-Optionen durchgesprochen, Kreissparkasse-Karte nochmal vers
 (nur Kreditkarte möglich, 180 €/Monat). **Ergebnis: Konrad schickt Philipp das Geld direkt** („ja wir schicken
 dir das direkt"), Philipp bucht das Abo selbst, keine Vorkasse nötig. **Geld ist eingegangen, Abo erledigt**
 (Stand 30.07) — die Buchhaltungs-Mail-Frage hat sich erübrigt.
-30.07 07:16–08:31 Teams: Fernbedienung-Thema geklärt — Konrad wollte ursprünglich eine neue, wollte dann bei
-Nachfrage doch lieber die vorhandene schmale Fernbedienung, hat sich dann aber final für **eine neue Fernbedienung
-für den Raum, in dem er sitzt** entschieden („einfach eine bestellen für den Raum hier wo ich drin sitze danke").
+30.07 07:16–08:31 Teams: Fernbedienung-Thema **komplett erledigt** — am Ende ging es nur um **neue Batterien**,
+kein Bestell-Bedarf. To-Do abgehakt.
 29.07 08:22 Teams: **„link kannst du celine schikcne"** — erledigt, Celine hat mittlerweile alle nötigen Links.
 29.07 08:08 Teams: **Go für die Garten-Kamera „bei dem Preis"** (180 €) — überholt durch das finale Go für
 250 € am 30.07 (s. oben).
