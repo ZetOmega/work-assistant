@@ -8,9 +8,9 @@ Chef & Haupt-Entscheider. Kennt den mobilezone-CEO „gut“. Setzt Tempo, verpa
 ERP (Chefsache mit Eric) · App smartvélo · neue Stelle ausgeschrieben · Werbe-/Event-Kampagne
 
 ## Letzte Aktionen
-29.07 08:22 Teams: **„kannst du eine neue fernbedinung bestellen für den samsung fernseher im meetingraum"** → **unbeantwortet, kein To-Do angelegt**
-29.07 08:22 Teams: **„link kannst du celine schikcne"** → welcher Link ist nicht eindeutig *(unbestätigt: Julias Terminbuchungslink)*, unbeantwortet
-29.07 08:08 Teams: **Go für die Garten-Kamera „bei dem Preis"** (nach Philipps „180 € ca" 07:55) — 08:01 vorher: „Reicht eine für den Garten ja oder". **Aber:** Philipp 08:40 DSGVO-Problem + Alternative **250 € (RLC-823S1W, dynamische Privacy Mask)** → **darauf keine Antwort, Go für 250 € fehlt**
+29.07 08:22 Teams: **„kannst du eine neue fernbedinung bestellen für den samsung fernseher im meetingraum"** → ✅ To-Do angelegt (30.07)
+29.07 08:22 Teams: **„link kannst du celine schikcne"** → betrifft die Kamera (Produktlink), noch nicht an Celine geschickt, hängt am Kamera-Go
+29.07 08:08 Teams: **Go für die Garten-Kamera „bei dem Preis"** (nach Philipps „180 € ca" 07:55) — 08:01 vorher: „Reicht eine für den Garten ja oder". Direkt danach ist die 180-€-Option entfallen: Philipp 08:40 DSGVO-Problem (Pausenbereich/Terrasse), einzige verbleibende Option **250 € (RLC-823S1W, dynamische Privacy Mask)** → **darauf keine Antwort, Go fehlt weiterhin**
 29.07 07:30 Teams: **„Frag Mal bitte ob wir auf 15 Uhr schieben konnten"** → ✅ erledigt: Philipp 07:56 an Julia, Julia 09:01 Termin auf 15:00 verlegt
 29.07 07:12 Gruppenchat (Sales/Ops): macht heute mit **Jens (neuer CFO)** eine Runde und stellt die Teams vor — „gerne direkt offen sein, damit er ein gutes Gefühl bekommt" (Kontext für 09:00 „Philip x Jens vorOrt")
 28.07 18:01 Teams: **„Was kostet eine Kamera eig, brauchen wir auch eine die den Garten überwacht"** → ✅ 29.07 07:55 beantwortet (180 € ca)

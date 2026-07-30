@@ -5,16 +5,15 @@
 - **Katharina Hahn: letzter Arbeitstag.** einkauf@-Zugang ist beim Team ✅ (Passwort 29.07 11:19 raus,
   Katharina 11:58 „hat geklappt"). **Keine Weiterleitung** — Postfach katharina@ bleibt aktiv, wird periodisch
   gesichtet; Katharina richtet selbst eine Autoreply ein („ich arbeite hier nicht mehr, bitte an einkauf@ wenden").
-- **To-Do „Jokubas anrufen" ist heute fällig** (Website-/Impressum-Fixes; Mail ist seit 28.07 raus, Ball bei Karlsson).
 - **Odoo-Lizenzangebote von Philipp gesichtet** (40 Lizenzen, 1/2/5 Jahre) — **Ball bei Konrad**, Entscheidung
   liegt bei ihm, kein Handlungsbedarf mehr bei Philipp.
 
 ## ✅ Seit letztem Lauf geklärt / vorangekommen (seit Mi 29.07 07:50)
 - **Odoo-Termin auf 15:00 vorgezogen** — Philipp 07:56 an Julia; Julia 09:01 „Updated invitation … Changed: time".
   Termin lief 15:00–15:30 CEST. → Konrads Ask erledigt.
-- **Kamera-Preisfrage beantwortet + Konrads Go (für 180 €)** — Philipp 07:55 Teams „180 € ca", Konrad 08:08:
-  „Ja lass uns das machen bei dem Preis, das ist gut dann haben wir den Garten auch." *(Achtung: Go bezieht sich
-  auf 180 €, nicht auf die 250-€-Variante — s. offen.)*
+- **Kamera-Preisfrage beantwortet** — Philipp 07:55 Teams „180 € ca", Konrad 08:08 Go „bei dem Preis". Die
+  180-€-Option ist danach entfallen (DSGVO-Problem Pausenbereich/Terrasse) — **einzige Option jetzt: 250 €
+  (RLC-823S1W)**, s. offen.
 - **Erics SharePoint-Freigabe erledigt** — Eric 11:17 bat um „Einkauf und Supply Chain", Philipp 11:18 Ordner
   **„06 PM & Einkauf"** geteilt, Eric ❤️ 13:08.
 - **einkauf@-Passwort an Katharina/Team** raus (11:19), Bestätigung 11:58 „hat geklappt".
@@ -31,12 +30,12 @@
   Philipp 16:00 „komme gleich zu dir") — vermutlich vor Ort geklärt *(unbestätigt)*.
 
 ## ⏳ Weiter offen / Wartet auf (kein Fortschritt)
-- **Kamera: Go für die 250-€-Variante fehlt (seit 29.07, 1 Tag).** Philipp 08:40 Teams an Konrad: Kamera darf
-  nicht auf Pausenbereich/Terrasse zeigen (DSGVO), Alternative = bessere Kamera **250 €** mit dynamischer
-  Privacy Mask (**RLC-823S1W**). **Konrad hat darauf nicht geantwortet** → Bestellung hängt.
+- **Kamera: Konrads Go fehlt (seit 29.07, 1 Tag).** Philipp 08:40 Teams an Konrad: Kamera darf nicht auf
+  Pausenbereich/Terrasse zeigen (DSGVO); einzige Option ist die **250-€-Kamera (RLC-823S1W, dynamische
+  Privacy Mask)**. **Konrad hat darauf nicht geantwortet** → Bestellung hängt.
+- **Konrad: „link kannst du celine schicken"** (29.07 08:22) — betrifft die Kamera (Produktlink). Noch nicht an
+  Celine geschickt → offen, hängt am Kamera-Go.
 - ~~Konrad: neue Fernbedienung für den Samsung-TV im Meetingraum bestellen~~ → ✅ To-Do angelegt (30.07).
-- **Konrad: „link kannst du celine schicken"** (29.07 08:22) — welcher Link ist nicht eindeutig
-  *(unbestätigt: Julias Terminbuchungslink)* → unbeantwortet.
 - **Robert: „AW: Flink SLA Rückanalyse"** (29.07 13:24, an Philipp + Henry): „was könnten wir hier noch
   verbessern, um noch tiefer in die Datenlage einzusteigen? … Wenn Kapas dafür notwendig sind, sollten wir die
   freimachen." → **unbeantwortet (1 Tag)**, Robert will das Projekt nach vorne ziehen.
@@ -59,8 +58,7 @@
 - **Celine (29.07 15:39–15:53)**: „Magst du dazu kommen?" → „Kannst den auch raus jagen, wenn du glaubst der ist
   nix" — Bewerber-/Kandidatengespräch, **Ausgang unbelegt** *(unbestätigt)*.
 
-## 🟡 Ich (Philipp) — Microsoft To-Do (11 offen; KEINE überfällig)
-- [ ] **Jokubas anrufen — fällig HEUTE Do 30.07**
+## 🟡 Ich (Philipp) — Microsoft To-Do (9 offen; KEINE überfällig)
 - [ ] Fernbedienung Samsung-TV Meetingraum bestellen (neu, 30.07)
 - [ ] Kompatibilitäts-/Abhängigkeits-Tool für Lukas' Bike-Konfigurator bauen
 - [ ] Papaya-API: Feature-Request — Antwort von Arianna nachverfolgen
@@ -69,12 +67,13 @@
 - [ ] Slack-Bot in fleet-notifications einladen (via Mathis)
 - [ ] Showroom-Bike-Steckbrief erstellen — sidelined
 - [ ] Robert nach Urlaub nachfassen (Papaya-IoT-Sync) — fällig 31.08
-- [ ] SharePoint-Restrukturierung: Ideen sammeln — fällig 30.08
+- [ ] SharePoint-Restrukturierung: Ideen sammeln — **fällig Mitte/Ende September (verlegt von 30.08 auf 20.09)**
 - [ ] Wissensdatenbank/Video-Anleitung für Service — fällig 29.11
-- *Nicht in der Liste, aber zugesagt/angefragt: Antwort an Robert (Flink SLA).*
+- *„Jokubas anrufen" ist erledigt/von der Liste — nicht mehr offen.*
+- *Nicht in der Liste, aber zugesagt/angefragt: Antwort an Robert (Flink SLA) · Camera-Link an Celine schicken.*
 
 ## 📅 Nächste Termine (alle CEST, aus Kalender 30.07 07:40)
-- **Do 30.07** · keine Termine · Katharina Hahns letzter Arbeitstag · To-Do „Jokubas anrufen" fällig
+- **Do 30.07** · keine Termine · Katharina Hahns letzter Arbeitstag
 - **Fr 31.07** · 09:00–09:30 AD Meeting: Ticket Reviews & Maintenance Tickets (Eric, Teams) ·
   11:00–11:30 Papaya x SMARTVÉLO Weekly (Teams)
 - Mo 03.08 · 08:45–09:00 Konrad x Philipp (Teams) · 12:00–12:15 Weekly x Büro Köln (Venloer Str. 515)
