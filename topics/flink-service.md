@@ -21,3 +21,15 @@ Vertraulichkeit ernst nehmen — nicht in andere Kanäle/Chats tragen, die diese
 - → **Antwort offen (Stand 30.07).** Robert bietet aktiv Ressourcen an; Ask ist ein konkreter Vorschlag,
   welche Datenquellen/Auswertungstiefe fehlen (Kandidaten aus früheren Threads: Slack-Channel-Daten +
   Ticket-Review verbinden, Kommentar-Historie aus Papaya — dort blockieren aber die API-Rate-Limits).
+
+## 30.07 — Austausch läuft weiter (🔄)
+- 08:13 Philipp an Robert: Hinweis, dass Claude-Wochenlimit knapp war (nur noch ein Abo, Konrads Karte
+  gesperrt) — startet trotzdem mit 276er-Deckelung + Cluster-Analyse.
+- 09:39 Robert: bittet um Bescheid, wenn Claude wieder verfügbar ist; **Fristbefreiung für den nächsten
+  Analyseschritt herausnehmen**; wichtiger Punkt zur Vertragsauslegung offen — wenn Flink ein Bike als
+  Schaden einstuft (Nachricht dazu unvollständig zitiert, Kernfrage: Auslegung zu Philipps/SMARTVÉLOs Gunsten
+  vs. Flinks Standard-Interpretation).
+- 13:05 Philipp an Robert + Henry: weitere von Claude formulierte Fragen weitergeleitet, Kernproblem weiter
+  „verschiedene Arten der Interpretation des Vertrags" — Philipp bräuchte für eine Auslegung zu SMARTVÉLOs
+  Gunsten weitere Angaben von Robert/Henry.
+- **Stand 31.07: keine neue Antwort von Robert/Henry seit 13:05 (30.07)** — Ball liegt bei ihnen.

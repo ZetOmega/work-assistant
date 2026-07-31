@@ -9,6 +9,8 @@ Eigener Bonamic-Vertrag lief 20.07 (heute!) aus — Status seit der greendevice.
 Flink-Datenpaket/Service-Analyse (vertraulich) · Jobvalley-Protokolle/Übergabe · Papaya-API-Key-Thema
 
 ## Letzte Aktionen
+30.07 12:55 „AW: Rufnummernmitnahme abgelehnt" (HIGH): **eigene private Nummer, „Philipp braucht nichts tun"** — hat Bonamica direkt angeschrieben, Sache selbst geklärt. ✅ erledigt, kein Punkt bei Philipp.
+30.07 08:13/13:05 Flink SLA Rückanalyse: Austausch läuft weiter (Claude-Kapazität war kurz Blocker, seit 30.07 wieder frei) — Philipp hat Roberts+Henrys Fragen mit weiteren Claude-Fragen zur Vertragsauslegung (Schadensklassifizierung TV) beantwortet; 30.07 09:39 Robert: Fristbefreiung für nächsten Analyseschritt rausnehmen, Kernfrage Vertragsauslegung offen. 🔄 in Bearbeitung.
 29.07 13:24 Mail **„AW: Flink SLA Rückanalyse"** (an Philipp + Henry Horn): „was könnten wir hier noch verbessern, um noch tiefer in die Datenlage einzusteigen? Wir müssen das Projekt gerade nach vorne ziehen. Wenn Kapas dafür notwendig sind, sollten wir die freimachen." → ✅ Philipp hat geantwortet (30.07)
 27.07 15:44 (Prio hoch) Slack-Lizenzen: Konrads Account kündigen + Übersicht angemeldeter Nutzer; nur Philipp/Eric/Robert brauchen Accounts. Philipp hat keine Slack-Rechte → Robert 15:46: „Wie kriegen wir das am Besten raus?" (offen)
 27.07 12:32 Sales Bikes Papaya: Rippelmeier/Cagatay/Jurgen sollen aktiv auf Philipp zugehen, Entscheidung kommt von Sales („Waren-Zuteilung" pro Sales Manager)

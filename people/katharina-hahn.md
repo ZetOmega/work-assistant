@@ -1,5 +1,5 @@
 # Katharina Hahn
-Rolle: Einkauf / Warenwirtschafts-Wissen · E-Mail: katharina@smart-velo.com · Status: aktiv (letzter Arbeitstag Do 30.07.2026)
+Rolle: Einkauf / Warenwirtschafts-Wissen · E-Mail: katharina@smart-velo.com · Status: ausgeschieden (letzter Arbeitstag Do 30.07.2026)
 
 ## Kurzprofil
 Führte Einkauf zusammen (einkauf@smart-velo.com, seit 29.06). Eine der wichtigsten WaWi-Wissensträgerinnen fürs ERP.

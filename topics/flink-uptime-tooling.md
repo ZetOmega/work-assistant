@@ -30,3 +30,10 @@ Erledigt (21.07):
 ## 🤖 Automatik (läuft unbeaufsichtigt)
 - Morgen (22.07) 07:00 CEST: erster voll-live Eskalations-Sweep.
 - Slack-Reconciliation alle 30 Min + Events-Push laufen bereits.
+
+## ⚠️ Anomalie 30.07 07:00 CEST — Sweep abgebrochen
+- Automatische Eskalationsmail an Eric (30.07, weitergeleitet an Philipp 12:42): täglicher Sweep hat
+  **245 neue Stufe-1-Kandidaten** gefunden — Sicherheitsschwelle liegt bei **50** — und wurde deshalb
+  **automatisch abgebrochen, alle Claims des Laufs zurückgerollt**. 48 Ticket-IDs in der Mail gelistet
+  (u. a. FLGL-32407, FLGL-32357, FLGL-33108, …). **Manuelle Prüfung nötig** — Ursache unklar (Datenproblem
+  auf Papaya-Seite vs. echte Anomalie). *(Noch nicht geprüft, Stand 31.07 — nicht bei Philipp aktiv verfolgt.)*

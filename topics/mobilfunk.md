@@ -37,6 +37,31 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
   geschickt — Bitte an Philipp, dort nachzufragen (bessere Vorausplanung). **Zurückgestellt (30.07, Philipp):
   läuft mit greendevice-Migration später mit, kein separater Punkt jetzt.**
 
+## Konsolidierungsempfehlung Bonamic/greendevice (neu, 30.07)
+- **30.07 14:51 — Pascal Göllner (greendevice) leitet Empfehlung von Niclas Maiwald (Bonamic, Key Account Manager)
+  an Philipp + Celine weiter.** Kontext: Bonamic tritt hier als **Subunternehmer/Reseller unter greendevice**
+  auf (nicht mehr direkt wie vor dem Wechsel) — erstellt im Auftrag von Pascal ein Angebot für den Kunden.
+- **Kernempfehlung:** Mobilfunkverträge (aktuell verteilt auf **HIGH, O2, Vodafone, Telekom**) bei **einem
+  Anbieter bündeln** — sonst keine Mengenrabatte, unterschiedliche Laufzeiten erschweren Konsolidierung,
+  hoher administrativer Aufwand (mehrere Rechnungssteller).
+- **Wenn Telekom zentraler Anbieter:** **Business Card M oder L** unter bestehende Tarife — Rahmenvertrag
+  bereits vorhanden, Bündelung „vergleichsweise unkompliziert".
+- **O2/Vodafone-Alternativangebote** liegen bei, aber aktuell **weniger attraktiv** (noch keine Mengenvorteile).
+- **Festnetz:** bestehenden Anschluss **unverändert lassen**, wenn er zuverlässig läuft — Telekom-Vergleichstarif
+  teurer, zudem **kein FTTH/Glasfaser bis ins Gebäude am Standort verfügbar** (laut Maiwalds Recherche).
+- **Nächste Schritte laut Maiwald:** 1) Grundsatzentscheidung Bündelung ja/nein 2) Vertragslaufzeiten aller
+  bestehenden Mobilfunkverträge prüfen 3) Migrationsplan erstellen.
+- **Termin fix: „Mobilfunk Angebot", Mo 03.08 11:00–11:30 CEST**, Teams — Pascal stellt das Angebot vor und
+  führt **Jan-Hendrik Abels (Bonamic)** ein; Teilnehmer Pascal, Philipp, Celine, Jan Abels.
+- **Philipp hat einen Antwort-Entwurf an Pascal+Celine im Postfach (Stand 31.07, unversendet, noch ohne
+  eigenen Text)** — Entscheidung/Reaktion auf die Empfehlung steht noch aus.
+
+## Rufnummernmitnahme HIGH — Robert (erledigt 30.07)
+- 30.07 Eskalationsmail „Wir benötigen deine Unterstützung – deine Rufnummernmitnahme wurde abgelehnt"
+  (HIGH-mobile) ging an buchhaltung@ „Wer ist hier im Loop?" — **Robert 12:55: eigene private Nummer,
+  „Philipp braucht nichts tun", hat Bonamica direkt angeschrieben, seit dem Vortag klar was die brauchen.**
+  → ✅ erledigt, kein Punkt bei Philipp.
+
 ## Bestand (vor Migration)
 - ~25 HIGH-mobile-Verträge (Telekom-D1, 30 GB 5G, 9,99 €, mtl. kündbar, eSIM) — Privatkundenkonten
   über Georgina Zang (mobilezone). Kein Panel — das ist der Hauptgrund für den Umzug.
