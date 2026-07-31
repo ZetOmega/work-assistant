@@ -84,6 +84,9 @@
 - **30.07 — OBS/Stefan Arens**: weiter **keine Antwort** auf Konrads Gegenangebot vom 28.07 (2 Tage).
   Lizenzspur (Odoo direkt) läuft damit dem Implementierungspaket voraus. **Ist aktuell Konrads Thema**, nicht bei Philipp.
 - **30.07 — Intero Technologies (Uli Kessel)**: Terminvorschlag weiter schuldig (seit 27.07, 3 Tage).
-- **31.07 — weiter keine Antwort**: OBS/Stefan Arens auf Konrads Gegenangebot vom 28.07 (jetzt 3 Tage) ·
-  Intero/Uli Kessel (jetzt 4 Tage) · Konrad zur 1/2/5-Jahres-Lizenzentscheidung (seit 29.07 16:26). Alle drei
-  unverändert, nichts Neues gefunden.
+- **31.07 — Einordnung (Philipp):**
+  - **OBS/Stefan Arens ist Konrads Thema** — nicht bei Philipp, kein Nachfassen von seiner Seite nötig.
+  - **Intero/Uli Kessel: Philipp lässt das bewusst noch etwas liegen ("pokern")**, solange die OBS-Verhandlung
+    läuft — Intero bleibt als Hebel/Vergleichsangebot im Hintergrund, kein Versehen.
+  - Konrad zur 1/2/5-Jahres-Lizenzentscheidung (seit 29.07 16:26) — weiter keine Antwort, hier tatsächlich
+    offen.

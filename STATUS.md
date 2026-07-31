@@ -26,12 +26,14 @@
   Philipp hat einen **unversendeten Antwort-Entwurf** liegen (noch ohne eigenen Text).
 - **Eskalationstool-Anomalie** (30.07 07:00, an Eric, an Philipp weitergeleitet): täglicher Papaya-Eskalations-
   Sweep hat 245 neue Stufe-1-Kandidaten gefunden (Schwelle 50) und wurde automatisch abgebrochen, alle Claims
-  zurückgerollt. **Manuelle Prüfung nötig** — noch nicht angeschaut.
+  zurückgerollt. **Philipp ist dran, in Arbeit (31.07).**
 
 ## ⏳ Weiter offen / Wartet auf (kein Fortschritt)
-- **OBS/Stefan Arens** — keine Antwort auf Konrads Gegenangebot vom 28.07 (**3 Tage**).
-- **Intero Technologies (Uli Kessel)** — Terminvorschlag weiter schuldig (seit 27.07, **4 Tage**).
-- **Konrad/Odoo-Lizenzentscheidung** (1/2/5 Jahre) — seit 29.07 16:26, keine Antwort.
+- **OBS/Stefan Arens** — keine Antwort auf Konrads Gegenangebot vom 28.07 (3 Tage). **Konrads Thema**, nicht
+  bei Philipp.
+- **Intero Technologies (Uli Kessel)** — Terminvorschlag weiter schuldig (seit 27.07, 4 Tage). **Bewusst
+  zurückgehalten (Philipp pokert)**, solange OBS-Verhandlung läuft — kein Versehen.
+- **Konrad/Odoo-Lizenzentscheidung** (1/2/5 Jahre) — seit 29.07 16:26, keine Antwort. Echtes offenes Item.
 - **Hanisch — Telefon/Zugang NetCologne-Glasfaser** (seit 22.07, **9 Tage**) — To-Do offen.
 - **Slack-Bot-Invite (Mathis)** — kein Fortschritt.
 - **Kamera-Einrichtung nach Bestellung**: Netzteil/Steckdose im Garten, Zeitfenster-Aufzeichnung, restliche
@@ -54,4 +56,3 @@
 
 ## ⚠️ Blinde Flecken
 - **Katharina-Offboarding**: Geräte, restliche Accounts/Lizenzen — nirgends dokumentiert.
-- **Eskalationstool-Anomalie (30.07)**: Ursache der 245 neuen Stufe-1-Claims noch nicht geprüft.
