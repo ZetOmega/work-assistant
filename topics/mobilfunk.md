@@ -57,13 +57,14 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
   eigenen Text)** — Entscheidung/Reaktion auf die Empfehlung steht noch aus.
 
 ## Roberts eigene Nummer — Entwurf an Pascal (31.07, noch nicht gesendet)
-- **Korrektur (31.07, Philipp): kein „Bonamic-Vertrag"** — Bonamic macht selbst keine Verträge, sondern
-  vermittelt/brokert nur (wie jetzt greendevice). Der **tatsächliche Netzbetreiber ist O2 Germany**:
-  laut HIGH-Mail vom 30.07 wurde die Portierung von Roberts Nummer 015779019201 zu HIGH von **„deinem
-  bisherigen Anbieter o2 Germany (O2-Netz)"** abgelehnt — Grund: **falscher Kundentyp** (bei O2 offenbar als
-  Geschäftskunde angemeldet, HIGH ist ein Privatkunden-Tarif). Robert regelt das seit 30.07 selbst mit dem
-  Vermittler (von ihm „Bonamica" genannt — vermutlich der O2-Vertriebspartner/Broker, nicht Bonamic GmbH
-  direkt; nicht abschließend verifiziert).
+- **Präzisierung (31.07, Philipp, ziemlich sicher): Bonamic ist der Broker, O2 der Netzbetreiber.**
+  Bonamic macht selbst keine Verträge, sondern hat für uns einen **Geschäftskunden-Vertrag bei O2**
+  abgeschlossen (Roberts Nummer 015779019201 läuft darüber) — daher lief laut HIGH-Mail vom 30.07 die
+  Portierung zu HIGH über **„deinen bisherigen Anbieter o2 Germany (O2-Netz)"** und wurde wegen falschem
+  Kundentyp abgelehnt. Robert klärt das seit 30.07 selbst mit „Bonamica" (=Bonamic).
+  **Für die Zukunft soll ohnehin alles über Telekom laufen — und auch dabei würde Bonamic (jetzt Subunternehmer
+  unter greendevice/Pascal) der eigentliche Ansprechpartner/Vertragsmacher bleiben.** Pascal ist trotzdem der
+  richtige Empfänger für den Mail-Entwurf, da Bonamic aktuell unter ihm läuft.
 - **31.07 — Mail-Entwurf an Pascal Göllner korrigiert (im Postfach, Status: Draft, NICHT verschickt):**
   Bitte, Roberts O2-Geschäftskundennummer (0157 79019201) direkt in die greendevice-Migration aufzunehmen —
   am liebsten sofort auf den Telekom Business Card Tarif. Frage nach beschleunigter Vertragsverlängerung/

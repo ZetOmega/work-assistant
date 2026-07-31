@@ -20,10 +20,11 @@ Flink-Datenpaket/Service-Analyse (vertraulich) · Jobvalley-Protokolle/Übergabe
 17.07 Weiterhin Protokoll-Öffnungsprobleme (PDF-Anzeigefehler bei Adobe) — Philipp: Problem scheint bei ihm zu liegen
 15.07 Papaya-Weekly (mit Lukas) ab jetzt freitags 11:00 CEST
 
-**31.07** — Klargestellt: Roberts Nummer (0157 79019201) läuft aktuell als **Geschäftskunde bei O2 Germany**
-(nicht „Bonamic" — Bonamic/der Vermittler brokert nur, netzseitig ist es O2; Portierung zu HIGH deshalb am
-30.07 abgelehnt, falscher Kundentyp). Mail-Entwurf an Pascal Göllner (greendevice) vorbereitet: Nummer direkt
-in die Mobilfunk-Migration aufnehmen, am liebsten sofort auf Telekom Business Card, beschleunigte
+**31.07** — Klargestellt: Roberts Nummer (0157 79019201) läuft über einen von **Bonamic gebrokerten
+Geschäftskunden-Vertrag bei O2** (Portierung zu HIGH deshalb am 30.07 abgelehnt, falscher Kundentyp). Künftig
+soll alles über Telekom laufen — Bonamic bliebe dabei (als Subunternehmer unter greendevice/Pascal) vermutlich
+der eigentliche Vertragsmacher. Mail-Entwurf an Pascal Göllner vorbereitet: Nummer direkt in die
+Mobilfunk-Migration aufnehmen, am liebsten sofort auf Telekom Business Card, beschleunigte
 Vertragsverlängerung/Umzug anfragen. Rückmeldung bis Di 04.08 erbeten. **Noch nicht versendet — wartet auf
 Philipps Go.**
 
