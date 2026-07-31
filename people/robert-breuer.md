@@ -20,6 +20,11 @@ Flink-Datenpaket/Service-Analyse (vertraulich) · Jobvalley-Protokolle/Übergabe
 17.07 Weiterhin Protokoll-Öffnungsprobleme (PDF-Anzeigefehler bei Adobe) — Philipp: Problem scheint bei ihm zu liegen
 15.07 Papaya-Weekly (mit Lukas) ab jetzt freitags 11:00 CEST
 
+**31.07** — Mail-Entwurf an Pascal Göllner (greendevice) vorbereitet: Roberts eigene Nummer (0157 79019201,
+Bonamic-Vertrag seit 20.07 ausgelaufen) direkt in die Mobilfunk-Migration aufnehmen, am liebsten sofort auf
+Telekom Business Card, beschleunigte Vertragsverlängerung/Umzug anfragen. Rückmeldung bis Di 04.08 erbeten.
+**Noch nicht versendet — wartet auf Philipps Go.**
+
 ## Offen / wartet auf
 Antwort von Philipp, wie Slack-Übersicht/Kündigung praktisch läuft (Workspace-Owner unklar)
 FordPro-Admin-Zugänge (Eric+Philipp) einrichten (Nicht-HIGH-Liste 21.07 gestrichen) · eigener Vertrag lief 20.07 aus — Klärung ob durch Anbieterwechsel aufgefangen · Protokoll-Öffnungsproblem lösen

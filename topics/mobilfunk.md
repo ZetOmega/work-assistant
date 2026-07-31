@@ -56,6 +56,16 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
 - **Philipp hat einen Antwort-Entwurf an Pascal+Celine im Postfach (Stand 31.07, unversendet, noch ohne
   eigenen Text)** — Entscheidung/Reaktion auf die Empfehlung steht noch aus.
 
+## Roberts eigene Nummer — Entwurf an Pascal (31.07, noch nicht gesendet)
+- Robert lief mit seinem privaten Bonamic/HIGH-Vertrag am 20.07 aus, Status seither ungeklärt, ob von der
+  greendevice-Migration aufgefangen.
+- **31.07 14:20 — Mail-Entwurf an Pascal Göllner erstellt (im Postfach, Status: Draft, NICHT verschickt):**
+  Bitte, Roberts Nummer (0157 79019201) direkt in die Migration aufzunehmen — am liebsten sofort auf den
+  Telekom Business Card Tarif. Frage nach beschleunigter Vertragsverlängerung/Umzug, Begründung: Nummer ist
+  vielfach hinterlegt, für Robert geschäftskritisch. **Rückmeldung bis Di 04.08 erbeten**, Philipp jederzeit
+  verfügbar für Termin/Call.
+- **Wartet auf Philipps Go zum Versenden.**
+
 ## Rufnummernmitnahme HIGH — Robert (erledigt 30.07)
 - 30.07 Eskalationsmail „Wir benötigen deine Unterstützung – deine Rufnummernmitnahme wurde abgelehnt"
   (HIGH-mobile) ging an buchhaltung@ „Wer ist hier im Loop?" — **Robert 12:55: eigene private Nummer,
