@@ -47,7 +47,14 @@ kein Bestell-Bedarf. To-Do abgehakt.
 13.07 Neues wöchentliches Team-Meeting „Weekly x Büro Köln" eingeführt
 08.07 Zweiter Claude-Account ist gekauft ✅
 
+## Letzte Aktionen (Fortsetzung, 31.07–03.08)
+31.07 09:03 Mail an Julia Bücker: „Kannst du das erstmal auf 20 Personen anpassen, wir buchen dann einfach
+hinzu sobald alles online ist. Danach unterzeichne ich." — Headcount-Entscheidung getroffen, Laufzeit offen.
+03.08 06:17 Mail „Weekly x Büro Köln" ans Team: neues wöchentliches Standort-Meeting, teilt wichtigste Themen
+der Woche + Rückblick.
+03.08 (Teams, über Celine) — möchte, dass Philipp trotz Hitze ins Büro kommt statt Homeoffice (s. Celine-Chat).
+
 ## Offen / wartet auf
-**Odoo-Lizenzentscheidung 1/2/5 Jahre** — Angebote von Julia Bücker liegen seit 29.07 16:26 vor, von Philipp gesichtet, Entscheidung jetzt bei Konrad
+**Odoo-Lizenzentscheidung 1/2/5 Jahre** — Headcount auf 20 angepasst (31.07), Laufzeit weiter offen, danach unterschreibt Konrad
 Klareres/aufgeschlüsseltes OBS-Angebot + OBS-Termin · ob er bei OBS angerufen/einen Alternativtermin gefunden hat
 Nächstes 1:1: heute 10:30 CEST (einmalig verschoben); regulär Mo 08:45 CEST (nächstes 27.07)

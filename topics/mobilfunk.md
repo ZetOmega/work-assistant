@@ -71,6 +71,10 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
   Umzug, Begründung: Nummer ist vielfach hinterlegt, für Robert geschäftskritisch. **Rückmeldung bis Di
   04.08 erbeten**, Philipp jederzeit verfügbar für Termin/Call.
 - **Wartet auf Philipps Go zum Versenden.**
+- **✅ 31.07 18:04 — verschickt.** Pascal leitet 31.07 18:27 an Niclas Maiwald/Bonamic weiter: „Könntest du hier
+  bitte übernehmen." **Niclas Maiwald antwortet 03.08 07:52**: alter Vertrag nur 12 Monate reaktivierbar,
+  Vorschlag **heute die Portierung zur Telekom einleiten** (versucht Prio bei der Telekom), bittet Philipp um
+  **Rückruf „wie besprochen"**. → **Aktion heute bei Philipp (Anruf), nicht per Mail lösbar.**
 
 ## Rufnummernmitnahme HIGH — Robert (erledigt 30.07)
 - 30.07 Eskalationsmail „Wir benötigen deine Unterstützung – deine Rufnummernmitnahme wurde abgelehnt"

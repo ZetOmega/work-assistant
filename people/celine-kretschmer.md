@@ -9,6 +9,9 @@ Mobilfunk-Anbieterwechsel zu greendevice.eco (Pascal Göllner) koordiniert ·
 Werbemails-Kampagne · restliche Rufnummern klären · o2-Rechnung/Kundenkennzahl raussuchen
 
 ## Letzte Aktionen
+03.08 05:38–07:32 Teams: Philipp fragt wg. Hitze nach Homeoffice, will wissen ob er sich direkt an Konrad
+wenden soll oder ob Celine Bescheid gibt reicht. Celine (06:36): „sag gerne Konrad einmal Bescheid" — 07:32:
+**„Konrad war nicht so happy und hätte gerne, dass du ins Büro kommst."**
 29.07 15:39–15:53 Teams: „Magst du dazu kommen?" → Philipp „jo" → Celine 15:53 „Kannst den auch raus jagen, wenn du glaubst der ist nix" → Bewerbergespräch **IT-Stelle mit Sorosch Hadiyan** → ✅ 30.07: lief gut, positiver Eindruck → topics/hiring.md, people/sorosch-hadiyan.md
 29.07 09:20 Philipp zu Personio/Sales-Account: „die Verträge in Personio werden damit ja auch gemacht … wir können natürlich da für Sales einen Account erstellen"
 28.07 Antwort auf „welche KI für Arbeitsverträge“ formuliert (M365 Copilot im Tenant für Vorlagen-Arbeit, Beck-Noxtua nur bei echtem Prüfbedarf, keine Consumer-Accounts) → topics/ki-arbeitsvertraege.md

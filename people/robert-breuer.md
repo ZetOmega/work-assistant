@@ -28,6 +28,11 @@ Mobilfunk-Migration aufnehmen, am liebsten sofort auf Telekom Business Card, bes
 Vertragsverlängerung/Umzug anfragen. Rückmeldung bis Di 04.08 erbeten. **Noch nicht versendet — wartet auf
 Philipps Go.**
 
+**03.08** — Mail an Pascal (31.07 18:04) wurde verschickt und an Niclas Maiwald/Bonamic weitergeleitet;
+Niclas antwortet 03.08 07:52: alter Vertrag nur 12 Monate reaktivierbar, schlägt vor, heute die Portierung
+zur Telekom einzuleiten, bittet Philipp um Rückruf. Roberts Nummer damit einen Schritt weiter, aber noch
+nicht gelöst.
+
 ## Offen / wartet auf
 Antwort von Philipp, wie Slack-Übersicht/Kündigung praktisch läuft (Workspace-Owner unklar)
 FordPro-Admin-Zugänge (Eric+Philipp) einrichten (Nicht-HIGH-Liste 21.07 gestrichen) · eigener Vertrag lief 20.07 aus — Klärung ob durch Anbieterwechsel aufgefangen · Protokoll-Öffnungsproblem lösen

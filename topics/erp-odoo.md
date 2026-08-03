@@ -90,3 +90,9 @@
     läuft — Intero bleibt als Hebel/Vergleichsangebot im Hintergrund, kein Versehen.
   - Konrad zur 1/2/5-Jahres-Lizenzentscheidung (seit 29.07 16:26) — weiter keine Antwort, hier tatsächlich
     offen.
+- **31.07 09:03 — Konrad antwortet Julia Bücker** („AW: Eure Odoo-Lizenzen"): „Kannst du das erstmal auf 20
+  Personen anpassen, wir buchen dann einfach hinzu sobald alles online ist. Danach unterzeichne ich." →
+  Headcount-Frage geklärt (20 statt 40), **Laufzeit (1/2/5 Jahre) weiter nicht explizit entschieden** — aber
+  Blockade bei Konrad ist aufgelöst, er bewegt sich Richtung Abschluss.
+- **03.08 — Stand OBS/Stefan Arens**: weiter keine Antwort auf Konrads Gegenangebot vom 28.07 (6 Tage,
+  Konrads Thema). Intero/Uli Kessel weiter bewusst zurückgehalten (7 Tage).
