@@ -4,8 +4,8 @@
 - **Mobilfunk Angebot** (Pascal Göllner/Jan-Hendrik Abels, Teams) 11:00–11:30 — **beginnt genau jetzt**,
   parallel zu diesem Check-in.
 - **Weekly x Büro Köln** (Venloer Str. 515) 13:15–13:30.
-- **Homeoffice-Reibung**: Philipp wollte wg. Hitze von zuhause arbeiten, Konrad möchte ihn laut Celine
-  lieber im Büro sehen (s. unten) — noch ungeklärt, wie Philipp reagiert.
+- **Homeoffice-Reibung**: ✅ geklärt — Philipp ist im Büro. Niclas Maiwald-Rückruf (Mobilfunk/Roberts Nummer)
+  steht noch aus, kommt gleich.
 
 ## ✅ Seit letztem Lauf geklärt (seit Fr 31.07 09:32)
 - **Eskalationstool-Anomalie**: Philipp hat den Papaya-Digest 31.07 10:30 endgültig rausgenommen (Mail an
