@@ -15,4 +15,5 @@ in Personio bereits umgesetzt ✅ (Konrad-Ok 14.07, mit Celine erledigt)
 ## Offen / wartet auf
 **Titel-Änderung (03.08 11:39 CEST, Teams an Konrad):** von „Business Development Associate" auf
 „Lead AI Engineer" (o. ä.) — rückwirkend + ab jetzt, spiegelt tatsächlichen Arbeitsbereich wider.
-**04.08: Konrad hat es zur Kenntnis genommen (Acknowledgement) — noch keine feste Entscheidung.**
+**04.08: Konrad hat es zur Kenntnis genommen (Acknowledgement).** **04.08 (später): Änderungsvertrag an Celine
+geschickt** — sie legt ihn in Personio an, **Unterschrift folgt, wenn es zeitlich passt.**

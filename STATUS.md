@@ -8,11 +8,15 @@
 - **Mobilfunk-Konsolidierungsangebot**: Entscheidung ist durch — Go zur Telekom-M-Business-Card-Konsolidierung.
 - **Jobvalley-App/Equipment-Integration** (Roberts Ask): machbar, kein offener Abstimmungspunkt mehr —
   Philipp muss die Umsetzung nur noch finishen.
+- **Odoo-Timeline geklärt**: Einführung verschoben auf **Nov/Dez** — Jens (CFO) + neuer Einkäufer starten Oktober,
+  danach gemeinsame Integration. Heute mit Stefan Arens (OBS) telefonisch abgeklärt, er antwortet Konrad noch
+  heute. Lizenzen werden trotzdem jetzt gekauft, Start direkt mit **Odoo 20** (Release Oktober).
+- **Kamera (3. Standort Garten)**: RLC-823S1W ist **versendet**, wartet auf Ankunft.
 
 ## 🆕 Neu (seit letztem Lauf Mo 03.08 11:00)
 - **Titel-Änderungswunsch (Philipp → Konrad)**: „Business Development Associate" → „Lead AI Engineer", rückwirkend
-  + ab jetzt (11:39 CEST, Teams). **Konrad hat es zur Kenntnis genommen (Acknowledgement), noch keine feste
-  Entscheidung.**
+  + ab jetzt (11:39 CEST, Teams). Konrad hat es zur Kenntnis genommen (Acknowledgement). **Änderungsvertrag ist
+  bereits an Celine raus** — sie legt ihn in Personio an, Unterschrift folgt, wenn's zeitlich passt.
 
 ## 🔄 Vorangekommen (kein Abschluss)
 - **Mobilfunk/Roberts Nummer**: „Portierung selbst anstoßen" heißt konkret — Niclas Maiwald kontaktieren
@@ -27,15 +31,16 @@
   nicht bei Philipp.
 - **Intero Technologies (Uli Kessel)** — Terminvorschlag weiter schuldig (seit 27.07, **8 Tage**). Bewusst
   zurückgehalten (Philipp pokert), solange OBS-Verhandlung läuft.
-- **Odoo-Lizenzlaufzeit (1/2/5 Jahre)** — Konrad hat Headcount geklärt (20 Personen, 31.07), Laufzeitentscheidung
-  weiter offen (seit 29.07); Philipps Tendenz: vermutlich 1 Jahr — **Ball bei Konrad.**
+- **Odoo-Lizenzkauf** — Headcount geklärt (20 Personen), Laufzeit weiter offen (Philipps Tendenz: 1 Jahr);
+  **Timeline jetzt insgesamt auf Nov/Dez verschoben** (CFO/Einkäufer-Onboarding ab Oktober) — Kauf/Laufzeit
+  bleibt bei Konrad, aber nicht mehr zeitkritisch.
 - **Flink SLA Rückanalyse** — keine neue Antwort von Robert/Henry seit 30.07 13:05 (**5 Tage**), Kernfrage
   Vertragsauslegung (Schadensklassifizierung) weiter offen. Ball liegt bei Robert/Henry.
 - **Hanisch — Telefon/Zugang NetCologne-Glasfaser** (seit 22.07, **13 Tage**) — To-Do offen.
 - **Slack-Bot-Invite (Mathis)** — Philipp hat 31.07 Eric erneut angeschrieben (Vorschlag: kurzer Termin mit
   Mathis, da Philipp keine Admin-Rechte hat) — noch keine Antwort gesehen (**4 Tage**).
-- **Kamera-Einrichtung nach Bestellung**: Netzteil/Steckdose im Garten, Zeitfenster-Aufzeichnung, restliche
-  Checkliste (Privacy Mask, Zweckbindung, Hinweisschilder) — kein Fortschritt.
+- **Kamera-Einrichtung**: versendet, wartet auf Ankunft; danach Netzteil/Steckdose im Garten, Zeitfenster-
+  Aufzeichnung, restliche Checkliste (Privacy Mask, Zweckbindung, Hinweisschilder).
 - **Papaya-Kündigungsfrist + Arianna/Feature-Request** — bewusst geparkt bis Termin Do 13.08 11:00.
 
 ## 🟡 Ich (Philipp) — Microsoft To-Do (6 offen; live geprüft 04.08 07:40 CEST; KEINE überfällig)

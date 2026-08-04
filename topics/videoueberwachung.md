@@ -1,4 +1,4 @@
-# Videoüberwachung Venloer Str. (Eingänge + Garten)  · Status: Kamera-Go erteilt, wird bestellt (Stand 30.07.2026)
+# Videoüberwachung Venloer Str. (Eingänge + Garten)  · Status: 3. Kamera versendet, wartet auf Ankunft (Stand 04.08.2026)
 
 ## Stand
 - **Bestand: 2x Reolink TrackMix WiFi** (4K PTZ, Wi-Fi 6, Dual-Objektiv, Auto-Tracking) — an den **beiden Eingängen**.
@@ -74,7 +74,11 @@ als erste Maßnahme.
   die Kamera die Konrad jetzt freigegeben hat". **09:27 Celine: „Bestell ich gleich."** → ✅ **bestellt** (Celine
   hat auch alle nötigen Links, 30.07).
 
+## ✅ 04.08 — Kamera versendet
+- RLC-823S1W ist **versendet, Ankunft steht noch aus** (Philipp).
+
 ## Offen / wartet auf
+- Ankunft der Kamera abwarten
 - 12-V-Netzteil/Steckdose am Kamerastandort im Garten sicherstellen (WLAN ist da, Strom braucht sie trotzdem)
 - Zeitfenster-Umsetzung (nur außerhalb Arbeitszeit aufzeichnen) technisch einrichten, wie mit Konrad besprochen
 - Restliche Punkte der Einrichtungs-Checkliste oben (Privacy Mask, Zweckbindung, Hinweisschilder etc.) —

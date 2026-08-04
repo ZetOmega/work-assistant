@@ -1,4 +1,12 @@
-# ERP / Odoo (OBS Solutions)  · Status: aktiv 🔥
+# ERP / Odoo (OBS Solutions)  · Status: aktiv — Timeline verschoben auf Nov/Dez (04.08)
+
+## Neue Timeline (04.08, Philipp)
+- **Odoo-Einführung verschoben auf November/Dezember.** Grund: **Jens (neuer CFO)** und ein **neuer Einkäufer**
+  starten beide **Oktober**; nach ihrer Einarbeitung soll die Odoo-Integration **gemeinsam mit ihnen** angegangen
+  werden.
+- **Heute telefonisch mit Stefan Arens (OBS) abgeklärt** — passt so. **Stefan antwortet Konrad noch heute.**
+- **Lizenzen werden trotzdem jetzt gekauft**, damit smartvélo **direkt mit Odoo 20** einsteigen kann, sobald
+  die Version im **Oktober erscheint**.
 
 ## Stand
 - OBS-Angebot SO/260610103: 4.551,75 € (Odoo-Gold-Partner).
