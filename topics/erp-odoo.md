@@ -96,5 +96,7 @@
   Blockade bei Konrad ist aufgelöst, er bewegt sich Richtung Abschluss.
 - **04.08 — Philipps Einschätzung:** Laufzeit wird **vermutlich 1 Jahr** *(unbestätigt, Tendenz)* —
   **Entscheidung bleibt bei Konrad.**
+- **04.08 09:24 CEST — Konrad an Julia Bücker:** „wie kann ich dich gleich kurz erreichen?" — Konrad sucht aktiv
+  den kurzfristigen Kontakt zu Julia, vermutlich um die Laufzeit final zu klären. Bewegung Richtung Abschluss.
 - **03.08 — Stand OBS/Stefan Arens**: weiter keine Antwort auf Konrads Gegenangebot vom 28.07 (6 Tage,
   Konrads Thema). Intero/Uli Kessel weiter bewusst zurückgehalten (7 Tage).
