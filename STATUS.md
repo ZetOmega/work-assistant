@@ -5,7 +5,8 @@
 - **Philipp x Eric** (Teams) 14:00–15:30.
 
 ## ✅ Heute geklärt (04.08, laut Philipp)
-- **Mobilfunk-Konsolidierungsangebot**: Entscheidung ist durch — Go zur Telekom-M-Business-Card-Konsolidierung.
+- **Mobilfunk-Konsolidierungsangebot**: Go erteilt — läuft über die **Telekom-M-Subtarife** (Business-Card M).
+- **Mobilfunk/Roberts Nummer**: **Niclas-Rückruf erledigt, geklärt.**
 - **Jobvalley-App/Equipment-Integration** (Roberts Ask): machbar, kein offener Abstimmungspunkt mehr —
   Philipp muss die Umsetzung nur noch finishen.
 - **Odoo-Timeline geklärt**: Einführung verschoben auf **Nov/Dez** — Jens (CFO) + neuer Einkäufer starten Oktober,
@@ -19,9 +20,6 @@
   bereits an Celine raus** — sie legt ihn in Personio an, Unterschrift folgt, wenn's zeitlich passt.
 
 ## 🔄 Vorangekommen (kein Abschluss)
-- **Mobilfunk/Roberts Nummer**: „Portierung selbst anstoßen" heißt konkret — Niclas Maiwald kontaktieren
-  (Rückruf steht also weiter an, nicht ersetzt durch die Bürotelefon-Lösung). Heute Vormittag neue Antwort von
-  Niclas eingegangen, **Philipp ruft gleich an.**
 - **Website**: Jokubas (Karlsson) antwortet 14:18 CEST auf Philipps Eskalation vom Vormittag — „urgent topic"
   weitergegeben, mehr Feedback folgt „in Ruhe", Jokubas bis 10.08 im OOO. Philipp stört, dass die OOO-Info
   vorher nicht kam.

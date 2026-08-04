@@ -5,8 +5,8 @@
   (11:00 CEST, Pascal/Jan Abels) vor — Vorschlag Pascal + Bonamic: **Telekom M Business-Card Tarif, 13,85 €/Monat**
   (leicht mehr als bisher). Bittet Konrad um OK zum direkten Weiterführen.
 - 03.08 21:58 CEST Konrad fragt zunächst nach dem Mehrwert, wollte mit Celine vorbereiten.
-- **✅ 04.08 — Entscheidung ist durch** (Philipp, genauer Zeitpunkt/Kanal unbestätigt): Go zur Konsolidierung
-  liegt vor.
+- **✅ 04.08 — Entscheidung ist durch** (Philipp): Konsolidierung läuft **über die Telekom-M-Subtarife**
+  (Business-Card M als Subtarif unter dem bestehenden Rahmenvertrag) — Go erteilt.
 
 ## Wichtige Korrektur
 **Nicht mehr Bonamic.** Konrad hat den Zielanbieter selbst gewechselt: alle Handyverträge ziehen zu
@@ -87,8 +87,7 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
   **„Bürotelefon"-Linie** zu ziehen; Robert: „cool, klingt gut!" **Klarstellung (Philipp, 04.08): „Portierung
   selbst anstoßen" heißt konkret — Niclas Maiwald kontaktieren.** Nicht statt Rückruf, sondern der Rückruf
   selbst.
-- **04.08 vormittags: neue Antwort von Niclas eingegangen** (Kanal/Inhalt noch nicht im Repo, Philipp ruft
-  gleich an). **Aktion läuft bei Philipp.**
+- **✅ 04.08 — Niclas-Rückruf erledigt, geklärt** (Philipp). Roberts Nummer damit aus dem Weg.
 - **04.08 07:39 CEST — Mail-Verwechslung geklärt:** Im Parallel-Thread „Rufnummer-Übertrag" (über buchhaltung@,
   Telekom-Shop/Prepaid-Workaround mit Anna/Robert) hatte Philipp aus Versehen aus dem Buchhaltungs-Postfach
   geantwortet (beide Postfächer offen, Sammelansicht) — **Antwort zurückgenommen, Versehen klargestellt.**
