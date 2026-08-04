@@ -10,3 +10,6 @@
 - **03.08 14:18 CEST — Jokubas antwortet:** „urgent topic habe ich bereits weitergegeben. Zum weiteren Feedback
   melde ich mich nochmal in Ruhe." **Jokubas bis 10.08 im OOO** (bei dringenden Anliegen erreichbar). → 🔄
   vorangekommen, aber inhaltliche Antwort steht noch aus.
+- **04.08 — Philipps Frust (Kontext):** Joku hat „endlich" geantwortet, aber die **OOO-Info kam nicht vorher**
+  an Philipp — er hatte keine Möglichkeit, das einzuplanen. Kommunikationslücke, kein Repo-Aktionspunkt, aber
+  als Reibung notiert.

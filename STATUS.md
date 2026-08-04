@@ -4,22 +4,23 @@
 - **Konrad x Philipp** (Teams) 13:30–13:45 — **von 12:15 auf 13:30 verschoben.**
 - **Philipp x Eric** (Teams) 14:00–15:30.
 
+## ✅ Heute geklärt (04.08, laut Philipp)
+- **Mobilfunk-Konsolidierungsangebot**: Entscheidung ist durch — Go zur Telekom-M-Business-Card-Konsolidierung.
+- **Jobvalley-App/Equipment-Integration** (Roberts Ask): machbar, kein offener Abstimmungspunkt mehr —
+  Philipp muss die Umsetzung nur noch finishen.
+
 ## 🆕 Neu (seit letztem Lauf Mo 03.08 11:00)
-- **Mobilfunk-Konsolidierungsangebot bei Konrad**: Philipp legte 11:20 CEST das Angebot aus dem Pascal/Jan-Abels-
-  Termin vor (Telekom M Business-Card, 13,85 €/Monat), bat um OK. Konrad (21:58 CEST) fragt nach dem Mehrwert,
-  will erst mit Celine vorbereiten — **Entscheidung offen.**
 - **Titel-Änderungswunsch (Philipp → Konrad)**: „Business Development Associate" → „Lead AI Engineer", rückwirkend
-  + ab jetzt (11:39 CEST, Teams). **Noch keine Antwort.**
-- **Jobvalley-App**: Robert fragt nach App-Integration, damit Equipment bei Rausgabe/Rückgabe direkt angepasst
-  werden kann (Mail 15:00 CEST). **Noch offen.**
+  + ab jetzt (11:39 CEST, Teams). **Konrad hat es zur Kenntnis genommen (Acknowledgement), noch keine feste
+  Entscheidung.**
 
 ## 🔄 Vorangekommen (kein Abschluss)
-- **Mobilfunk/Roberts Nummer**: Statt Rückruf bei Niclas Maiwald hat Philipp mit Robert direkt eine
-  „Bürotelefon"-Linie vereinbart (11:17–11:32 CEST Teams), will die Portierung selbst anstoßen — **unbestätigt,
-  ob bereits eingeleitet.** Parallele Mail-Verwechslung im Thread „Rufnummer-Übertrag" (buchhaltung@-Postfach)
-  heute früh von Philipp klargestellt/zurückgenommen.
+- **Mobilfunk/Roberts Nummer**: „Portierung selbst anstoßen" heißt konkret — Niclas Maiwald kontaktieren
+  (Rückruf steht also weiter an, nicht ersetzt durch die Bürotelefon-Lösung). Heute Vormittag neue Antwort von
+  Niclas eingegangen, **Philipp ruft gleich an.**
 - **Website**: Jokubas (Karlsson) antwortet 14:18 CEST auf Philipps Eskalation vom Vormittag — „urgent topic"
-  weitergegeben, mehr Feedback folgt „in Ruhe", Jokubas bis 10.08 im OOO.
+  weitergegeben, mehr Feedback folgt „in Ruhe", Jokubas bis 10.08 im OOO. Philipp stört, dass die OOO-Info
+  vorher nicht kam.
 
 ## ⏳ Weiter offen / Wartet auf (kein Fortschritt)
 - **OBS/Stefan Arens** — weiter keine Antwort auf Konrads Gegenangebot vom 28.07 (**7 Tage**). Konrads Thema,
@@ -27,7 +28,7 @@
 - **Intero Technologies (Uli Kessel)** — Terminvorschlag weiter schuldig (seit 27.07, **8 Tage**). Bewusst
   zurückgehalten (Philipp pokert), solange OBS-Verhandlung läuft.
 - **Odoo-Lizenzlaufzeit (1/2/5 Jahre)** — Konrad hat Headcount geklärt (20 Personen, 31.07), Laufzeitentscheidung
-  weiter offen (seit 29.07).
+  weiter offen (seit 29.07); Philipps Tendenz: vermutlich 1 Jahr — **Ball bei Konrad.**
 - **Flink SLA Rückanalyse** — keine neue Antwort von Robert/Henry seit 30.07 13:05 (**5 Tage**), Kernfrage
   Vertragsauslegung (Schadensklassifizierung) weiter offen. Ball liegt bei Robert/Henry.
 - **Hanisch — Telefon/Zugang NetCologne-Glasfaser** (seit 22.07, **13 Tage**) — To-Do offen.

@@ -1,11 +1,12 @@
-# Mobilfunk (Migration zu greendevice.eco)  · Status: aktiv — Angebot liegt bei Konrad (03.08)
+# Mobilfunk (Migration zu greendevice.eco)  · Status: aktiv — Konsolidierungsangebot ✅ entschieden (04.08)
 
-## Konsolidierungsangebot — Entscheidung bei Konrad (neu, 03.08)
+## Konsolidierungsangebot — ✅ entschieden (04.08, Philipp)
 - **03.08 11:20 CEST (Teams, Philipp → Konrad):** Philipp legt das Angebot aus dem „Mobilfunk Angebot"-Termin
   (11:00 CEST, Pascal/Jan Abels) vor — Vorschlag Pascal + Bonamic: **Telekom M Business-Card Tarif, 13,85 €/Monat**
   (leicht mehr als bisher). Bittet Konrad um OK zum direkten Weiterführen.
-- **03.08 21:58 CEST Konrad:** fragt nach, was der Mehrpreis konkret bringt („was heißt leicht mehr? Was haben
-  wir damit mehr?"), will das **mit Celine vorbereiten und dann besprechen** — **noch kein OK, Entscheidung offen.**
+- 03.08 21:58 CEST Konrad fragt zunächst nach dem Mehrwert, wollte mit Celine vorbereiten.
+- **✅ 04.08 — Entscheidung ist durch** (Philipp, genauer Zeitpunkt/Kanal unbestätigt): Go zur Konsolidierung
+  liegt vor.
 
 ## Wichtige Korrektur
 **Nicht mehr Bonamic.** Konrad hat den Zielanbieter selbst gewechselt: alle Handyverträge ziehen zu
@@ -82,10 +83,12 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
   bitte übernehmen." **Niclas Maiwald antwortet 03.08 07:52**: alter Vertrag nur 12 Monate reaktivierbar,
   Vorschlag **heute die Portierung zur Telekom einleiten** (versucht Prio bei der Telekom), bittet Philipp um
   **Rückruf „wie besprochen"**.
-- **✅ 03.08 11:17–11:32 CEST (Teams, Philipp ↔ Robert) — anderer Weg statt Rückruf:** Philipp schlägt Robert direkt
-  vor, die Nummer auf eine **„Bürotelefon"-Linie** zu ziehen; er stößt die **Portierung selbst an**. Robert: „cool,
-  klingt gut!" — **damit vermutlich kein Niclas-Rückruf mehr nötig**, aber **unbestätigt, ob die Portierung
-  tatsächlich schon eingeleitet wurde.**
+- **03.08 11:17–11:32 CEST (Teams, Philipp ↔ Robert):** Philipp schlägt Robert vor, die Nummer auf eine
+  **„Bürotelefon"-Linie** zu ziehen; Robert: „cool, klingt gut!" **Klarstellung (Philipp, 04.08): „Portierung
+  selbst anstoßen" heißt konkret — Niclas Maiwald kontaktieren.** Nicht statt Rückruf, sondern der Rückruf
+  selbst.
+- **04.08 vormittags: neue Antwort von Niclas eingegangen** (Kanal/Inhalt noch nicht im Repo, Philipp ruft
+  gleich an). **Aktion läuft bei Philipp.**
 - **04.08 07:39 CEST — Mail-Verwechslung geklärt:** Im Parallel-Thread „Rufnummer-Übertrag" (über buchhaltung@,
   Telekom-Shop/Prepaid-Workaround mit Anna/Robert) hatte Philipp aus Versehen aus dem Buchhaltungs-Postfach
   geantwortet (beide Postfächer offen, Sammelansicht) — **Antwort zurückgenommen, Versehen klargestellt.**

@@ -94,5 +94,7 @@
   Personen anpassen, wir buchen dann einfach hinzu sobald alles online ist. Danach unterzeichne ich." →
   Headcount-Frage geklärt (20 statt 40), **Laufzeit (1/2/5 Jahre) weiter nicht explizit entschieden** — aber
   Blockade bei Konrad ist aufgelöst, er bewegt sich Richtung Abschluss.
+- **04.08 — Philipps Einschätzung:** Laufzeit wird **vermutlich 1 Jahr** *(unbestätigt, Tendenz)* —
+  **Entscheidung bleibt bei Konrad.**
 - **03.08 — Stand OBS/Stefan Arens**: weiter keine Antwort auf Konrads Gegenangebot vom 28.07 (6 Tage,
   Konrads Thema). Intero/Uli Kessel weiter bewusst zurückgehalten (7 Tage).

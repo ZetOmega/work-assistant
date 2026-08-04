@@ -13,6 +13,6 @@ Eigene unbezahlte Arbeitsstunden aus Stundenlohn-Zeit (38,87 h bis April) → in
 in Personio bereits umgesetzt ✅ (Konrad-Ok 14.07, mit Celine erledigt)
 
 ## Offen / wartet auf
-**Titel-Änderung (neu, 03.08 11:39 CEST, Teams an Konrad):** von „Business Development Associate" auf
+**Titel-Änderung (03.08 11:39 CEST, Teams an Konrad):** von „Business Development Associate" auf
 „Lead AI Engineer" (o. ä.) — rückwirkend + ab jetzt, spiegelt tatsächlichen Arbeitsbereich wider.
-**Noch keine Antwort von Konrad.**
+**04.08: Konrad hat es zur Kenntnis genommen (Acknowledgement) — noch keine feste Entscheidung.**
