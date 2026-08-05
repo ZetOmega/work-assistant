@@ -69,5 +69,12 @@ CEST, hat Angebote angepasst, bietet Rückruf an. **Ball bei Konrad.**
 Homeoffice-Freigabe ab 32°C-Prognose bzw. 2–3 Klimageräte fürs Obergeschoss) — **noch keine Antwort von Konrad.**
 
 ## Offen / wartet auf (Update 05.08)
-Rückmeldung zum Hitzetage-Vorschlag (seit 04.08) · Call mit Julia Bücker vereinbaren (Odoo-Laufzeit) ·
-Odoo-Lizenzentscheidung 1/2/5 Jahre weiterhin offen.
+Rückmeldung zum Hitzetage-Vorschlag (seit 04.08) · Odoo-Lizenzentscheidung 1/2/5 Jahre weiterhin offen
+(explizit Konrads Thema, kein Nachfassen durch Philipp nötig).
+
+## Update 05.08 (nach Rückfrage Philipp)
+- Beide Personio-Signaturen (Aenderungsvertrag_Philipp_Klei.pdf + Übergabe Schlüssel - Mobility) ✅ von
+  Philipp unterschrieben. Titel-Änderungsvertrag damit vollständig abgeschlossen.
+- **Odoo-Lizenzlaufzeit/Julia-Rückruf ist explizit Konrads Thema** — kein Nachfass-Punkt bei Philipp.
+- 09:28 CEST Konrad leitet Julias Mail weiter (nur Nummer „017684853590"). 09:55 CEST Konrad legt Termin
+  „Odoo x Unterzeichnen" an (Philipp + Celine als Teilnehmer) — bewegt sich Richtung Vertragsunterschrift.

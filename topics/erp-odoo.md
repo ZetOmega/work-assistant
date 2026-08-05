@@ -118,3 +118,9 @@
 - **05.08 07:28 CEST — Anna (Einkauf) fragte 04.08 17:00, ob der Einkaufsprozess in Odoo abgebildet werden
   kann** (wächst gerade zu großer Excel-Datei) — **Philipp hat bereits geantwortet**: passt gut in den
   Odoo-Plan, aber Einführung ist ja auf Nov/Dez verschoben. ✅ erledigt, kein offener Punkt.
+- **05.08 (Philipp, Klarstellung)**: Julia-Bücker-Rückruf/Laufzeitentscheidung ist **Konrads Thema**, kein
+  Punkt bei Philipp — nicht mehr in Philipps „Bitte bestätigen"/Nachfass-Liste führen.
+- **05.08 09:28 CEST — Konrad leitet Julias Mail weiter**, Inhalt nur eine Nummer „017684853590" (vermutlich
+  Rückrufnummer für Julia). **09:55 CEST — Konrad legt Termin „Odoo x Unterzeichnen" an** (Teilnehmer: Philipp,
+  Celine) — Konrad bewegt sich Richtung Vertragsunterschrift. Läuft weiter bei Konrad; Philipp/Celine offenbar
+  nur informell eingebunden (Signatur/Formalie?), kein Nachfassen nötig.

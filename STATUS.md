@@ -1,26 +1,23 @@
-# STATUS — Stand Mi 05.08.2026, 09:21 Uhr CEST (alle Zeiten CEST)
+# STATUS — Stand Mi 05.08.2026, 10:08 Uhr CEST (alle Zeiten CEST)
 
 ## 🔥 Heute (Mi 05.08)
-- Keine Termine.
+- Keine fixen Termine bekannt (Konrad hat gerade „Odoo x Unterzeichnen" mit Philipp+Celine als Teilnehmer
+  angelegt, Uhrzeit noch nicht im Kalender sichtbar — s. unten).
 
-## ✅ Seit letztem Lauf geklärt (07:40 → 09:21 CEST, + Philipps Bestätigungen)
-- **Personio-Signaturen**: beide von Philipp unterschrieben — Titel-Änderungsvertrag (Business Development
-  Associate → Lead AI Engineer) und „Übergabe Schlüssel - Mobility". ✅ vollständig abgeschlossen.
-- **Website-Impressum**: Jokubas hat es behoben (Philip Soltys' Top-Priorität) — ✅ erledigt.
-- **HIGH-Ansprechpartnerin**: Georgina Zang an Niclas Maiwald genannt — ✅ erledigt.
-- **Einkauf/Odoo (Anna)**: von Philipp bereits beantwortet — ✅ erledigt.
+## ✅ Seit letztem Lauf geklärt (09:21 → 10:08 CEST)
+- **HIGH-Vertragsverlängerung/falsche Rechnungsemail**: Niclas Maiwald bestätigt 09:58 CEST „gebe ich weiter,
+  wird sich drum gekümmert" — Korrektur angestoßen. Philipp hat Celine (Teams, 09:59 CEST) grünes Licht
+  gegeben, den betroffenen Vertrag trotzdem zu unterschreiben. ✅ erledigt.
 
-## 🔄 Vorangekommen (kein Abschluss)
-- **Odoo-Lizenzlaufzeit**: Julia Bücker hat die Angebote angepasst, bietet Rückruf an. **Klargestellt (Philipp,
-  05.08): das ist Konrads Thema** — kein Nachfass-Punkt bei Philipp, nur zur Kenntnis im Repo.
-- **HIGH-Vertragsverlängerung — falsche Rechnungsemail**: Philipp hat Niclas Maiwald 08:47 CEST gebeten,
-  henry@smart-velo.**de** (falsche Domain) auf buchhaltung@smart-velo.com zu korrigieren. Antwort offen.
+## 🔄 Vorangekommen (kein Abschluss, Konrads Thema)
+- **Odoo-Lizenzen/Vertrag**: Konrad hat Julias Kontaktnummer weitergeleitet (09:28) und einen Termin
+  „Odoo x Unterzeichnen" mit Philipp + Celine angelegt (09:55) — bewegt sich Richtung Unterschrift.
+  **Klargestellt: Konrads Thema, kein Nachfassen durch Philipp nötig**, nur zur Kenntnis.
 
-## 🆕 Neu (seit letztem Lauf)
-- **n8n-Trial gestartet**: Philipp hat sich ~08:05 CEST bei n8n Cloud angemeldet (Workflow-Automatisierung) —
-  nur zur Kenntnis, keine offene Aktion.
-- **Hitzetage im Büro**: Vorschlag an Konrad (Homeoffice ab 32 °C / Klimageräte) — weiter keine Antwort.
-- **GitHub Actions**: Kontingent bei 100 % (04.08) — weiter ungeklärt.
+## 🆕 Neu (aus vorigem Lauf, unverändert)
+- **n8n-Trial gestartet** (~08:05 CEST) — nur zur Kenntnis.
+- **Hitzetage im Büro**: Vorschlag an Konrad — weiter keine Antwort.
+- **GitHub Actions**: Kontingent bei 100 % — weiter ungeklärt.
 - **Google Ads**: Lucas Obstfeld hat Zugriff, startet Roadmap — läuft bei Celine/Konrad.
 
 ## ⏳ Weiter offen / Wartet auf (kein Fortschritt)
@@ -41,7 +38,8 @@
 - [ ] Wissensdatenbank/Video-Anleitung für Service — fällig 29.11
 
 ## 📅 Termine diese Woche (Mi 05.08 – Fr 07.08)
-- **Mi 05.08** · keine Termine
+- **Mi 05.08** · keine bestätigten Termine · „Odoo x Unterzeichnen" (Konrad, Philipp, Celine) neu angelegt,
+  Uhrzeit unbestätigt
 - **Do 06.08** · 11:00–11:45 greendevice x SMARTVÉLO (Venloer Str. 515) · 12:00–13:30 Philipp x Eric (Teams)
 - **Fr 07.08** · 11:00–11:30 Papaya x SMARTVÉLO Weekly (Teams)
 

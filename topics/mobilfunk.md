@@ -113,4 +113,9 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
 - 04.08 11:09 CEST Philipp antwortet: Georgina Zang, georgina.zang@mobilezone.org. ✅ erledigt.
 - **05.08 08:47 CEST — Philipp an Niclas (Nachtrag)**: bei der Vertragsverlängerung stehen als Vertragspartner/
   Rechnungsemail fälschlich **henry@smart-velo.de** (falsche Domain) — Bitte, das auf **buchhaltung@smart-velo.com**
-  zu ändern. **Antwort von Niclas noch offen.**
+  zu ändern.
+- **05.08 09:58 CEST — Niclas antwortet**: „Gebe ich weiter und wird sich drum gekümmert." ✅ Korrektur ist
+  angestoßen (Umsetzung bei Bonamic/HIGH ausstehend, kein Punkt mehr bei Philipp).
+- **05.08 09:59 CEST — Philipp an Celine (Teams)**: „du kannst so unterschreiben, die kümmern sich um die
+  änderung" — Celine kann den betroffenen Vertrag trotz der (jetzt korrigierten) falschen Rechnungsemail
+  signieren. ✅ erledigt.
