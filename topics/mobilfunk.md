@@ -111,3 +111,6 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
   (neuer Vertrag 015153464615 seit 29.07 noch ohne Rechnung, Platzhalter angehängt).
 - 04.08 10:59 CEST Niclas fragt nach Kontaktdaten der Ansprechpartnerin bei HIGH/mobilezone.
 - 04.08 11:09 CEST Philipp antwortet: Georgina Zang, georgina.zang@mobilezone.org. ✅ erledigt.
+- **05.08 08:47 CEST — Philipp an Niclas (Nachtrag)**: bei der Vertragsverlängerung stehen als Vertragspartner/
+  Rechnungsemail fälschlich **henry@smart-velo.de** (falsche Domain) — Bitte, das auf **buchhaltung@smart-velo.com**
+  zu ändern. **Antwort von Niclas noch offen.**
