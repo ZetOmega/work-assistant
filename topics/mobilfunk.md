@@ -111,11 +111,13 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
   (neuer Vertrag 015153464615 seit 29.07 noch ohne Rechnung, Platzhalter angehängt).
 - 04.08 10:59 CEST Niclas fragt nach Kontaktdaten der Ansprechpartnerin bei HIGH/mobilezone.
 - 04.08 11:09 CEST Philipp antwortet: Georgina Zang, georgina.zang@mobilezone.org. ✅ erledigt.
-- **05.08 08:47 CEST — Philipp an Niclas (Nachtrag)**: bei der Vertragsverlängerung stehen als Vertragspartner/
+## Telekom Business Card — falsche Vertragsemail (korrigiert 05.08)
+- **05.08 08:47 CEST — Philipp an Niclas (Nachtrag zum HIGH-Rechnungen-Thread)**: **im neuen Telekom-Business-
+  Card-Vertrag** (die von Niclas/Bonamic eingeleitete Konsolidierung, s. oben) stehen als Vertragspartner/
   Rechnungsemail fälschlich **henry@smart-velo.de** (falsche Domain) — Bitte, das auf **buchhaltung@smart-velo.com**
-  zu ändern.
+  zu ändern. **Betrifft NICHT die alten HIGH-Verträge**, sondern den neuen Telekom-Vertrag über Bonamic.
 - **05.08 09:58 CEST — Niclas antwortet**: „Gebe ich weiter und wird sich drum gekümmert." ✅ Korrektur ist
-  angestoßen (Umsetzung bei Bonamic/HIGH ausstehend, kein Punkt mehr bei Philipp).
+  angestoßen (Umsetzung bei Bonamic/Telekom ausstehend, kein Punkt mehr bei Philipp).
 - **05.08 09:59 CEST — Philipp an Celine (Teams)**: „du kannst so unterschreiben, die kümmern sich um die
-  änderung" — Celine kann den betroffenen Vertrag trotz der (jetzt korrigierten) falschen Rechnungsemail
-  signieren. ✅ erledigt.
+  änderung" — Celine kann den **Telekom-Business-Card-Vertrag** trotz der (jetzt in Korrektur befindlichen)
+  falschen Rechnungsemail signieren. ✅ erledigt.

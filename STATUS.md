@@ -5,9 +5,10 @@
   angelegt, Uhrzeit noch nicht im Kalender sichtbar — s. unten).
 
 ## ✅ Seit letztem Lauf geklärt (09:21 → 10:08 CEST)
-- **HIGH-Vertragsverlängerung/falsche Rechnungsemail**: Niclas Maiwald bestätigt 09:58 CEST „gebe ich weiter,
-  wird sich drum gekümmert" — Korrektur angestoßen. Philipp hat Celine (Teams, 09:59 CEST) grünes Licht
-  gegeben, den betroffenen Vertrag trotzdem zu unterschreiben. ✅ erledigt.
+- **Falsche Vertragsemail im neuen Telekom-Business-Card-Vertrag** (Konsolidierung via Bonamic/Niclas
+  Maiwald, NICHT die alten HIGH-Verträge): Niclas bestätigt 09:58 CEST „gebe ich weiter, wird sich drum
+  gekümmert" — Korrektur angestoßen. Philipp hat Celine (Teams, 09:59 CEST) grünes Licht gegeben, den
+  Vertrag trotzdem zu unterschreiben. ✅ erledigt.
 
 ## 🔄 Vorangekommen (kein Abschluss, Konrads Thema)
 - **Odoo-Lizenzen/Vertrag**: Konrad hat Julias Kontaktnummer weitergeleitet (09:28) und einen Termin
