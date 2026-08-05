@@ -58,3 +58,16 @@ der Woche + Rückblick.
 **Odoo-Lizenzentscheidung 1/2/5 Jahre** — Headcount auf 20 angepasst (31.07), Laufzeit weiter offen, danach unterschreibt Konrad
 Klareres/aufgeschlüsseltes OBS-Angebot + OBS-Termin · ob er bei OBS angerufen/einen Alternativtermin gefunden hat
 Nächstes 1:1: heute 10:30 CEST (einmalig verschoben); regulär Mo 08:45 CEST (nächstes 27.07)
+
+## Letzte Aktionen (Fortsetzung, 04.–05.08)
+04.08 14:07 CEST (Teams, Celine): „Vertrag habe ich gerade unterzeichnet in Konrads Namen" — **Titel-Änderungsvertrag
+(Business Development Associate → Lead AI Engineer) ist damit von Firmenseite unterzeichnet.** Philipps eigene
+Signatur in Personio (Aenderungsvertrag_Philipp_Klei.pdf, Anfrage 04.08 13:58 CEST) steht noch aus.
+04.08 07:24 CEST Mail an Julia Bücker (Odoo): „wie kann ich dich gleich kurz erreichen?" — Julia antwortet 17:13
+CEST, hat Angebote angepasst, bietet Rückruf an. **Ball bei Konrad.**
+04.08 (Mail 12:02 CEST) Philipp schickt Konrad einen formellen **Hitzetage-Vorschlag** (Temperaturdoku +
+Homeoffice-Freigabe ab 32°C-Prognose bzw. 2–3 Klimageräte fürs Obergeschoss) — **noch keine Antwort von Konrad.**
+
+## Offen / wartet auf (Update 05.08)
+Rückmeldung zum Hitzetage-Vorschlag (seit 04.08) · Call mit Julia Bücker vereinbaren (Odoo-Laufzeit) ·
+Odoo-Lizenzentscheidung 1/2/5 Jahre weiterhin offen.

@@ -108,3 +108,13 @@
   den kurzfristigen Kontakt zu Julia, vermutlich um die Laufzeit final zu klären. Bewegung Richtung Abschluss.
 - **03.08 — Stand OBS/Stefan Arens**: weiter keine Antwort auf Konrads Gegenangebot vom 28.07 (6 Tage,
   Konrads Thema). Intero/Uli Kessel weiter bewusst zurückgehalten (7 Tage).
+
+- **04.08 17:13 CEST — Julia Bücker (Odoo) antwortet auf Konrads „wie kann ich dich erreichen"**: „ich habe
+  die Angebote entsprechend angepasst" (vermutlich Anpassung auf 20 Personen wie von Konrad 31.07 gewünscht).
+  Bietet Rückruf an, fragt nach Nummer. **Ball jetzt bei Konrad** — Call mit Julia vereinbaren, danach
+  Unterschrift. Laufzeit (1/2/5 Jahre) weiterhin nicht explizit entschieden.
+- **05.08 — Stand OBS/Stefan Arens**: weiter keine Antwort auf Konrads Gegenangebot vom 28.07 (**8 Tage**,
+  Konrads Thema). Intero/Uli Kessel weiter bewusst zurückgehalten (**9 Tage**).
+- **05.08 07:28 CEST — Anna (Einkauf) fragte 04.08 17:00, ob der Einkaufsprozess in Odoo abgebildet werden
+  kann** (wächst gerade zu großer Excel-Datei) — **Philipp hat bereits geantwortet**: passt gut in den
+  Odoo-Plan, aber Einführung ist ja auf Nov/Dez verschoben. ✅ erledigt, kein offener Punkt.

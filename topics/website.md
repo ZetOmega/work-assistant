@@ -13,3 +13,7 @@
 - **04.08 — Philipps Frust (Kontext):** Joku hat „endlich" geantwortet, aber die **OOO-Info kam nicht vorher**
   an Philipp — er hatte keine Möglichkeit, das einzuplanen. Kommunikationslücke, kein Repo-Aktionspunkt, aber
   als Reibung notiert.
+
+- **04.08 10:42 CEST — Jokubas antwortet erneut**: „Das Impressum ist bereits behoben, alle weiteren Themen
+  folgen zeitnah." → **Impressum-Punkt (Philip Soltys' Top-Priorität) ✅ erledigt.** Übriges Feedback weiter
+  offen, nur „zeitnah" zugesagt, Jokubas bis 10.08 im OOO.

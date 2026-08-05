@@ -105,3 +105,9 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
 ## Hinfällig
 - Bonamic/Jeannette-Hilcke-Kontaktaufnahme (war schon als nächster Schritt geplant, jetzt überholt).
 - mobilezone-Stichtag Dez. 2026 / Self-Service-Wunschliste bei mobilezone — erledigt sich mit Umzug von selbst.
+
+## HIGH-Rechnungen / Ansprechpartnerin (erledigt 04.08)
+- 04.08 08:22 CEST Philipp schickt Niclas Maiwald (Bonamic) alle HIGH-Rechnungen der aktiven Verträge
+  (neuer Vertrag 015153464615 seit 29.07 noch ohne Rechnung, Platzhalter angehängt).
+- 04.08 10:59 CEST Niclas fragt nach Kontaktdaten der Ansprechpartnerin bei HIGH/mobilezone.
+- 04.08 11:09 CEST Philipp antwortet: Georgina Zang, georgina.zang@mobilezone.org. ✅ erledigt.
