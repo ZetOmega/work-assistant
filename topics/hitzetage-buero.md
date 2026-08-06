@@ -11,5 +11,11 @@
   2. Alternativ/dauerhaft: **2–3 (Porta-)Split-Klimageräte** fürs Obergeschoss (wie unten in der Werkstatt
      bereits vorhanden). Philipp holt gern Preise/Verfügbarkeit ein.
 
+## Update 05.08
+- **12:04 CEST (Gruppenchat AI SMARTVÉLO — Celine, Robert, Konrad, Philipp)**: Philipp teilt den
+  Midea-PortaSplit-Link (s. `klimageraete.md`), Kommentar: „ist allerdings aktuell leider ziemlich teuer."
+- **12:15 CEST (1:1 mit Celine)**: Philipp weist nochmal drauf hin, dass Konrad 2 Stück fürs Büro möchte.
+
 ## Offen / wartet auf
-Konrads Rückmeldung zum Vorschlag (seit 04.08, noch keine Antwort).
+Konrads Rückmeldung zum Grundsatz-Vorschlag (Homeoffice-Regel ab 32°C / Klimageräte) — seit 04.08, weiter
+keine Antwort (Stand 06.08, **2 Tage**). Klimageräte-Preisfrage (teuer) ebenfalls ungeklärt.

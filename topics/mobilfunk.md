@@ -121,3 +121,14 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
 - **05.08 09:59 CEST — Philipp an Celine (Teams)**: „du kannst so unterschreiben, die kümmern sich um die
   änderung" — Celine kann den **Telekom-Business-Card-Vertrag** trotz der (jetzt in Korrektur befindlichen)
   falschen Rechnungsemail signieren. ✅ erledigt.
+
+## HIGH-Mobile-Kündigung — neu (05.08, offen)
+- **05.08 11:38 CEST — Niclas Maiwald (Bonamic)**, Fortsetzung des HIGH-Rechnungen-Threads: HIGH Mobile
+  verlangt **Einzelkündigung pro Vertrag**, dafür jeweils die **Auftragsnummer** nötig. Link zum
+  Kündigungsformular: https://www.high-mobile.de/kuendigen. Prozess: 1) Auftragsnummern raussuchen,
+  2) jeden Vertrag einzeln kündigen, 3) Kündigungsbestätigungen an Bonamic weiterleiten. **Fragt Philipp:
+  „Passt das für dich?"** — noch nicht beantwortet.
+- **05.08 15:31 CEST — Robert Breuer** schickt Philipp die Liste der **Auftragsnummern für alle ~25
+  HIGH.de-Verträge** (Auftragsnummer/Mitarbeiter/Kundennummer/Rufnummer/Tarif/SIM-Typ/Freischaltdatum).
+- **Offen (Stand 06.08): Niclas noch nicht bestätigt/geantwortet, Auftragsnummern noch nicht an Bonamic
+  weitergeleitet.** Kein Sent-Beleg danach.
