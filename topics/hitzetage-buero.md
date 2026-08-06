@@ -11,11 +11,15 @@
   2. Alternativ/dauerhaft: **2–3 (Porta-)Split-Klimageräte** fürs Obergeschoss (wie unten in der Werkstatt
      bereits vorhanden). Philipp holt gern Preise/Verfügbarkeit ein.
 
-## Update 05.08
-- **12:04 CEST (Gruppenchat AI SMARTVÉLO — Celine, Robert, Konrad, Philipp)**: Philipp teilt den
-  Midea-PortaSplit-Link (s. `klimageraete.md`), Kommentar: „ist allerdings aktuell leider ziemlich teuer."
-- **12:15 CEST (1:1 mit Celine)**: Philipp weist nochmal drauf hin, dass Konrad 2 Stück fürs Büro möchte.
+## ✅ Konrads Antwort ist da (05.08, korrigiert 06.08)
+- **05.08 13:55 CEST (Gruppenchat AI SMARTVÉLO)** — **Konrad entscheidet sich für die Klimageräte-Option**
+  (nicht Homeoffice-Regel): „ich würde jetzt noch 2x Klimageräte kaufen für drüben, die können wir beide an
+  die Fensterstellen [stellen]." Das IST Konrads Antwort auf den Vorschlag vom 04.08.
+- 14:02 CEST — Rückfrage im Chat, ob direkt die Klima-Firma angerufen werden soll.
+- **14:04 CEST (Gruppenchat)** — Philipp teilt den Midea-PortaSplit-Link (s. `klimageraete.md`):
+  „ist allerdings aktuell leider ziemlich teuer."
+- **14:15 CEST (1:1 mit Celine)** — Philipp gibt den Link weiter, weist auf Konrads Wunsch nach 2 Stück hin.
 
 ## Offen / wartet auf
-Konrads Rückmeldung zum Grundsatz-Vorschlag (Homeoffice-Regel ab 32°C / Klimageräte) — seit 04.08, weiter
-keine Antwort (Stand 06.08, **2 Tage**). Klimageräte-Preisfrage (teuer) ebenfalls ungeklärt.
+Grundsatzentscheidung ist gefallen (Klimageräte, 2 Stück). Offen ist nur noch die **Bestellung** angesichts
+des Preises — Celine hat den Link, kein Kauf-Beleg bisher (Stand 06.08).

@@ -5,10 +5,11 @@
   ob es dann morgen (10.07) klappt — noch keine Bestätigung.
 - Weiter keine Entscheidung zu anderem Markt/Modell.
 
-## Update 05.08 — neuer Anbieter gefunden, aber teuer
-- **12:04 CEST (Gruppenchat AI SMARTVÉLO)**: Philipp teilt Link zur **Midea PortaSplit Klimaanlage 3,5 kW**
-  bei solarhandel24.de — Kommentar: „ist allerdings aktuell leider ziemlich teuer."
-- **12:15 CEST (1:1 mit Celine)**: Philipp weist hin, dass **Konrad 2 Stück fürs Büro** möchte.
-- Bezug: `hitzetage-buero.md` (Vorschlag an Konrad vom 04.08 enthält 2–3 Klimageräte als Alternative
-  zur Homeoffice-Regel).
-- Offen: Konrads Entscheidung angesichts des Preises; kein Kauf-Go bisher.
+## Update 05.08 — Konrad entscheidet sich für Klimageräte, aber teuer
+- **13:55 CEST (Gruppenchat AI SMARTVÉLO)**: **Konrads Antwort auf den Hitzetage-Vorschlag** — will 2x
+  Klimageräte für drüben kaufen, beide an die Fensterstellen. Das ist die Grundsatzentscheidung
+  (s. `hitzetage-buero.md`), nicht die Homeoffice-Regel.
+- **14:04 CEST (Gruppenchat)**: Philipp teilt Link zur **Midea PortaSplit Klimaanlage 3,5 kW** bei
+  solarhandel24.de — Kommentar: „ist allerdings aktuell leider ziemlich teuer."
+- **14:15 CEST (1:1 mit Celine)**: Philipp gibt den Link weiter, weist auf Konrads 2-Stück-Wunsch hin.
+- Offen: Bestellung/Kauf angesichts des Preises — kein Kauf-Beleg bisher (Stand 06.08).

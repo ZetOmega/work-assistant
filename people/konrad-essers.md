@@ -79,7 +79,8 @@ Rückmeldung zum Hitzetage-Vorschlag (seit 04.08) · Odoo-Lizenzentscheidung 1/2
 - 09:28 CEST Konrad leitet Julias Mail weiter (nur Nummer „017684853590"). 09:55 CEST Konrad legt Termin
   „Odoo x Unterzeichnen" an (Philipp + Celine als Teilnehmer) — bewegt sich Richtung Vertragsunterschrift.
 
-## Update 05.08 — ChatGPT-Abo-Downgrade (neu, offen)
-- **09:59 CEST (Teams, Philipp → Konrad)**: bittet um Downgrade des ChatGPT-Abos von 100 €/Monat auf die
+## Update 05.08 — ChatGPT-Abo-Downgrade ✅ von Konrad genehmigt
+- **11:59 CEST (Teams, Philipp → Konrad)**: bittet um Downgrade des ChatGPT-Abos von 100 €/Monat auf die
   kleinere 20 €/Monat-Stufe — Begründung: hauptsächlich für n8n-Automatisierungsworkflows genutzt.
-  **Keine Antwort von Konrad** (Stand 06.08).
+- **13:35 CEST — Konrad: „top mach."** ✅ Go erteilt. Offen ist nur noch die operative Umsetzung
+  (Downgrade beim Anbieter durchführen) — Stand 06.08 kein Beleg, dass es schon gemacht wurde.

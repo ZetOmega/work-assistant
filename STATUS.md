@@ -1,28 +1,25 @@
-# STATUS — Stand Do 06.08.2026, 07:37 Uhr CEST (alle Zeiten CEST)
-_(Lauf 07:37 — keine Änderung ggü. 07:29-Lauf: kein neues Mail, kein neuer Termin.)_
+# STATUS — Stand Do 06.08.2026, 07:42 Uhr CEST (Korrektur-Lauf, alle Zeiten CEST)
 
 ## 🔥 Heute (Do 06.08)
-- **11:00–11:45** greendevice x SMARTVÉLO (Venloer Str. 515) — laut Plan läuft hier auch das Mobilfunk-Thema parallel mit.
+- **11:00–11:45** greendevice x SMARTVÉLO (Venloer Str. 515) — Mobilfunk-Thema läuft hier parallel mit.
 - **12:00–13:30** Philipp x Eric (Teams).
 
-## ✅ Seit letztem Lauf geklärt (05.08 10:08 → 06.08 07:29 CEST)
-- Nichts vollständig abgeschlossen — mehrere Themen sind vorangekommen (s. unten), aber noch offen.
+## ✅ Seit letztem Lauf geklärt (05.08 10:08 → 06.08 07:42 CEST)
+- **Hitzetage/Klimageräte — Grundsatzentscheidung gefallen:** Konrad hat sich für **2x Klimageräte**
+  entschieden (13:55 CEST, Gruppenchat) — das ist seine Antwort auf den Vorschlag vom 04.08, nicht die
+  Homeoffice-Regel. Offen ist nur noch die Bestellung (Preis „ziemlich teuer").
+- **ChatGPT-Abo-Downgrade:** Konrad hat genehmigt („top mach", 13:35 CEST). Offen: die eigentliche
+  Umsetzung des Downgrades (100 € → 20 €/Monat) beim Anbieter.
 
 ## 🔄 Vorangekommen (kein Abschluss)
-- **Google Ads — jetzt bei Philipp:** Kontozugriff für Lucas Obstfeld hat nicht geklappt, Konrad hat Philipp
+- **Google Ads — bei Philipp:** Kontozugriff für Lucas Obstfeld hat nicht geklappt, Konrad hat Philipp
   direkt getaggt. Celine hat Lucas' Telefonnummer geschickt (+49 1517 2626012). **Ball bei Philipp: anrufen.**
-- **HIGH-Mobile-Kündigung (neu):** Niclas Maiwald (Bonamic) verlangt Einzelkündigung je HIGH-Vertrag +
-  Auftragsnummer, fragt „passt das für dich?" (05.08 11:38). Robert hat die Auftragsnummern-Liste für alle
-  ~25 Verträge geliefert (05.08 15:31). **Noch nicht an Niclas zurückgemeldet/weitergeleitet.**
-- **Klimageräte/Hitzetage:** Philipp hat im AI-SMARTVÉLO-Chat einen Anbieter (Midea PortaSplit, solarhandel24)
-  gefunden und geteilt — „ziemlich teuer". Celine informiert, dass Konrad 2 Stück will. Konrads Grundsatz-
-  Antwort auf den Hitzetage-Vorschlag vom 04.08 steht weiter aus.
+- **HIGH-Mobile-Kündigung:** Niclas Maiwald (Bonamic) hat den Ablauf/Formular-Link geschickt, Robert hat die
+  Auftragsnummern für alle ~25 Verträge geliefert. **Klargestellt: wir kündigen selbst direkt über das
+  High-Mobile-Formular — Bonamic muss dafür nichts tun.** Nächster Schritt: die ~25 Kündigungen einzeln
+  einreichen (https://www.high-mobile.de/kuendigen).
 - **Mitarbeiter-Vorteilsportal:** Celine bittet Philipp um einen Verteiler „Venloer" + „gesamt SMARTVÉLO" —
   noch offen.
-- **ChatGPT-Abo:** Philipp hat Konrad um Downgrade auf 20 €/Monat gebeten (09:59 CEST, 05.08) — keine Antwort.
-
-## 🆕 Neu
-- Siehe oben (Google Ads, HIGH-Kündigung, Mitarbeiter-Vorteilsportal, ChatGPT-Abo).
 
 ## ⏳ Weiter offen / Wartet auf (kein Fortschritt)
 - **OBS/Stefan Arens** — keine Antwort auf Konrads Gegenangebot vom 28.07 (**9 Tage**, Konrads Thema).
@@ -48,10 +45,16 @@ _(Lauf 07:37 — keine Änderung ggü. 07:29-Lauf: kein neues Mail, kein neuer T
 - **Fr 07.08** · 11:00–11:30 Papaya x SMARTVÉLO Weekly (Teams)
 
 ## ❓ Bitte bestätigen (nichts automatisch gemacht)
-- Soll ich einen Mail-Entwurf an Niclas Maiwald vorbereiten (Auftragsnummern-Liste anhängen + „passt so"
-  bestätigen), damit die HIGH-Kündigungen starten können?
+- Soll ich die ~25 HIGH-Kündigungen aus Roberts Auftragsnummern-Liste als Checkliste aufbereiten, die du
+  im High-Mobile-Formular durchgehst?
 - Soll ich einen Verteiler-Entwurf „Venloer" / „gesamt SMARTVÉLO" aus den Personendossiers zusammenstellen
   für Celines Mitarbeiter-Vorteilsportal-Anfrage?
 
 ## ⚠️ Blinde Flecken
 - **Katharina-Offboarding**: Geräte, restliche Accounts/Lizenzen — weiter nirgends dokumentiert.
+
+## Hinweis zur Korrektur (06.08 07:42)
+Der 07:29-Lauf hatte bei mehreren Teams-Chat-Zeiten die UTC→CEST-Umrechnung (+2h) vergessen und dadurch
+Konrads Antworten zu ChatGPT-Downgrade und Klimageräte fälschlich als "keine Antwort" markiert, obwohl beide
+bereits am 05.08 beantwortet waren. Hier korrigiert; Zeiten in diesem Stand sind neu geprüft (+2h auf rohe
+Teams-createdDateTime).

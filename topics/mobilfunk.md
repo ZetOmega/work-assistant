@@ -123,12 +123,13 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
   falschen Rechnungsemail signieren. ✅ erledigt.
 
 ## HIGH-Mobile-Kündigung — neu (05.08, offen)
-- **05.08 11:38 CEST — Niclas Maiwald (Bonamic)**, Fortsetzung des HIGH-Rechnungen-Threads: HIGH Mobile
+- **05.08 13:38 CEST — Niclas Maiwald (Bonamic)**, Fortsetzung des HIGH-Rechnungen-Threads: HIGH Mobile
   verlangt **Einzelkündigung pro Vertrag**, dafür jeweils die **Auftragsnummer** nötig. Link zum
-  Kündigungsformular: https://www.high-mobile.de/kuendigen. Prozess: 1) Auftragsnummern raussuchen,
-  2) jeden Vertrag einzeln kündigen, 3) Kündigungsbestätigungen an Bonamic weiterleiten. **Fragt Philipp:
-  „Passt das für dich?"** — noch nicht beantwortet.
+  Kündigungsformular: https://www.high-mobile.de/kuendigen. Bonamic-Vorschlag im Mail-Text war, die
+  Kündigungen zu veranlassen und Bestätigungen an Bonamic weiterzuleiten — fragt Philipp „passt das für dich?".
 - **05.08 15:31 CEST — Robert Breuer** schickt Philipp die Liste der **Auftragsnummern für alle ~25
   HIGH.de-Verträge** (Auftragsnummer/Mitarbeiter/Kundennummer/Rufnummer/Tarif/SIM-Typ/Freischaltdatum).
-- **Offen (Stand 06.08): Niclas noch nicht bestätigt/geantwortet, Auftragsnummern noch nicht an Bonamic
-  weitergeleitet.** Kein Sent-Beleg danach.
+- **Klarstellung Philipp (06.08): Wir kündigen selbst direkt über das High-Mobile-Formular** (mit den
+  Auftragsnummern von Robert) — **Bonamic/Niclas muss dafür nichts weiter tun**, keine Rückmeldung an
+  Niclas nötig. Nächster Schritt ist rein operativ: die ~25 Kündigungen einzeln über
+  https://www.high-mobile.de/kuendigen einreichen, danach Bestätigungen sammeln.
