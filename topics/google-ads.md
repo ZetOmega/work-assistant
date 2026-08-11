@@ -19,5 +19,13 @@
 Philipp an Lucas: „Der Account ist jetzt aktiv und ich habe deine Manageranfrage akzeptiert." Kontozugriff
 für Lucas Obstfeld damit erledigt — kein offener Punkt bei Philipp mehr.
 
+## Update 07.08 — Kampagnenstart blockiert (Kreditkarte)
+- **07.08 07:31 CEST — Celine (Teams):** „Huhu, hast du schon ein Feedback für Google Ads für mich?"
+- **07.08 07:32 CEST — Philipp:** „Ja, das hat alles geklappt. Zugang ist weitergeleitet. Wir müssen jetzt nur
+  noch warten, dass wir ne Kreditkarte haben, damit die Werbung starten kann. Luca richtet aber schon mal
+  alles andere ein." → **Neuer Blocker: fehlende Kreditkarte fürs Werbekonto**, nicht bei Philipp — Lucas
+  bereitet parallel alles Weitere vor.
+
 ## Offen / wartet auf
-Keine offenen Punkte bei Philipp. Lucas' weitere Strategie-/Roadmap-Arbeit läuft eigenständig.
+Kreditkarte fürs Google-Ads-Konto (Konrad/Celine/Buchhaltung) — sobald vorhanden, kann die Werbung starten.
+Kein technischer Punkt mehr bei Philipp.

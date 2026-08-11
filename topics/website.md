@@ -21,3 +21,7 @@
   SMARTVÉLO Feedback einträgt. Bitte **intern abstimmen und durch Konrad/Celine freigeben lassen**, bevor es
   gesammelt an Jokubas (Karlsson) übergeben wird. Jokubas' OOO ist seit 10.08 vorbei — Antwort auf das
   restliche Feedback vom 03./04.08 könnte jetzt kommen. Kein akuter Punkt bei Philipp, aber im Auge behalten.
+
+## Offen / wartet auf (Stand 11.08)
+Neue Sheets-Datei (Marv, 10.08) noch nicht intern befüllt/abgestimmt — Freigabe durch Konrad/Celine steht aus,
+bevor an Jokubas übergeben wird.

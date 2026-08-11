@@ -37,7 +37,16 @@ nicht gelöst.
 die übermittelte eSIM/QR-Code gültig ist, wenn die Rufnummern-Portierung am **13.08.** stattfindet — aktuell
 Fehlermeldung. **Antwort von Bonamic noch offen (Stand 11.08, 1 Tag).**
 
+**06.08 13:16 CEST** — bittet Philipp, bei den Bestellsheets **Sven Admin zu geben oder Philipps
+Zugriffsanfrage zu genehmigen** (admin@/sheetreader@) — passend zum offenen To-Do „Sven fragen: Zugriff
+aufs Ersatzteil-Bestellsheet". Keine Bestätigung im Chat sichtbar, ob erledigt.
+
+**07.08 08:59–09:01 CEST** — fragt, ob Philipp sein Outlook-/MS-Lizenz-Passwort einsehen kann (Rechnerwechsel
+Ende August geplant). Philipp: „kann nur zurücksetzen, einsehen geht nicht." **Robert: „machen wir nächste
+Woche", meldet sich dann mit neuem Passwort an.** → terminiert, kein akuter Punkt.
+
 ## Offen / wartet auf
 Antwort von Philipp, wie Slack-Übersicht/Kündigung praktisch läuft (Workspace-Owner unklar)
 FordPro-Admin-Zugänge (Eric+Philipp) einrichten (Nicht-HIGH-Liste 21.07 gestrichen) · eigener Vertrag lief 20.07 aus — Klärung ob durch Anbieterwechsel aufgefangen · Protokoll-Öffnungsproblem lösen ·
-eSIM/QR-Gültigkeit für die Portierung am 13.08 (Antwort von Bonamic/Daniela ausstehend, seit 10.08)
+eSIM/QR-Gültigkeit für die Portierung am 13.08 (Antwort von Bonamic/Daniela ausstehend, seit 10.08) ·
+Sven-Admin/Zugriffsanfrage Bestellsheet (seit 06.08) · Passwort-Reset Outlook/MS-Lizenzen (terminiert für „nächste Woche")

@@ -85,8 +85,11 @@ Rückmeldung zum Hitzetage-Vorschlag (seit 04.08) · Odoo-Lizenzentscheidung 1/2
   von Philipp bisher nicht angenommen/tentative).
 - **10.08 06:50 CEST** — „Weekly x Büro Köln" für diese Woche **abgesagt**; Konrad schickt stattdessen 10.08
   10:35 CEST das Weekly als Text in den Team-Chat („weil gerade Urlaubszeit ist und nicht so viele im Büro sind").
-- **06.08 12:44 CEST (Teams)** — Philipp fragt Konrad, ob er noch an die Unterschrift des Änderungsvertrags
-  auf Personio denkt (Kontext unklar, ob erledigt — kein Beleg für Antwort).
+- **06.08 10:50 CEST (Teams)** — Philipp fragt Konrad, ob er noch an die Unterschrift des Änderungsvertrags
+  auf Personio denkt. **10:52 CEST Konrad: „habs gemacht"** ✅ erledigt, kein offener Punkt mehr (Korrektur:
+  vorheriger Eintrag hatte die Uhrzeit falsch/unklar vermerkt).
+- **11.08 09:15–09:30 CEST** — „Konrad x Philipp Weekly" steht im Kalender, **von Philipp bisher nicht
+  angenommen (tentative)**.
 
 ## Update 05.08 — ChatGPT-Abo-Downgrade ✅ von Konrad genehmigt
 - **11:59 CEST (Teams, Philipp → Konrad)**: bittet um Downgrade des ChatGPT-Abos von 100 €/Monat auf die
