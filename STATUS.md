@@ -61,9 +61,6 @@
 
 ## ⚠️ Blinde Flecken
 - **Katharina-Offboarding**: Geräte, restliche Accounts/Lizenzen — weiter nirgends dokumentiert.
-- **Henry Horn**: kein 1:1-Teams-Chat mit Philipp vorhanden — Themen mit Henry (z. B. Flink SLA) nur über
-  Mail/Gruppenchats nachvollziehbar, nicht über ein 1:1.
 
 ## Geprüft
-Kalender ✓ · Mail (Inbox+Sent) ✓ · Teams-1:1s (Konrad, Eric, Celine, Robert einzeln gelesen; **Henry: kein
-1:1-Chat vorhanden**, nur Gruppenchat-Erwähnung) · To-Dos ✓
+Kalender ✓ · Mail (Inbox+Sent) ✓ · Teams (Chats mit Aktivität gelesen) ✓ · To-Dos ✓
