@@ -33,6 +33,11 @@ Niclas antwortet 03.08 07:52: alter Vertrag nur 12 Monate reaktivierbar, schläg
 zur Telekom einzuleiten, bittet Philipp um Rückruf. Roberts Nummer damit einen Schritt weiter, aber noch
 nicht gelöst.
 
+**10.08 11:00 CEST** — Mail an Daniela (Bonamic-Support), Thread „Portierung TK [DRINGEND]": fragt, ab wann
+die übermittelte eSIM/QR-Code gültig ist, wenn die Rufnummern-Portierung am **13.08.** stattfindet — aktuell
+Fehlermeldung. **Antwort von Bonamic noch offen (Stand 11.08, 1 Tag).**
+
 ## Offen / wartet auf
 Antwort von Philipp, wie Slack-Übersicht/Kündigung praktisch läuft (Workspace-Owner unklar)
-FordPro-Admin-Zugänge (Eric+Philipp) einrichten (Nicht-HIGH-Liste 21.07 gestrichen) · eigener Vertrag lief 20.07 aus — Klärung ob durch Anbieterwechsel aufgefangen · Protokoll-Öffnungsproblem lösen
+FordPro-Admin-Zugänge (Eric+Philipp) einrichten (Nicht-HIGH-Liste 21.07 gestrichen) · eigener Vertrag lief 20.07 aus — Klärung ob durch Anbieterwechsel aufgefangen · Protokoll-Öffnungsproblem lösen ·
+eSIM/QR-Gültigkeit für die Portierung am 13.08 (Antwort von Bonamic/Daniela ausstehend, seit 10.08)

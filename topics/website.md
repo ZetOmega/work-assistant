@@ -17,3 +17,7 @@
 - **04.08 10:42 CEST — Jokubas antwortet erneut**: „Das Impressum ist bereits behoben, alle weiteren Themen
   folgen zeitnah." → **Impressum-Punkt (Philip Soltys' Top-Priorität) ✅ erledigt.** Übriges Feedback weiter
   offen, nur „zeitnah" zugesagt, Jokubas bis 10.08 im OOO.
+- **10.08 21:22 CEST — Marv (complective)**: neuer Sammel-Kanal für Feedback — eine **Sheets-Datei**, in die
+  SMARTVÉLO Feedback einträgt. Bitte **intern abstimmen und durch Konrad/Celine freigeben lassen**, bevor es
+  gesammelt an Jokubas (Karlsson) übergeben wird. Jokubas' OOO ist seit 10.08 vorbei — Antwort auf das
+  restliche Feedback vom 03./04.08 könnte jetzt kommen. Kein akuter Punkt bei Philipp, aber im Auge behalten.

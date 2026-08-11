@@ -79,6 +79,15 @@ Rückmeldung zum Hitzetage-Vorschlag (seit 04.08) · Odoo-Lizenzentscheidung 1/2
 - 09:28 CEST Konrad leitet Julias Mail weiter (nur Nummer „017684853590"). 09:55 CEST Konrad legt Termin
   „Odoo x Unterzeichnen" an (Philipp + Celine als Teilnehmer) — bewegt sich Richtung Vertragsunterschrift.
 
+## Update 06.–10.08
+- **06.08 08:47 CEST — Mail „OPs" ans ganze Team**: neues einheitliches Meeting-Format ab sofort (4 Punkte:
+  Recap, ...) — betrifft auch „Konrad x Philipp Weekly" (neuer Termin **Di 11.08 09:15–09:30 CEST**, Teams,
+  von Philipp bisher nicht angenommen/tentative).
+- **10.08 06:50 CEST** — „Weekly x Büro Köln" für diese Woche **abgesagt**; Konrad schickt stattdessen 10.08
+  10:35 CEST das Weekly als Text in den Team-Chat („weil gerade Urlaubszeit ist und nicht so viele im Büro sind").
+- **06.08 12:44 CEST (Teams)** — Philipp fragt Konrad, ob er noch an die Unterschrift des Änderungsvertrags
+  auf Personio denkt (Kontext unklar, ob erledigt — kein Beleg für Antwort).
+
 ## Update 05.08 — ChatGPT-Abo-Downgrade ✅ von Konrad genehmigt
 - **11:59 CEST (Teams, Philipp → Konrad)**: bittet um Downgrade des ChatGPT-Abos von 100 €/Monat auf die
   kleinere 20 €/Monat-Stufe — Begründung: hauptsächlich für n8n-Automatisierungsworkflows genutzt.

@@ -1,4 +1,4 @@
-# Google Ads Betreuung · Status: aktiv — jetzt auch bei Philipp (Stand 05.08.2026 nachmittags)
+# Google Ads Betreuung · Status: ✅ Kontozugriff geklärt (Stand 06.08.2026)
 
 ## Stand
 - Externer Consultant **Lucas Obstfeld** (Lagos/Portugal) betreut den Aufbau der Google-Ads-Strategie.
@@ -15,6 +15,9 @@
 - **13:59 CEST — Celine**: „sprich vlt einmal direkt mit Lucas, nimm uns gerne in cc."
 - **14:04–14:05 CEST — Philipp fragt nach Lucas' Telefonnummer, Celine liefert: +49 1517 2626012.**
 
+## ✅ Geklärt (06.08, 09:52 CEST)
+Philipp an Lucas: „Der Account ist jetzt aktiv und ich habe deine Manageranfrage akzeptiert." Kontozugriff
+für Lucas Obstfeld damit erledigt — kein offener Punkt bei Philipp mehr.
+
 ## Offen / wartet auf
-**Philipp**: Lucas anrufen (+49 1517 2626012) wegen des Google-Ads-Kontozugriffs — noch nicht erfolgt
-(Stand 06.08, kein Beleg für Anruf/Mail danach).
+Keine offenen Punkte bei Philipp. Lucas' weitere Strategie-/Roadmap-Arbeit läuft eigenständig.

@@ -111,6 +111,24 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
   (neuer Vertrag 015153464615 seit 29.07 noch ohne Rechnung, Platzhalter angehängt).
 - 04.08 10:59 CEST Niclas fragt nach Kontaktdaten der Ansprechpartnerin bei HIGH/mobilezone.
 - 04.08 11:09 CEST Philipp antwortet: Georgina Zang, georgina.zang@mobilezone.org. ✅ erledigt.
+## HIGH-Mobile-Kündigung — deutlich vorangekommen (06.–10.08)
+- **06.08 12:56 CEST — Philipp an Niclas Maiwald**: „anbei alle bisher erhaltenen Kündigungen" — **17
+  Bestätigungsmails** („Bestätigung deiner Kündigung […].eml") als Anhang weitergeleitet. Von den ~25
+  HIGH-Verträgen sind damit mindestens 17 Kündigungen eingereicht und bestätigt.
+- **06.08 13:21 CEST — Philipp an Niclas**: Rechnungen künftig immer an buchhaltung@smart-velo.com.
+- **10.08 11:00 CEST — Robert Breuer an Daniela (Bonamic-Support)**, Thread „Portierung TK [DRINGEND]":
+  fragt, ab wann eSIM/QR-Code gültig sind, wenn die Rufnummern-Portierung am **13.08.** stattfindet — aktuell
+  Fehlermeldung. **Antwort noch offen (Stand 11.08, 1 Tag).**
+
+## Spontanbesuch Bonamic/greendevice — heute (11.08)
+- **10.08 14:19 CEST — Niclas Maiwald**: Jan-Hendrik Abels ist im Urlaub, **Florian** übernimmt die IT-Themen
+  aus dem Pascal/Jan-Termin vom 06.08 und ist „morgen" (= **heute Di 11.08**) ohnehin in Köln — fragt, ob er
+  spontan vorbeikommen kann.
+- **10.08 18:26 CEST — Philipp antwortet**: „Morgen (Dienstag) passt gut. Gerne mit kurzer Ankündigung
+  vorbeikommen, ich habe nichts im Kalender." → **Heute jederzeit möglicher Spontanbesuch, nicht im
+  Kalender eingetragen.**
+- Siehe `topics/bonamic-it-managed-service.md` für den inhaltlichen Hintergrund (IT-Audit vom 06.08).
+
 ## Telekom Business Card — falsche Vertragsemail (korrigiert 05.08)
 - **05.08 08:47 CEST — Philipp an Niclas (Nachtrag zum HIGH-Rechnungen-Thread)**: **im neuen Telekom-Business-
   Card-Vertrag** (die von Niclas/Bonamic eingeleitete Konsolidierung, s. oben) stehen als Vertragspartner/

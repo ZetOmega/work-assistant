@@ -3,7 +3,10 @@
 Status: aktiv · Anbieter-Kontakt Engineering: Arianna
 
 ## Aktuelle Themen
-- **Vertragslaufzeit / mögliche Kündigung** (neu 24.07): Papaya am 01.12.2024 scharf gestellt, Vertrag über **24 Monate** → Laufzeit bis ~30.11.2026, danach automatische Verlängerung (unbestätigt, genaue Kündigungsfrist prüfen). Konrad will das kündigen prüfen. Termin „Papaya Reminder – Vertragslaufzeit" Do 13.08 11:00–11:30 CEST.
+- **Vertragslaufzeit / mögliche Kündigung** (neu 24.07): Papaya am 01.12.2024 scharf gestellt, Vertrag über **24 Monate** → Laufzeit bis ~30.11.2026, danach automatische Verlängerung (unbestätigt, genaue Kündigungsfrist prüfen). Konrad will das kündigen prüfen. Termin „Papaya Reminder – Vertragslaufzeit" war für Do 13.08 11:00–11:30 CEST angelegt.
+  **⚠️ 06.08 13:21 CEST: Termin als „Declined" ins Postfach gelandet** — Kalendersuche (01.–20.08) findet den
+  Termin nicht mehr, er scheint storniert/abgelehnt. Unklar, wer/warum abgelehnt hat *(unbestätigt)* — vor dem
+  13.08 klären, sonst droht die Kündigungsfrist-Prüfung ganz zu verfallen.
 - **API-Integration** (Arianna/Engineering): Feature-Request labels im Ticket-Update, undokumentierte Rate-Limits (404 statt 429), Kommentar-Historie ~450 Tickets. /comments-404 lag am fehlenden Header `Accept: application/json` → funktioniert inzwischen.
 - **Papaya-IoT-Sync** (Robert): Sync-Skript (Papaya = source of truth) erst nach SUPLY-Bereinigung + Flink-Abgleich mit Eric; Nachfassen nach Philipps Urlaub (To-Do 31.08).
 
