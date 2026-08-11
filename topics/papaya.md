@@ -33,8 +33,11 @@ Handlungsbedarf vor dem 13.08.
 
 ## Offen / wartet auf
 - Sales (Rippelmeier/Cagatay/Jurgen): Entscheidung, wie Sales-Bikes abgebildet werden + Bike-IDs (Ende KW 31).
-- Arianna: Rückmeldung Feature-Request (labels, Rate-Limits) + RW-API-Key.
+- **Arianna: Rückmeldung Feature-Request (labels, Rate-Limits) + RW-API-Key** — ist ein „wartet auf", kein
+  To-Do bei Philipp (Klarstellung 11.08).
 - Neuer Termin von Robert für die Kündigungsfrist-Prüfung (Datum unbestätigt, nicht mehr dringend vor 13.08).
+- Robert nach Urlaub: Papaya-IoT-Sync wieder aufnehmen — **erst relevant nach Philipps Urlaub (Mitte August),
+  jetzt noch nicht dringend** (Klarstellung 11.08).
 
 ## Notizen
 - Vertragsdaten unbestätigt aus Roberts Mail — vor Kündigungsentscheidung Originalvertrag prüfen.

@@ -32,12 +32,12 @@ wenden soll oder ob Celine Bescheid gibt reicht. Celine (06:36): „sag gerne Ko
 Gesamt 35, Außendienst 13 Mitglieder) → Mitarbeiter-Vorteilsportal-Anfrage damit ✅ erledigt.
 07.08 07:31–07:32 CEST — fragt nach Google-Ads-Feedback; Philipp: Zugang läuft, **wartet nur noch auf
 Kreditkarte fürs Werbekonto** (s. topics/google-ads.md).
-**07.08 09:27–10:17 CEST (neu, offen)** — Celine bittet um kurzes Zusammensetzen „next week": ist
+**07.08 09:27–10:17 CEST** — Celine bittet um kurzes Zusammensetzen „next week": ist
 übernächste Woche eine Woche im Urlaub, möchte dass Philipp „ein Auge auf alles" hat (hat seine
 Passwörter), will 1Password auf Konrads Laptop/Handy einrichten, fragt ob Philipp die
-Flink-Bestellung (2×/Woche) übernehmen könnte. **Philipp: „Ich bin übernächste Woche auch weg 🙈🙈 ... sonst eigentlich sehr gerne"** → Terminüberschneidung: beide in derselben Woche im Urlaub,
-Vertretungsfrage noch ungeklärt.
+Flink-Bestellung (2×/Woche) übernehmen könnte. **Philipp: „Ich bin übernächste Woche auch weg 🙈🙈 ... sonst eigentlich sehr gerne"** → Terminüberschneidung: beide in derselben Woche im Urlaub.
+**Klarstellung Philipp (11.08): Vertretungsregelung liegt bei Celine** — kein offener Punkt/keine
+Entscheidung, die Philipp treiben muss.
 
 ## Offen / wartet auf
-o2-Rechnung/Kundenkennzahl liefern (nur noch für Unterlagen, Kündigung ist raus) · Rufnummern-Aufräum-Gespräch mit Philipp noch nicht terminiert ·
-**Vertretungsregelung für die gemeinsame Urlaubswoche (übernächste Woche) klären** — beide aktuell verplant, nicht gelöst.
+o2-Rechnung/Kundenkennzahl liefern (nur noch für Unterlagen, Kündigung ist raus) · Rufnummern-Aufräum-Gespräch mit Philipp noch nicht terminiert.

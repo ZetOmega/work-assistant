@@ -17,11 +17,12 @@
 - **04.08 10:42 CEST — Jokubas antwortet erneut**: „Das Impressum ist bereits behoben, alle weiteren Themen
   folgen zeitnah." → **Impressum-Punkt (Philip Soltys' Top-Priorität) ✅ erledigt.** Übriges Feedback weiter
   offen, nur „zeitnah" zugesagt, Jokubas bis 10.08 im OOO.
-- **10.08 21:22 CEST — Marv (complective)**: neuer Sammel-Kanal für Feedback — eine **Sheets-Datei**, in die
-  SMARTVÉLO Feedback einträgt. Bitte **intern abstimmen und durch Konrad/Celine freigeben lassen**, bevor es
-  gesammelt an Jokubas (Karlsson) übergeben wird. Jokubas' OOO ist seit 10.08 vorbei — Antwort auf das
-  restliche Feedback vom 03./04.08 könnte jetzt kommen. Kein akuter Punkt bei Philipp, aber im Auge behalten.
+- **10.08 21:22 CEST — Marv (complective)**: neuer Sammel-Kanal für Feedback — eine **Sheets-Datei**, die
+  SMARTVÉLO bereits hat. Jokubas' OOO ist seit 10.08 vorbei — Antwort auf das restliche Feedback vom
+  03./04.08 könnte jetzt kommen. Kein akuter Punkt bei Philipp.
+- **Klarstellung Philipp (11.08):** kein Freigabe-Prozess vorab — die Sheet-Datei existiert bereits.
+  **Wenn** ein neuer Feedbackpunkt kommt, wird er an Celine/KK vorbeigeprüft und dann ins Sheet eingetragen
+  (nicht umgekehrt: keine Freigabe nötig, bevor überhaupt etwas eingetragen wird).
 
 ## Offen / wartet auf (Stand 11.08)
-Neue Sheets-Datei (Marv, 10.08) noch nicht intern befüllt/abgestimmt — Freigabe durch Konrad/Celine steht aus,
-bevor an Jokubas übergeben wird.
+Kein aktiver Punkt bei Philipp — Ablauf ist geklärt (s.o.), wird nur bei neuem Feedback relevant.

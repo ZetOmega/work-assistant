@@ -35,3 +35,5 @@ Vertraulichkeit ernst nehmen — nicht in andere Kanäle/Chats tragen, die diese
 - **Stand 31.07: keine neue Antwort von Robert/Henry seit 13:05 (30.07)** — Ball liegt bei ihnen.
 - **Stand 03.08 (4 Tage ohne Antwort)**: weiterhin keine Reaktion von Robert/Henry auf die Vertragsauslegungs-
   Frage — unverändert, Ball bleibt bei ihnen.
+- **Klarstellung Philipp (11.08): nicht sein Thema/kein Nachfassen nötig** — Robert/Henry melden sich, wenn
+  sie etwas brauchen. Kein „wartet auf"-Punkt mehr für Philipp im Briefing.

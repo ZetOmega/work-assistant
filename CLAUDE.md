@@ -45,7 +45,17 @@ Claude Code liest/aktualisiert diese Dateien, statt langen Chat-Kontext zu halte
   Uhrzeiten ohne Zone in STATUS.md/people/topics stehen lassen.
 
 ## Skill: check-in
-Trigger: „check-in“, „new day“, „was steht an“, „take all in“.
+Trigger: „check-in”, „new day”, „was steht an”, „take all in”.
+
+**To-Do/Wartet-auf-Klassifizierung (hart erarbeitet, 2026-08-11):**
+- Ein Punkt, der auf eine externe Person wartet (Kollege/Anbieter antwortet noch), ist **„wartet auf”**,
+  kein To-Do für Philipp — auch wenn er als MS-To-Do angelegt ist (z. B. Papaya-API-Feature-Request → wartet
+  auf Arianna).
+- To-Dos mit Fälligkeit **Wochen/Monate in der Zukunft** (z. B. fällig erst in >1 Woche) nicht aktiv im
+  Briefing nachfragen/nerven — nur als Randnotiz „noch nicht relevant” erwähnen, bis sie näher an der
+  Fälligkeit sind.
+- Themen, die klar bei einer anderen Person liegen (z. B. „das ist ihr/sein Ding, die/der schreibt wenn was
+  gebraucht wird”), nicht als offenen Punkt/Frage für Philipp führen.
 
 1. **ZUERST echte Zeit holen**: `outlook_find_available_time` → `nowDateTime` ist autoritativ.
    Philipp nennt das Datum öfter falsch (mehrfach passiert) — alle relativen Angaben daran ankern.

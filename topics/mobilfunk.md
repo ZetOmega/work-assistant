@@ -118,7 +118,7 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
 - **06.08 13:21 CEST — Philipp an Niclas**: Rechnungen künftig immer an buchhaltung@smart-velo.com.
 - **10.08 11:00 CEST — Robert Breuer an Daniela (Bonamic-Support)**, Thread „Portierung TK [DRINGEND]":
   fragt, ab wann eSIM/QR-Code gültig sind, wenn die Rufnummern-Portierung am **13.08.** stattfindet — aktuell
-  Fehlermeldung. **Antwort noch offen (Stand 11.08, 1 Tag).**
+  Fehlermeldung. **Klarstellung Philipp (11.08): Roberts eigenes Thema, kein Punkt für Philipp.**
 
 ## Spontanbesuch Bonamic/greendevice — heute (11.08)
 - **10.08 14:19 CEST — Niclas Maiwald**: Jan-Hendrik Abels ist im Urlaub, **Florian** übernimmt die IT-Themen
