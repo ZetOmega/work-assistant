@@ -1,60 +1,72 @@
-# STATUS — Stand Do 06.08.2026, 07:42 Uhr CEST (Korrektur-Lauf, alle Zeiten CEST)
+# STATUS — Stand Di 11.08.2026, 07:24 Uhr CEST
 
-## 🔥 Heute (Do 06.08)
-- **11:00–11:45** greendevice x SMARTVÉLO (Venloer Str. 515) — Mobilfunk-Thema läuft hier parallel mit.
-- **12:00–13:30** Philipp x Eric (Teams).
+## 🔥 Heute (Di 11.08)
+- **09:15–09:30** Konrad x Philipp Weekly (Teams) — **tentative, von Philipp noch nicht angenommen.**
+- Möglicher **Spontanbesuch von Florian (Bonamic/greendevice)** — heute in Köln, IT-Themen aus dem 06.08-Termin
+  übernehmen (Jan-Hendrik im Urlaub). Nicht im Kalender, Philipp hat „nichts im Kalender, gerne mit kurzer
+  Ankündigung".
 
-## ✅ Seit letztem Lauf geklärt (05.08 10:08 → 06.08 07:42 CEST)
-- **Hitzetage/Klimageräte — Grundsatzentscheidung gefallen:** Konrad hat sich für **2x Klimageräte**
-  entschieden (13:55 CEST, Gruppenchat) — das ist seine Antwort auf den Vorschlag vom 04.08, nicht die
-  Homeoffice-Regel. Offen ist nur noch die Bestellung (Preis „ziemlich teuer").
-- **ChatGPT-Abo-Downgrade:** Konrad hat genehmigt („top mach", 13:35 CEST). Offen: die eigentliche
-  Umsetzung des Downgrades (100 € → 20 €/Monat) beim Anbieter.
+## ✅ Seit letztem Lauf geklärt (06.08 07:42 → 11.08 07:24 CEST)
+- **Google Ads Kontozugriff** — bereits am 06.08 erledigt, Philipp hat es Celine 07.08 07:32 CEST bestätigt.
+  Neuer (kleiner) Blocker: fehlende Kreditkarte fürs Werbekonto, bevor die Kampagne starten kann — nicht bei
+  Philipp, Lucas bereitet parallel alles Weitere vor.
+- **Mitarbeiter-Vorteilsportal-Verteiler** — Celine hat die 3 Listen (Venloer/Gesamt/Außendienst) am 06.08
+  11:21 CEST geschickt. Erledigt.
+- **Personio-Änderungsvertrag (Titeländerung)** — Philipps Nachfrage 06.08 10:50 CEST, Konrad „habs gemacht"
+  10:52 CEST. (Korrektur: der 06.08-Stand hatte das fälschlich als unklar/unbeantwortet geführt.)
 
 ## 🔄 Vorangekommen (kein Abschluss)
-- **Google Ads — bei Philipp:** Kontozugriff für Lucas Obstfeld hat nicht geklappt, Konrad hat Philipp
-  direkt getaggt. Celine hat Lucas' Telefonnummer geschickt (+49 1517 2626012). **Ball bei Philipp: anrufen.**
-- **HIGH-Mobile-Kündigung:** Niclas Maiwald (Bonamic) hat den Ablauf/Formular-Link geschickt, Robert hat die
-  Auftragsnummern für alle ~25 Verträge geliefert. **Klargestellt: wir kündigen selbst direkt über das
-  High-Mobile-Formular — Bonamic muss dafür nichts tun.** Nächster Schritt: die ~25 Kündigungen einzeln
-  einreichen (https://www.high-mobile.de/kuendigen).
-- **Mitarbeiter-Vorteilsportal:** Celine bittet Philipp um einen Verteiler „Venloer" + „gesamt SMARTVÉLO" —
-  noch offen.
+- **HIGH-Mobile-Kündigung**: 17 Kündigungsbestätigungen gesammelt und an Niclas Maiwald weitergeleitet (06.08).
+  Rufnummern-Portierung ist fix für **13.08.** Offen: Roberts Frage an Bonamic/Daniela zur eSIM/QR-Gültigkeit
+  (10.08 11:00 CEST, „Portierung TK DRINGEND") — **weiter unbeantwortet.**
+- **Website-Feedback**: neuer Sheets-Sammelkanal von Marv/complective (10.08 21:22 CEST) — braucht interne
+  Abstimmung + Freigabe durch Konrad/Celine, bevor es an Jokubas geht. Jokubas' OOO ist seit 10.08 vorbei.
+
+## 🆕 Neu / braucht Reaktion
+- **Papaya-Kündigungsfrist-Termin verschollen**: der Termin (war Do 13.08 11:00) wurde am 06.08 als „Declined"
+  markiert und ist seither nirgends neu aufgetaucht — auch nicht im Kalender dieser Woche. **Do 13.08 ist in
+  2 Tagen**, ohne Gegensteuern verfällt die Kündigungsfrist-Prüfung ungeprüft.
+- **Vertretungsregelung Celine-Urlaub**: Celine bittet (07.08 09:27 CEST), während ihrer Urlaubswoche
+  (übernächste Woche) „ein Auge auf alles" zu haben, 1Password auf Konrads Geräten einzurichten und die
+  Flink-Bestellung (2×/Woche) zu übernehmen. **Philipp hat aber angemerkt, in derselben Woche selbst auch im
+  Urlaub zu sein** — ungelöste Überschneidung.
 
 ## ⏳ Weiter offen / Wartet auf (kein Fortschritt)
-- **OBS/Stefan Arens** — keine Antwort auf Konrads Gegenangebot vom 28.07 (**9 Tage**, Konrads Thema).
-- **Intero Technologies (Uli Kessel)** — bewusst zurückgehalten (**10 Tage**).
-- **Flink SLA Rückanalyse** — keine Antwort von Robert/Henry seit 30.07 (**7 Tage**).
-- **Hanisch — Telefon/Zugang NetCologne-Glasfaser** (seit 22.07, **15 Tage**).
-- **Slack-Bot-Invite (Mathis)** — seit 31.07 (**6 Tage**).
+- **OBS/Stefan Arens** — keine Antwort auf Konrads Gegenangebot vom 28.07 (**14 Tage**, Konrads Thema).
+- **Intero Technologies (Uli Kessel)** — bewusst zurückgehalten (**15 Tage**).
+- **Flink SLA Rückanalyse** — keine Antwort von Robert/Henry seit 30.07 (**12 Tage**).
+- **Hanisch — Telefon/Zugang NetCologne-Glasfaser** (seit 22.07, **20 Tage**).
+- **Slack-Bot-Invite (Mathis)** — seit 27.07 unbeantwortet, wie Übersicht/Kündigung praktisch läuft (**~15 Tage**).
+- **Sven-Admin/Zugriff Bestellsheet** — Robert um Freigabe gebeten (06.08), keine Bestätigung sichtbar.
 - **Kamera-Einrichtung** — versendet, wartet auf Ankunft.
-- **Papaya-Kündigungsfrist** — geparkt bis Termin Do 13.08 11:00.
-- **Odoo-Lizenzlaufzeit/Vertrag** — Konrads Thema (Termin „Odoo x Unterzeichnen" mit Philipp+Celine angelegt),
-  kein Nachfassen nötig.
+- **Odoo-Lizenzlaufzeit/Vertrag** — Konrads Thema, kein Nachfassen nötig.
 
-## 🟡 Ich (Philipp) — Microsoft To-Do (6 offen; live geprüft 05:29 CEST; KEINE überfällig)
-- [ ] Papaya-API: Feature-Request — Antwort von Arianna nachverfolgen
+## 🟡 Ich (Philipp) — Microsoft To-Do (6 offen; live geprüft 07:24 CEST; KEINE überfällig)
+- [ ] Sven fragen: Zugriff aufs Ersatzteil-Bestellsheet geben lassen (danach Claude/Agent hinzufügen)
+- [ ] Robert nach Urlaub nachfassen (Papaya-IoT-Sync) — fällig 31.08
 - [ ] Hanisch: Telefon/Zugang Glasfaserausbau NetCologne
 - [ ] Slack-Bot in fleet-notifications einladen (via Mathis)
-- [ ] Robert nach Urlaub nachfassen (Papaya-IoT-Sync) — fällig 31.08
-- [ ] SharePoint-Restrukturierung: Ideen sammeln — fällig 20.09
+- [ ] Papaya-API: Feature-Request — Antwort nachverfolgen
 - [ ] Wissensdatenbank/Video-Anleitung für Service — fällig 29.11
+- [ ] SharePoint-Restrukturierung: Ideen sammeln — fällig 20.09
 
-## 📅 Termine diese Woche (Do 06.08 – Fr 07.08)
-- **Do 06.08** · 11:00–11:45 greendevice x SMARTVÉLO (Venloer Str. 515) · 12:00–13:30 Philipp x Eric (Teams)
-- **Fr 07.08** · 11:00–11:30 Papaya x SMARTVÉLO Weekly (Teams)
+## 📅 Termine diese Woche (Di 11.08 – Fr 14.08)
+- **Di 11.08** · 09:15–09:30 Konrad x Philipp Weekly (Teams, tentative)
+- Mi–Fr: keine weiteren Termine im Kalender gefunden (Papaya-Weekly/Freitag nicht sichtbar diese Woche).
 
 ## ❓ Bitte bestätigen (nichts automatisch gemacht)
-- Soll ich die ~25 HIGH-Kündigungen aus Roberts Auftragsnummern-Liste als Checkliste aufbereiten, die du
-  im High-Mobile-Formular durchgehst?
-- Soll ich einen Verteiler-Entwurf „Venloer" / „gesamt SMARTVÉLO" aus den Personendossiers zusammenstellen
-  für Celines Mitarbeiter-Vorteilsportal-Anfrage?
+- Soll ich bei Konrad/Celine nachfragen, wer den Papaya-Kündigungsfrist-Termin abgelehnt hat, und einen neuen
+  Termin vor dem 13.08 vorschlagen?
+- Wie soll die Vertretung während Celines Urlaubswoche laufen, wenn du in derselben Woche auch weg bist —
+  soll ich das offen bei Celine ansprechen?
+- Soll ich das „Konrad x Philipp Weekly" heute 09:15 CEST annehmen?
+- Soll ich bei Robert nachfragen, ob die Sven-Admin-Freigabe fürs Bestellsheet inzwischen erledigt ist?
 
 ## ⚠️ Blinde Flecken
 - **Katharina-Offboarding**: Geräte, restliche Accounts/Lizenzen — weiter nirgends dokumentiert.
+- **Henry Horn**: kein 1:1-Teams-Chat mit Philipp vorhanden — Themen mit Henry (z. B. Flink SLA) nur über
+  Mail/Gruppenchats nachvollziehbar, nicht über ein 1:1.
 
-## Hinweis zur Korrektur (06.08 07:42)
-Der 07:29-Lauf hatte bei mehreren Teams-Chat-Zeiten die UTC→CEST-Umrechnung (+2h) vergessen und dadurch
-Konrads Antworten zu ChatGPT-Downgrade und Klimageräte fälschlich als "keine Antwort" markiert, obwohl beide
-bereits am 05.08 beantwortet waren. Hier korrigiert; Zeiten in diesem Stand sind neu geprüft (+2h auf rohe
-Teams-createdDateTime).
+## Geprüft
+Kalender ✓ · Mail (Inbox+Sent) ✓ · Teams-1:1s (Konrad, Eric, Celine, Robert einzeln gelesen; **Henry: kein
+1:1-Chat vorhanden**, nur Gruppenchat-Erwähnung) · To-Dos ✓
