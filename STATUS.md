@@ -14,6 +14,9 @@
   11:21 CEST geschickt. Erledigt.
 - **Personio-Änderungsvertrag (Titeländerung)** — Philipps Nachfrage 06.08 10:50 CEST, Konrad „habs gemacht"
   10:52 CEST. (Korrektur: der 06.08-Stand hatte das fälschlich als unklar/unbeantwortet geführt.)
+- **Slack-Bot-Invite (Mathis)** — final geklärt (Philipp-Bestätigung 11.08), To-Do als erledigt markiert.
+- **Papaya-Kündigungsfrist-Termin** — kein verschollener Termin: Robert hat ihn selbst bewusst weit nach
+  hinten verschoben (Korrektur zum Voreintrag, neues Datum unbestätigt).
 
 ## 🔄 Vorangekommen (kein Abschluss)
 - **HIGH-Mobile-Kündigung**: 17 Kündigungsbestätigungen gesammelt und an Niclas Maiwald weitergeleitet (06.08).
@@ -23,9 +26,6 @@
   Abstimmung + Freigabe durch Konrad/Celine, bevor es an Jokubas geht. Jokubas' OOO ist seit 10.08 vorbei.
 
 ## 🆕 Neu / braucht Reaktion
-- **Papaya-Kündigungsfrist-Termin verschollen**: der Termin (war Do 13.08 11:00) wurde am 06.08 als „Declined"
-  markiert und ist seither nirgends neu aufgetaucht — auch nicht im Kalender dieser Woche. **Do 13.08 ist in
-  2 Tagen**, ohne Gegensteuern verfällt die Kündigungsfrist-Prüfung ungeprüft.
 - **Vertretungsregelung Celine-Urlaub**: Celine bittet (07.08 09:27 CEST), während ihrer Urlaubswoche
   (übernächste Woche) „ein Auge auf alles" zu haben, 1Password auf Konrads Geräten einzurichten und die
   Flink-Bestellung (2×/Woche) zu übernehmen. **Philipp hat aber angemerkt, in derselben Woche selbst auch im
@@ -36,27 +36,24 @@
 - **Intero Technologies (Uli Kessel)** — bewusst zurückgehalten (**15 Tage**).
 - **Flink SLA Rückanalyse** — keine Antwort von Robert/Henry seit 30.07 (**12 Tage**).
 - **Hanisch — Telefon/Zugang NetCologne-Glasfaser** (seit 22.07, **20 Tage**).
-- **Slack-Bot-Invite (Mathis)** — seit 27.07 unbeantwortet, wie Übersicht/Kündigung praktisch läuft (**~15 Tage**).
 - **Sven-Admin/Zugriff Bestellsheet** — Robert um Freigabe gebeten (06.08), keine Bestätigung sichtbar.
 - **Kamera-Einrichtung** — versendet, wartet auf Ankunft.
 - **Odoo-Lizenzlaufzeit/Vertrag** — Konrads Thema, kein Nachfassen nötig.
 
-## 🟡 Ich (Philipp) — Microsoft To-Do (6 offen; live geprüft 07:24 CEST; KEINE überfällig)
+## 🟡 Ich (Philipp) — Microsoft To-Do (5 offen; 1 heute erledigt; KEINE überfällig)
 - [ ] Sven fragen: Zugriff aufs Ersatzteil-Bestellsheet geben lassen (danach Claude/Agent hinzufügen)
 - [ ] Robert nach Urlaub nachfassen (Papaya-IoT-Sync) — fällig 31.08
 - [ ] Hanisch: Telefon/Zugang Glasfaserausbau NetCologne
-- [ ] Slack-Bot in fleet-notifications einladen (via Mathis)
 - [ ] Papaya-API: Feature-Request — Antwort nachverfolgen
 - [ ] Wissensdatenbank/Video-Anleitung für Service — fällig 29.11
 - [ ] SharePoint-Restrukturierung: Ideen sammeln — fällig 20.09
+- [x] ~~Slack-Bot in fleet-notifications einladen (via Mathis)~~ — final geklärt, 11.08 erledigt markiert
 
 ## 📅 Termine diese Woche (Di 11.08 – Fr 14.08)
 - **Di 11.08** · 09:15–09:30 Konrad x Philipp Weekly (Teams, tentative)
 - Mi–Fr: keine weiteren Termine im Kalender gefunden (Papaya-Weekly/Freitag nicht sichtbar diese Woche).
 
 ## ❓ Bitte bestätigen (nichts automatisch gemacht)
-- Soll ich bei Konrad/Celine nachfragen, wer den Papaya-Kündigungsfrist-Termin abgelehnt hat, und einen neuen
-  Termin vor dem 13.08 vorschlagen?
 - Wie soll die Vertretung während Celines Urlaubswoche laufen, wenn du in derselben Woche auch weg bist —
   soll ich das offen bei Celine ansprechen?
 - Soll ich das „Konrad x Philipp Weekly" heute 09:15 CEST annehmen?

@@ -1,4 +1,4 @@
-# Slack-Lizenzen / Slack-Adminrechte  · Status: ✅ geklärt (28.07.2026)
+# Slack-Lizenzen / Slack-Adminrechte  · Status: ✅ final geklärt (11.08.2026)
 
 ## Stand
 - **27.07 15:44 — Robert Breuer (Prio hoch, Mail „Slack Account Konrad und weitere")**: Konrads Slack-Account
@@ -15,12 +15,9 @@
   Philipp hat dort keine Rechte und kündigt nichts fremd.
 - **Mit Robert am 27.07 „live“ (mündlich) geklärt** (Philipp, 28.07) → Thema geschlossen, keine Rückmeldung mehr offen.
 
-## Zusammenhang
-- Blockiert auch das seit 21.07 offene To-Do **„Slack-Bot in fleet-notifications einladen (via Mathis)"** — beides
-  scheitert an fehlenden Admin-/Workspace-Rechten.
-- Mögliche Wege: Workspace-Owner ermitteln (Flink-Seite / Mathis), oder Rechnungs-/Billing-Kontakt über Celine
-  bzw. den Zahlungsweg identifizieren.
+## ✅ Final geklärt (11.08)
+Slack-Bot-Invite (Mathis, fleet-notifications) ist **final geklärt** — Philipp bestätigt, Thema komplett vom
+Tisch. To-Do „Slack-Bot in fleet-notifications einladen (via Mathis)" als erledigt markiert.
 
 ## Offen / wartet auf
-- Philipp: Robert antworten, wie die Übersicht/Kündigung praktisch läuft (wer ist Workspace-Owner?).
-- Danach: Nutzerliste ziehen, Konrads Account + überzählige Accounts kündigen.
+Keine offenen Punkte mehr.

@@ -25,16 +25,16 @@ Status: aktiv · Anbieter-Kontakt Engineering: Arianna
 - 24.07 07:39 — Philipp an Arianna: /comments funktioniert (Accept-Header), Rate-Limit/Labels adressiert.
 - 24.07 — Papaya-Weekly abgesagt, schriftlich geklärt.
 
-## ⚠️ Kündigungsfrist-Termin weiter ungeklärt (Stand 11.08)
-Der Termin „Papaya Reminder – Vertragslaufzeit" (war Do 13.08 11:00–11:30 CEST) ist seit der Ablehnung vom
-06.08 **nicht wieder aufgetaucht** — im Kalender für diese Woche (11.–14.08) steht dazu nichts. Do 13.08 ist
-in 2 Tagen. Bisher keine Klärung, wer/warum abgelehnt hat, und kein Ersatztermin. **Ohne Gegensteuern verfällt
-die Kündigungsfrist-Prüfung ungeprüft.**
+## Kündigungsfrist-Termin verschoben (Korrektur 11.08)
+Der Termin „Papaya Reminder – Vertragslaufzeit" (war Do 13.08 11:00–11:30 CEST) tauchte als „Declined" auf
+(06.08) und fehlte im Kalender dieser Woche — **Klärung 11.08: Robert hat den Termin selbst bewusst weit
+nach hinten verschoben** (neues Datum unbestätigt). Kein verlorener/verschollener Termin, kein akuter
+Handlungsbedarf vor dem 13.08.
 
 ## Offen / wartet auf
 - Sales (Rippelmeier/Cagatay/Jurgen): Entscheidung, wie Sales-Bikes abgebildet werden + Bike-IDs (Ende KW 31).
 - Arianna: Rückmeldung Feature-Request (labels, Rate-Limits) + RW-API-Key.
-- Philipp/Konrad: Kündigungsfrist-Termin retten oder neu ansetzen — vor 13.08.
+- Neuer Termin von Robert für die Kündigungsfrist-Prüfung (Datum unbestätigt, nicht mehr dringend vor 13.08).
 
 ## Notizen
 - Vertragsdaten unbestätigt aus Roberts Mail — vor Kündigungsentscheidung Originalvertrag prüfen.
