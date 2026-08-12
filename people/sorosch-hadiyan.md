@@ -1,5 +1,6 @@
 # Sorosch Hadiyan
-Rolle: Bewerber (IT-Stelle) · E-Mail: sorosch@hadiyan.de · Tel: +49 176 41 55 2187 · Status: extern (Kandidat)
+Rolle: Bewerber (IT-Stelle) · E-Mail: sorosch@hadiyan.de · Tel: +49 176 41 55 2187 · Status: extern (Kandidat,
+**aktuell totes Thema — Konrad will ihn nicht, 12.08**)
 
 ## Kurzprofil
 IT-Experte mit Support-/Administrations-Schwerpunkt, geb. 21.01.1987, wohnhaft Elsdorf (Köln). Deutsch/Farsi
@@ -29,4 +30,4 @@ kein Trade-off, sondern zusätzliches Plus obendrauf. Passt damit potenziell sow
 auch auf den KI-/Automatisierungs-Zuschnitt der Stelle.
 
 ## Offen / wartet auf
-Nächster Schritt im Prozess *(unbestätigt, nicht dokumentiert)*.
+Keine — **12.08: Konrad will ihn nicht**, Prozess damit beendet.

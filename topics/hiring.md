@@ -15,7 +15,8 @@
   **Marketing großes Plus** (Diplom Kommunikationsdesign, Senior-Art-Director-Erfahrung), hohe Lernbereitschaft,
   gutes Knowledge — die **solide „normale" IT-Erfahrung macht das Profil nur noch besser**, kein Trade-off.
   Passt damit potenziell auch auf den jetzt gewählten „KI- & Automatisierungs-Engineer"-Zuschnitt.
-- Nächster Schritt: nicht dokumentiert *(unbestätigt)*.
+- **✅ 12.08 — Klarstellung Philipp: Konrad will Sorosch nicht.** Aktuell totes Thema, kein offener Punkt/
+  keine Entscheidung mehr ausstehend.
 
 ## KI- & Automatisierungs-Engineer (23.07) — ⚠️ Konflikt
 - 23.07 13:36: Philipp schickt an Flo Stellenprofil **„KI- & Automatisierungs-Engineer (m/w/d)"** (nach Absprache mit Konrad) — „rechte Hand für KI, Tools & Systemintegration", Köln, Vollzeit, überwiegend vor Ort.
