@@ -29,6 +29,8 @@
   falsche Zuordnung).
 - **Offen: welche Nummer stattdessen?** Kandidaten aus dem Bestand wären z. B. die NetCologne-Festnetznummern
   (515/509, s. `topics/netcologne-netzwerk.md`) oder eine neue zentrale Firmennummer — nicht entschieden.
+- **Wichtig (Philipp, 12.08): Die Nummer wird auch für SMS-Codes gebraucht** (2FA/Verifizierung) — ohne
+  Zugriff auf Philipps Handy ist das für die 2 Wochen Urlaub „tot".
 
 ## Offen / wartet auf
 - **Vor Philipps Urlaub (Start 17.08.) klären: welche Nummer wird die neue öffentliche Google-Maps-Nummer**, und
