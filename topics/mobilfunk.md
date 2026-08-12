@@ -1,4 +1,4 @@
-# Mobilfunk (Migration zu greendevice.eco)  · Status: aktiv — Konsolidierungsangebot ✅ entschieden (04.08)
+# Mobilfunk (Migration zu greendevice.eco)  · Status: HIGH-Teil ✅ durch (12.08) — o2/Vodafone-Teil noch offen
 
 ## Konsolidierungsangebot — ✅ entschieden (04.08, Philipp)
 - **03.08 11:20 CEST (Teams, Philipp → Konrad):** Philipp legt das Angebot aus dem „Mobilfunk Angebot"-Termin
@@ -127,6 +127,68 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
 - **Übrige ~25 HIGH-mobile-Verträge:** Kündigungen sind einzeln raus (bereits erledigt). **Bonamic versendet
   die neuen eSIMs jeweils zeitig vor dem individuellen Vertragsende** der einzelnen Verträge — kein
   gemeinsamer Stichtag, läuft automatisch über Bonamic, kein Punkt bei Philipp.
+
+## ✅ 12.08 — HIGH-Teil ist durch (Übergabe Philipp vor Urlaub)
+**17 aktive HIGH-Verträge** (= 17 erhaltene Kündigungsbestätigungen). Dem stehen **16 eSIM-Briefe + Roberts
+eigene Portierung** (13.08.) gegenüber = 17. Bonamic verschickt die eSIMs jeweils rechtzeitig vor dem
+individuellen Vertragsende, kein gemeinsamer Stichtag. **Läuft von allein, nichts zu tun.**
+
+eSIM-PDFs liegen einzeln benannt (`Person_Nummer_Portierungsdatum.pdf`) in `~/Downloads/esims-split/` bei
+Philipp — an den jeweiligen Kollegen kurz vor seinem Termin weitergeben.
+
+### Portierungsplan (Stand 12.08)
+| Termin | Wer |
+|---|---|
+| 13.08. | Robert Breuer (aktiviert sich automatisch) |
+| 08.09. | Philipp Klei, Nils Kaun |
+| 11.09. | Celine Kretschmer |
+| 24.09. | *(Träger offen — s. „Drei eSIM-Nummern ohne bekannten Träger" unten)* |
+| 28.09. | Gag/Wirasak Ickenroth, Oleg Bartel, *(1 offen — s. unten)* |
+| 29.09. | Pramod Mallipudi |
+| 01.10. | Cagatay Oguz, Jerome Rath, Jakob Volksdorf |
+| 05.10. | Roman Mikhline, Paul Papke, Rick van de Bult, *(1 offen — s. unten)* |
+| 06.10. | Joshua Rippelmeier |
+
+**⚠️ Wichtig: Das gilt NUR für HIGH.** Verträge bei anderen Anbietern (o2, Vodafone …) sind noch **nicht fix
+portiert** — siehe „o2/Vodafone-Verträge noch offen" unten.
+
+### Drei eSIM-Nummern ohne bekannten Träger
+| Nummer | Testanruf (12.08.) | Portierung | Vermutung |
+|---|---|---|---|
+| 0151 53465448 | offline | 24.09. | ungenutzte Karte |
+| 0151 53464791 | offline | 05.10. | Neuvertrag 05.08., ungenutzt |
+| 0151 53467753 | aktiv, Siri-Mailbox fragt „wer ist da?" | 28.09. | jemand nutzt sie |
+
+**Empfehlung Philipp:** die zwei toten Nummern kündigen statt portieren — sonst laufen ab Oktober
+Telekom-Verträge für ungenutzte Karten mit. Bei der aktiven Nummer klären, wer dran ist.
+**Auflösung geht am schnellsten über Roberts Vertragsliste vom 05.08.** (enthält Auftragsnummer /
+Mitarbeiter / Kundennummer / Rufnummer) — liegt in Roberts Mail, lokal nicht mehr vorhanden.
+
+Kolleg:innen noch ganz ohne Firmennummer: **Cosma, Lotte Essers, Oscar Mund, Rosa.**
+
+### o2/Vodafone-Verträge noch offen (nicht Teil des HIGH-Abschlusses)
+Neben HIGH gibt es Verträge bei **o2, Vodafone u. a.**, deren Portierung zur Telekom **noch nicht
+bestätigt** ist — dafür liegen weder eSIM- noch Bestätigungsmails wie bei HIGH vor.
+**Zu tun:** Stand bei **Bonamic (Niclas Maiwald / Daniela)** abfragen — welche Nummern sind beauftragt,
+welche haben schon einen Portierungstermin, welche hängen. Ansprechpartner laufen über buchhaltung@ bzw.
+den bestehenden Bonamic-Thread.
+
+Betroffen sind vermutlich Firmennummern **außerhalb** des HIGH-Blocks `0151 534xxxxx`, u. a.:
+- `0151 6845xxxx` / `0151 6849xxxx` (Werkstatt & Außendienst: Noa, Yosief, Sven, Dominik Hirsch, Caio, Bela,
+  Edward, Mike, Dominik Steinscherer, Simon Krister Rath, Mikhaeil)
+- `0157 806021xx` (Lukas, Simon Schröder)
+- `0151 53410291` (Yves)
+
+**Wichtig:** Die Vorwahl sagt nichts über den Anbieter (Portierung) — welche dieser Nummern bei o2/Vodafone
+liegen, muss über die Verträge/Rechnungen geklärt werden, nicht über die Nummer selbst.
+
+### Falls während des Urlaubs was reinkommt
+- **eSIM-Brief von Bonamic/Telekom** → Nummer in `~/Downloads/esims-split/` bzw. im Adressbuch nachschlagen,
+  an die Person weitergeben.
+- **Mail von HIGH/mobilezone** → landet automatisch in buchhaltung@, Ordner „HIGH Mobilfunk". Kündigungen
+  sind alle raus und bestätigt, es sollte nur noch um Beendigungstermine gehen.
+- **Mail von Bonamic zur Portierung anderer Anbieter (o2/Vodafone)** → siehe oben, bitte sammeln bzw.
+  Termin bestätigen, damit die Nummern nicht durchrutschen.
 
 ## Spontanbesuch Bonamic/greendevice — heute (11.08)
 - **10.08 14:19 CEST — Niclas Maiwald**: Jan-Hendrik Abels ist im Urlaub, **Florian** übernimmt die IT-Themen
