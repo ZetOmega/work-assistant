@@ -1,4 +1,4 @@
-# Google Business Profil / Unternehmensprofil-Zugang  · Status: ✅ erledigt (29.07.2026)
+# Google Business Profil / Unternehmensprofil-Zugang  · Status: 🆕 Rufnummer-Umstellung jetzt zeitkritisch (12.08.2026)
 
 ## Stand
 - **24.07 (Teams Celine)**: Celine fragt nach dem **Google-Business-Account bzw. den Login-Daten**.
@@ -18,6 +18,16 @@
 
 - **✅ 29.07 — Zugang an Max + Marv weitergegeben** (Philipp). Thema damit **abgeschlossen**.
 
+## 🆕 12.08 — Rufnummer-Umstellung jetzt zeitkritisch (Urlaub)
+- Auf dem Google-Business-Profil (Google Maps, öffentlich für alle sichtbar) hängt weiterhin **Philipps
+  private Handynummer**. Philipp ist ab **Montag, 17.08.** ca. 2 Wochen im Urlaub und **unter dieser Nummer
+  nicht erreichbar** — Anrufer über Google Maps kommen in der Zeit bei niemandem an.
+- **Philipp möchte generell weg von seiner privaten Nummer** — hin zu einer echten öffentlichen
+  smartvélo-Nummer, die auf Google Maps allen angezeigt wird (nicht nur eine Übergangslösung für den Urlaub).
+- **Offen: welche Nummer stattdessen?** Kandidaten aus dem Bestand wären z. B. die NetCologne-Festnetznummern
+  (515/509, s. `topics/netcologne-netzwerk.md`) oder eine neue zentrale Firmennummer — nicht entschieden.
+
 ## Offen / wartet auf
-- Philipps Handynummer im Konto später auf eine **neutrale Firmennummer** umstellen (kein Zeitdruck).
+- **Vor Philipps Urlaub (Start 17.08.) klären: welche Nummer wird die neue öffentliche Google-Maps-Nummer**, und
+  wer nimmt die Umstellung im Google-Business-Profil vor (Zugang: `admin@smart-velo.com`, Passwortmanager).
 - Klartext-Zugangsdaten aus der Mail in den Passwortmanager übernehmen, Mail danach löschen.
