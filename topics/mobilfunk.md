@@ -119,6 +119,14 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
 - **10.08 11:00 CEST — Robert Breuer an Daniela (Bonamic-Support)**, Thread „Portierung TK [DRINGEND]":
   fragt, ab wann eSIM/QR-Code gültig sind, wenn die Rufnummern-Portierung am **13.08.** stattfindet — aktuell
   Fehlermeldung. **Klarstellung Philipp (11.08): Roberts eigenes Thema, kein Punkt für Philipp.**
+- **Klarstellung Philipp (12.08): Die Portierung am 13.08.2026 betrifft ausschließlich Roberts eigene
+  Nummer (0157 79019201).** Die übrigen ~25 HIGH-mobile-Verträge laufen NICHT über eine gemeinsame
+  Portierung an diesem Termin.
+- **Klarstellung Philipp (12.08): Roberts eSIM aktiviert sich am 13.08. automatisch** mit der Portierung —
+  die Fehlermeldung/Frage von Daniela war kein offenes Problem, einfach abwarten.
+- **Übrige ~25 HIGH-mobile-Verträge:** Kündigungen sind einzeln raus (bereits erledigt). **Bonamic versendet
+  die neuen eSIMs jeweils zeitig vor dem individuellen Vertragsende** der einzelnen Verträge — kein
+  gemeinsamer Stichtag, läuft automatisch über Bonamic, kein Punkt bei Philipp.
 
 ## Spontanbesuch Bonamic/greendevice — heute (11.08)
 - **10.08 14:19 CEST — Niclas Maiwald**: Jan-Hendrik Abels ist im Urlaub, **Florian** übernimmt die IT-Themen

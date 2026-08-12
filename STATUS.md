@@ -3,7 +3,8 @@
 ## 🔥 Heute (Mi 12.08)
 - Keine Termine im Kalender (Konrad-Weekly, Papaya-Weekly, Büro-Köln-Weekly alle von Philipp selbst
   abgelehnt/hinfällig — s.u.).
-- **HIGH-Mobile-Portierung morgen (13.08)** fix — Robert klärt eSIM/QR-Frage selbst mit Bonamic.
+- **Portierung morgen (13.08)** — betrifft nur Roberts eigene Nummer, nicht die übrigen HIGH-mobile-Verträge
+  (die laufen einzeln zum jeweiligen Vertragsende aus/über). Robert klärt eSIM/QR-Frage selbst mit Bonamic.
 
 ## ✅ Seit letztem Lauf geklärt (11.08 08:40 → 12.08 07:08 CEST)
 - **Konrad x Philipp Weekly** — Philipp hat den Termin selbst abgelehnt (11.08 12:17 CEST). Die offene
