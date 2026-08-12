@@ -128,43 +128,63 @@ hat sie (zum Glück, laut eigenem Kommentar) noch nicht angeschrieben, bevor der
   die neuen eSIMs jeweils zeitig vor dem individuellen Vertragsende** der einzelnen Verträge — kein
   gemeinsamer Stichtag, läuft automatisch über Bonamic, kein Punkt bei Philipp.
 
-## ✅ 12.08 — HIGH-Teil ist durch (Übergabe Philipp vor Urlaub)
-**17 aktive HIGH-Verträge** (= 17 erhaltene Kündigungsbestätigungen). Dem stehen **16 eSIM-Briefe + Roberts
-eigene Portierung** (13.08.) gegenüber = 17. Bonamic verschickt die eSIMs jeweils rechtzeitig vor dem
-individuellen Vertragsende, kein gemeinsamer Stichtag. **Läuft von allein, nichts zu tun.**
+## ✅ 12.08 — HIGH-Teil vollständig abgedeckt, nichts offen (Übergabe Philipp vor Urlaub)
+**17 aktive HIGH-Verträge** (= 17 erhaltene Kündigungsbestätigungen). Dem stehen **16 eSIM-/Portierungsbriefe
++ Roberts eigene Portierung** (13.08.) gegenüber → **1:1 abgedeckt, kein Handlungsbedarf.** Zuordnung der
+zunächst offenen Nummern per Testanruf am 12.08. geprüft.
 
-eSIM-PDFs liegen einzeln benannt (`Person_Nummer_Portierungsdatum.pdf`) in `~/Downloads/esims-split/` bei
-Philipp — an den jeweiligen Kollegen kurz vor seinem Termin weitergeben.
+eSIM-PDFs liegen einzeln benannt (`Person_Nummer_Portierung-JJJJ-MM-TT.pdf`, offene mit Status im Namen:
+`UNBEKANNT-OFFLINE_…`, `UNBEKANNT-AKTIV-Mailbox-Siri-unklar_…`) in `~/Downloads/esims-split/` bei Philipp —
+an den jeweiligen Kollegen kurz vor seinem Termin weitergeben.
 
-### Portierungsplan (Stand 12.08)
-| Termin | Wer |
-|---|---|
-| 13.08. | Robert Breuer (aktiviert sich automatisch) |
-| 08.09. | Philipp Klei, Nils Kaun |
-| 11.09. | Celine Kretschmer |
-| 24.09. | *(Träger offen — s. „Drei eSIM-Nummern ohne bekannten Träger" unten)* |
-| 28.09. | Gag/Wirasak Ickenroth, Oleg Bartel, *(1 offen — s. unten)* |
-| 29.09. | Pramod Mallipudi |
-| 01.10. | Cagatay Oguz, Jerome Rath, Jakob Volksdorf |
-| 05.10. | Roman Mikhline, Paul Papke, Rick van de Bult, *(1 offen — s. unten)* |
-| 06.10. | Joshua Rippelmeier |
+### Alle 17 Portierungen — Termine (Stand 12.08)
+| Portierung | Nummer | Person | Beleg |
+|---|---|---|---|
+| 13.08.2026 | 0157 79019201 | Robert Breuer | eigene Portierung, eSIM aktiviert sich automatisch |
+| 08.09.2026 | 0151 53409285 | Philipp Klei | eSIM-Brief |
+| 08.09.2026 | 0151 53460028 | Nils Kaun | eSIM-Brief |
+| 11.09.2026 | 0151 53415127 | Celine Kretschmer | eSIM-Brief |
+| 24.09.2026 | 0151 53465448 | *(offen — Testanruf offline)* | eSIM-Brief |
+| 28.09.2026 | 0151 53467752 | Wirasak (Gag) Ickenroth | eSIM-Brief |
+| 28.09.2026 | 0151 53467753 | *(offen — aktiv, Siri fragt nach Anrufer)* | Zugangsprofil-Brief (PIN/PUK) |
+| 28.09.2026 | 0151 53467754 | Oleg Bartel *(per Testanruf bestätigt)* | eSIM-Brief |
+| 29.09.2026 | 0151 53464615 | Pramod Mallipudi *(per Testanruf bestätigt)* | eSIM-Brief · Neuvertrag seit 29.07. |
+| 01.10.2026 | 0151 53410779 | Cagatay Oguz | eSIM-Brief |
+| 01.10.2026 | 0151 53410886 | Jerome Rath | eSIM-Brief |
+| 01.10.2026 | 0151 53411114 | Jakob Volksdorf | eSIM-Brief (Nummer vormals Fiona) |
+| 05.10.2026 | 0151 53413625 | Roman Mikhline | eSIM-Brief |
+| 05.10.2026 | 0151 53413633 | Paul Papke | Zugangsprofil-Brief (PIN/PUK) |
+| 05.10.2026 | 0151 53413634 | Rick van de Bult | eSIM-Brief |
+| 05.10.2026 | 0151 53464791 | *(frei zuweisbar — s. unten)* | eSIM-Brief · Kdnr 7001221996, leerer Neuvertrag (Robert bestellt, nicht storniert) |
+| 06.10.2026 | 0151 53460025 | Joshua Rippelmeier | eSIM-Brief |
 
 **⚠️ Wichtig: Das gilt NUR für HIGH.** Verträge bei anderen Anbietern (o2, Vodafone …) sind noch **nicht fix
 portiert** — siehe „o2/Vodafone-Verträge noch offen" unten.
 
-### Drei eSIM-Nummern ohne bekannten Träger
-| Nummer | Testanruf (12.08.) | Portierung | Vermutung |
-|---|---|---|---|
-| 0151 53465448 | offline | 24.09. | ungenutzte Karte |
-| 0151 53464791 | offline | 05.10. | Neuvertrag 05.08., ungenutzt |
-| 0151 53467753 | aktiv, Siri-Mailbox fragt „wer ist da?" | 28.09. | jemand nutzt sie |
+### Restpunkt: 3 Nummern ohne Träger (Stand 12.08, Testanrufe)
+| Nummer | Testanruf | Portierung |
+|---|---|---|
+| 0151 53465448 | offline | 24.09.2026 |
+| 0151 53467753 | aktiv, Siri-Mailbox fragt „wer ist da?" — Träger unklar | 28.09.2026 |
+| 0151 53464791 | offline | 05.10.2026 |
 
-**Empfehlung Philipp:** die zwei toten Nummern kündigen statt portieren — sonst laufen ab Oktober
-Telekom-Verträge für ungenutzte Karten mit. Bei der aktiven Nummer klären, wer dran ist.
+**Klarstellung Philipp (12.08): 0151 53464791 ist ein leerer Neuvertrag** — Robert hat ihn bestellt und nicht
+storniert, nichts ist dran. **Frei zuweisbar**, kann einer der Kolleg:innen ohne Firmennummer (Cosma, Lotte
+Essers, Oscar Mund, Rosa) gegeben werden.
+**0151 53465448 dagegen: Empfehlung Philipp — kündigen statt portieren**, sonst läuft ab Oktober ein
+Telekom-Vertrag für eine ungenutzte Karte mit. Bei der aktiven Nummer (467753) klären, wer dran ist.
 **Auflösung geht am schnellsten über Roberts Vertragsliste vom 05.08.** (enthält Auftragsnummer /
 Mitarbeiter / Kundennummer / Rufnummer) — liegt in Roberts Mail, lokal nicht mehr vorhanden.
 
 Kolleg:innen noch ganz ohne Firmennummer: **Cosma, Lotte Essers, Oscar Mund, Rosa.**
+
+### Korrekturen aus den Testanrufen (12.08)
+- **Oleg Bartel: 0151 53467754** (die bisher im Adressbuch geführte 0174 9574953 war falsch) — korrigiert.
+- **Pramod Mallipudi: 0151 53464615** — neu ins Adressbuch aufgenommen.
+
+### Nicht betroffen (andere Verträge, kein Portierungsbedarf)
+Firmennummern im Block `0151 6845xxxx` / `0151 6849xxxx` / `0157 806021xx` (Werkstatt/Außendienst, Lukas,
+Simon Schröder) tauchen in keinem HIGH-Vorgang auf.
 
 ### o2/Vodafone-Verträge noch offen (nicht Teil des HIGH-Abschlusses)
 Neben HIGH gibt es Verträge bei **o2, Vodafone u. a.**, deren Portierung zur Telekom **noch nicht

@@ -14,8 +14,13 @@ Katharina 11:58 **„hat geklappt danke dir"** → ✅ einkauf@-Zugang liegt bei
 **Keine Weiterleitung.** katharina@ bleibt aktiv, wird **periodisch gesichtet**. Katharina richtet selbst eine
 **Autoreply** ein: „ich arbeite hier nicht mehr, bitte an einkauf@ wenden."
 
+## ✅ 12.08 — Exchange/Adressbuch-Aufräumen
+**Konto in Exchange auf inaktiv gesetzt** (ausgeblendet, im Backend erhalten). **Ihre Rufnummer wurde an
+Simon Schröder übergeben.** Details: `topics/adressbuch-exchange.md`.
+
 ## Offen / wartet auf
 **Geräte / restliche Accounts / Lizenzen** — nirgends dokumentiert *(blinder Fleck)*
 Einkauf/Supply Chain wird bis zu einer neuen Einkaufs-Stelle **informell von PM + Eric + Team gemeinsam
 aufgefangen** (Philipp 30.07) — keine feste Übergabe, kein offener Punkt.
 WaWi-/ERP-Wissen abholen, bevor sie weg ist
+**🆕 einkauf@smart-velo.com hat keinen Zuständigen mehr** (war Katharina) — wer übernimmt das Postfach?
