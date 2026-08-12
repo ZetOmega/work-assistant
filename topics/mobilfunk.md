@@ -168,11 +168,16 @@ portiert** — siehe „o2/Vodafone-Verträge noch offen" unten.
 | 0151 53467753 | aktiv, Siri-Mailbox fragt „wer ist da?" — Träger unklar | 28.09.2026 |
 | 0151 53464791 | offline | 05.10.2026 |
 
-**Klarstellung Philipp (12.08): 0151 53464791 ist ein leerer Neuvertrag** — Robert hat ihn bestellt und nicht
-storniert, nichts ist dran. **Frei zuweisbar**, kann einer der Kolleg:innen ohne Firmennummer (Cosma, Lotte
-Essers, Oscar Mund, Rosa) gegeben werden.
-**0151 53465448 dagegen: Empfehlung Philipp — kündigen statt portieren**, sonst läuft ab Oktober ein
-Telekom-Vertrag für eine ungenutzte Karte mit. Bei der aktiven Nummer (467753) klären, wer dran ist.
+**Klarstellung Philipp (12.08): Die Telekom-Verträge/Portierungen sind durch — daran ist nichts mehr zu
+ändern.** Bei allen drei geht es nur noch um die **Zuweisung** (wer bekommt die Nummer, ab wann), nicht mehr
+um kündigen vs. portieren:
+- **0151 53464791** ist ein leerer Neuvertrag — Robert hat ihn bestellt und nicht storniert, nichts ist
+  dran. **Frei zuweisbar** (ab 05.10.), kann einer der Kolleg:innen ohne Firmennummer (Cosma, Lotte Essers,
+  Oscar Mund, Rosa) gegeben werden.
+- **0151 53465448**: unklar, ob wirklich ungenutzt oder das Handy nur aus war *(relativiert die vorherige
+  „ungenutzte Karte"-Vermutung)*. Muss trotzdem ab 24.09. jemandem zugewiesen werden — noch offen, wer.
+- **0151 53467753**: aktiv, Siri-Mailbox meldet sich — klären, wer dran ist, damit ab 28.09. die richtige
+  Person zugewiesen wird.
 **Auflösung geht am schnellsten über Roberts Vertragsliste vom 05.08.** (enthält Auftragsnummer /
 Mitarbeiter / Kundennummer / Rufnummer) — liegt in Roberts Mail, lokal nicht mehr vorhanden.
 
