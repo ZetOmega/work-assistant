@@ -12,7 +12,7 @@
 - **✅ 28./29.07 — GELÖST (Korrektur Philipp 29.07)**: Die im Konto hinterlegte unbekannte Handynummer war
   **Henrys**, *nicht* Celines. Die Mail „WG: Google Business" (Celine 28.07 13:19) wurde zunächst falsch gelesen.
 - **Lösung**: Das Google-Business-Profil läuft jetzt über den Account **`admin@smart-velo.com`** — der hat
-  **Admin-Access**. Als Rufnummer hängt **Philipps Handynummer** dran (*subject to change*, soll später auf eine
+  **Admin-Access**. Als Rufnummer hängt **Philipps smartvélo-Diensthandynummer** dran (*subject to change*, soll später auf eine
   neutrale Firmennummer wechseln). Zugangsdaten: **Passwortmanager**, nicht im Repo.
   → Google-Support-/Wiederherstellungsweg (Wochen) ist damit vom Tisch.
 
@@ -20,10 +20,13 @@
 
 ## 🆕 12.08 — Rufnummer-Umstellung jetzt zeitkritisch (Urlaub)
 - Auf dem Google-Business-Profil (Google Maps, öffentlich für alle sichtbar) hängt weiterhin **Philipps
-  private Handynummer**. Philipp ist ab **Montag, 17.08.** ca. 2 Wochen im Urlaub und **unter dieser Nummer
-  nicht erreichbar** — Anrufer über Google Maps kommen in der Zeit bei niemandem an.
-- **Philipp möchte generell weg von seiner privaten Nummer** — hin zu einer echten öffentlichen
-  smartvélo-Nummer, die auf Google Maps allen angezeigt wird (nicht nur eine Übergangslösung für den Urlaub).
+  smartvélo-Diensthandynummer** (kein Privatanschluss — läuft über smartvélo). Philipp ist ab **Montag,
+  17.08.** ca. 2 Wochen im Urlaub und **unter dieser Nummer nicht erreichbar** — Anrufer über Google Maps
+  kommen in der Zeit bei niemandem an.
+- **Klarstellung Philipp (12.08): keine private Nummer — aber er ist nicht die Sekretärin/das
+  Empfangsteam.** Grundsätzlich sollte nicht seine persönliche Diensthandynummer die öffentliche
+  Google-Maps-Kontaktnummer sein (nicht nur eine Übergangslösung für den Urlaub, sondern grundsätzlich
+  falsche Zuordnung).
 - **Offen: welche Nummer stattdessen?** Kandidaten aus dem Bestand wären z. B. die NetCologne-Festnetznummern
   (515/509, s. `topics/netcologne-netzwerk.md`) oder eine neue zentrale Firmennummer — nicht entschieden.
 
