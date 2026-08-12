@@ -5,6 +5,9 @@
   angemeldet (Welcome-Mails, E-Mail-Verifizierung, Magic-Link zum Admin-Panel). Kontext/Anwendungsfall noch
   nicht dokumentiert *(unbestätigt, vermutlich Interesse an Workflow-Automatisierung für interne Prozesse)*.
 - **12.08 — Philipp will das n8n-Abo auf Pro upgraden** (smartvelo.app.n8n.cloud). Noch nicht umgesetzt.
+  **Pro-Plan: 60 €/Monat, kein Preis pro Nutzer** — Celine, Philipp und Eric sollen rein, ggf. noch ein paar
+  weitere Leute, alle können bei diesem Plan mit rein ohne Zusatzkosten.
 
 ## Offen / wartet auf
-n8n-Abo auf Pro-Plan upgraden (smartvelo.app.n8n.cloud) — noch nicht erledigt.
+n8n-Abo auf Pro-Plan upgraden (smartvelo.app.n8n.cloud, 60 €/Monat) — noch nicht erledigt. Nutzer: Celine,
+Philipp, Eric + ggf. weitere.
