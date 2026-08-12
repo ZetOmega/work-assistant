@@ -37,3 +37,10 @@ Vertraulichkeit ernst nehmen — nicht in andere Kanäle/Chats tragen, die diese
   Frage — unverändert, Ball bleibt bei ihnen.
 - **Klarstellung Philipp (11.08): nicht sein Thema/kein Nachfassen nötig** — Robert/Henry melden sich, wenn
   sie etwas brauchen. Kein „wartet auf"-Punkt mehr für Philipp im Briefing.
+
+## 11.08 11:16 CEST — Robert antwortet doch, Ball wieder bei Philipp (🆕)
+- Robert: „Diese Mail ist mir im Posteingang hängengeblieben – die habe ich nicht gesehen, sorry." Beantwortet
+  Philipps Fragen vom 30.07 **inhaltlich in Rot** (Cluster-Mindestgröße, 276er-Deckelung, AV/TV-Einstufung) und
+  bittet ausdrücklich: **„Kannst du mit den Infos vor deinem Urlaub tiefer rein und ein Update geben?"**
+- Damit **kein Punkt, der bei Robert/Henry liegt** — Ball ist zurück bei Philipp, zeitkritisch wegen bevorstehendem
+  Urlaub. Braucht Reaktion.

@@ -48,7 +48,12 @@ Robert insofern kein offener Punkt mehr.
 Ende August geplant). Philipp: „kann nur zurücksetzen, einsehen geht nicht." **Robert: „machen wir nächste
 Woche", meldet sich dann mit neuem Passwort an.** → terminiert, kein akuter Punkt.
 
+**11.08 11:16 CEST** — antwortet doch auf die Flink-SLA-Rückanalyse (war im Posteingang hängengeblieben):
+beantwortet Philipps Vertragsauslegungs-Fragen vom 30.07 inhaltlich in Rot, bittet ausdrücklich **„vor
+deinem Urlaub tiefer rein und ein Update geben"**. → Ball zurück bei Philipp, siehe topics/flink-service.md.
+
 ## Offen / wartet auf
+**🆕 Flink SLA Rückanalyse — Update für Robert vor Philipps Urlaub** (s.o., zeitkritisch)
 Antwort von Philipp, wie Slack-Übersicht/Kündigung praktisch läuft (Workspace-Owner unklar)
 FordPro-Admin-Zugänge (Eric+Philipp) einrichten (Nicht-HIGH-Liste 21.07 gestrichen) · eigener Vertrag lief 20.07 aus — Klärung ob durch Anbieterwechsel aufgefangen · Protokoll-Öffnungsproblem lösen ·
 Passwort-Reset Outlook/MS-Lizenzen (terminiert für „nächste Woche")

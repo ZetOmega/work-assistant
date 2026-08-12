@@ -24,5 +24,11 @@
   **Wenn** ein neuer Feedbackpunkt kommt, wird er an Celine/KK vorbeigeprüft und dann ins Sheet eingetragen
   (nicht umgekehrt: keine Freigabe nötig, bevor überhaupt etwas eingetragen wird).
 
-## Offen / wartet auf (Stand 11.08)
-Kein aktiver Punkt bei Philipp — Ablauf ist geklärt (s.o.), wird nur bei neuem Feedback relevant.
+## 11.08 16:15 CEST — Jokubas meldet Umsetzung (🆕, braucht Check)
+- Jokubas (aust@karlssonstudio.de), „Re: Website-Feedback SMARTVÉLO": Team hat alle offenen Punkte aus der
+  letzten Woche umgesetzt — **Vergleichskacheln Startseite, Footer Cookie-Einstellungen, Impressum,
+  Stellenanzeigen, Kontaktseite, Flottenanfragen-Seite.** Bittet, einmal zu prüfen, ob alles passt.
+- **Noch nicht gegengeprüft.**
+
+## Offen / wartet auf (Stand 12.08)
+Website-Umsetzung von Jokubas (11.08) gegenprüfen.

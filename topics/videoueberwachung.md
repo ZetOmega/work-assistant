@@ -77,8 +77,14 @@ als erste Maßnahme.
 ## ✅ 04.08 — Kamera versendet
 - RLC-823S1W ist **versendet, Ankunft steht noch aus** (Philipp).
 
+## 11.–12.08 — Kamera offenbar angekommen, in Einrichtung (🆕)
+- 11.08 15:46 CEST Philipp bestellt/verlinkt Celine **3x SanDisk Endurance microSDXC** (Amazon) — SD-Karten
+  für die Kamera(s).
+- **12.08 07:02 CEST (Teams, Konrad):** „Kann man auf der Kamera zurückspulen?" / „Oder kein SD-Karte drin?"
+  — **noch unbeantwortet, braucht Reaktion von Philipp.**
+
 ## Offen / wartet auf
-- Ankunft der Kamera abwarten
+- Konrads Frage von heute Morgen beantworten (Rückspulen/SD-Karte)
 - 12-V-Netzteil/Steckdose am Kamerastandort im Garten sicherstellen (WLAN ist da, Strom braucht sie trotzdem)
 - Zeitfenster-Umsetzung (nur außerhalb Arbeitszeit aufzeichnen) technisch einrichten, wie mit Konrad besprochen
 - Restliche Punkte der Einrichtungs-Checkliste oben (Privacy Mask, Zweckbindung, Hinweisschilder etc.) —

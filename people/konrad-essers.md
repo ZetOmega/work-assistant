@@ -90,6 +90,15 @@ Rückmeldung zum Hitzetage-Vorschlag (seit 04.08) · Odoo-Lizenzentscheidung 1/2
   vorheriger Eintrag hatte die Uhrzeit falsch/unklar vermerkt).
 - **11.08 09:15–09:30 CEST** — „Konrad x Philipp Weekly" steht im Kalender, **von Philipp bisher nicht
   angenommen (tentative)**.
+- **11.08 12:17 CEST — Philipp hat den Termin selbst abgelehnt** (declined), ebenso „Weekly x Büro Köln" und
+  „Papaya x SMARTVÉLO Weekly"; „Odoo x Unterzeichnen" hat er angenommen. Kalender-Housekeeping, keine
+  Rückfrage mehr offen.
+- **12.08 07:02 CEST (Teams) — 🆕 Konrad fragt zur neuen Garten-Kamera:** „Kann man auf der Kamera
+  zurückspulen?" / „Oder kein SD-Karte drin?" — Kamera scheint angekommen/in Betrieb. **Noch nicht
+  beantwortet.** Siehe topics/videoueberwachung.md.
+- **11.08 11:50–11:54 CEST (Teams)** — Ladestationen/Solar-Förderung (Elster-Unternehmenskonto-Frage lief
+  parallel an Celine): Philipp bietet an, Kostenvoranschläge zu Ladestationen einzuholen; Konrad: „ist jetzt
+  ein null wichtiges Thema … Fokus halten" — explizit **nicht** eilig, kein Nachfassen.
 
 ## Update 05.08 — ChatGPT-Abo-Downgrade ✅ von Konrad genehmigt
 - **11:59 CEST (Teams, Philipp → Konrad)**: bittet um Downgrade des ChatGPT-Abos von 100 €/Monat auf die

@@ -39,5 +39,10 @@ Flink-Bestellung (2×/Woche) übernehmen könnte. **Philipp: „Ich bin übernä
 **Klarstellung Philipp (11.08): Vertretungsregelung liegt bei Celine** — kein offener Punkt/keine
 Entscheidung, die Philipp treiben muss.
 
+**11.08 14:31 CEST (Teams)** — fragt, wer bei den HIGH-Verträgen als Ansprechpartner hinterlegt ist; Philipp:
+„ist kompliziert", erklärt es ihr direkt (kein schriftliches Ergebnis) — kein offener Punkt.
+**11.08 15:46 CEST** — Philipp schickt ihr Amazon-Link zu 3x SanDisk Endurance microSDXC (SD-Karten für die
+Garten-Kamera, s. topics/videoueberwachung.md).
+
 ## Offen / wartet auf
 o2-Rechnung/Kundenkennzahl liefern (nur noch für Unterlagen, Kündigung ist raus) · Rufnummern-Aufräum-Gespräch mit Philipp noch nicht terminiert.
