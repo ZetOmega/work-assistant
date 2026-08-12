@@ -1,4 +1,4 @@
-# Videoüberwachung Venloer Str. (Eingänge + Garten)  · Status: 3. Kamera versendet, wartet auf Ankunft (Stand 04.08.2026)
+# Videoüberwachung Venloer Str. (Eingänge + Garten)  · Status: 3. Kamera weiter unterwegs, wartet auf Ankunft (Stand 12.08.2026)
 
 ## Stand
 - **Bestand: 2x Reolink TrackMix WiFi** (4K PTZ, Wi-Fi 6, Dual-Objektiv, Auto-Tracking) — an den **beiden Eingängen**.
@@ -77,14 +77,17 @@ als erste Maßnahme.
 ## ✅ 04.08 — Kamera versendet
 - RLC-823S1W ist **versendet, Ankunft steht noch aus** (Philipp).
 
-## 11.–12.08 — Kamera offenbar angekommen, in Einrichtung (🆕)
+## 11.–12.08 — Korrektur: Konrads Frage betrifft die ALTEN Eingangskameras
 - 11.08 15:46 CEST Philipp bestellt/verlinkt Celine **3x SanDisk Endurance microSDXC** (Amazon) — SD-Karten
-  für die Kamera(s).
-- **12.08 07:02 CEST (Teams, Konrad):** „Kann man auf der Kamera zurückspulen?" / „Oder kein SD-Karte drin?"
-  — **noch unbeantwortet, braucht Reaktion von Philipp.**
+  für die vorhandenen Kameras.
+- 12.08 07:02 CEST (Teams, Konrad): „Kann man auf der Kamera zurückspulen?" / „Oder kein SD-Karte drin?" —
+  **Klarstellung Philipp (12.08): bezieht sich auf die 2 bestehenden Reolink TrackMix an den Eingängen, NICHT
+  auf die neue Garten-Kamera.** Von Philipp bereits beantwortet. Kein offener Punkt.
+- **Die 3. (Garten-)Kamera ist weiterhin nicht angekommen** — Status unverändert zum 04.08 (versendet,
+  Ankunft steht aus).
 
 ## Offen / wartet auf
-- Konrads Frage von heute Morgen beantworten (Rückspulen/SD-Karte)
+- Ankunft der 3. (Garten-)Kamera abwarten
 - 12-V-Netzteil/Steckdose am Kamerastandort im Garten sicherstellen (WLAN ist da, Strom braucht sie trotzdem)
 - Zeitfenster-Umsetzung (nur außerhalb Arbeitszeit aufzeichnen) technisch einrichten, wie mit Konrad besprochen
 - Restliche Punkte der Einrichtungs-Checkliste oben (Privacy Mask, Zweckbindung, Hinweisschilder etc.) —

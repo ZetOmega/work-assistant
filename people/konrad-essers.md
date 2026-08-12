@@ -93,9 +93,9 @@ Rückmeldung zum Hitzetage-Vorschlag (seit 04.08) · Odoo-Lizenzentscheidung 1/2
 - **11.08 12:17 CEST — Philipp hat den Termin selbst abgelehnt** (declined), ebenso „Weekly x Büro Köln" und
   „Papaya x SMARTVÉLO Weekly"; „Odoo x Unterzeichnen" hat er angenommen. Kalender-Housekeeping, keine
   Rückfrage mehr offen.
-- **12.08 07:02 CEST (Teams) — 🆕 Konrad fragt zur neuen Garten-Kamera:** „Kann man auf der Kamera
-  zurückspulen?" / „Oder kein SD-Karte drin?" — Kamera scheint angekommen/in Betrieb. **Noch nicht
-  beantwortet.** Siehe topics/videoueberwachung.md.
+- **12.08 07:02 CEST (Teams) — Konrad fragt zu den bestehenden Eingangskameras** (nicht die neue Garten-
+  Kamera, die ist weiter nicht angekommen): „Kann man auf der Kamera zurückspulen?" / „Oder kein SD-Karte
+  drin?" — **von Philipp bereits beantwortet.** Siehe topics/videoueberwachung.md.
 - **11.08 11:50–11:54 CEST (Teams)** — Ladestationen/Solar-Förderung (Elster-Unternehmenskonto-Frage lief
   parallel an Celine): Philipp bietet an, Kostenvoranschläge zu Ladestationen einzuholen; Konrad: „ist jetzt
   ein null wichtiges Thema … Fokus halten" — explizit **nicht** eilig, kein Nachfassen.
