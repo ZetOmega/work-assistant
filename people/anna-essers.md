@@ -15,8 +15,6 @@ Mobilfunk-Chaos: Bonamic-Altverträge (gekündigt, Umzug versäumt) · Philipps 
 
 ## Offen / wartet auf
 Antwort auf Philipps Stunden-Gegenrechnung (07.07) · Zugangs-/Kontaktdaten aller Mobilfunkverträge (Philipp-Anfrage 07.07 an Anna+Henry)
-- **13.08 (Philipp): ehemalige Geschäftsführerin.** Mobilfunkvertrag 0163 2591716 (o2) läuft noch über
-  smartvélo — Empfehlung: auf privat stellen.
 
 ## Notizen
 Aufgaben von ihr kommen oft über Celine.
