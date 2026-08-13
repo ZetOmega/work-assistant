@@ -207,6 +207,32 @@ Betroffen sind vermutlich Firmennummern **außerhalb** des HIGH-Blocks `0151 534
 **Wichtig:** Die Vorwahl sagt nichts über den Anbieter (Portierung) — welche dieser Nummern bei o2/Vodafone
 liegen, muss über die Verträge/Rechnungen geklärt werden, nicht über die Nummer selbst.
 
+### Rufnummern-Zuordnung o2/Vodafone (Stand 13.08)
+| # | Nummer | Anbieter | Person | Status |
+|---|---|---|---|---|
+| 1 | 0157 80613042 | Vodafone | unbekannt | in keiner Quelle — Adressbuch, Entra, vCards alle negativ |
+| 2 | 0174 8860330 | Vodafone | unbekannt | in keiner Quelle |
+| 3 | 0163 2591716 | o2 | Anna Essers | im Adressbuch, aktiv |
+| 4 | 0157 80602194 | o2 | unbekannt | in keiner Quelle |
+| 5 | 0157 80602175 | o2 | Lukas Laarmann | im Adressbuch, aktiv |
+| 6 | 0157 80602172 | o2 | Simon Schröder | im Adressbuch, aktiv — Nummer vormals Katharina Hahn |
+
+Noch ungeklärt: #1, #2, #4 (Person unbekannt, keine Quelle liefert einen Treffer) — weitere Klärung
+vermutlich nur über Bonamic/Rechnungen möglich (s. „Zu tun" oben).
+
+### Alle offenen Nummern — Sammelübersicht (Stand 13.08)
+| Nummer | Anbieter | Person | Problem | Nächster Schritt |
+|---|---|---|---|---|
+| 0157 80613042 | Vodafone | unbekannt | in keiner Quelle (Adressbuch/Entra/vCards negativ) | über Bonamic/Rechnungen klären |
+| 0174 8860330 | Vodafone | unbekannt | in keiner Quelle | über Bonamic/Rechnungen klären |
+| 0157 80602194 | o2 | unbekannt | in keiner Quelle | über Bonamic/Rechnungen klären |
+| 0151 53465448 | Telekom (HIGH) | unbekannt | Testanruf offline, Portierung 24.09. | Zuweisung klären (Roberts Vertragsliste 05.08) |
+| 0151 53467753 | Telekom (HIGH) | unbekannt | aktiv, Siri-Mailbox meldet sich, Portierung 28.09. | Zuweisung klären (Roberts Vertragsliste 05.08) |
+| 0151 53464791 | Telekom (HIGH) | frei zuweisbar | leerer Neuvertrag (Robert, nicht storniert), Portierung 05.10. | einer/m ohne Firmennummer zuweisen (Cosma, Lotte Essers, Oscar Mund, Rosa) |
+
+6 Nummern insgesamt offen: 3 aus dem o2/Vodafone-Bestand (Person unbekannt), 3 aus dem HIGH-Restpunkt
+(portiert, aber Zuweisung ungeklärt).
+
 ### Falls während des Urlaubs was reinkommt
 - **eSIM-Brief von Bonamic/Telekom** → Nummer in `~/Downloads/esims-split/` bzw. im Adressbuch nachschlagen,
   an die Person weitergeben.
