@@ -2,9 +2,9 @@
 
 ## 🔥 Heute (Do 13.08)
 - **13:30–14:30 CEST: „Geräteauswahl Lenovo & Apple"** (Teams, mit Florian Pfeil/Bonamic) — angenommen.
-- **Zeitkritisch: Übergabe an Konrad bis morgen (Fr 14.08)** — Konrad hat gestern (12.08, 07:35 CEST, Chat)
-  um eine Themen-Übergabe vor Philipps 2-Wochen-Urlaub gebeten + finalen Steckdosen-Check. Laut Philipp
-  läuft die Kurzübergabe heute weiter (noch keine Rückmeldung an Konrad im Chat sichtbar).
+- **Kurzübergabe an Konrad (vor 2-Wochen-Urlaub)** — Philipp schreibt sie gerade selbst, wird Konrad
+  einfach zugeschickt (keine separate Rückmeldung/Ankündigung im Chat nötig). Steckdosen sind fix
+  (bereits mehrfach bestätigt, kein offener Punkt mehr).
 - Portierung (Roberts eigene Nummer) — keine neue Information seit gestern, läuft vermutlich weiter über
   Bonamic/Telekom.
 
@@ -17,25 +17,19 @@
   markiert (war in der letzten Liste noch offen). Kein offener Punkt mehr.
 
 ## 🔄 Vorangekommen (braucht ggf. Reaktion)
-- **Website-Feedback (Jokubas)**: Philipp hat sich per Mail bedankt (12.08 07:30–07:31 CEST), eine explizite
-  inhaltliche Freigabe der umgesetzten Punkte (Vergleichskacheln, Footer-Cookie, Impressum, Stellenanzeigen,
-  Kontaktseite, Flottenanfragen-Seite) ist im Text aber nicht erkennbar. Jokubas wartet auf „Abnahme", um
-  die Änderungen in die EN/NL-Version zu übernehmen.
-- **Celine — Versandlogistik/DHL-Labels**: Philipp hat ihr den DHL-CSV-Upload-Link geschickt
-  (12.08 12:20 CEST). Keine Rückmeldung, ob es funktioniert hat.
+- **Celine — Versandlogistik/Adressliste**: Der DHL-CSV-Upload-Link war nicht das, was Celine braucht —
+  sie braucht eine **Muster-CSV** als Vorlage. Philipp sucht noch danach.
 
 ## 🆕 Neu
-- **Konrad (Teams, 12.08 07:35 CEST)**: bittet um Übergabe von Philipps Themen bis Freitag (14.08) — vor dem
-  2-Wochen-Urlaub — plus finalen Check aller Steckdosen (Mo–Fr 7:30–18:00 aktiv). Noch offen.
 - **Celine (Teams, 12.08 15:14–15:15 CEST)**: neuer Mitarbeiter **Simon Oluwatobilola Seedorf**, startet zum
   01.09. als Sales MA in Berlin — bittet, „schon einmal alles zu erstellen und zu beantragen" (Accounts/
-  Ausstattung). Noch keine Antwort von Philipp.
+  Ausstattung). Kein Handlungsbedarf für den Check-in (läuft bei Philipp separat).
 
 ## ⏳ Weiter offen / Wartet auf (kein Fortschritt)
 - **OBS/Stefan Arens** — keine Antwort auf Konrads Gegenangebot vom 28.07 (**16 Tage**, Konrads Thema).
-- **Intero Technologies (Uli Kessel)** — bewusst zurückgehalten (**17 Tage**).
 - **Hanisch — Telefon/Zugang NetCologne-Glasfaser** (seit 22.07, **22 Tage**).
-- **Klimageräte (2x) — wartet auf Konrad**: Bestellung laut AI-Gruppenchat (05.08) entschieden, noch nichts durch.
+- **Klimageräte** — Neubestellung ist tot. Konrad prüft stattdessen die bereits installierten/echten
+  Geräte, dazu Absprache mit dem Vermieter.
 - **Papaya-API-Feature-Request — wartet auf Arianna** (labels, Rate-Limits, RW-API-Key).
 - **Garten-Kamera (3.)** — weiterhin nicht angekommen, unverändert.
 
@@ -46,8 +40,10 @@
   fällig 20.09)*
 
 ## 💬 Teams
-- **Konrad**: Übergabe-Anfrage bis Freitag + Steckdosen-Check (s.o., zeitkritisch, noch offen).
-- **Celine**: DHL-Link geschickt (Antwort ausständig); neuer MA Simon Seedorf — Onboarding-Anfrage offen.
+- **Konrad**: Kurzübergabe läuft bei Philipp, geht einfach an Konrad raus (keine Rückmeldung nötig).
+  Steckdosen fix, kein offener Punkt mehr.
+- **Celine**: Muster-CSV für Adressliste noch gesucht; neuer MA Simon Seedorf — läuft bei Philipp,
+  kein Punkt für den Check-in.
 - **Robert**: eigene Abwesenheitsnotiz in Gruppenchat „Venloer Str. 515" (im Urlaub 12.–18.08, zurück
   Mi 19.08, Dienstnummer bis dahin deaktiviert). Philipp hat ihm zusätzlich Info zu einem Kripo-Anruf
   wegen des gestohlenen Laptops aus Dominiks Transporter geschickt (09:42 CEST) — keine Antwort erwartet,
@@ -59,11 +55,7 @@
 - Fr 14.08: keine Termine im Kalender.
 
 ## ❓ Bitte bestätigen (nichts automatisch gemacht)
-- Konrad im Chat bestätigen, dass die Übergabe bis Freitag kommt (sobald die Kurzübergabe fertig ist)?
-- Website-Umsetzung von Jokubas formal freigeben/Abnahme zurückmelden?
-- Onboarding für Simon Seedorf (Sales MA Berlin, Start 01.09) anstoßen — was konkret vorbereiten
-  (Accounts, Hardware, Verträge)?
-- Neues To-Do „Übergabe-Dokument an Konrad – bis Fr 14.08" anlegen?
+- Aktuell nichts offen.
 
 ## ⚠️ Blinde Flecken
 - **Katharina-Offboarding**: Geräte, restliche Accounts/Lizenzen — weiter nirgends dokumentiert.
