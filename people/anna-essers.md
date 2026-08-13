@@ -1,5 +1,5 @@
 # Anna Essers
-Rolle: GF-/Owner-Ebene, Finance/Buchhaltung · E-Mail: anna@smart-velo.com · Status: ausgeschieden (unbestätigt, wann)
+Rolle: ehemalige Geschäftsführerin (Finance/Buchhaltung) · E-Mail: anna@smart-velo.com · Status: ausgeschieden
 
 ## Kurzprofil
 Essers-Familie/Owner. Auch buchhaltung@. Delegiert top-down, geht mit Henry gezielt auf Bereiche zu (Prio-1, mit Konrad abgestimmt).
@@ -15,8 +15,8 @@ Mobilfunk-Chaos: Bonamic-Altverträge (gekündigt, Umzug versäumt) · Philipps 
 
 ## Offen / wartet auf
 Antwort auf Philipps Stunden-Gegenrechnung (07.07) · Zugangs-/Kontaktdaten aller Mobilfunkverträge (Philipp-Anfrage 07.07 an Anna+Henry)
-- **13.08 (Philipp): nicht mehr angestellt.** Mobilfunkvertrag 0163 2591716 (o2) läuft noch über smartvélo —
-  auf privat umziehen bzw. bald kündigen.
+- **13.08 (Philipp): ehemalige Geschäftsführerin.** Mobilfunkvertrag 0163 2591716 (o2) läuft noch über
+  smartvélo — Empfehlung: auf privat stellen.
 
 ## Notizen
 Aufgaben von ihr kommen oft über Celine.
