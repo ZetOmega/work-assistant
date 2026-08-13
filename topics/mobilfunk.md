@@ -229,12 +229,9 @@ liegen, muss über die Verträge/Rechnungen geklärt werden, nicht über die Num
 | 0151 53413634 | Rick van de Bult | 05.10.2026 | |
 | 0151 53464791 | frei/unbelegt | 05.10.2026 | leerer Neuvertrag (Robert, nicht storniert) — zuweisbar an Cosma, Lotte Essers, Oscar Mund oder Rosa |
 | 0151 53460025 | Joshua Rippelmeier | 06.10.2026 | |
-| 0163 2591716 | Anna Essers | o2, noch nicht portiert | **Empfehlung: auf privat stellen — ehemalige Geschäftsführerin** |
+| 0163 2591716 | Anna Essers | o2, noch nicht portiert | |
 | 0157 80602175 | Lukas Laarmann | o2, noch nicht portiert | aktiv, weiter nutzen |
 | 0157 80602172 | Simon Schröder | o2, noch nicht portiert | aktiv, weiter nutzen (Nummer vormals Katharina Hahn) |
-
-**Henry Horn** ist ebenfalls ehemaliger Geschäftsführer (13.08., Philipp) — Empfehlung: Vertrag auf privat
-stellen, Nummer aber noch nicht identifiziert (in keiner der HIGH-/o2-/Vodafone-Listen aufgetaucht).
 
 ### Unklare Nummern (Inhaber nicht bekannt) — Stand 13.08
 | Nummer | Anbieter | Hinweis |
