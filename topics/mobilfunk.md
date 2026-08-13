@@ -170,7 +170,11 @@ portiert** — siehe „o2/Vodafone-Verträge noch offen" unten.
 
 **Klarstellung Philipp (12.08): Die Telekom-Verträge/Portierungen sind durch — daran ist nichts mehr zu
 ändern.** Bei allen drei geht es nur noch um die **Zuweisung** (wer bekommt die Nummer, ab wann), nicht mehr
-um kündigen vs. portieren:
+um kündigen vs. portieren.
+
+**Korrektur Philipp (13.08.): 0151 53464791 ist geklärt (frei/unbelegt), gehört in die Geklärt-Tabelle.
+0151 53465448 und 0151 53467753 sind echt unklar (Inhaber unbekannt) → siehe „Unklare Nummern" unten,
+Teil der Rückmelde-Aktion.**
 - **0151 53464791** ist ein leerer Neuvertrag — Robert hat ihn bestellt und nicht storniert, nichts ist
   dran. **Frei zuweisbar** (ab 05.10.), kann einer der Kolleg:innen ohne Firmennummer (Cosma, Lotte Essers,
   Oscar Mund, Rosa) gegeben werden.
@@ -207,31 +211,42 @@ Betroffen sind vermutlich Firmennummern **außerhalb** des HIGH-Blocks `0151 534
 **Wichtig:** Die Vorwahl sagt nichts über den Anbieter (Portierung) — welche dieser Nummern bei o2/Vodafone
 liegen, muss über die Verträge/Rechnungen geklärt werden, nicht über die Nummer selbst.
 
-### Rufnummern-Zuordnung o2/Vodafone (Stand 13.08)
-| # | Nummer | Anbieter | Person | Status |
-|---|---|---|---|---|
-| 1 | 0157 80613042 | Vodafone | unbekannt | in keiner Quelle — Adressbuch, Entra, vCards alle negativ |
-| 2 | 0174 8860330 | Vodafone | unbekannt | in keiner Quelle |
-| 3 | 0163 2591716 | o2 | Anna Essers | im Adressbuch, aktiv |
-| 4 | 0157 80602194 | o2 | unbekannt | in keiner Quelle |
-| 5 | 0157 80602175 | o2 | Lukas Laarmann | im Adressbuch, aktiv |
-| 6 | 0157 80602172 | o2 | Simon Schröder | im Adressbuch, aktiv — Nummer vormals Katharina Hahn |
+### Geklärte Nummern (alle Verträge, inkl. Portierungsdatum/Status) — Stand 13.08
+| Nummer | Person | Portierung/Status | Hinweis |
+|---|---|---|---|
+| 0157 79019201 | Robert Breuer | 13.08.2026 | |
+| 0151 53409285 | Philipp Klei | 08.09.2026 | |
+| 0151 53460028 | Nils Kaun | 08.09.2026 | |
+| 0151 53415127 | Celine Kretschmer | 11.09.2026 | |
+| 0151 53467752 | Wirasak (Gag) Ickenroth | 28.09.2026 | |
+| 0151 53467754 | Oleg Bartel | 28.09.2026 | |
+| 0151 53464615 | Pramod Mallipudi | 29.09.2026 | |
+| 0151 53410779 | Cagatay Oguz | 01.10.2026 | |
+| 0151 53410886 | Jerome Rath | 01.10.2026 | |
+| 0151 53411114 | Jakob Volksdorf | 01.10.2026 | |
+| 0151 53413625 | Roman Mikhline | 05.10.2026 | |
+| 0151 53413633 | Paul Papke | 05.10.2026 | |
+| 0151 53413634 | Rick van de Bult | 05.10.2026 | |
+| 0151 53464791 | frei/unbelegt | 05.10.2026 | leerer Neuvertrag (Robert, nicht storniert) — zuweisbar an Cosma, Lotte Essers, Oscar Mund oder Rosa |
+| 0151 53460025 | Joshua Rippelmeier | 06.10.2026 | |
+| 0163 2591716 | Anna Essers | o2, noch nicht portiert | **bald kündigen — nicht mehr angestellt, auf privat umziehen** |
+| 0157 80602175 | Lukas Laarmann | o2, noch nicht portiert | aktiv, weiter nutzen |
+| 0157 80602172 | Simon Schröder | o2, noch nicht portiert | aktiv, weiter nutzen (Nummer vormals Katharina Hahn) |
 
-Noch ungeklärt: #1, #2, #4 (Person unbekannt, keine Quelle liefert einen Treffer) — weitere Klärung
-vermutlich nur über Bonamic/Rechnungen möglich (s. „Zu tun" oben).
+**Henry Horn** ist ebenfalls nicht mehr angestellt (13.08., Philipp) — Vertrag auf privat umziehen, Nummer
+aber noch nicht identifiziert (in keiner der HIGH-/o2-/Vodafone-Listen aufgetaucht).
 
-### Alle offenen Nummern — Sammelübersicht (Stand 13.08)
-| Nummer | Anbieter | Person | Problem | Nächster Schritt |
-|---|---|---|---|---|
-| 0157 80613042 | Vodafone | unbekannt | in keiner Quelle (Adressbuch/Entra/vCards negativ) | über Bonamic/Rechnungen klären |
-| 0174 8860330 | Vodafone | unbekannt | in keiner Quelle | über Bonamic/Rechnungen klären |
-| 0157 80602194 | o2 | unbekannt | in keiner Quelle | über Bonamic/Rechnungen klären |
-| 0151 53465448 | Telekom (HIGH) | unbekannt | Testanruf offline, Portierung 24.09. | Zuweisung klären (Roberts Vertragsliste 05.08) |
-| 0151 53467753 | Telekom (HIGH) | unbekannt | aktiv, Siri-Mailbox meldet sich, Portierung 28.09. | Zuweisung klären (Roberts Vertragsliste 05.08) |
-| 0151 53464791 | Telekom (HIGH) | frei zuweisbar | leerer Neuvertrag (Robert, nicht storniert), Portierung 05.10. | einer/m ohne Firmennummer zuweisen (Cosma, Lotte Essers, Oscar Mund, Rosa) |
+### Unklare Nummern (Inhaber nicht bekannt) — Stand 13.08
+| Nummer | Anbieter | Hinweis |
+|---|---|---|
+| 0157 80613042 | Vodafone | Inhaber unbekannt — in keiner Quelle (Adressbuch/Entra/vCards negativ) |
+| 0174 8860330 | Vodafone | Inhaber unbekannt — in keiner Quelle |
+| 0157 80602194 | o2 | Inhaber unbekannt — in keiner Quelle |
+| 0151 53465448 | Telekom (HIGH), Portierung 24.09.2026 | Testanruf offline — unklar ob genutzt, Nutzer unbekannt |
+| 0151 53467753 | Telekom (HIGH), Portierung 28.09.2026 | aktiv, Siri-Mailbox meldet sich — Nutzer unklar |
 
-6 Nummern insgesamt offen: 3 aus dem o2/Vodafone-Bestand (Person unbekannt), 3 aus dem HIGH-Restpunkt
-(portiert, aber Zuweisung ungeklärt).
+**Idee (Philipp, 13.08.):** Nachricht an alle SmartVelo-Kolleg:innen mit dieser Liste — Rückmeldung bis
+Ende August (31.08.), wem welche Nummer gehört. Ohne Rückmeldung wird gekündigt.
 
 ### Falls während des Urlaubs was reinkommt
 - **eSIM-Brief von Bonamic/Telekom** → Nummer in `~/Downloads/esims-split/` bzw. im Adressbuch nachschlagen,
