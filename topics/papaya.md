@@ -36,6 +36,13 @@ Handlungsbedarf vor dem 13.08.
   Tickets (ausgetauschte Schlösser) auswerten lässt, wie häufig/aus welchem Grund Axa-Ringschlösser brechen
   (km-Laufzeit, Schadensbild). Philipp an Eric (14.08 07:26): „Klingt kompliziert, ich könnte aber mal
   gucken." — **noch nicht umgesetzt, kein Wartet-auf-Dritte, sondern Philipps eigene Aufgabe.**
+- **Antwort an Lukas (14.08 11:59 CEST):** eventuell im KPI/OPS-Dashboard abbildbar, kostet aber erst Zeit/
+  Analyse — die Tickets müssten den Schaden einheitlich benennen, tun sie aktuell nicht.
+
+## Digitaler Zwilling (Ersatzteile/Bauteile je Bike-ID + IoT-Historie) — nicht in Planung (14.08)
+Lukas fragte danach (14.08 08:59). Philipps Antwort: nicht in Planung, würde versuchen es von Papaya bauen
+zu lassen („wir zahlen ja genug"), sonst frühestens mit dem ERP. Zeitaufwand für Eigenbau aktuell nicht
+zu rechtfertigen.
 
 ## Offen / wartet auf
 - Sales (Rippelmeier/Cagatay/Jurgen): Entscheidung, wie Sales-Bikes abgebildet werden + Bike-IDs (Ende KW 31).
