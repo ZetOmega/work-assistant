@@ -31,6 +31,12 @@ Der Termin „Papaya Reminder – Vertragslaufzeit" (war Do 13.08 11:00–11:30 
 nach hinten verschoben** (neues Datum unbestätigt). Kein verlorener/verschollener Termin, kein akuter
 Handlungsbedarf vor dem 13.08.
 
+## 🆕 Axa-Ringschloss-Bruchanalyse (14.08) — Philipps eigenes To-Do
+- **Eric Frey (13.08 12:16)** und **Lukas Laarmann (14.08 08:59)** fragen unabhängig, ob sich aus Papaya-
+  Tickets (ausgetauschte Schlösser) auswerten lässt, wie häufig/aus welchem Grund Axa-Ringschlösser brechen
+  (km-Laufzeit, Schadensbild). Philipp an Eric (14.08 07:26): „Klingt kompliziert, ich könnte aber mal
+  gucken." — **noch nicht umgesetzt, kein Wartet-auf-Dritte, sondern Philipps eigene Aufgabe.**
+
 ## Offen / wartet auf
 - Sales (Rippelmeier/Cagatay/Jurgen): Entscheidung, wie Sales-Bikes abgebildet werden + Bike-IDs (Ende KW 31).
 - **Arianna: Rückmeldung Feature-Request (labels, Rate-Limits) + RW-API-Key** — ist ein „wartet auf", kein

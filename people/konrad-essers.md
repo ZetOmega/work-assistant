@@ -8,6 +8,10 @@ Chef & Haupt-Entscheider. Kennt den mobilezone-CEO „gut“. Setzt Tempo, verpa
 ERP (Chefsache mit Eric) · App smartvélo · neue Stelle ausgeschrieben · Werbe-/Event-Kampagne
 
 ## Letzte Aktionen
+**14.08 05:11–08:03 CEST Teams**: Konrad fragt morgens nach der Übergabe (SD-Karten in Kameras? dritte
+Kamera-Installation? Aufgabenüberblick). Philipp 08:02 schickt zunächst den Kamera-/SD-Karten-Status, dann
+08:02:58 die **Kurzübergabe (handoff.pdf)**: „das sind die Themen die noch weitergeführt werden sollten,
+Celine ist bei Bonamic im CC." ✅ Übergabe raus, s. `topics/uebergabe-urlaub-philipp.md`.
 30.07 09:11–09:21 Gruppenchat: **Go für die Garten-Kamera erteilt.** Konrad leitet Philipps DSGVO-Nachricht
 weiter, will die Kamera aufgehängt haben (Begründung: „derzeit steht weit über 1 Millionen im Garten"), fragt
 nach Zeitfenster-Betrieb (nur vor/nach Arbeit). Auf Philipps „180 vs 250€"-Nachfrage: **„250"** → RLC-823S1W

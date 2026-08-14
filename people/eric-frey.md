@@ -9,6 +9,10 @@ Gemeinsame Claude-Projekte mit Philipp · ERP · Jobvalley-Protokoll-Redesign (K
 KFZ- & Werkzeugtracking (einheitliche technische Lösung gesucht) · Flink-Datenauswertung (Idee: Slack+Ticket-Daten verbinden)
 
 ## Letzte Aktionen
+**14.08 07:26 CEST Teams**: Philipp antwortet auf Erics Frage vom 13.08 12:16 („Kriegst du irgendwie
+ermittelt, wie viele Schlüssel in den Axa-Ringschlössern abbrechen? Aus Papaya-Tickets von ausgetauschten
+Schlössern?") — „Klingt kompliziert, ich könnte aber mal gucken." (Eric 👍). **Noch offen, nicht umgesetzt** —
+deckt sich mit Lukas Laarmanns Frage vom 14.08, s. `topics/papaya.md`.
 29.07 15:56 Teams: „Was mache ich jetzt mit 1 Password?" (1Password-Beitritt + Bestätigungsmail 15:56) → Philipp 16:00 „komme gleich zu dir" — vor Ort geklärt *(unbestätigt)*
 29.07 15:03 Philipp an Eric: „sehe grade dass du calvin noch nicht auf slack geantwortet hast, nur fyi" → **Calvin/Jobvalley liegt bei Eric**
 29.07 14:01 Teams: **„Wir müssen wieder verschieben"** → 1:1 jetzt **Di 04.08 14:00–15:30 CEST** (Philipp 14:19 angenommen). Das ist der Dauer-Verschiebe-Termin, kein neuer Einzelfall. KPI-Brainstorm + Ticket-Frage rutschen mit
