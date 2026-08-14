@@ -32,4 +32,4 @@ fester Termin im Kalender.
 
 ## Offen / wartet auf
 - Keine Deadline — Entscheidung „im September" avisiert.
-- **12.08 (Philipp): diese Woche kommen noch weitere Infos**, ggf. neuer Termin Anfang September.
+- **14.08 (Philipp, Kurzübergabe): heute kommt eine erste Kostenaufstellung zum Service.**

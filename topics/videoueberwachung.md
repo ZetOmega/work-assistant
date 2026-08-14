@@ -1,4 +1,4 @@
-# Videoüberwachung Venloer Str. (Eingänge + Garten)  · Status: 3. Kamera weiter unterwegs, wartet auf Ankunft (Stand 12.08.2026)
+# Videoüberwachung Venloer Str. (Eingänge + Garten)  · Status: alle 3 Kameras da, SD-Karten für 2 von 3 (Stand 14.08.2026)
 
 ## Stand
 - **Bestand: 2x Reolink TrackMix WiFi** (4K PTZ, Wi-Fi 6, Dual-Objektiv, Auto-Tracking) — an den **beiden Eingängen**.
@@ -86,8 +86,20 @@ als erste Maßnahme.
 - **Die 3. (Garten-)Kamera ist weiterhin nicht angekommen** — Status unverändert zum 04.08 (versendet,
   Ankunft steht aus).
 
+## ✅ 14.08 — Alle 3 Kameras da, SD-Karten-Status geklärt (Philipp)
+- **Bestand jetzt komplett: 3 Kameras — Büro vorne, Werkstatt vorne, Garten.** Die Garten-Kamera ist damit
+  angekommen (vorheriger offener Punkt erledigt).
+- **Werkstatt vorne und Garten haben jetzt SD-Karten drin.** Nur 2 SD-Karten waren vorrätig (bestellt waren 3,
+  s. 11.08).
+- **Büro vorne läuft noch ohne SD-Karte** — kein Problem: Kamera nimmt trotzdem auf, aktuell im Reolink-
+  Probemonat kostenlos in der Cloud gespeichert. Installation der SD-Karte dauert nur 5–10 Min.
+- **Sobald Philipp aus dem Urlaub zurück ist und SD-Karten wieder vorrätig sind**, baut er sie im Büro vorne
+  nachträglich ein.
+- **Zugriff auf die Garten-Kamera (App):** einfach die App öffnen und draufklicken, Passwort
+  `smartvelo50825` (alles klein).
+
 ## Offen / wartet auf
-- Ankunft der 3. (Garten-)Kamera abwarten
+- SD-Karte fürs Büro vorne nachrüsten, sobald vorrätig (nach Philipps Urlaub)
 - 12-V-Netzteil/Steckdose am Kamerastandort im Garten sicherstellen (WLAN ist da, Strom braucht sie trotzdem)
 - Zeitfenster-Umsetzung (nur außerhalb Arbeitszeit aufzeichnen) technisch einrichten, wie mit Konrad besprochen
 - Restliche Punkte der Einrichtungs-Checkliste oben (Privacy Mask, Zweckbindung, Hinweisschilder etc.) —

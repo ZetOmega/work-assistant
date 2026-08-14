@@ -1,12 +1,13 @@
-# STATUS — Stand Do 13.08.2026, 07:27 Uhr CEST
+# STATUS — Stand Do 14.08.2026
 
-## 🔥 Heute (Do 13.08)
-- **13:30–14:30 CEST: „Geräteauswahl Lenovo & Apple"** (Teams, mit Florian Pfeil/Bonamic) — angenommen.
-- **Kurzübergabe an Konrad (vor 2-Wochen-Urlaub)** — Philipp schreibt sie gerade selbst, wird Konrad
-  einfach zugeschickt (keine separate Rückmeldung/Ankündigung im Chat nötig). Steckdosen sind fix
-  (bereits mehrfach bestätigt, kein offener Punkt mehr).
-- Portierung (Roberts eigene Nummer) — keine neue Information seit gestern, läuft vermutlich weiter über
-  Bonamic/Telekom.
+## 🔥 Heute (Do 14.08 — Konrads Übergabe-Frist)
+- **Kurzübergabe an Konrad ist fertig** (finale Version als PDF vorliegend) — **Philipp schickt sie selbst**,
+  kein Versand durch Claude.
+- **Bonamic/greendevice**: heute kommt laut Kurzübergabe eine erste Kostenaufstellung zum Managed-Service.
+- **Kameras: alle 3 da (Büro vorne, Werkstatt vorne, Garten)** — Garten und Werkstatt haben SD-Karten,
+  Büro vorne noch nicht (nur 2 SD-Karten vorrätig, kein Problem, läuft über Cloud). Kurzer Teams-Reply an
+  Konrad dazu entworfen (s. u.) — **noch nicht gesendet, Philipp macht das ggf. selbst**.
+- Portierung (Roberts eigene Nummer) — keine neue Information, läuft vermutlich weiter über Bonamic/Telekom.
 
 ## ✅ Seit letztem Lauf geklärt (12.08 07:08 → 13.08 07:27 CEST)
 - **Flink SLA Rückanalyse** — Philipp hat Robert (+ Henry Horn) das komplette Update vor dem Urlaub
@@ -25,13 +26,17 @@
   01.09. als Sales MA in Berlin — bittet, „schon einmal alles zu erstellen und zu beantragen" (Accounts/
   Ausstattung). Kein Handlungsbedarf für den Check-in (läuft bei Philipp separat).
 
+## ✅ Neu geklärt (14.08)
+- **Garten-Kamera ist angekommen** — alle 3 Kameras (Büro vorne, Werkstatt vorne, Garten) jetzt vor Ort.
+  Werkstatt + Garten haben SD-Karten, Büro vorne folgt nach Philipps Urlaub (s. `topics/videoueberwachung.md`).
+
 ## ⏳ Weiter offen / Wartet auf (kein Fortschritt)
 - **OBS/Stefan Arens** — keine Antwort auf Konrads Gegenangebot vom 28.07 (**16 Tage**, Konrads Thema).
 - **Hanisch — Telefon/Zugang NetCologne-Glasfaser** (seit 22.07, **22 Tage**).
 - **Klimageräte** — Neubestellung ist tot. Konrad prüft stattdessen die bereits installierten/echten
   Geräte, dazu Absprache mit dem Vermieter.
 - **Papaya-API-Feature-Request — wartet auf Arianna** (labels, Rate-Limits, RW-API-Key).
-- **Garten-Kamera (3.)** — weiterhin nicht angekommen, unverändert.
+- **SD-Karte Büro vorne** nachrüsten, sobald wieder vorrätig (nach Philipps Urlaub).
 
 ## 🟡 Ich (Philipp) — Microsoft To-Do (5 offen, aktuell relevant: 1)
 - [ ] Hanisch: Telefon/Zugang Glasfaserausbau NetCologne
@@ -55,7 +60,7 @@
 - Fr 14.08: keine Termine im Kalender.
 
 ## ❓ Bitte bestätigen (nichts automatisch gemacht)
-- Aktuell nichts offen.
+- Teams-Reply an Konrad zu den Kameras (Entwurf unten) — senden oder machst du selbst?
 
 ## ⚠️ Blinde Flecken
 - **Katharina-Offboarding**: Geräte, restliche Accounts/Lizenzen — weiter nirgends dokumentiert.
