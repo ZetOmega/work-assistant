@@ -9,6 +9,9 @@ Gemeinsame Claude-Projekte mit Philipp · ERP · Jobvalley-Protokoll-Redesign (K
 KFZ- & Werkzeugtracking (einheitliche technische Lösung gesucht) · Flink-Datenauswertung (Idee: Slack+Ticket-Daten verbinden)
 
 ## Letzte Aktionen
+**31.08 09:28–09:34 CEST Teams**: Philipp fragt nach der Uhrzeit des Jobvalley-Meetings heute. **Eric: „14:30"**
+— **Diskrepanz zum Kalender**, der „PxRxE Jobvalley" heute 10:30–11:00 CEST zeigt. Philipp fragt nach: „das
+ist 1h angesetzt?" — **noch keine Antwort/Klärung.** Vor dem Termin prüfen, welche Zeit stimmt.
 **14.08 07:26 CEST Teams**: Philipp antwortet auf Erics Frage vom 13.08 12:16 („Kriegst du irgendwie
 ermittelt, wie viele Schlüssel in den Axa-Ringschlössern abbrechen? Aus Papaya-Tickets von ausgetauschten
 Schlössern?") — „Klingt kompliziert, ich könnte aber mal gucken." (Eric 👍). **Noch offen, nicht umgesetzt** —

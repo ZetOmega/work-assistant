@@ -20,8 +20,12 @@ hinterlegen, sonst reißen Slack, beide Claude-Abos und das Team-Claude-Abo ab.
 **✅ 31.08 08:11 CEST — von Philipp an Konrad verschickt** (Teams, 1:1): „Hey Konrad, ich brauche dringend
 deine neue Kreditkarte. Slack ist wegen fehlgeschlagener Zahlung kurz vorm Abschalten, das bedeutet dann
 keine Kommunikation mehr mit Flink und Jobvalley. Dazu mein erstes Claude-Abo ausgelaufen, zweites läuft
-bald aus, Claude für alle bald auch." **Noch keine Antwort von Konrad (Stand 08:51 CEST).**
+bald aus, Claude für alle bald auch."
+
+**31.08 09:02 CEST — Konrad antwortet**: „Robert hat eine Kreditkarte die kann er einrichten" — nicht seine
+eigene, sondern Roberts Karte soll eingerichtet werden. **09:27 CEST — Philipp fragt nach: „auch für meine
+KI Abos?"** (also für die Claude-Abos, nicht nur Slack) — **noch keine Antwort (Stand 09:36 CEST).**
 
 ## Offen / wartet auf
-- Konrad: Antwort/neue Kreditkarte hinterlegen.
-- Danach: Slack-Zahlungsmethode aktualisieren, beide Claude-Abos + Team-Abo verlängern.
+- Konrads Antwort, ob Roberts Karte auch die Claude-Abos abdeckt.
+- Robert müsste die Karte dann einrichten (Slack + ggf. Claude).

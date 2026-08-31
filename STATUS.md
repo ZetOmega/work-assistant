@@ -1,12 +1,12 @@
-# STATUS — Stand Mo 31.08.2026, 08:52 CEST
+# STATUS — Stand Mo 31.08.2026, 09:37 CEST
 
 ## 🔥 Heute (Mo 31.08 — erster Tag zurück aus dem Urlaub)
-- **10:00–10:30 PxKxE Statusmeeting** (Teams) · **10:30–11:00 PxRxE Jobvalley** (Teams) ·
-  **11:00–11:30 Papaya Reminder – Vertragslaufzeit** (Teams, endlich wieder angesetzt) ·
-  **11:00–11:30 Label Druck DHL** (Teams, parallel) · **12:00–12:15 Weekly x Büro Köln** (Venloer Str. 515, vor Ort) ·
-  **12:15–12:30 Projekte KI** (Teams) · **15:30–15:45 Papaya Vertrag** (Teams)
-- **Kreditkarten-Nachricht an Konrad ist raus** (08:11 CEST) — Slack + beide Claude-Abos + Team-Claude-Abo
-  hängen dran. Noch keine Antwort.
+- **10:00–10:30 PxKxE Statusmeeting** (Teams) · **10:30–11:00 PxRxE Jobvalley** (Teams, **aber Eric sagt im
+  Chat 14:30 — Diskrepanz, vor dem Termin klären**) · **11:00–11:30 Papaya Reminder – Vertragslaufzeit**
+  (Teams) · **11:00–11:30 Label Druck DHL** (Teams, parallel) · **12:00–12:15 Weekly x Büro Köln** (Venloer
+  Str. 515, vor Ort) · **12:15–12:30 Projekte KI** (Teams) · **15:30–15:45 Papaya Vertrag** (Teams)
+- **Kreditkarte**: Konrad schlägt Roberts Karte vor (nicht seine eigene), Philipp hat nachgefragt ob das auch
+  die Claude-Abos abdeckt — noch keine Antwort.
 - **Celine hat die Namen geliefert** (08:39 CEST): Jens Hemmerich, Christian Borowski, Natalia Isenmann —
   E-Mails können jetzt angelegt werden (Simon ist schon erledigt).
 - Robert-Papaya-IoT-Sync-To-Do ist heute fällig, läuft nebenbei, keine Eile.
@@ -26,7 +26,9 @@
 - Simon-Mailadresse ist erstellt; Namen für Jens/Christian/Natalia liegen jetzt vor (s. oben).
 
 ## 🔄 Läuft, braucht Reaktion
-- **Kreditkarte/Zahlungsmittel** (s. oben + `topics/zahlungsmittel-abos.md`) — wartet auf Konrad.
+- **Kreditkarte/Zahlungsmittel** (s. oben + `topics/zahlungsmittel-abos.md`) — wartet auf Konrads Antwort,
+  ob Roberts Karte auch die Claude-Abos abdeckt.
+- **Jobvalley-Meeting-Uhrzeit heute unklar** (Kalender 10:30 CEST vs. Eric im Chat „14:30") — klären.
 - **Konrads WLAN-Problem** — Philipp prüft.
 - **Konrads „Mail-Thema"-Frage** — Rückfrage unbeantwortet.
 - **E-Mails für Jens/Christian/Natalia anlegen** — Namen da, Umsetzung steht noch aus.
