@@ -18,10 +18,10 @@
   („Nein, keine Ahnung") — erledigt.
 
 ## 🔄 Vorangekommen (braucht Reaktion)
-- **OBS/Stefan Arens (Odoo)**: Stefan antwortet **20.08** direkt an Philipp (nicht mehr nur Konrads Thema) —
-  bietet **135 €/h Einrichtungssatz** für den Erstabschluss an (statt 145 €), lehnt Verrechnung mit dem
-  Workshop ab, bestätigt festen Ansprechpartner. Fragt nach dem **aktuellen Stand des Auswahlprozesses**.
-  **Seit 11 Tagen unbeantwortet** — offen, ob Philipp selbst antwortet oder an Konrad weiterreicht.
+- **OBS/Stefan Arens (Odoo)**: Stefan antwortet **20.08** direkt an Philipp — bietet **135 €/h
+  Einrichtungssatz** für den Erstabschluss an (statt 145 €), lehnt Verrechnung mit dem Workshop ab, bestätigt
+  festen Ansprechpartner. Fragt nach dem aktuellen Stand des Auswahlprozesses. **Wird morgen (01.09) beim
+  Termin „Odoo x Unterzeichnen" mit Konrad besprochen** — kein separates Antworten nötig.
 - **Bonamic — Kostenaufstellung M365/Hornetsecurity/Backup ist da** (14.08 13:43, wie in der Kurzübergabe
   avisiert): Angebot EST-000558 + Synology-Datenblätter. **Plan (31.08): Philipp bereitet sie auf, dann im
   Meeting an Konrad weitergeben** (nicht nur Weiterleitung).
@@ -71,8 +71,6 @@
 
 ## ❓ Bitte bestätigen (nichts automatisch gemacht)
 - E-Mail-Adressen für Jens, Christian, Natalia anlegen — Daten bei Celine anfragen?
-- Antwort an Stefan Arens (OBS) zum Stand des Auswahlprozesses — selbst antworten oder an Konrad
-  weiterreichen?
 - n8n-Workspace: jetzt auf Pro upgraden (Datenverlust droht nach den 90 Tagen) oder Thema fallen lassen?
 
 ## ⚠️ Blinde Flecken

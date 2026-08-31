@@ -3,8 +3,9 @@
 ## 🆕 Update 31.08 — Zahlung schlägt fehl
 Workspace **SMARTVÉLO x FLINK** (Mitglieder Eric, Robert, Philipp) meldet wiederholt fehlgeschlagene
 Zahlungen: 23.08 21:48, 26.08 21:09, zuletzt **30.08 22:10 „Dein Plan läuft ab, wenn du nichts unternimmst"**
-— Eskalationsstufe steigt. Zahlungsmethode muss aktualisiert werden, sonst drohen die Premium-Funktionen
-verloren zu gehen.
+— Eskalationsstufe steigt. Ohne Slack **keine Kommunikation mehr mit Flink und Jobvalley** möglich.
+Hängt am selben Kreditkarten-Problem wie die Claude-Abos, s. `topics/zahlungsmittel-abos.md` — Nachricht an
+Konrad wegen neuer Kreditkarte in Vorbereitung.
 
 ## Stand
 - **27.07 15:44 — Robert Breuer (Prio hoch, Mail „Slack Account Konrad und weitere")**: Konrads Slack-Account

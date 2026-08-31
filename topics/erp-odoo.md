@@ -7,8 +7,8 @@ vermutlich der bereits am 04.08 erwähnte Anruf). Konzessionen: **135 €/h Einr
 Erstabschluss** (regulär 145 €), Workshop **nicht** mit Einrichtungskosten verrechenbar (eigenständige
 Beratungsleistung über mehrere Termine), fester Ansprechpartner/Projektteam über die gesamte Laufzeit
 bestätigt. Fragt nach dem **aktuellen Stand des Auswahlprozesses** und den nächsten Schritten.
-**Stand 31.08: unbeantwortet (11 Tage)** — nicht mehr eindeutig „nur Konrads Thema", da Stefan direkt an
-Philipp schreibt.
+**Klarstellung Philipp (31.08): wird morgen (01.09) beim Termin „Odoo x Unterzeichnen" mit Konrad besprochen**
+— kein separates Antworten an Stefan vorher nötig.
 
 ## Neue Timeline (04.08, Philipp)
 - **Odoo-Einführung verschoben auf November/Dezember.** Grund: **Jens (neuer CFO)** und ein **neuer Einkäufer**
