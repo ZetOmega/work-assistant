@@ -60,11 +60,11 @@ der Woche + Rückblick.
 
 ## Update 23.08 (während Philipps Urlaub, AI-SMARTVÉLO-Gruppenchat)
 **23.08 15:38 CEST**: „Philipp Klei gerne schonmal die Emailadressen erstellen für Jens, Christian, Simon
-und Natalia die Daten kriegst du von Celine." **Stand 31.08: noch nicht umgesetzt (8 Tage), Daten bei
-Celine noch anzufragen.**
+und Natalia die Daten kriegst du von Celine." **31.08: Simon-Mail erstellt ✅. Jens, Christian, Natalia
+noch offen.**
 
 ## Offen / wartet auf
-**🆕 E-Mail-Adressen für Jens, Christian, Simon, Natalia anlegen** (Daten bei Celine anfragen, s.o.)
+**🆕 E-Mail-Adressen für Jens, Christian, Natalia anlegen** (Daten bei Celine anfragen; Simon bereits erledigt)
 **Odoo-Lizenzentscheidung 1/2/5 Jahre** — Headcount auf 20 angepasst (31.07), Laufzeit weiter offen, danach unterschreibt Konrad
 Klareres/aufgeschlüsseltes OBS-Angebot + OBS-Termin · ob er bei OBS angerufen/einen Alternativtermin gefunden hat
 Nächstes 1:1: heute 10:30 CEST (einmalig verschoben); regulär Mo 08:45 CEST (nächstes 27.07)

@@ -37,6 +37,10 @@ Florian Pfeil (Bonamic) schickt die avisierte indikative Kostenaufstellung: **M3
 stationär, inkl. „Managed Backup" mit 24/7-Monitoring) sowie einmalige Einrichtungs-/Optimierungskosten.
 Anhänge: Angebot EST-000558.pdf, Synology-Datenblätter. **Stand 31.08: noch nicht gesichtet/beantwortet.**
 
+## Plan 31.08 (Philipp)
+Kostenaufstellung an Konrad weitergeben — am besten im Meeting (nicht nur per Mail/Weiterleitung). Philipp
+macht sie „ready" (vermutlich Zusammenfassung/Aufbereitung vor der Weitergabe).
+
 ## Offen / wartet auf
 - Keine Deadline — Entscheidung „im September" avisiert.
-- Bonamic-Kostenaufstellung (s.o.) noch zu prüfen, bevor die September-Entscheidung ansteht.
+- Kostenaufstellung für Konrad vorbereiten und im nächsten Meeting mit ihm besprechen.

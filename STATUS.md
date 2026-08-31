@@ -8,7 +8,7 @@
 - **🆕 Slack-Zahlung „SMARTVÉLO x FLINK" schlägt seit 23.08 wiederholt fehl** (23.08, 26.08, zuletzt 30.08 22:10:
   „Dein Plan läuft ab, wenn du nichts unternimmst") — Zahlungsmethode aktualisieren, sonst Verlust der
   bezahlten Funktionen.
-- **⚠️ To-Do fällig heute: Robert nach dem Urlaub zu Papaya-IoT-Sync nachfassen.**
+- To-Do fällig heute: Robert zu Papaya-IoT-Sync nachfassen — läuft nebenbei, keine Eile.
 
 ## ✅ Seit letztem Lauf (14.08, 11:08 CEST) geklärt
 - **Lukas Laarmanns 6 Themen vor dem Urlaub** waren entgegen dem letzten Stand tatsächlich **schon am 14.08
@@ -23,13 +23,13 @@
   Workshop ab, bestätigt festen Ansprechpartner. Fragt nach dem **aktuellen Stand des Auswahlprozesses**.
   **Seit 11 Tagen unbeantwortet** — offen, ob Philipp selbst antwortet oder an Konrad weiterreicht.
 - **Bonamic — Kostenaufstellung M365/Hornetsecurity/Backup ist da** (14.08 13:43, wie in der Kurzübergabe
-  avisiert): Angebot EST-000558 + Synology-Datenblätter. Entscheidung war für September avisiert — noch nicht
-  geprüft/beantwortet.
+  avisiert): Angebot EST-000558 + Synology-Datenblätter. **Plan (31.08): Philipp bereitet sie auf, dann im
+  Meeting an Konrad weitergeben** (nicht nur Weiterleitung).
 - **Axa-Ringschloss-Bruchanalyse (Eric/Lukas)**: weiterhin Philipps eigenes To-Do, keine Umsetzung seit der
   Zusage am 14.08 (**17 Tage**).
 
 ## ⏳ Weiter offen / Wartet auf (kein Fortschritt)
-- **Hanisch — Telefon/Zugang NetCologne-Glasfaser** (seit 22.07, **40 Tage**).
+- **Hanisch — Telefon/Zugang NetCologne-Glasfaser** — läuft weiter mit, keine Eile.
 - **Klimageräte** — Neubestellung weiter tot, Konrad prüft installierte Geräte + Vermieter-Absprache, keine
   neue Information.
 - **Papaya-API-Feature-Request** — wartet weiter auf Arianna (Engineering).
@@ -41,21 +41,19 @@
 - **Vodafone Business (Henning Roß)** — reine Vertriebsansprache, weiter keine Dringlichkeit.
 
 ## 🆕 Neu
-- **Konrad (AI-SMARTVÉLO-Gruppenchat, 23.08)**: bittet Philipp, E-Mail-Adressen für **Jens, Christian, Simon
-  und Natalia** anzulegen — Daten dazu kommen von Celine. **Noch nicht umgesetzt, 8 Tage offen.**
-- **Robert (Mail 19.08, „WG: Neue Versionen der Endpunkte für die Ford Telematics REST-API")**: bittet um
-  Rückmeldung, ob Philipp mit den neuen Endpunkten arbeiten kann bzw. was er noch braucht. **12 Tage
-  unbeantwortet.**
+- **Konrad (AI-SMARTVÉLO-Gruppenchat, 23.08)**: E-Mail-Adressen für Jens, Christian, Simon, Natalia —
+  **Simon ✅ erstellt** (31.08). Jens, Christian, Natalia noch offen (Daten bei Celine anfragen).
+- **Robert (Ford-Telematics-API, 19.08)**: ✅ von Philipp beantwortet (31.08).
 
 ## 🟡 Ich (Philipp) — Microsoft To-Do (5 offen, aktuell relevant: 2)
-- [ ] **Robert nach dem Urlaub zu Papaya-IoT-Sync nachfassen — fällig heute (31.08)**
+- [ ] Robert nach dem Urlaub zu Papaya-IoT-Sync nachfassen (fällig 31.08, läuft nebenbei)
 - [ ] Hanisch: Telefon/Zugang Glasfaserausbau NetCologne
 - *(noch nicht relevant: Papaya-API-Feature-Request — wartet auf Arianna · Wissensdatenbank/Video fällig
   29.11 · SharePoint-Restrukturierung fällig 20.09)*
 
 ## 💬 Teams
 - **Lukas Laarmann**: neue Frage vom 26.08 heute (31.08, kurz vor diesem Lauf) beantwortet — erledigt.
-- **AI SMARTVÉLO (Gruppe)**: Konrads Bitte um E-Mail-Adressen (23.08) — offen, s. oben.
+- **AI SMARTVÉLO (Gruppe)**: Konrads Bitte um E-Mail-Adressen (23.08) — Simon erledigt, Rest offen, s. oben.
 - **Venloer Str. 515 (Gruppe)**: nur Urlaubs-/Homeoffice-Ankündigungen (Konrad, Eric, Celine) und ein
   Kaffeemaschinen-Problem (Bela, 19.08) — keine Aktion für Philipp nötig.
 - **Eric Frey**: keine neuen Nachrichten seit der Axa-Zusage vom 14.08.
@@ -69,13 +67,9 @@
 - **Fr 04.09**: 11:00–11:30 Papaya x SMARTVÉLO Weekly.
 
 ## ❓ Bitte bestätigen (nichts automatisch gemacht)
-- E-Mail-Adressen für Jens, Christian, Simon, Natalia anlegen (Konrads Bitte 23.08) — Daten bei Celine
-  anfragen und umsetzen?
+- E-Mail-Adressen für Jens, Christian, Natalia anlegen — Daten bei Celine anfragen?
 - Antwort an Stefan Arens (OBS) zum Stand des Auswahlprozesses — selbst antworten oder an Konrad
   weiterreichen?
-- Ford-Telematics-API-Feedback an Robert — heute noch beantworten?
-- Bonamic-Kostenaufstellung (M365/Hornetsecurity/Backup) — schon jetzt sichten oder bis September liegen
-  lassen (wie ursprünglich geplant)?
 - n8n-Workspace: jetzt auf Pro upgraden (Datenverlust droht nach den 90 Tagen) oder Thema fallen lassen?
 
 ## ⚠️ Blinde Flecken
