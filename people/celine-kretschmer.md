@@ -44,5 +44,10 @@ Entscheidung, die Philipp treiben muss.
 **11.08 15:46 CEST** — Philipp schickt ihr Amazon-Link zu 3x SanDisk Endurance microSDXC (SD-Karten für die
 Garten-Kamera, s. topics/videoueberwachung.md).
 
+## Update 31.08 (Teams 1:1)
+**08:15 CEST — Philipp fragt nach vollständigen Namen von Jens, Christian, Natalia** (für E-Mail-Adressen,
+Konrads Bitte 23.08). **08:39 CEST — Celine liefert: Jens Hemmerich, Christian Borowski, Natalia Isenmann.**
+✅ Namen da, Philipp kann die E-Mail-Adressen jetzt anlegen.
+
 ## Offen / wartet auf
 o2-Rechnung/Kundenkennzahl liefern (nur noch für Unterlagen, Kündigung ist raus) · Rufnummern-Aufräum-Gespräch mit Philipp noch nicht terminiert.

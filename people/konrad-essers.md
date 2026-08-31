@@ -58,13 +58,27 @@ hinzu sobald alles online ist. Danach unterzeichne ich." — Headcount-Entscheid
 der Woche + Rückblick.
 03.08 (Teams, über Celine) — möchte, dass Philipp trotz Hitze ins Büro kommt statt Homeoffice (s. Celine-Chat).
 
+## Update 31.08 (erster Tag zurück, Teams 1:1)
+- **08:01 CEST — Konrad**: seit dem neuen WLAN öfter Verbindungsabbrüche/Seiten laden nicht (Beispiel
+  Sparkasse), fragt ob Philipp etwas umgestellt hat. **Philipp 08:02: „Nein da ist nichts eingestellt, ich
+  schaue mir das ganze an"** — Philipp prüft das, noch kein Ergebnis. 🆕 offen.
+- **08:01:48 CEST — Konrad** (unklarer Bezug, vermutlich ein E-Mail-Feature/Digest): „was solll das Thema
+  bringen bei dem Mails, lass uns das gerne wieder ausstellen ist nur noch mehr text." **Philipp 08:02:59:
+  „Was meinst du hiermit?"** — Rückfrage unbeantwortet (Stand 08:51 CEST), unklar welches Mail-Thema gemeint
+  ist *(unbestätigt)*.
+- **08:11 CEST — Philipp an Konrad**: dringend neue Kreditkarte nötig (Slack-Zahlung, beide Claude-Abos,
+  Team-Claude-Abo betroffen, s. `topics/zahlungsmittel-abos.md`). **Noch keine Antwort.**
+
 ## Update 23.08 (während Philipps Urlaub, AI-SMARTVÉLO-Gruppenchat)
 **23.08 15:38 CEST**: „Philipp Klei gerne schonmal die Emailadressen erstellen für Jens, Christian, Simon
 und Natalia die Daten kriegst du von Celine." **31.08: Simon-Mail erstellt ✅. Jens, Christian, Natalia
 noch offen.**
 
 ## Offen / wartet auf
-**🆕 E-Mail-Adressen für Jens, Christian, Natalia anlegen** (Daten bei Celine anfragen; Simon bereits erledigt)
+**🆕 WLAN-Problem seit Update prüfen** (Konrad, 31.08) · **🆕 unklares „Mail-Thema" abstellen** (Rückfrage
+offen, 31.08) · **🆕 Antwort zur neuen Kreditkarte** (31.08, dringend)
+**E-Mail-Adressen für Jens, Christian, Natalia anlegen** — Namen liegen jetzt vor (Celine, 31.08: Jens
+Hemmerich, Christian Borowski, Natalia Isenmann), Simon bereits erledigt
 **Odoo-Lizenzentscheidung 1/2/5 Jahre** — Headcount auf 20 angepasst (31.07), Laufzeit weiter offen, danach unterschreibt Konrad
 Klareres/aufgeschlüsseltes OBS-Angebot + OBS-Termin · ob er bei OBS angerufen/einen Alternativtermin gefunden hat
 Nächstes 1:1: heute 10:30 CEST (einmalig verschoben); regulär Mo 08:45 CEST (nächstes 27.07)

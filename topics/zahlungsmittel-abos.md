@@ -17,12 +17,11 @@ Philipp das Geld direkt, Philipp bucht selbst. Vermutlich dasselbe Kartenproblem
 Es geht um **Konrads eigene neue Kreditkarte** (nicht irgendeine neue Karte) — die soll er zeitnah
 hinterlegen, sonst reißen Slack, beide Claude-Abos und das Team-Claude-Abo ab.
 
-Nachrichtenentwurf an Konrad (Teams) — **Philipp verschickt selbst, nicht über Claude**:
-„Hey Konrad, brauchen dringend deine neue Kreditkarte. Slack ist wegen fehlgeschlagener Zahlung kurz vorm
-Abschalten, keine Kommunikation mehr mit Flink und Jobvalley. Dazu mein erstes Claude-Abo ausgelaufen,
-zweites läuft bald aus, Claude für alle bald auch. Bitte zeitnah deine neue Karte hinterlegen, sonst reißt
-alles ab."
+**✅ 31.08 08:11 CEST — von Philipp an Konrad verschickt** (Teams, 1:1): „Hey Konrad, ich brauche dringend
+deine neue Kreditkarte. Slack ist wegen fehlgeschlagener Zahlung kurz vorm Abschalten, das bedeutet dann
+keine Kommunikation mehr mit Flink und Jobvalley. Dazu mein erstes Claude-Abo ausgelaufen, zweites läuft
+bald aus, Claude für alle bald auch." **Noch keine Antwort von Konrad (Stand 08:51 CEST).**
 
 ## Offen / wartet auf
-- Konrad: seine neue Kreditkarte hinterlegen (Philipp schickt die Nachricht selbst, Status unbestätigt).
+- Konrad: Antwort/neue Kreditkarte hinterlegen.
 - Danach: Slack-Zahlungsmethode aktualisieren, beide Claude-Abos + Team-Abo verlängern.
