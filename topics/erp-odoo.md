@@ -1,5 +1,15 @@
 # ERP / Odoo (OBS Solutions)  · Status: aktiv — Timeline verschoben auf Nov/Dez (04.08)
 
+## Update 20.08 — Stefan Arens antwortet direkt an Philipp
+Stefan Arens (OBS) schreibt **20.08 16:23 CEST direkt an Philipp** (nicht mehr über Konrad): bedankt sich für
+„die ausführlichen Gedanken zur Zusammenarbeit" nach einem gemeinsamen Termin/Call (Datum unbestätigt,
+vermutlich der bereits am 04.08 erwähnte Anruf). Konzessionen: **135 €/h Einrichtungssatz für den
+Erstabschluss** (regulär 145 €), Workshop **nicht** mit Einrichtungskosten verrechenbar (eigenständige
+Beratungsleistung über mehrere Termine), fester Ansprechpartner/Projektteam über die gesamte Laufzeit
+bestätigt. Fragt nach dem **aktuellen Stand des Auswahlprozesses** und den nächsten Schritten.
+**Stand 31.08: unbeantwortet (11 Tage)** — nicht mehr eindeutig „nur Konrads Thema", da Stefan direkt an
+Philipp schreibt.
+
 ## Neue Timeline (04.08, Philipp)
 - **Odoo-Einführung verschoben auf November/Dezember.** Grund: **Jens (neuer CFO)** und ein **neuer Einkäufer**
   starten beide **Oktober**; nach ihrer Einarbeitung soll die Odoo-Integration **gemeinsam mit ihnen** angegangen

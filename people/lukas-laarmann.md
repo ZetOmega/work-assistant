@@ -10,6 +10,8 @@ Ab 10.07 im kombinierten Papaya-Weekly zusammen mit Robert (freitags 11:00 CEST)
   perspektivisch geplant.
 
 ## Letzte Aktionen
+- **26.08 13:05 CEST (Teams): „Weiß du wie wir aktuell Art. Nr. in Papaya oder sonstwo anlegen?"** —
+  **31.08 06:58 CEST von Philipp beantwortet: „Nein, keine Ahnung."** ✅ erledigt.
 - **14.08 (08:59 → 11:59 CEST, Teams): sechs Themen für nach Philipps Urlaub geschickt, von Philipp noch
   am selben Tag beantwortet** (Philipps eigene Antwort, nicht durch Claude verschickt):
   1. **SharePoint-Struktur**: aktuell keine Kapazität, wird weiter nach hinten geschoben.

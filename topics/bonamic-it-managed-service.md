@@ -30,6 +30,13 @@ Florian (Bonamic, vertritt den im Urlaub befindlichen Jan-Hendrik Abels) wollte 
 10.08) heute spontan in Köln vorbeikommen, um die Themen weiterzubesprechen. Philipp hat zugesagt — kein
 fester Termin im Kalender.
 
+## ✅ Kostenaufstellung eingegangen (14.08 13:43 CEST)
+Florian Pfeil (Bonamic) schickt die avisierte indikative Kostenaufstellung: **M365 Business Premium/Standard**
+(mit/ohne Copilot, je Jahres-/Flex-Option), Exchange Online Plan 1 (Prüfung ob nötig), **Hornetsecurity**
+(E-Mail-Security/Archivierung/Backup/Signatur), **Backup-Appliance** (Synology RS422+ Rack oder DS425+
+stationär, inkl. „Managed Backup" mit 24/7-Monitoring) sowie einmalige Einrichtungs-/Optimierungskosten.
+Anhänge: Angebot EST-000558.pdf, Synology-Datenblätter. **Stand 31.08: noch nicht gesichtet/beantwortet.**
+
 ## Offen / wartet auf
 - Keine Deadline — Entscheidung „im September" avisiert.
-- **14.08 (Philipp, Kurzübergabe): heute kommt eine erste Kostenaufstellung zum Service.**
+- Bonamic-Kostenaufstellung (s.o.) noch zu prüfen, bevor die September-Entscheidung ansteht.

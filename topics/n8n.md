@@ -8,6 +8,11 @@
   **Pro-Plan: 60 €/Monat, kein Preis pro Nutzer** — Celine, Philipp und Eric sollen rein, ggf. noch ein paar
   weitere Leute, alle können bei diesem Plan mit rein ohne Zusatzkosten.
 
+## ⚠️ Update 19.08 — Trial abgelaufen
+Mail von n8n (19.08 12:08 CEST): Trial ist beendet, Workspace „smartvelo" wird **3 Tage später (~22.08)
+inaktiv**. Daten laut n8n **90 Tage sicher** aufbewahrt. Pro-Upgrade war seit 12.08 geplant, aber bis heute
+(31.08) nicht umgesetzt — Workspace vermutlich seit ca. 22.08 inaktiv.
+
 ## Offen / wartet auf
-n8n-Abo auf Pro-Plan upgraden (smartvelo.app.n8n.cloud, 60 €/Monat) — noch nicht erledigt. Nutzer: Celine,
-Philipp, Eric + ggf. weitere.
+n8n-Abo auf Pro-Plan upgraden (smartvelo.app.n8n.cloud, 60 €/Monat) — noch nicht erledigt, jetzt mit
+Zeitdruck (Workspace inaktiv, 90-Tage-Aufbewahrung läuft). Nutzer: Celine, Philipp, Eric + ggf. weitere.

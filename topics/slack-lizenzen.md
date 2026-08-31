@@ -1,4 +1,10 @@
-# Slack-Lizenzen / Slack-Adminrechte  · Status: ✅ final geklärt (11.08.2026)
+# Slack-Lizenzen / Slack-Adminrechte  · Status: 🆕 Zahlungsproblem seit 23.08 (Update 31.08)
+
+## 🆕 Update 31.08 — Zahlung schlägt fehl
+Workspace **SMARTVÉLO x FLINK** (Mitglieder Eric, Robert, Philipp) meldet wiederholt fehlgeschlagene
+Zahlungen: 23.08 21:48, 26.08 21:09, zuletzt **30.08 22:10 „Dein Plan läuft ab, wenn du nichts unternimmst"**
+— Eskalationsstufe steigt. Zahlungsmethode muss aktualisiert werden, sonst drohen die Premium-Funktionen
+verloren zu gehen.
 
 ## Stand
 - **27.07 15:44 — Robert Breuer (Prio hoch, Mail „Slack Account Konrad und weitere")**: Konrads Slack-Account

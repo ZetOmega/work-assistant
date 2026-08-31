@@ -52,7 +52,13 @@ Woche", meldet sich dann mit neuem Passwort an.** → terminiert, kein akuter Pu
 beantwortet Philipps Vertragsauslegungs-Fragen vom 30.07 inhaltlich in Rot, bittet ausdrücklich **„vor
 deinem Urlaub tiefer rein und ein Update geben"**. → Ball zurück bei Philipp, siehe topics/flink-service.md.
 
+## Update 19.08 (während Philipps Urlaub)
+- **19.08 06:50 CEST — Mail „WG: Neue Versionen der Endpunkte für die Ford Telematics REST-API"**: leitet an
+  Philipp+Eric weiter, bittet um Rückmeldung, ob Philipp mit den neuen Endpunkten arbeiten kann bzw. was er
+  noch braucht. **Stand 31.08: unbeantwortet (12 Tage).**
+
 ## Offen / wartet auf
+**🆕 Ford-Telematics-API-Feedback** (19.08, s.o.)
 **🆕 Flink SLA Rückanalyse — Update für Robert vor Philipps Urlaub** (s.o., zeitkritisch)
 Antwort von Philipp, wie Slack-Übersicht/Kündigung praktisch läuft (Workspace-Owner unklar)
 FordPro-Admin-Zugänge (Eric+Philipp) einrichten (Nicht-HIGH-Liste 21.07 gestrichen) · eigener Vertrag lief 20.07 aus — Klärung ob durch Anbieterwechsel aufgefangen · Protokoll-Öffnungsproblem lösen ·
