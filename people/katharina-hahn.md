@@ -1,5 +1,6 @@
 # Katharina Hahn
 Rolle: Einkauf / Warenwirtschafts-Wissen · E-Mail: katharina@smart-velo.com · Status: ausgeschieden (letzter Arbeitstag Do 30.07.2026)
+**Offboarding: ✅ komplett abgeschlossen (Stand 31.08, Philipp).**
 
 ## Kurzprofil
 Führte Einkauf zusammen (einkauf@smart-velo.com, seit 29.06). Eine der wichtigsten WaWi-Wissensträgerinnen fürs ERP.
@@ -19,8 +20,5 @@ Katharina 11:58 **„hat geklappt danke dir"** → ✅ einkauf@-Zugang liegt bei
 Simon Schröder übergeben.** Details: `topics/adressbuch-exchange.md`.
 
 ## Offen / wartet auf
-**Geräte / restliche Accounts / Lizenzen** — nirgends dokumentiert *(blinder Fleck)*
-Einkauf/Supply Chain wird bis zu einer neuen Einkaufs-Stelle **informell von PM + Eric + Team gemeinsam
-aufgefangen** (Philipp 30.07) — keine feste Übergabe, kein offener Punkt.
-WaWi-/ERP-Wissen abholen, bevor sie weg ist
-**🆕 einkauf@smart-velo.com hat keinen Zuständigen mehr** (war Katharina) — wer übernimmt das Postfach?
+Keine offenen Punkte mehr — Offboarding (Geräte, Accounts, Lizenzen) laut Philipp (31.08) komplett
+abgeschlossen. Einkauf/Supply Chain informell von PM + Eric + Team aufgefangen (30.07).

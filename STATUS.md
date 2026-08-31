@@ -63,10 +63,6 @@
 ## ❓ Bitte bestätigen (nichts automatisch gemacht)
 - n8n-Workspace: jetzt auf Pro upgraden oder Thema fallen lassen?
 
-## ⚠️ Blinde Flecken
-- **Katharina-Offboarding**: Geräte, restliche Accounts/Lizenzen — weiter nirgends dokumentiert.
-- Security-Alert-Mail für admin@smart-velo.com (11.08, Google) — weiterhin unverifiziert.
-
 ## Geprüft
 Kalender ✓ · Mail (Inbox+Sent) ✓ — keine neue Mail seit 07:09 CEST · Teams (Konrad- und Celine-1:1 seit
 07:09 CEST neu geprüft, alles andere unverändert seit letztem Durchlauf) ✓ · To-Dos ✓ (unverändert)
