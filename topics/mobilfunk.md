@@ -243,7 +243,15 @@ liegen, muss über die Verträge/Rechnungen geklärt werden, nicht über die Num
 | 0151 53467753 | Telekom (HIGH), Portierung 28.09.2026 | aktiv, Siri-Mailbox meldet sich — Nutzer unklar |
 
 **Idee (Philipp, 13.08.):** Nachricht an alle SmartVelo-Kolleg:innen mit dieser Liste — Rückmeldung bis
-Ende August (31.08.), wem welche Nummer gehört. Ohne Rückmeldung wird gekündigt.
+Ende August (31.08.), wem welche Nummer gehört. Ohne Rückmeldung wird gekündigt. **31.08 ist heute — Frist
+läuft ab, Nachricht ggf. noch nicht raus (unbestätigt).**
+
+## 🆕 Update 31.08 — zwei offene Bonamic-Todos (neben Kostenaufstellung IT-Managed-Service)
+1. **o2/Vodafone-Portierungsstatus bei Bonamic (Niclas Maiwald/Daniela) abfragen** (s.o.) — inkl. der
+   unklaren Nummern-Liste, Rückmeldefrist an die Kolleg:innen war heute (31.08).
+2. **Bonamic-Mail 26.08 (Niclas Maiwald), „Ihre Bestellung: Apple Business Manager Daten und Laptop-
+   Auswahl"** — adressiert an Konrad, verweist aber auf ein bereits vorliegendes Business-Laptop-Angebot an
+   Philipp. Noch nicht bearbeitet/beantwortet.
 
 ### Falls während des Urlaubs was reinkommt
 - **eSIM-Brief von Bonamic/Telekom** → Nummer in `~/Downloads/esims-split/` bzw. im Adressbuch nachschlagen,
