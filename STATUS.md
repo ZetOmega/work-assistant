@@ -26,8 +26,8 @@
   avisiert): Angebot EST-000558 + Synology-Datenblätter. **Plan (31.08): Philipp bereitet sie auf, dann im
   Meeting an Konrad weitergeben** (nicht nur Weiterleitung).
 - **Zwei weitere offene Bonamic-Themen** (s. `topics/mobilfunk.md`): o2/Vodafone-Portierungsstatus abfragen
-  (Rückmeldefrist an die Kolleg:innen war heute) und die Bonamic-Mail vom 26.08 zu Apple Business
-  Manager/Laptop-Angebot — beide noch offen.
+  (Philipps 31.08-Idee für eine Kolleg:innen-Nachricht war nie verschickt, keine aktive Frist) und die
+  Bonamic-Mail vom 26.08 zu Apple Business Manager/Laptop-Angebot — beide noch offen.
 - **Axa-Ringschloss-Bruchanalyse (Eric/Lukas)**: weiterhin Philipps eigenes To-Do, keine Umsetzung seit der
   Zusage am 14.08 (**17 Tage**).
 
