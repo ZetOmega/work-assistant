@@ -14,10 +14,15 @@ wiederholt nicht (Push-TAN-Probleme), am Ende ging es nur mit Kreditkarte (180 �
 Philipp das Geld direkt, Philipp bucht selbst. Vermutlich dasselbe Kartenproblem betrifft jetzt auch Slack.
 
 ## Plan (31.08, Philipp)
-Nachricht an Konrad vorbereiten: neue Kreditkarte wird dringend gebraucht, sonst reißen Slack (→ Flink/
-Jobvalley-Kommunikation), beide Claude-Abos und das Team-Claude-Abo ab. **Noch nicht verschickt — wartet auf
-Philipps Go.**
+Es geht um **Konrads eigene neue Kreditkarte** (nicht irgendeine neue Karte) — die soll er zeitnah
+hinterlegen, sonst reißen Slack, beide Claude-Abos und das Team-Claude-Abo ab.
+
+Nachrichtenentwurf an Konrad (Teams, Stand 31.08, noch nicht verschickt — wartet auf Philipps Go):
+„Hey Konrad, brauchen dringend deine neue Kreditkarte. Slack ist wegen fehlgeschlagener Zahlung kurz vorm
+Abschalten, keine Kommunikation mehr mit Flink und Jobvalley. Dazu mein erstes Claude-Abo ausgelaufen,
+zweites läuft bald aus, Claude für alle bald auch. Bitte zeitnah deine neue Karte hinterlegen, sonst reißt
+alles ab."
 
 ## Offen / wartet auf
-- Konrad: neue Kreditkarte organisieren/freigeben.
+- Konrad: seine neue Kreditkarte hinterlegen.
 - Danach: Slack-Zahlungsmethode aktualisieren, beide Claude-Abos + Team-Abo verlängern.
