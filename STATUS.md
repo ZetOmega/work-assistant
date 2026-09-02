@@ -91,8 +91,11 @@ nächste Woche/in 2 Wochen).
 - **Fr 04.09**: 11:00–11:30 Papaya x SMARTVÉLO Weekly (Teams) · 15:00–15:15 App-Status - Weekly Recap (Teams).
 
 ## ❓ Bitte bestätigen (nichts automatisch gemacht)
-- n8n-Workspace: jetzt auf Pro upgraden oder Thema fallen lassen?
-- Robert wegen Jobvalley-Lagerabbildung nachfassen, oder abwarten?
+- (offen) — aktuell keine.
+
+## Hinweis (02.09, nach dem Repull)
+n8n auf Pro upgegradet ✅ — kein offener Punkt mehr. Jobvalley-Lagerabbildung bei Robert: Philipp wartet
+bewusst ab, kein Nachfassen.
 
 ## Geprüft
 Kalender ✓ · Mail (Inbox+Sent) ✓ (keine neue Mail seit 07:15 CEST) · Teams ✓ (vollständig, 45/45 Chats

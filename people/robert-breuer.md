@@ -75,7 +75,8 @@ deinem Urlaub tiefer rein und ein Update geben"**. → Ball zurück bei Philipp,
   vergessen und **14:05 nachgereicht** ✅.
 
 ## Offen / wartet auf
-**Jobvalley-Lagerabbildung** — Lieferung am 01.09 nachmittags zugesagt, nicht bestätigt (s.o.)
+**Jobvalley-Lagerabbildung** — Lieferung am 01.09 nachmittags zugesagt, nicht bestätigt (s.o.).
+**Philipp wartet bewusst ab (02.09), kein aktives Nachfassen.**
 **🆕 Flink SLA Rückanalyse — Update für Robert vor Philipps Urlaub** (s.o., zeitkritisch)
 Antwort von Philipp, wie Slack-Übersicht/Kündigung praktisch läuft (Workspace-Owner unklar)
 FordPro-Admin-Zugänge (Eric+Philipp) einrichten (Nicht-HIGH-Liste 21.07 gestrichen) · eigener Vertrag lief 20.07 aus — Klärung ob durch Anbieterwechsel aufgefangen · Protokoll-Öffnungsproblem lösen ·

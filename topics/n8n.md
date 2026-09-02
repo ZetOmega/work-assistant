@@ -1,4 +1,7 @@
-# n8n (Workflow-Automatisierung) · Status: 🆕 Upgrade auf Pro offen (Stand 12.08.2026)
+# n8n (Workflow-Automatisierung) · Status: ✅ auf Pro upgegradet (02.09.2026)
+
+## ✅ Update 02.09 — Upgrade erledigt
+Philipp hat n8n (smartvelo.app.n8n.cloud) auf den Pro-Plan upgegradet. Kein offener Punkt mehr.
 
 ## Stand
 - **05.08 ~08:02–08:10 CEST** — Philipp hat sich bei n8n Cloud (smartvelo.app.n8n.cloud) für einen Trial
@@ -14,5 +17,5 @@ inaktiv**. Daten laut n8n **90 Tage sicher** aufbewahrt. Pro-Upgrade war seit 12
 (31.08) nicht umgesetzt — Workspace vermutlich seit ca. 22.08 inaktiv.
 
 ## Offen / wartet auf
-n8n-Abo auf Pro-Plan upgraden (smartvelo.app.n8n.cloud, 60 €/Monat) — noch nicht erledigt, jetzt mit
-Zeitdruck (Workspace inaktiv, 90-Tage-Aufbewahrung läuft). Nutzer: Celine, Philipp, Eric + ggf. weitere.
+Keine — Upgrade ist durch (02.09). Ggf. noch Celine/Eric/weitere Nutzer einladen, falls nicht schon
+geschehen *(unbestätigt)*.
