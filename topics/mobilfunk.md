@@ -247,6 +247,15 @@ Ende August (31.08.), wem welche Nummer gehört. Ohne Rückmeldung wird gekündi
 vom 13.08., kein Beleg dass die Nachricht je verschickt wurde (direkt vor dem Urlaub) — also keine aktive,
 kommunizierte Frist, nur Philipps eigener Plan, ggf. noch umzusetzen.**
 
+## 🆕 02.09 — eSIM-Guide-Mails vorbereitet (Phase A fertig, Versand wartet auf Go)
+- **12 Entwürfe liegen in support@ → Entwürfe**, je 1 pro Kolleg:in, mit eigenem Telekom-eSIM-PDF
+  (`Telekom-eSIM_0151-XXXXXXXX_Portierung-JJJJ-MM-TT.pdf`) und Exchange-Sendeverzögerung auf **09:00 Berlin, 7 Tage vor Port-Datum**.
+  Mechanismus per Probe-Mail verifiziert (bleibt bis zur Sekunde in Entwürfe, dann raus; Abbruch = Entwurf löschen).
+- Sendeplan: 04.09 Celine · 17.09 Simon K. Rath · 21.09 Gag+Oleg · 22.09 Pramod · 24.09 Cagatay+Jerome+Simon Seedorf · 28.09 Roman+Rick+Paul · 29.09 Joshua.
+- **Nicht dabei:** Nils (Handy gestohlen — Port 08.09 läuft trotzdem, Sperre via mobilezone/greendevice-MDM offen), Philipp, 53467753, 53464791.
+- Text (Owner-Freigabe 02.09): EIN Template für alle, Du-Form, kurz; am Port-Tag morgens direkt QR scannen (Portierung meist ~6 Uhr), alle iPhone; niemand muss aktivieren.
+- Tooling: `docs/esim-portierung/` (schedule.json, template.html, esim_guide_mailer.py, README). **Phase B = `--send --yes-really`** — muss VOR dem frühesten Termin (Fr 04.09 09:00) laufen, sonst geht Celines Mail sofort raus.
+
 ## 🆕 Update 31.08 — zwei offene Bonamic-Todos (neben Kostenaufstellung IT-Managed-Service)
 1. **o2/Vodafone-Portierungsstatus bei Bonamic (Niclas Maiwald/Daniela) abfragen** (s.o.) — inkl. der
    unklaren Nummern-Liste. Die 31.08-Frist war nur Philipps eigene Planung, nie kommuniziert. **Weiter
