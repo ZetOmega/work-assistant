@@ -255,6 +255,7 @@ kommunizierte Frist, nur Philipps eigener Plan, ggf. noch umzusetzen.**
 - **Nicht dabei:** Nils (Handy gestohlen — Port 08.09 läuft trotzdem, Sperre via mobilezone/greendevice-MDM offen), Philipp, 53467753, 53464791.
 - Text (Owner-Freigabe 02.09): EIN Template für alle, Du-Form, kurz; am Port-Tag morgens direkt QR scannen (Portierung meist ~6 Uhr), alle iPhone; niemand muss aktivieren.
 - Tooling: `docs/esim-portierung/` (schedule.json, template.html, esim_guide_mailer.py, README). **Phase B = `--send --yes-really`** — muss VOR dem frühesten Termin (Fr 04.09 09:00) laufen, sonst geht Celines Mail sofort raus.
+- Cancel-Probe 02.09 12:31Z: DELETE auf abgeschickten Deferred-Entwurf → 204, Objekt weg, nichts zugestellt (verifiziert).
 
 ## 🆕 Update 31.08 — zwei offene Bonamic-Todos (neben Kostenaufstellung IT-Managed-Service)
 1. **o2/Vodafone-Portierungsstatus bei Bonamic (Niclas Maiwald/Daniela) abfragen** (s.o.) — inkl. der
