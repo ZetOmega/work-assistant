@@ -151,7 +151,7 @@ an den jeweiligen Kollegen kurz vor seinem Termin weitergeben.
 | 29.09.2026 | 0151 53464615 | Pramod Mallipudi *(per Testanruf bestätigt)* | eSIM-Brief · Neuvertrag seit 29.07. |
 | 01.10.2026 | 0151 53410779 | Cagatay Oguz | eSIM-Brief |
 | 01.10.2026 | 0151 53410886 | Jerome Rath | eSIM-Brief |
-| 01.10.2026 | 0151 53411114 | Jakob Volksdorf | eSIM-Brief (Nummer vormals Fiona) |
+| 01.10.2026 | 0151 53411114 | Simon Seedorf (Berlin) | eSIM-Brief (Nummer vormals Jakob Volksdorf, davor Fiona — Jakob ausgeschieden 02.09.) |
 | 05.10.2026 | 0151 53413625 | Roman Mikhline | eSIM-Brief |
 | 05.10.2026 | 0151 53413633 | Paul Papke | Zugangsprofil-Brief (PIN/PUK) |
 | 05.10.2026 | 0151 53413634 | Rick van de Bult | eSIM-Brief |
@@ -223,7 +223,7 @@ liegen, muss über die Verträge/Rechnungen geklärt werden, nicht über die Num
 | 0151 53464615 | Pramod Mallipudi | 29.09.2026 | |
 | 0151 53410779 | Cagatay Oguz | 01.10.2026 | |
 | 0151 53410886 | Jerome Rath | 01.10.2026 | |
-| 0151 53411114 | Jakob Volksdorf | 01.10.2026 | |
+| 0151 53411114 | Simon Seedorf | 01.10.2026 | Nummer vormals Jakob Volksdorf (ausgeschieden 02.09.), davor Fiona · Simon sitzt in Berlin — eSIM-Brief war für Jakob/Köln geroutet |
 | 0151 53413625 | Roman Mikhline | 05.10.2026 | |
 | 0151 53413633 | Paul Papke | 05.10.2026 | |
 | 0151 53413634 | Rick van de Bult | 05.10.2026 | |
