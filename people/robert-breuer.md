@@ -64,9 +64,18 @@ deinem Urlaub tiefer rein und ein Update geben"**. → Ball zurück bei Philipp,
   Philipp+Eric weiter, bittet um Rückmeldung, ob Philipp mit den neuen Endpunkten arbeiten kann bzw. was er
   noch braucht. **✅ 31.08 von Philipp beantwortet.**
 
-## ✅ 02.09 — jobvalley-Zahlen geliefert (laut Philipp)
+## ✅ 02.09 — jobvalley-Rechnungszahlen geliefert (laut Philipp)
+
+## Nachtrag 01.09 (separat von den Rechnungszahlen, beim Repull 02.09 gefunden)
+- **08:40 CEST — Philipp bittet um Jobvalley-Lagerabbildung** (Matchings IoT↔BikeID, welche Bikes
+  ursprünglich Jobvalley gehören, welches Lager). **08:57 — Robert**: versucht es heute Nachmittag
+  unterzukriegen, fragt ob Philipps Maske für den Abgleich bereit ist. Philipp: „ja, ab jetzt nützlich."
+  **Keine Bestätigung, ob geliefert — ggf. nachfassen.**
+- 13:30–14:05 CEST (31.08): Robert fragt nach Bullet-Points für jobvalley, Philipp hatte eine Datei
+  vergessen und **14:05 nachgereicht** ✅.
 
 ## Offen / wartet auf
+**Jobvalley-Lagerabbildung** — Lieferung am 01.09 nachmittags zugesagt, nicht bestätigt (s.o.)
 **🆕 Flink SLA Rückanalyse — Update für Robert vor Philipps Urlaub** (s.o., zeitkritisch)
 Antwort von Philipp, wie Slack-Übersicht/Kündigung praktisch läuft (Workspace-Owner unklar)
 FordPro-Admin-Zugänge (Eric+Philipp) einrichten (Nicht-HIGH-Liste 21.07 gestrichen) · eigener Vertrag lief 20.07 aus — Klärung ob durch Anbieterwechsel aufgefangen · Protokoll-Öffnungsproblem lösen ·

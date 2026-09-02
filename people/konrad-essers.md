@@ -95,9 +95,15 @@ Philipp meldet: E-Mails Jens/Christian/Natalia erstellt ✅ · Kreditkarte über
 Bonamic-Portierung (o2/Vodafone) weitergeführt. Im 11:00-Weekly wird „alles neu gecheckt", manche Termine
 sind abgesagt.
 
+## Nachtrag 31.08 16:33 CEST (Teams, beim Repull 02.09 gefunden)
+- „mein Internet spinnt, kann diverse Seiten nicht öffnen" — Ursprung des bis heute laufenden WLAN-Themas.
+- „zu welchen Netzanbietern wechseln wir gerade bei Bonamic? nicht o2 oder?" — **unbeantwortet.**
+- „morgen einmal Todolo bitte einrichten" — unklar was gemeint ist *(unbestätigt)*, keine Reaktion sichtbar.
+
 ## Offen / wartet auf
 **WLAN-Problem** (seit 31.08, Philipp braucht Laptop+Passwort — wird im 11:00-Weekly heute nochmal
-aufgenommen) · **Endgeräte-Angebot heute besprechen**
+aufgenommen) · **Netzanbieter-Frage (31.08) unbeantwortet** · **„Todolo"-Bitte (31.08) unklar/offen** ·
+**Endgeräte-Angebot heute besprechen**
 **E-Mail-Adressen für Jens, Christian, Natalia anlegen** — Namen liegen jetzt vor (Celine, 31.08: Jens
 Hemmerich, Christian Borowski, Natalia Isenmann), Simon bereits erledigt
 **Odoo-Lizenzentscheidung 1/2/5 Jahre** — Headcount auf 20 angepasst (31.07), Laufzeit weiter offen, danach unterschreibt Konrad
