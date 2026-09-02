@@ -249,10 +249,12 @@ kommunizierte Frist, nur Philipps eigener Plan, ggf. noch umzusetzen.**
 
 ## 🆕 Update 31.08 — zwei offene Bonamic-Todos (neben Kostenaufstellung IT-Managed-Service)
 1. **o2/Vodafone-Portierungsstatus bei Bonamic (Niclas Maiwald/Daniela) abfragen** (s.o.) — inkl. der
-   unklaren Nummern-Liste. Die 31.08-Frist war nur Philipps eigene Planung, nie kommuniziert.
-2. **Bonamic-Mail 26.08 (Niclas Maiwald), „Ihre Bestellung: Apple Business Manager Daten und Laptop-
-   Auswahl"** — adressiert an Konrad, verweist aber auf ein bereits vorliegendes Business-Laptop-Angebot an
-   Philipp. Noch nicht bearbeitet/beantwortet.
+   unklaren Nummern-Liste. Die 31.08-Frist war nur Philipps eigene Planung, nie kommuniziert. **Weiter
+   offen (Stand 02.09).**
+2. **✅ 31.08 07:31 CEST beantwortet** — Philipp an Bonamic/Konrad/greendevice: Org-ID smart-velo
+   „85158088" mitgeteilt, um Bonamics Org-ID gebeten (unklar, welche „die E-Mail" gemeint war, hat
+   admin@smart-velo.com als eine Admin-Mail genannt). **Ball liegt jetzt bei Bonamic**, keine Antwort
+   bislang (Stand 02.09).
 
 ### Falls während des Urlaubs was reinkommt
 - **eSIM-Brief von Bonamic/Telekom** → Nummer in `~/Downloads/esims-split/` bzw. im Adressbuch nachschlagen,

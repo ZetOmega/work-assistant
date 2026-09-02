@@ -1,4 +1,13 @@
-# ERP / Odoo (OBS Solutions)  · Status: aktiv — Timeline verschoben auf Nov/Dez (04.08)
+# ERP / Odoo (OBS Solutions)  · Status: aktiv — Vertrag liegt vor, wartet auf Konrads Unterschrift (01.09)
+
+## 🆕 Update 01.09 — Go an OBS raus, finales Angebot da
+- **01.09 05:20 CEST — Philipp an Stefan Arens**: „wir würden gerne unterschreiben. Wie besprochen wollen
+  wir 100h nehmen. Kannst du heute dazu alles für Konrad so fertig machen dass er nur noch unterschreiben
+  muss?" — offenbar Ergebnis des Termins „Odoo x Unterzeichnen" (ganztägig, 01.09).
+- **01.09 13:26 CEST — Stefan Arens antwortet**: „freut mich das wir starten können!" — schickt AGB +
+  finales Angebot **SO/260610103** als Anhang, fragt ob das für Konrad so passt.
+- **Wartet jetzt auf Konrads Unterschrift.** Kein weiterer Nachfass-Punkt bei Philipp, bis Konrad reagiert
+  hat oder nachfragt.
 
 ## Update 20.08 — Stefan Arens antwortet direkt an Philipp
 Stefan Arens (OBS) schreibt **20.08 16:23 CEST direkt an Philipp** (nicht mehr über Konrad): bedankt sich für

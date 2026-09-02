@@ -52,12 +52,20 @@ Woche", meldet sich dann mit neuem Passwort an.** → terminiert, kein akuter Pu
 beantwortet Philipps Vertragsauslegungs-Fragen vom 30.07 inhaltlich in Rot, bittet ausdrücklich **„vor
 deinem Urlaub tiefer rein und ein Update geben"**. → Ball zurück bei Philipp, siehe topics/flink-service.md.
 
+## Update 01.–02.09 (Teams)
+- **01.09 12:25–14:03 CEST**: bittet um jobvalley-Zahlen für die Rechnungen — gebuchte Termine
+  (Herausgaben + Rückgaben getrennt) für August, zusätzlich **getrennt nach Uber/Lieferando**.
+- **02.09 06:15 CEST**: „Top!! Wenn die App ausgerollt ist, brauche ich das bis auf Weiteres für alle
+  Standorte so am Anfang des Monats" — will die Auswertung künftig monatlich für alle Standorte.
+  **🆕 Offen — Philipp muss die August-Zahlen liefern.**
+
 ## Update 19.08 (während Philipps Urlaub)
 - **19.08 06:50 CEST — Mail „WG: Neue Versionen der Endpunkte für die Ford Telematics REST-API"**: leitet an
   Philipp+Eric weiter, bittet um Rückmeldung, ob Philipp mit den neuen Endpunkten arbeiten kann bzw. was er
   noch braucht. **✅ 31.08 von Philipp beantwortet.**
 
 ## Offen / wartet auf
+**🆕 jobvalley-Zahlen August liefern** (Herausgaben/Rückgaben, Uber/Lieferando getrennt, s.o.)
 **🆕 Flink SLA Rückanalyse — Update für Robert vor Philipps Urlaub** (s.o., zeitkritisch)
 Antwort von Philipp, wie Slack-Übersicht/Kündigung praktisch läuft (Workspace-Owner unklar)
 FordPro-Admin-Zugänge (Eric+Philipp) einrichten (Nicht-HIGH-Liste 21.07 gestrichen) · eigener Vertrag lief 20.07 aus — Klärung ob durch Anbieterwechsel aufgefangen · Protokoll-Öffnungsproblem lösen ·

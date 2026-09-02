@@ -1,70 +1,85 @@
-# STATUS — Stand Mo 31.08.2026, 09:37 CEST
+# STATUS — Stand Mi 02.09.2026, 09:17 CEST
 
-## 🔥 Heute (Mo 31.08 — erster Tag zurück aus dem Urlaub)
-- **10:00–10:30 PxKxE Statusmeeting** (Teams) · **10:30–11:00 PxRxE Jobvalley** (Teams, **aber Eric sagt im
-  Chat 14:30 — Diskrepanz, vor dem Termin klären**) · **11:00–11:30 Papaya Reminder – Vertragslaufzeit**
-  (Teams) · **11:00–11:30 Label Druck DHL** (Teams, parallel) · **12:00–12:15 Weekly x Büro Köln** (Venloer
-  Str. 515, vor Ort) · **12:15–12:30 Projekte KI** (Teams) · **15:30–15:45 Papaya Vertrag** (Teams)
-- **Kreditkarte**: Konrad schlägt Roberts Karte vor (nicht seine eigene), Philipp hat nachgefragt ob das auch
-  die Claude-Abos abdeckt — noch keine Antwort.
-- **Celine hat die Namen geliefert** (08:39 CEST): Jens Hemmerich, Christian Borowski, Natalia Isenmann —
-  E-Mails können jetzt angelegt werden (Simon ist schon erledigt).
-- Robert-Papaya-IoT-Sync-To-Do ist heute fällig, läuft nebenbei, keine Eile.
+## 🔥 Heute (Mi 02.09)
+- **11:00–11:30 Konrad x Philipp Weekly** (Teams)
+- **⚠️ Heute fällig**: Print-Mailing bei der Deutschen Post aufsetzen — Celine hat gestern 15:49 CEST gefragt
+  „könntest du das morgen aufsetzen?", Philipp hatte vorgeschlagen es per Online-Formular zu machen. Noch
+  nicht bestätigt erledigt.
+- **Robert-Papaya-IoT-Sync-To-Do ist seit 31.08 überfällig** (2 Tage) — noch nicht nachgefasst.
 
-## 🆕 Ganz frisch (heute Morgen, Teams mit Konrad)
-- **Konrad meldet WLAN-Probleme** seit dem neuen Setup — Verbindung bricht öfter ab, manche Seiten (z. B.
-  Sparkasse) laden nicht. Philipp: „nichts eingestellt, ich schau's mir an" — **noch offen, Ergebnis steht
-  aus.**
-- **Konrad will „das Thema bei den Mails" abstellen** („nur noch mehr Text") — unklar, was genau gemeint
-  ist. Philipp hat nachgefragt, **Konrad hat noch nicht geantwortet.**
+## 🆕 Ganz frisch (seit letztem Lauf Mo 31.08, 09:37 CEST)
+- **Odoo/OBS deutlich vorangekommen**: Philipp hat Stefan Arens 01.09 07:20 CEST grünes Licht gegeben
+  („wir würden gerne unterschreiben, 100h-Paket") und um ein unterschriftsfertiges Angebot für Konrad
+  gebeten. Stefan hat noch am selben Tag (13:26 CEST) das finale Angebot SO/260610103 + AGB geschickt.
+  **Wartet jetzt auf Konrads Unterschrift.**
+- **Konrads WLAN-Problem**: weiter ungelöst. Teams 01.09 10:38–10:39 CEST: Konrad „ich kann so echt nicht
+  arbeiten, wie machen wir das jetzt" — Philipp braucht dafür Konrads Laptop (10–15+ Min). Per Mail
+  „Re: Internt x Mails" (02.09 07:18 CEST, an Konrad+Celine) hat Philipp das nochmal erklärt: braucht
+  Laptop + Passwort (oder Konrad selbst zum Eingeben) für einige Zeit. **Weiter offen, wartet auf Konrad.**
+- **Konrads „Mail-Thema"-Frage**: in derselben Mail (02.09 07:18 CEST) beantwortet — ✅ erledigt.
+- **Robert bittet um jobvalley-Zahlen August** (Teams, 01.09–02.09): gebuchte Termine (Herausgaben +
+  Rückgaben getrennt), zusätzlich getrennt nach Uber/Lieferando; will das künftig monatlich für alle
+  Standorte. **Offen — Philipp muss liefern.**
+- **Konrad fragt nach mehr Arbeitsstunden** (Teams 01.09 15:07 CEST: wundert sich, dass Philipp „immer sehr
+  auf die Minute geht"). Philipp hat 02.09 05:35–05:38 CEST geantwortet (schlecht geschlafen, schwer
+  vorhersagbar, versucht mehr zu machen). ✅ beantwortet, ggf. Reaktion von Konrad abwarten.
 
-## ✅ Seit letztem Lauf (14.08, 11:08 CEST) geklärt
-- Lukas Laarmanns 6 Themen vom 14.08 waren entgegen dem letzten Stand tatsächlich schon am 14.08 beantwortet
-  (Datenkorrektur, Details in `people/lukas-laarmann.md`).
-- Lukas' neue Frage vom 26.08 (Art.-Nr. in Papaya) ist beantwortet.
-- Ford-Pro-API-Feedback an Robert ist raus.
-- Simon-Mailadresse ist erstellt; Namen für Jens/Christian/Natalia liegen jetzt vor (s. oben).
+## ✅ Seit letztem Lauf geklärt
+- **Google-Ads-Conversion-Tracking**: Tags sind aktiv (Mos Dalichau, 01.09), „klappt jetzt alles?" —
+  Thema aus Sicht des Mail-Threads durch.
+- **Apple Business Manager**: Philipp hat Bonamic am 31.08 seine Org-ID (85158088) geschickt und deren
+  Org-ID angefragt — Ball liegt jetzt bei Bonamic statt bei Philipp.
+- **Bonamic-BusinessCards-Übergabe** (Ticket „keine SO – 17xTK BusinessCards"): Philipp hat zugestimmt
+  („Das klingt gut!", 02.09 07:59 CEST).
+- **Bonamic DaaS o2 5× iPhone 16**: unterschriebene Dokumente sind raus (01.09 09:30 CEST).
+- **Grok-Bot (Adrian Hotz)**: Philipp verschiebt bewusst auf nächste Woche, kein aktiver Punkt.
 
 ## 🔄 Läuft, braucht Reaktion
-- **Kreditkarte/Zahlungsmittel** (s. oben + `topics/zahlungsmittel-abos.md`) — wartet auf Konrads Antwort,
-  ob Roberts Karte auch die Claude-Abos abdeckt.
-- **Jobvalley-Meeting-Uhrzeit heute unklar** (Kalender 10:30 CEST vs. Eric im Chat „14:30") — klären.
-- **Konrads WLAN-Problem** — Philipp prüft.
-- **Konrads „Mail-Thema"-Frage** — Rückfrage unbeantwortet.
-- **E-Mails für Jens/Christian/Natalia anlegen** — Namen da, Umsetzung steht noch aus.
-- **Bonamic-Kostenaufstellung** — Philipp bereitet sie auf, bespricht sie mit Konrad.
-- **OBS/Stefan Arens** — wird morgen (01.09) beim Termin „Odoo x Unterzeichnen" mit Konrad besprochen.
-- **o2/Vodafone-Portierung bei Bonamic** abfragen und **Apple-Business-Manager/Laptop-Mail** (26.08) — beide
-  noch offen, s. `topics/mobilfunk.md`.
+- **Print-Mailing Deutsche Post** — heute aufsetzen (s. „Heute").
+- **Versandlogistik Flyer-Aktion/Sticker** — Philipp wartet auf Celines DHL-Business-Kontaktdaten.
+- **Odoo/OBS-Vertrag** — wartet auf Konrads Unterschrift (Angebot liegt vor).
+- **Kreditkarte/Zahlungsmittel** (Slack + beide Claude-Abos + Team-Claude-Abo) — weiter keine Antwort von
+  Konrad, ob Roberts Karte auch die Claude-Abos abdeckt (jetzt 2 Tage offen).
+- **E-Mails für Jens/Christian/Natalia anlegen** — Namen liegen seit 31.08 vor, Umsetzung noch offen.
+- **Bonamic-Kostenaufstellung** — dazu jetzt zusätzlich ein Endgeräte-Angebot (31.08, Florian Pfeil)
+  eingegangen. Beides noch nicht mit Konrad besprochen.
+- **o2/Vodafone-Portierungsstatus bei Bonamic** abfragen — weiter offen.
+- **Jobvalley-Zahlen für Robert liefern** (August, Uber/Lieferando getrennt).
+- **Konrad-WLAN** — braucht Laptop + Passwort von Konrad.
 - **Axa-Ringschloss-Analyse** — weiter Philipps eigenes To-Do.
 
 ## ⏳ Läuft nebenbei, keine Eile
-- Hanisch/Glasfaser · Klimageräte (Konrad) · Papaya-API (wartet auf Arianna) · SD-Karte Büro vorne ·
-  n8n-Pro-Upgrade (Trial seit 19.08 abgelaufen) · Celine-Muster-CSV · Vodafone-Vertriebsmail.
+Hanisch/Glasfaser · Klimageräte (Konrad) · Papaya-API (wartet auf Arianna) · SD-Karte Büro vorne ·
+n8n-Pro-Upgrade (Trial abgelaufen) · Celine-Muster-CSV · Vodafone-Vertriebsmail · Papaya-Vertragslaufzeit
+(Philipps Position vom 31.08 „erst kündigen, dann 6-Monats-Verlängerung verhandeln" steht im Raum an
+Anna/Robert/Henry/Konrad/Eric, noch keine Reaktion).
 
-## 🟡 Ich (Philipp) — Microsoft To-Do (5 offen, unverändert)
-- [ ] Robert nach dem Urlaub zu Papaya-IoT-Sync nachfassen (fällig 31.08, läuft nebenbei)
+## 🟡 Ich (Philipp) — Microsoft To-Do (5 offen)
+- [ ] ⚠️ Robert nach Papaya-IoT-Sync nachfassen (fällig 31.08, **2 Tage überfällig**)
 - [ ] Hanisch: Telefon/Zugang Glasfaserausbau NetCologne
 - *(noch nicht relevant: Papaya-API-Feature-Request — wartet auf Arianna · Wissensdatenbank/Video fällig
   29.11 · SharePoint-Restrukturierung fällig 20.09)*
 
 ## 💬 Teams
-- **Konrad**: WLAN-Frage + Mail-Thema-Frage (beide offen, s. oben) + Kreditkarten-Ask (raus, wartet auf
-  Antwort).
-- **Celine**: Namen für Jens/Christian/Natalia geliefert — erledigt.
-- **Lukas Laarmann**: neue Frage vom 26.08 beantwortet — erledigt.
-- **AI SMARTVÉLO (Gruppe)**: Simon-Mail erledigt, Rest der E-Mail-Bitte läuft.
-- **Venloer Str. 515, Eric, Robert, Jurgen, Sven, Cagatay, Simon Schröder**: keine neuen Nachrichten.
+- **Konrad**: WLAN (weiter offen) + Mail-Thema (beantwortet) + Arbeitsstunden-Frage (beantwortet) +
+  Kreditkarte (weiter offen, s.o.).
+- **Robert**: positives Feedback zum Bike-Service-App-Meeting („Top!!") + jobvalley-Zahlen-Anfrage (offen,
+  s.o.).
+- **Celine**: Print-Mailing/DHL-Logistik (Umschlagmaße, Gewicht) — läuft im Rahmen des heutigen Punkts.
+- **Joshua**: nur kurze Bestätigungen, nichts offen.
+- **Sven**: eine Nachricht mit Bearbeitungsstempel 01.09, kein neuer Inhalt erkennbar.
+- **Restliche Chats** (AI SMARTVÉLO, Lukas Laarmann, Eric Frey, Simon Schröder, Venloer Str. 515 u. a.):
+  **nicht abschließend geprüft — Graph-Rate-Limit (429) nach 3 Versuchen.**
 
-## 📅 Termine diese Woche (Mo 31.08 – Fr 04.09)
-- **Mo 31.08**: s. „Heute" oben.
-- **Di 01.09**: Odoo x Unterzeichnen (ganztägig) · 09:15–09:30 Konrad x Philipp Weekly · 10:00–10:30 Luca
-  GoogleAds · 11:00–11:30 Google Ads.
-- **Fr 04.09**: 11:00–11:30 Papaya x SMARTVÉLO Weekly.
+## 📅 Termine diese Woche (Mi 02.09 – Fr 04.09)
+- **Mi 02.09**: 11:00–11:30 Konrad x Philipp Weekly (Teams).
+- **Do 03.09**: 11:00–12:00 Tool/App Bike Service x Ressourcen (Personal/Van) (Teams).
+- **Fr 04.09**: 11:00–11:30 Papaya x SMARTVÉLO Weekly (Teams) · 15:00–15:15 App-Status - Weekly Recap (Teams).
 
 ## ❓ Bitte bestätigen (nichts automatisch gemacht)
+- Print-Mailing bei der Deutschen Post heute aufsetzen — ok?
 - n8n-Workspace: jetzt auf Pro upgraden oder Thema fallen lassen?
 
 ## Geprüft
-Kalender ✓ · Mail (Inbox+Sent) ✓ — keine neue Mail seit 07:09 CEST · Teams (Konrad- und Celine-1:1 seit
-07:09 CEST neu geprüft, alles andere unverändert seit letztem Durchlauf) ✓ · To-Dos ✓ (unverändert)
+Kalender ✓ · Mail (Inbox+Sent) ✓ · Teams (5 von ~13 seit 31.08 potenziell aktiven Chats gelesen: Robert,
+Konrad, Celine, Joshua, Sven — Rest wegen Graph-429 nicht abschließend geprüft) · To-Dos ✓

@@ -41,6 +41,12 @@ Anhänge: Angebot EST-000558.pdf, Synology-Datenblätter. **Stand 31.08: noch ni
 Kostenaufstellung an Konrad weitergeben — am besten im Meeting (nicht nur per Mail/Weiterleitung). Philipp
 macht sie „ready" (vermutlich Zusammenfassung/Aufbereitung vor der Weitergabe).
 
+## 🆕 Update 31.08 14:39 CEST — zusätzlich Endgeräte-Angebot eingegangen
+Florian Pfeil (Bonamic) schickt ein weiteres indikatives Angebot, diesmal für **Endgeräte** (abgestimmte
+Modelle, Supporterweiterung 3/5 Jahre optional). Gehört inhaltlich zum selben Gesamtpaket wie die
+Kostenaufstellung vom 14.08 — **beides noch nicht mit Konrad besprochen (Stand 02.09).**
+
 ## Offen / wartet auf
 - Keine Deadline — Entscheidung „im September" avisiert.
-- Kostenaufstellung für Konrad vorbereiten und im nächsten Meeting mit ihm besprechen.
+- Kostenaufstellung (M365/Hornetsecurity/Backup) **+ jetzt auch Endgeräte-Angebot** für Konrad vorbereiten
+  und im nächsten Meeting mit ihm besprechen.

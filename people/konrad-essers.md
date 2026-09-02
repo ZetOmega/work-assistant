@@ -74,9 +74,24 @@ der Woche + Rückblick.
 und Natalia die Daten kriegst du von Celine." **31.08: Simon-Mail erstellt ✅. Jens, Christian, Natalia
 noch offen.**
 
+## Update 01.–02.09 (Teams + Mail)
+- **01.09 09:15–10:39 CEST**: WLAN-Thema eskaliert — Konrad: „Hast du mal mit dem Wlan geschaut?" →
+  „ja ich kann so echt nicht arbeiten wie machen wir das jetzt" → Philipp: „ich bräuchte deinen laptop um
+  da was tiefer rein zu gehen, könnte 10 minuten dauern, vielleicht auch länger" → Konrad: „ist das jetzt
+  aktualisiert?" (unklare Antwort). **02.09 07:18 CEST (Mail „Re: Internt x Mails", an Konrad+Celine)**:
+  Philipp erklärt nochmal ausführlich, dass er dafür Laptop + Passwort (oder Konrad selbst zum Eingeben)
+  für einige Zeit braucht, und beantwortet dort auch die „Mail-Thema"-Frage vom 31.08. **WLAN weiter offen
+  (wartet auf Konrad), Mail-Thema ✅ beantwortet.**
+- **01.09 15:07 CEST**: Konrad fragt nach Mehrarbeit, wundert sich, dass Philipp „immer sehr auf die Minute
+  geht". **02.09 05:35–05:38 CEST**: Philipp antwortet — hatte am Vortag schlecht geschlafen, ist nach
+  Kernzeit gegangen (8h aber voll), kann Mehrarbeit „nicht so genau vorhersagen, ist sehr tagesabhängig",
+  Konzentration lässt nach 8h nach. ✅ beantwortet.
+- **Kreditkarte**: weiter keine Antwort auf Philipps Nachfrage vom 31.08 09:27 CEST („auch für meine KI
+  Abos?"), ob Roberts Karte auch die Claude-Abos abdeckt.
+
 ## Offen / wartet auf
-**🆕 WLAN-Problem seit Update prüfen** (Konrad, 31.08) · **🆕 unklares „Mail-Thema" abstellen** (Rückfrage
-offen, 31.08) · **🆕 Antwort zur neuen Kreditkarte** (31.08, dringend)
+**WLAN-Problem** (seit 31.08, Philipp braucht Laptop+Passwort, s.o.) · **Antwort zur neuen Kreditkarte**
+(seit 31.08, dringend)
 **E-Mail-Adressen für Jens, Christian, Natalia anlegen** — Namen liegen jetzt vor (Celine, 31.08: Jens
 Hemmerich, Christian Borowski, Natalia Isenmann), Simon bereits erledigt
 **Odoo-Lizenzentscheidung 1/2/5 Jahre** — Headcount auf 20 angepasst (31.07), Laufzeit weiter offen, danach unterschreibt Konrad
