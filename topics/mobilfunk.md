@@ -247,7 +247,7 @@ Ende August (31.08.), wem welche Nummer gehört. Ohne Rückmeldung wird gekündi
 vom 13.08., kein Beleg dass die Nachricht je verschickt wurde (direkt vor dem Urlaub) — also keine aktive,
 kommunizierte Frist, nur Philipps eigener Plan, ggf. noch umzusetzen.**
 
-## 🆕 02.09 — eSIM-Guide-Mails vorbereitet (Phase A fertig, Versand wartet auf Go)
+## 🆕 02.09 — eSIM-Guide-Mails PHASE B AUSGEFÜHRT (12 Entwürfe im Deferred-Hold, Versand automatisch je 7 Tage vor Portierung 09:00)
 - **12 Entwürfe liegen in support@ → Entwürfe**, je 1 pro Kolleg:in, mit eigenem Telekom-eSIM-PDF
   (`Telekom-eSIM_0151-XXXXXXXX_Portierung-JJJJ-MM-TT.pdf`) und Exchange-Sendeverzögerung auf **09:00 Berlin, 7 Tage vor Port-Datum**.
   Mechanismus per Probe-Mail verifiziert (bleibt bis zur Sekunde in Entwürfe, dann raus; Abbruch = Entwurf löschen).
@@ -256,6 +256,10 @@ kommunizierte Frist, nur Philipps eigener Plan, ggf. noch umzusetzen.**
 - Text (Owner-Freigabe 02.09): EIN Template für alle, Du-Form, kurz; am Port-Tag morgens direkt QR scannen (Portierung meist ~6 Uhr), alle iPhone; niemand muss aktivieren.
 - Tooling: `docs/esim-portierung/` (schedule.json, template.html, esim_guide_mailer.py, README). **Phase B = `--send --yes-really`** — muss VOR dem frühesten Termin (Fr 04.09 09:00) laufen, sonst geht Celines Mail sofort raus.
 - Cancel-Probe 02.09 12:31Z: DELETE auf abgeschickten Deferred-Entwurf → 204, Objekt weg, nichts zugestellt (verifiziert).
+
+**Phase B 02.09 12:49Z (Owner-Go):** `--send --yes-really` → submitted 12, failed 0. Graph-Verify danach: 12 in support@ Entwürfe (isDraft true, 0x3FEF intakt), Sent 0, Empfänger-Postfächer 0. Exchange verschickt jede Mail automatisch zur Deferred-Zeit (erste: Celine Fr 04.09 09:00, letzte: Joshua Di 29.09 09:00).
+**Abbruch einzelner Mail:** Entwurf in support@ Entwürfe löschen VOR seiner Deferred-Zeit (verifiziert: DELETE → nie zugestellt). Oder `esim_guide_mailer.py --delete --yes-really --only <mail>`.
+**Monitoring:** Do 03.09 abends `--list` (Celine noch in Entwürfe) · Fr 04.09 nach 09:00 `--list` + Celine-Inbox prüfen (erster Long-Hold-Beweis, Probe war 5 min / hier 43 h). Danach Joshua 27 Tage Hold — Stichprobe nach 17.09 (Simon).
 
 ## 🆕 Update 31.08 — zwei offene Bonamic-Todos (neben Kostenaufstellung IT-Managed-Service)
 1. **o2/Vodafone-Portierungsstatus bei Bonamic (Niclas Maiwald/Daniela) abfragen** (s.o.) — inkl. der
