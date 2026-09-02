@@ -33,19 +33,22 @@
   („Das klingt gut!", 02.09 07:59 CEST).
 - **Bonamic DaaS o2 5× iPhone 16**: unterschriebene Dokumente sind raus (01.09 09:30 CEST).
 - **Grok-Bot (Adrian Hotz)**: Philipp verschiebt bewusst auf nächste Woche, kein aktiver Punkt.
+- **Kreditkarte/Zahlungsmittel**: ✅ 02.09 — Philipp hat jetzt eine eigene Karte via Spendesk, damit gelöst
+  (anders als geplant, nicht über Roberts Karte).
+- **E-Mails für Jens/Christian/Natalia**: ✅ 02.09 erstellt.
+- **Jobvalley-Zahlen für Robert**: ✅ 02.09 geliefert.
 
 ## 🔄 Läuft, braucht Reaktion
-- **Print-Mailing Deutsche Post** — heute aufsetzen (s. „Heute").
+- **Print-Mailing Deutsche Post** — läuft, ist laut Philipp (02.09) „in Klärung, viel Arbeit", noch nicht
+  fertig aufgesetzt.
 - **Versandlogistik Flyer-Aktion/Sticker** — Philipp wartet auf Celines DHL-Business-Kontaktdaten.
 - **Odoo/OBS-Vertrag** — wartet auf Konrads Unterschrift (Angebot liegt vor).
-- **Kreditkarte/Zahlungsmittel** (Slack + beide Claude-Abos + Team-Claude-Abo) — weiter keine Antwort von
-  Konrad, ob Roberts Karte auch die Claude-Abos abdeckt (jetzt 2 Tage offen).
-- **E-Mails für Jens/Christian/Natalia anlegen** — Namen liegen seit 31.08 vor, Umsetzung noch offen.
-- **Bonamic-Kostenaufstellung** — dazu jetzt zusätzlich ein Endgeräte-Angebot (31.08, Florian Pfeil)
-  eingegangen. Beides noch nicht mit Konrad besprochen.
-- **o2/Vodafone-Portierungsstatus bei Bonamic** abfragen — weiter offen.
-- **Jobvalley-Zahlen für Robert liefern** (August, Uber/Lieferando getrennt).
-- **Konrad-WLAN** — braucht Laptop + Passwort von Konrad.
+- **Bonamic-Kostenaufstellung + Endgeräte-Angebot** — Philipp trägt das Endgeräte-Angebot heute an Konrad
+  heran.
+- **o2/Vodafone-Portierungsstatus bei Bonamic** — laut Philipp (02.09) weitergeführt, noch nicht
+  abgeschlossen.
+- **Konrad-WLAN** — braucht Laptop + Passwort von Konrad; wird im 11:00-Weekly heute nochmal
+  aufgenommen (Philipp: „machen wir dann gleich, check nochmal alles neu, manche Termine abgesagt etc.").
 - **Axa-Ringschloss-Analyse** — weiter Philipps eigenes To-Do.
 
 ## ⏳ Läuft nebenbei, keine Eile
@@ -77,8 +80,13 @@ Anna/Robert/Henry/Konrad/Eric, noch keine Reaktion).
 - **Fr 04.09**: 11:00–11:30 Papaya x SMARTVÉLO Weekly (Teams) · 15:00–15:15 App-Status - Weekly Recap (Teams).
 
 ## ❓ Bitte bestätigen (nichts automatisch gemacht)
-- Print-Mailing bei der Deutschen Post heute aufsetzen — ok?
 - n8n-Workspace: jetzt auf Pro upgraden oder Thema fallen lassen?
+
+## Hinweis
+Update 02.09 10:xx CEST (Philipp, vor dem Konrad-Weekly): E-Mails Jens/Christian/Natalia erstellt ✅ ·
+Bonamic-Portierung weitergeführt · Kreditkarte über Spendesk gelöst ✅ · Geräte-Angebot geht heute an
+Konrad · Robert hat seine jobvalley-Zahlen ✅ · Post-Thema in Klärung, viel Arbeit. Im 11:00-Weekly mit
+Konrad wird ohnehin alles neu gecheckt (Termine teils abgesagt).
 
 ## Geprüft
 Kalender ✓ · Mail (Inbox+Sent) ✓ · Teams (5 von ~13 seit 31.08 potenziell aktiven Chats gelesen: Robert,

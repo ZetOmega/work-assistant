@@ -89,9 +89,15 @@ noch offen.**
 - **Kreditkarte**: weiter keine Antwort auf Philipps Nachfrage vom 31.08 09:27 CEST („auch für meine KI
   Abos?"), ob Roberts Karte auch die Claude-Abos abdeckt.
 
+## Update 02.09 (vor dem 11:00-Weekly)
+Philipp meldet: E-Mails Jens/Christian/Natalia erstellt ✅ · Kreditkarte über eigene Spendesk-Karte gelöst
+✅ (s. topics/zahlungsmittel-abos.md) · Endgeräte-Angebot von Bonamic geht heute an Konrad ·
+Bonamic-Portierung (o2/Vodafone) weitergeführt. Im 11:00-Weekly wird „alles neu gecheckt", manche Termine
+sind abgesagt.
+
 ## Offen / wartet auf
-**WLAN-Problem** (seit 31.08, Philipp braucht Laptop+Passwort, s.o.) · **Antwort zur neuen Kreditkarte**
-(seit 31.08, dringend)
+**WLAN-Problem** (seit 31.08, Philipp braucht Laptop+Passwort — wird im 11:00-Weekly heute nochmal
+aufgenommen) · **Endgeräte-Angebot heute besprechen**
 **E-Mail-Adressen für Jens, Christian, Natalia anlegen** — Namen liegen jetzt vor (Celine, 31.08: Jens
 Hemmerich, Christian Borowski, Natalia Isenmann), Simon bereits erledigt
 **Odoo-Lizenzentscheidung 1/2/5 Jahre** — Headcount auf 20 angepasst (31.07), Laufzeit weiter offen, danach unterschreibt Konrad

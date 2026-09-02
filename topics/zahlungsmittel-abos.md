@@ -1,4 +1,9 @@
-# Zahlungsmittel/Kreditkarte — mehrere Abos betroffen · Status: 🆕 dringend (31.08.2026)
+# Zahlungsmittel/Kreditkarte — mehrere Abos betroffen · Status: ✅ gelöst (02.09.2026, Spendesk)
+
+## ✅ Lösung 02.09 (Philipp)
+Philipp hat jetzt eine eigene Karte via Spendesk — damit ist das Thema gelöst. Nicht wie geplant über
+Roberts Karte, auf die zuletzt gewartet wurde (Konrad hatte auf Philipps Nachfrage „auch für meine KI
+Abos?" vom 31.08 nie geantwortet). Betrifft Slack „SMARTVÉLO x FLINK" + beide Claude-Abos + Team-Claude-Abo.
 
 ## Hintergrund
 Mehrere Firmen-Abos hängen an derselben (offenbar nicht mehr funktionierenden) Kreditkarte und laufen
