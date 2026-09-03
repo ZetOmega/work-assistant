@@ -259,6 +259,7 @@ kommunizierte Frist, nur Philipps eigener Plan, ggf. noch umzusetzen.**
 
 **Phase B 02.09 12:49Z (Owner-Go):** `--send --yes-really` → submitted 12, failed 0. Graph-Verify danach: 12 in support@ Entwürfe (isDraft true, 0x3FEF intakt), Sent 0, Empfänger-Postfächer 0. Exchange verschickt jede Mail automatisch zur Deferred-Zeit (erste: Celine Fr 04.09 09:00, letzte: Joshua Di 29.09 09:00).
 **Abbruch einzelner Mail:** Entwurf in support@ Entwürfe löschen VOR seiner Deferred-Zeit (verifiziert: DELETE → nie zugestellt). Oder `esim_guide_mailer.py --delete --yes-really --only <mail>`.
+**PIN-Aussage geprüft 03.09:** „PIN 0000, deaktiviert" steht wörtlich im Telekom-QR-eSIM-Brief (11/12). Pauls Zugangsprofil-Brief: PIN 0000/PUK, ohne „deaktiviert", fordert Aktivierung via telekom.de/sim-aktivieren — Owner: alles so lassen.
 **Monitoring:** Do 03.09 abends `--list` (Celine noch in Entwürfe) · Fr 04.09 nach 09:00 `--list` + Celine-Inbox prüfen (erster Long-Hold-Beweis, Probe war 5 min / hier 43 h). Danach Joshua 27 Tage Hold — Stichprobe nach 17.09 (Simon).
 
 ## 🆕 Update 31.08 — zwei offene Bonamic-Todos (neben Kostenaufstellung IT-Managed-Service)
