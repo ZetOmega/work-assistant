@@ -7,6 +7,7 @@ their port date, 09:00 Europe/Berlin. Python 3 stdlib only.
 
 Run order: --dry-run  ->  --create-drafts  ->  --list.
 Phase B (--send) only on owner go.
+--delete honors --only.
 """
 import argparse
 import base64
@@ -402,10 +403,13 @@ def cmd_list(sched):
     return 1 if failures else 0
 
 
-def cmd_delete(sched, yes_really):
+def cmd_delete(sched, only, yes_really):
     sender = sched["sender"]
     token = get_token()
     drafts = list_guide_drafts(sender, token)
+    if only:
+        wanted = {m.lower() for m in only}
+        drafts = [m for m in drafts if to_address(m).lower() in wanted]
     if not yes_really:
         print(f"DRY: would delete {len(drafts)} draft(s). Re-run with --yes-really.")
         for msg in drafts:
@@ -479,7 +483,7 @@ def main(argv=None):
         if args.do_list:
             return cmd_list(sched)
         if args.delete:
-            return cmd_delete(sched, args.yes_really)
+            return cmd_delete(sched, args.only, args.yes_really)
         if args.send:
             return cmd_send(sched, args.only, args.yes_really)
         return cmd_dry_run(sched)
