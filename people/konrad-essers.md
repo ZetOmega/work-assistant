@@ -100,10 +100,16 @@ sind abgesagt.
 - „zu welchen Netzanbietern wechseln wir gerade bei Bonamic? nicht o2 oder?" — **unbeantwortet.**
 - „morgen einmal Todolo bitte einrichten" — unklar was gemeint ist *(unbestätigt)*, keine Reaktion sichtbar.
 
+## ✅ Update 03.09 — WLAN-Problem gelöst (Konrad macht es selbst)
+**08:45 CEST (Teams)**: Konrad: „brauchst nichts vorbereiten mache es an meinem Bildschirm" — er geht das
+WLAN-Thema jetzt selbst an, kein Laptop/Passwort-Transfer von Philipp mehr nötig. **WLAN-Thema damit vom
+Tisch bei Philipp.** Netzanbieter-Frage (31.08) und „Todolo"-Bitte (31.08) weiterhin ohne Reaktion — jetzt
+3 Tage offen.
+
 ## Offen / wartet auf
-**WLAN-Problem** (seit 31.08, Philipp braucht Laptop+Passwort — wird im 11:00-Weekly heute nochmal
-aufgenommen) · **Netzanbieter-Frage (31.08) unbeantwortet** · **„Todolo"-Bitte (31.08) unklar/offen** ·
-**Endgeräte-Angebot heute besprechen**
+**Netzanbieter-Frage (seit 31.08, 3 Tage) unbeantwortet** · **„Todolo"-Bitte (seit 31.08, 3 Tage)
+unklar/offen** · **Endgeräte-Angebot** (sollte laut 02.09-Stand am selben Tag an Konrad raus — keine
+Bestätigung im Scan gefunden)
 **E-Mail-Adressen für Jens, Christian, Natalia anlegen** — Namen liegen jetzt vor (Celine, 31.08: Jens
 Hemmerich, Christian Borowski, Natalia Isenmann), Simon bereits erledigt
 **Odoo-Lizenzentscheidung 1/2/5 Jahre** — Headcount auf 20 angepasst (31.07), Laufzeit weiter offen, danach unterschreibt Konrad

@@ -8,7 +8,11 @@ und **sheetreader@smartvelo-tools.iam.gserviceaccount.com** einzuladen.
 dokumentiert, daher im automatischen Scan nicht sichtbar gewesen). Nächster Schritt: Philipp fügt den
 Claude/Agent für den wöchentlichen Montags-Report hinzu.
 
+## Update 02.09 (Teams)
+**10:09 CEST**: „Jo, weißt du wo die Umschläge für die Quadratischen Flyer sind?" — **unbeantwortet.**
+
 ## Offen / wartet auf
 Claude/Agent im Bestellsheet für den Montags-Report einrichten (Ausgabe besonderer Teile je Mechaniker:
 Hinterräder, Okawa-/Olli-Motoren, Rahmen, Gabeln, Kabelbäume, Elektronik) — jetzt Philipps eigener nächster
 Schritt, kein Warten auf Sven mehr.
+**Antwort zu Umschlägen für die quadratischen Flyer** (seit 02.09).

@@ -1,102 +1,69 @@
-# STATUS — Stand Mi 02.09.2026, 09:40 CEST (kompletter Repull)
+# STATUS — Stand Do 03.09.2026, 13:44 CEST (Check-in, seit Mi 02.09 09:40 CEST)
 
-## 🔥 Heute (Mi 02.09)
-- **11:00–11:30 Konrad x Philipp Weekly** (Teams) — laut Philipp wird hier „alles neu gecheckt", manche
-  Termine sind abgesagt.
-- Print-Mailing Deutsche Post: läuft, laut Philipp „in Klärung, viel Arbeit" — nicht simpel erledigt.
-- Robert-Papaya-IoT-Sync-To-Do seit 31.08 überfällig (2 Tage).
+## ✅ Seit letztem Lauf geklärt
+- **Jobvalley-Lagerabbildung von Robert geliefert** (Mail 11:02 CEST): Auslieferungsdaten 330 Bikes,
+  aktuelle Standort-Daten 270 Bikes, 60 Bikes anders im Einsatz. Robert bittet um Fertigstellung des
+  Live-Dashboards (Verfügbarkeit je Standort) — 🆕 jetzt Philipps Aufgabe.
+- **Konrad-WLAN**: Konrad macht es jetzt selbst an seinem Bildschirm (Teams 08:45 CEST) — kein
+  Laptop/Passwort-Transfer von Philipp mehr nötig. Thema vom Tisch.
+- **Spendesk-Firmenkarte aktiviert** (Mail 13:34 CEST, 1.000 € verfügbar) — bestätigt das 02.09 gelöste
+  Kreditkarten-Thema final.
+- Lukas Laarmanns Papaya-Datenfrage — von Philipp an Eric verwiesen (02.09), erledigt aus Philipps Sicht.
 
-## ✅ Von Philipp bestätigt (02.09, vor dem Weekly)
-- E-Mails Jens/Christian/Natalia angelegt.
-- Kreditkarten-/Zahlungsmittel-Thema gelöst — eigene Karte via Spendesk (nicht wie geplant über Roberts
-  Karte; Konrad hatte auf Philipps Nachfrage vom 31.08 nie geantwortet).
-- Jobvalley-Rechnungszahlen (Herausgaben/Rückgaben, Uber/Lieferando getrennt, August) an Robert geliefert.
-- Bonamic-Portierung (o2/Vodafone) weitergeführt, noch nicht abgeschlossen.
-- Bonamic-Endgeräte-Angebot geht heute an Konrad.
+## 🆕 Neu / wieder aufgetaucht
+- **Google-Ads-Conversion-Tracking wieder offen**: Tags/Trigger laut Karlsson Studio nicht vorhanden,
+  Philipp hat um Website-Zugriff gebeten (09:55 CEST). Mos Dalichau bittet um Rückruf: **015222117600.**
+- **Eric-Frey-1Password-Kontowiederherstellung**: wartet auf Abschluss durch Philipp (Mail 10:38 CEST).
+- **Sven Schiller** fragt nach Umschlägen für die quadratischen Flyer (02.09) — unbeantwortet.
+- **Akku-Teststation** (Simon Krister Rath, 08:37–08:41 CEST): alte Akkus gehen nach 30–40 Min unabhängig
+  vom Ladestand aus; informelle Diskussion, kein konkreter Auftrag.
 
-## 🆕 Zusätzlich beim Repull gefunden (Teams-Scan jetzt vollständig, 45/45 Chats)
-- **Jobvalley-Lagerabbildung (separat von den Rechnungszahlen)**: Philipp hat Robert 01.09 08:40 CEST um
-  Lagerabbildungs-Daten gebeten (Matchings IoT↔BikeID, welche Bikes ursprünglich Jobvalley gehören, welches
-  Lager). Robert 08:57: „muss ich selbst versuchen heute Nachmittag unterzukriegen", fragt ob Philipps
-  Maske für den Abgleich bereit ist. Philipp: „ja, ab jetzt nützlich." **Keine Bestätigung, ob Robert das
-  am 01.09 nachmittags geliefert hat — offen, ggf. nachfassen.**
-- **Konrad, 31.08 16:33 CEST (vor dem letzten Lauf, jetzt nachgetragen)**: fragt „zu welchen Netzanbietern
-  wechseln wir gerade bei Bonamic? nicht o2 oder?" — **keine Antwort von Philipp sichtbar, offen.**
-- **Konrad, 31.08 16:33 CEST**: „morgen einmal Todolo bitte einrichten" — unklar, was gemeint ist
-  *(unbestätigt, vermutlich ein To-do-Tool)*. Keine Reaktion sichtbar.
-- **Konrad, 31.08 16:33 CEST**: „mein Internet spinnt, kann diverse Seiten nicht öffnen" — das ist der
-  Ursprung des WLAN-Themas, das bis heute (02.09) weiterläuft.
-- **Eric Frey (Teams, 31.08 14:29–14:32 CEST)**: Gespräch über Gehaltserhöhung für Eric + Philipp
-  („67%" genannt), Zeitplan „frühestens nächste Woche, vielleicht auch erst in 2 [Wochen]", vorher noch
-  „Tablets klären". Rein informativ, kein Punkt der Philipp aktiv treiben muss, aber betrifft ihn direkt.
-- **Joshua Rippelmeier (Teams, 01.09)**: Simon Seedorf in Pipedrive ✅ angelegt („erledigt", 08:23).
-  Albis: „nicht mein Thema, kein Zugriff." **Papaya in Pipedrive: „kommt" — noch offen.**
-- **Simon Schröder (Teams, 31.08 11:19 CEST)**: einzelne Nachricht „Zugang Business für UrbanSportsClub" —
-  keine Philipp-Antwort sichtbar, unklar ob noch offen oder anderswo geklärt.
-- **Robert (Teams, 31.08 13:30–14:05 CEST)**: fragt nach Stand „Bullet-Points für jobvalley" — Philipp
-  hatte vergessen, eine Datei zu schicken, hat sie 14:05 nachgereicht. ✅ erledigt.
-- Restliche Chats (Venloer Str. 515-Gruppe: LinkedIn-Banner-Info von Celine, Lennert-Neumann-Ladegerät-
-  Banter, Eric-Frey-Terminabsprache „14:30/30min" zur Jobvalley-Zeit) — informativ, kein Handlungsbedarf.
-
-## ✅ Seit letztem Lauf (Mo 31.08) geklärt
-- Google-Ads-Conversion-Tracking: Tags sind aktiv, Thema durch.
-- Apple Business Manager: Philipp hat Bonamic seine Org-ID (85158088) geschickt, wartet auf deren Org-ID.
-- Bonamic-BusinessCards-Übergabe: Philipp hat zugestimmt.
-- Bonamic DaaS o2 5× iPhone 16: unterschriebene Dokumente raus.
-- Konrads „Mail-Thema"-Frage: per Mail (02.09) beantwortet.
-- Konrads Nachfrage zu Mehrarbeit/Arbeitszeiten: beantwortet (02.09).
-- Grok-Bot (Adrian Hotz): bewusst auf nächste Woche verschoben.
-
-## 🔄 Läuft, braucht Reaktion
-- **Odoo/OBS-Vertrag** — Angebot SO/260610103 liegt vor, wartet auf Konrads Unterschrift.
-- **Print-Mailing Deutsche Post** — läuft, viel Arbeit, noch nicht fertig.
-- **Versandlogistik Flyer-Aktion/Sticker** — wartet auf Celines DHL-Business-Kontaktdaten.
-- **Bonamic-Kostenaufstellung + Endgeräte-Angebot** — geht heute an Konrad.
+## ⏳ Weiter offen / wartet auf
+- **Robert — Papaya-IoT-Sync nachfassen**: fällig 31.08, **jetzt 3 Tage überfällig.**
+- **Konrads Netzanbieter-Frage** (Bonamic, seit 31.08, 3 Tage) — unbeantwortet.
+- **Konrads „Todolo"-Bitte** (seit 31.08, 3 Tage) — unklar, keine Reaktion.
+- **Bonamic-Endgeräte-Angebot** — sollte laut 02.09-Stand am selben Tag an Konrad raus, keine Bestätigung
+  im Scan gefunden.
+- **Odoo/OBS-Vertrag** — Angebot SO/260610103 liegt vor, wartet weiter auf Konrads Unterschrift.
 - **o2/Vodafone-Portierung bei Bonamic** — weitergeführt, noch offen.
-- **Konrad-WLAN** — braucht Laptop + Passwort von Konrad, Thema seit 31.08 abends, wird im 11:00-Weekly
-  nochmal aufgenommen.
-- **Konrads Frage zu Netzanbietern bei Bonamic** (31.08) — noch unbeantwortet.
-- **Konrads „Todolo"-Bitte** (31.08) — unklar, noch nicht aufgegriffen.
-- **Jobvalley-Lagerabbildung von Robert** — Lieferung am 01.09 nachmittags zugesagt, nicht bestätigt.
-- **Papaya in Pipedrive anlegen** (Joshua) — „kommt", noch nicht bestätigt erledigt.
-- **Simon Schröder — UrbanSportsClub-Business-Zugang** — unklar ob offen.
-- **Axa-Ringschloss-Analyse** — weiter Philipps eigenes To-Do.
+- **Print-Mailing Deutsche Post** — läuft weiter.
+- **Versandlogistik Flyer-Aktion/Sticker** — wartet auf Celines DHL-Business-Kontaktdaten.
+- **Papaya in Pipedrive anlegen** (Joshua) — „kommt", weiter unbestätigt.
+- **Simon Schröder — UrbanSportsClub-Business-Zugang** — unklar ob offen, keine neue Aktivität.
+- **Axa-Ringschloss-Analyse** — Philipps eigenes To-Do.
+- **Eric auf Spendesk einladen / Green Device wg. Handys anrufen** — bei Celine, angestoßen 03.09.
 
 ## ⏳ Läuft nebenbei, keine Eile
 Hanisch/Glasfaser · Klimageräte (Konrad) · Papaya-API (wartet auf Arianna) · SD-Karte Büro vorne ·
-n8n-Pro-Upgrade (Trial abgelaufen) · Celine-Muster-CSV · Vodafone-Vertriebsmail · Papaya-Vertragslaufzeit
-(Philipps Position vom 31.08 steht im Raum, keine Reaktion) · Gehaltserhöhung Eric+Philipp (frühestens
-nächste Woche/in 2 Wochen).
+Celine-Muster-CSV · Vodafone-Vertriebsmail · Papaya-Vertragslaufzeit (Philipps Position vom 31.08 steht im
+Raum, keine Reaktion) · Gehaltserhöhung Eric+Philipp (frühestens nächste/übernächste Woche).
 
 ## 🟡 Ich (Philipp) — Microsoft To-Do (5 offen)
-- [ ] ⚠️ Robert nach Papaya-IoT-Sync nachfassen (fällig 31.08, **2 Tage überfällig**)
+- [ ] ⚠️ Robert nach Papaya-IoT-Sync nachfassen (fällig 31.08, **3 Tage überfällig**)
 - [ ] Hanisch: Telefon/Zugang Glasfaserausbau NetCologne
 - *(noch nicht relevant: Papaya-API-Feature-Request — wartet auf Arianna · Wissensdatenbank/Video fällig
   29.11 · SharePoint-Restrukturierung fällig 20.09)*
 
-## 💬 Teams (jetzt vollständig geprüft, 45/45 Chats seit 31.08 07:30 CEST)
-- **Konrad**: WLAN weiter offen · Mail-Thema & Arbeitsstunden beantwortet · Netzanbieter-Frage offen ·
-  „Todolo"-Bitte offen.
-- **Robert**: Rechnungszahlen geliefert ✅ · Lagerabbildung-Lieferung unbestätigt · Bullet-Points-Datei
-  nachgereicht ✅ · positives Feedback zum Bike-Service-App-Termin.
-- **Celine**: Print-Mailing/DHL-Logistik läuft · LinkedIn-Banner-Info (informativ).
-- **Joshua**: Simon Seedorf ✅, Papaya in Pipedrive offen, Albis nicht sein Thema.
-- **Eric Frey**: Terminabsprache (erledigt) + Gehaltsgespräch (informativ, läuft).
-- **Simon Schröder**: UrbanSportsClub-Zugang — unklar ob offen.
-- **Lennert Neumann, Sven, Venloer Str. 515-Gruppe**: nichts Offenes.
+## 💬 Teams (7 von 7 Chats mit Aktivität seit 02.09 07:40 CEST gelesen)
+- **Celine**: Laptop-Vorschläge ausgetauscht · Green-Device-Anruf bei Celine · Eric-Spendesk-Einladung
+  angestoßen · Katharinas Laptop weiter bei Eric (Übergabe an Christian verzögert).
+- **Konrad**: WLAN ✅ gelöst (macht es selbst) · Netzanbieter-Frage weiter offen · „Todolo"-Bitte weiter offen.
+- **Robert**: Jobvalley-Lagerabbildung ✅ geliefert.
+- **Simon Krister Rath**: Akku-Teststation-Idee, informell.
+- **Lukas Laarmann**: Papaya-Datenfrage an Eric verwiesen, erledigt.
+- **Sven Schiller**: Frage zu Flyer-Umschlägen offen.
+- **Venloer Str. 515 (Gruppe)**: Kaffeemaschine-Rant von Celine — informativ, kein Handlungsbedarf.
 
-## 📅 Termine diese Woche (Mi 02.09 – Fr 04.09)
-- **Mi 02.09**: 11:00–11:30 Konrad x Philipp Weekly (Teams).
-- **Do 03.09**: 11:00–12:00 Tool/App Bike Service x Ressourcen (Personal/Van) (Teams).
+## 📅 Termine diese Woche (Do 03.09 – Fr 04.09)
+- **Do 03.09**: ✔️ vergangen — 11:00–12:00 Tool/App Bike Service x Ressourcen (Personal/Van), Teams.
 - **Fr 04.09**: 11:00–11:30 Papaya x SMARTVÉLO Weekly (Teams) · 15:00–15:15 App-Status - Weekly Recap (Teams).
 
 ## ❓ Bitte bestätigen (nichts automatisch gemacht)
-- (offen) — aktuell keine.
-
-## Hinweis (02.09, nach dem Repull)
-n8n auf Pro upgegradet ✅ — kein offener Punkt mehr. Jobvalley-Lagerabbildung bei Robert: Philipp wartet
-bewusst ab, kein Nachfassen.
+- Bei Mos Dalichau (Karlsson Studio) wegen Google-Ads-Tags zurückrufen (015222117600)?
+- Eric-Frey-1Password-Kontowiederherstellung jetzt abschließen?
+- Robert wegen Papaya-IoT-Sync nachfassen (3 Tage überfällig)?
+- Konrad an Netzanbieter-Frage + „Todolo"-Bitte erinnern (je 3 Tage unbeantwortet)?
+- Sven Schiller zu den Flyer-Umschlägen antworten?
 
 ## Geprüft
-Kalender ✓ · Mail (Inbox+Sent) ✓ (keine neue Mail seit 07:15 CEST) · Teams ✓ (vollständig, 45/45 Chats
-seit 31.08 07:30 CEST, nach 3× Rate-Limit-Retry erfolgreich) · To-Dos ✓ (unverändert)
+Kalender ✓ · Mail (Inbox+Sent) ✓ · Teams ✓ (7 von 7 Chats mit Aktivität gelesen) · To-Dos ✓

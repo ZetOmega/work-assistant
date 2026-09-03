@@ -1,5 +1,9 @@
 # Zahlungsmittel/Kreditkarte — mehrere Abos betroffen · Status: ✅ gelöst (02.09.2026, Spendesk)
 
+## ✅ Bestätigung 03.09
+Spendesk-Mail 03.09 13:34 CEST: physische Karte aktiviert, verfügbarer Betrag 1.000 €. Thema damit auch
+technisch/final durch.
+
 ## ✅ Lösung 02.09 (Philipp)
 Philipp hat jetzt eine eigene Karte via Spendesk — damit ist das Thema gelöst. Nicht wie geplant über
 Roberts Karte, auf die zuletzt gewartet wurde (Konrad hatte auf Philipps Nachfrage „auch für meine KI

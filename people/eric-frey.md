@@ -9,6 +9,10 @@ Gemeinsame Claude-Projekte mit Philipp · ERP · Jobvalley-Protokoll-Redesign (K
 KFZ- & Werkzeugtracking (einheitliche technische Lösung gesucht) · Flink-Datenauswertung (Idee: Slack+Ticket-Daten verbinden)
 
 ## Letzte Aktionen
+**03.09 — 1Password-Kontowiederherstellung wartet auf Philipp**: Mail 03.09 10:38 CEST „Kontowiederherstellung
+abschließen für Eric Frey" — Eric kann sich erst wieder bei 1Password anmelden, wenn Philipp den Schritt
+abschließt. **Offen.** Außerdem laut Celine (03.09) braucht Eric Katharinas altes Laptop weiterhin, Übergabe
+an Christian verzögert sich.
 **31.08 09:28–09:34 CEST Teams**: Philipp fragt nach der Uhrzeit des Jobvalley-Meetings heute. **Eric: „14:30"**
 — **Diskrepanz zum Kalender**, der „PxRxE Jobvalley" heute 10:30–11:00 CEST zeigt. Philipp fragt nach: „das
 ist 1h angesetzt?" — **noch keine Antwort/Klärung.** Vor dem Termin prüfen, welche Zeit stimmt.

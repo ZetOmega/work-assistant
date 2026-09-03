@@ -74,9 +74,14 @@ deinem Urlaub tiefer rein und ein Update geben"**. → Ball zurück bei Philipp,
 - 13:30–14:05 CEST (31.08): Robert fragt nach Bullet-Points für jobvalley, Philipp hatte eine Datei
   vergessen und **14:05 nachgereicht** ✅.
 
+## ✅ Update 03.09 — Jobvalley-Lagerabbildung geliefert
+- **05:41–05:44 CEST (Teams)**: Philipp konkretisiert die Anfrage (Bike-IDs, TrackerIDs, Inventur,
+  Bewegungen/Lagerstände), Robert: „Suche dir alles raus was wir haben."
+- **11:02 CEST (Mail „jobvalley Daten")**: liefert Auslieferungsdaten (330 Bikes) + aktuelle Standort-Daten
+  (270 Bikes), bittet um Fertigstellung des Live-Dashboards. Siehe topics/jobvalley-app.md.
+
 ## Offen / wartet auf
-**Jobvalley-Lagerabbildung** — Lieferung am 01.09 nachmittags zugesagt, nicht bestätigt (s.o.).
-**Philipp wartet bewusst ab (02.09), kein aktives Nachfassen.**
+**Jobvalley-Dashboard-Abgleich** — Daten sind da (03.09), Fertigstellung jetzt bei Philipp.
 **🆕 Flink SLA Rückanalyse — Update für Robert vor Philipps Urlaub** (s.o., zeitkritisch)
 Antwort von Philipp, wie Slack-Übersicht/Kündigung praktisch läuft (Workspace-Owner unklar)
 FordPro-Admin-Zugänge (Eric+Philipp) einrichten (Nicht-HIGH-Liste 21.07 gestrichen) · eigener Vertrag lief 20.07 aus — Klärung ob durch Anbieterwechsel aufgefangen · Protokoll-Öffnungsproblem lösen ·

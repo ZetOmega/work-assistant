@@ -49,5 +49,12 @@ Garten-Kamera, s. topics/videoueberwachung.md).
 Konrads Bitte 23.08). **08:39 CEST — Celine liefert: Jens Hemmerich, Christian Borowski, Natalia Isenmann.**
 ✅ Namen da, Philipp kann die E-Mail-Adressen jetzt anlegen.
 
+## Update 02.–03.09 (Teams)
+02.09 13:38–14:31 CEST: Laptop-Vorschläge (Lenovo ThinkPad X13/X1 Yoga) für Neuausstattung ausgetauscht.
+03.09 09:06–09:07 CEST: Celine fragt, ob sie Green Device wg. Handys anrufen soll oder Philipp — Philipp:
+„wäre schön wenn du das machst." Außerdem: Katharinas altes Laptop kann noch nicht an Christian weitergehen,
+„Eric braucht den noch immer wieder, da ist viel wichtiges drauf." 03.09 11:22 CEST: Philipp bittet Celine,
+Eric auf Spendesk einzuladen.
+
 ## Offen / wartet auf
-o2-Rechnung/Kundenkennzahl liefern (nur noch für Unterlagen, Kündigung ist raus) · Rufnummern-Aufräum-Gespräch mit Philipp noch nicht terminiert.
+o2-Rechnung/Kundenkennzahl liefern (nur noch für Unterlagen, Kündigung ist raus) · Rufnummern-Aufräum-Gespräch mit Philipp noch nicht terminiert. · Eric auf Spendesk einladen (Bitte 03.09) · Anruf bei Green Device wg. Handys (bei Celine).

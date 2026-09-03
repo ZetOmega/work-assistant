@@ -1,4 +1,11 @@
-# Google Ads Betreuung · Status: ✅ Kontozugriff geklärt (Stand 06.08.2026)
+# Google Ads Betreuung · Status: 🆕 Conversion-Tracking wieder offen (Stand 03.09.2026)
+
+## 🆕 Update 03.09 — Tags/Trigger fehlen wieder
+- **03.09 09:55 CEST — Philipp an Lucas/Mos/Jokubas**: „Wir finden die Tags in Google Ads und Analytics
+  nicht, sie sind einfach nicht vorhanden. Die Trigger sind auch nirgendwo zu finden." Bittet um direkten
+  Website-Zugriff, um es selbst zu lösen.
+- **03.09 11:06 CEST — Mos Dalichau antwortet nur**: „Bitte ruf mich bei Gelegenheit an: 015222117600."
+  **Offen — Rückruf bei Mos Dalichau nötig, klärt sich nicht mehr rein schriftlich.**
 
 ## Stand
 - Externer Consultant **Lucas Obstfeld** (Lagos/Portugal) betreut den Aufbau der Google-Ads-Strategie.
