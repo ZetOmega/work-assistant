@@ -251,7 +251,7 @@ kommunizierte Frist, nur Philipps eigener Plan, ggf. noch umzusetzen.**
 - **12 Entwürfe liegen in support@ → Entwürfe**, je 1 pro Kolleg:in, mit eigenem Telekom-eSIM-PDF
   (`Telekom-eSIM_0151-XXXXXXXX_Portierung-JJJJ-MM-TT.pdf`) und Exchange-Sendeverzögerung auf **09:00 Berlin, 7 Tage vor Port-Datum**.
   Mechanismus per Probe-Mail verifiziert (bleibt bis zur Sekunde in Entwürfe, dann raus; Abbruch = Entwurf löschen).
-- Sendeplan: 04.09 Celine · 17.09 Simon K. Rath · 21.09 Gag+Oleg · 22.09 Pramod · 24.09 Cagatay+Jerome+Simon Seedorf · 28.09 Roman+Rick+Paul · 29.09 Joshua.
+- Sendeplan: 04.09 Celine · 17.09 Simon K. Rath · 21.09 Gag+Eric(ex-Oleg) · 22.09 Pramod · 24.09 Cagatay+Jerome+Simon Seedorf · 28.09 Roman+Rick+Paul · 29.09 Joshua.
 - **Nicht dabei:** Nils (Handy gestohlen — Port 08.09 läuft trotzdem, Sperre via mobilezone/greendevice-MDM offen), Philipp, 53467753, 53464791.
 - Text (Owner-Freigabe 02.09): EIN Template für alle, Du-Form, kurz; am Port-Tag morgens direkt QR scannen (Portierung meist ~6 Uhr), alle iPhone; niemand muss aktivieren.
 - Tooling: `docs/esim-portierung/` (schedule.json, template.html, esim_guide_mailer.py, README). **Phase B = `--send --yes-really`** — muss VOR dem frühesten Termin (Fr 04.09 09:00) laufen, sonst geht Celines Mail sofort raus.
@@ -260,6 +260,7 @@ kommunizierte Frist, nur Philipps eigener Plan, ggf. noch umzusetzen.**
 **Phase B 02.09 12:49Z (Owner-Go):** `--send --yes-really` → submitted 12, failed 0. Graph-Verify danach: 12 in support@ Entwürfe (isDraft true, 0x3FEF intakt), Sent 0, Empfänger-Postfächer 0. Exchange verschickt jede Mail automatisch zur Deferred-Zeit (erste: Celine Fr 04.09 09:00, letzte: Joshua Di 29.09 09:00).
 **Abbruch einzelner Mail:** Entwurf in support@ Entwürfe löschen VOR seiner Deferred-Zeit (verifiziert: DELETE → nie zugestellt). Oder `esim_guide_mailer.py --delete --yes-really --only <mail>`.
 **PIN-Aussage geprüft 03.09:** „PIN 0000, deaktiviert" steht wörtlich im Telekom-QR-eSIM-Brief (11/12). Pauls Zugangsprofil-Brief: PIN 0000/PUK, ohne „deaktiviert", fordert Aktivierung via telekom.de/sim-aktivieren — Owner: alles so lassen.
+**Korrektur 03.09 (Owner):** 0151 53467754 = **Eric Frey**, nicht Oleg. Olegs Entwurf gelöscht (Graph DELETE, verifiziert weg), Eric-Entwurf neu erstellt + submitted (Deferred 21.09 09:00, gleicher Brief). Adressbuch live: Eric handy 0151 53467754 (alte 0157 71301594 ersetzt), Oleg handy leer (Nummer unbekannt). PDF umbenannt `Eric-Frey_015153467754_…`. Weiter 12 Entwürfe im Hold. ⚠️ `--delete` ignoriert `--only` (löscht ALLE) — Fix läuft.
 **Monitoring:** Do 03.09 abends `--list` (Celine noch in Entwürfe) · Fr 04.09 nach 09:00 `--list` + Celine-Inbox prüfen (erster Long-Hold-Beweis, Probe war 5 min / hier 43 h). Danach Joshua 27 Tage Hold — Stichprobe nach 17.09 (Simon).
 
 ## 🆕 Update 31.08 — zwei offene Bonamic-Todos (neben Kostenaufstellung IT-Managed-Service)
